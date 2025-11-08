@@ -1,0 +1,35 @@
+name: Precise Sports Data Fetch
+
+on:
+  repository_dispatch:
+    types: [scheduled-update]
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Delete old data file
+      run: rm -f sports-data-latest.json
+        
+    - name: Run data fetcher
+      run: node ./get-match-list.js
+      
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add sports-data-latest.json
+        git diff --staged --quiet || (git commit -m "Update sports data [skip ci]" && git push)
