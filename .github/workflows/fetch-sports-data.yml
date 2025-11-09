@@ -33,3 +33,10 @@ jobs:
         git config --local user.name "GitHub Action"
         git add sports-data-latest.json
         git diff --staged --quiet || (git commit -m "Update sports data [skip ci]" && git push)
+        
+    - name: Trigger CF Worker refreshall
+      if: success()
+      run: |
+        echo "🔄 触发 Cloudflare Worker 全部更新..."
+        curl -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshall" \
+          -H "User-Agent: GitHub-Actions"
