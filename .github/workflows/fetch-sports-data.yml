@@ -38,5 +38,6 @@ jobs:
       if: success()
       run: |
         echo "🔄 触发 Cloudflare Worker 全部更新..."
-        curl -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshall" \
-          -H "User-Agent: GitHub-Actions"
+        curl -s -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshall" \
+          -H "User-Agent: GitHub-Actions" > /dev/null
+        echo "✅ CF Worker 全部更新已触发"
