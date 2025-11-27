@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-28 00:13:26",
+  "updateTime": "2025-11-28 05:22:02",
   "data": [
     {
       "mgdbId": "120000547871",
@@ -842,7 +842,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMGHBBNU1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "德黑兰独立 vs 阿尔瓦斯尔",
-      "modifyTitle": "亚冠二级小���赛",
+      "modifyTitle": "亚冠二级小组赛",
       "presenters": "王子睿",
       "matchInfo": {
         "time": "11月27日01:00"
@@ -1696,41 +1696,41 @@
     },
     {
       "mgdbId": "120000562724",
-      "pID": "960538364",
-      "title": "庞俊旭龙泽煌出战 正赛抽签��炉",
+      "pID": "960543448",
+      "title": "龙泽煌、庞俊旭晋级正赛 正赛���签出炉",
       "keyword": "11月27日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EO1S2PRD8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "庞俊旭龙泽煌出战 正赛抽签出炉",
-      "modifyTitle": "斯诺克英锦赛资格赛晋级轮：庞俊旭龙泽煌出战",
+      "pkInfoTitle": "龙泽煌、庞俊旭晋级正赛 正赛抽签出炉",
+      "modifyTitle": "斯诺克英锦赛资格赛晋级轮：龙泽煌、庞俊旭晋级正赛",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "11月27日21:00"
       },
       "nodes": [
         {
-          "pID": "960538364",
-          "name": "2号桌"
+          "pID": "960535991",
+          "name": "1号桌"
         },
         {
           "pID": "960543448",
           "name": "4号桌"
         },
         {
-          "pID": "960543527",
-          "name": "桌次切换"
-        },
-        {
-          "pID": "960535991",
-          "name": "1号桌"
+          "pID": "960538364",
+          "name": "2号桌"
         },
         {
           "pID": "960539716",
           "name": "3号桌"
+        },
+        {
+          "pID": "960543527",
+          "name": "桌次切换"
         },
         {
           "pID": "960733067",
@@ -1770,7 +1770,7 @@
       "mgdbId": "120000563046",
       "pID": "960749604",
       "title": "男篮世预赛亚洲赛区",
-      "keyword": "11月27日 22:00",
+      "keyword": "11月27日22:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "Nouhad Nawfal Sports Complex",
@@ -1781,7 +1781,7 @@
       "modifyTitle": "男篮世预赛亚洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月27日 22:00"
+        "time": "11月27日22:00"
       },
       "nodes": [
         {
@@ -1796,11 +1796,11 @@
     },
     {
       "mgdbId": "120000563058",
-      "pID": "960727430",
+      "pID": "960750619",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "11月28日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Riyadh Green Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DQML4GEG1.jpg",
@@ -1813,6 +1813,10 @@
       },
       "nodes": [
         {
+          "pID": "960750619",
+          "name": "2027男篮世界杯预选赛亚洲赛区D组小组赛全场集锦：沙特阿拉伯vs印度"
+        },
+        {
           "pID": "960727430",
           "name": "赛场原声"
         }
@@ -1820,11 +1824,11 @@
     },
     {
       "mgdbId": "120000563059",
-      "pID": "960727392",
+      "pID": "960750630",
       "title": "男篮世预赛亚洲赛区",
-      "keyword": "11月28日 00:00",
+      "keyword": "11月28日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Lusail Multipurpose Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DQS865KFI.png",
@@ -1833,9 +1837,13 @@
       "modifyTitle": "男篮世预赛亚洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 00:00"
+        "time": "11月28日00:00"
       },
       "nodes": [
+        {
+          "pID": "960750630",
+          "name": "2027男篮世界杯预选赛亚洲赛区D组小组赛全场集锦：卡塔尔vs黎巴嫩"
+        },
         {
           "pID": "960727392",
           "name": "赛场原声"
@@ -1844,11 +1852,11 @@
     },
     {
       "mgdbId": "120000563094",
-      "pID": "960702066",
+      "pID": "960750654",
       "title": "男篮世预赛非洲赛区",
       "keyword": "11月28日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563094/202511261140_652299_H169_1080.webp",
@@ -1861,6 +1869,10 @@
       },
       "nodes": [
         {
+          "pID": "960750654",
+          "name": "2027男篮世界杯预选赛非洲赛区C组小组赛全场集锦：尼日利亚vs突尼斯"
+        },
+        {
           "pID": "960702066",
           "name": "赛场原声"
         }
@@ -1868,11 +1880,11 @@
     },
     {
       "mgdbId": "120000563047",
-      "pID": "960727513",
+      "pID": "960750644",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "11月28日00:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Prince Hamza",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DR0H00PO2.jpg",
@@ -1885,6 +1897,10 @@
       },
       "nodes": [
         {
+          "pID": "960750644",
+          "name": "2027男篮世界杯预选赛非洲赛区C组小组赛全场集锦：约旦vs叙利亚"
+        },
+        {
           "pID": "960727513",
           "name": "赛场原声"
         }
@@ -1892,11 +1908,11 @@
     },
     {
       "mgdbId": "120000563131",
-      "pID": "960702046",
+      "pID": "960750647",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日00:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Nick Galis Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563131/202511261146_510853_H169_1080.webp",
@@ -1909,6 +1925,10 @@
       },
       "nodes": [
         {
+          "pID": "960750647",
+          "name": "2027男篮世界杯预选赛欧洲赛区B组小组赛全场集锦：希腊vs罗马尼亚"
+        },
+        {
           "pID": "960702046",
           "name": "赛场原声"
         }
@@ -1916,11 +1936,11 @@
     },
     {
       "mgdbId": "120000563119",
-      "pID": "960702162",
+      "pID": "960750677",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Tbilisi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563119/202511261146_290478_H169_1080.webp",
@@ -1933,6 +1953,10 @@
       },
       "nodes": [
         {
+          "pID": "960750677",
+          "name": "2027男篮世界杯预选赛欧洲赛区A组小组赛全场集锦：格鲁吉亚vs乌克兰"
+        },
+        {
           "pID": "960702162",
           "name": "赛场原声"
         }
@@ -1944,7 +1968,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Moraca Sports Centre",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563130/202511261146_822050_H169_1080.webp",
@@ -1957,6 +1981,10 @@
       },
       "nodes": [
         {
+          "pID": "960750705",
+          "name": "2027男篮世界杯预选赛欧洲赛区B组小组赛全场集锦：黑山vs葡萄牙"
+        },
+        {
           "pID": "960702169",
           "name": "赛场原声"
         }
@@ -1964,11 +1992,11 @@
     },
     {
       "mgdbId": "120000563118",
-      "pID": "960702196",
+      "pID": "960750763",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日01:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Farum Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DQMQ60N4Q.jpg",
@@ -1981,6 +2009,10 @@
       },
       "nodes": [
         {
+          "pID": "960750763",
+          "name": "2027男篮世界杯预选赛欧洲赛区A组小组赛全场集锦：丹麦vs西班牙"
+        },
+        {
           "pID": "960702196",
           "name": "赛场原声"
         }
@@ -1988,11 +2020,11 @@
     },
     {
       "mgdbId": "120000563142",
-      "pID": "960702062",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月28日02:00",
+      "keyword": "11月28日 02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Aleksandar Nikolic Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMJV4N0PP.png",
@@ -2001,9 +2033,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日02:00"
+        "time": "11月28日 02:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702062",
           "name": "赛场原声"
@@ -2012,11 +2048,11 @@
     },
     {
       "mgdbId": "120000563143",
-      "pID": "960702072",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Turkcell Basketball Development Centre",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563143/202511261151_350553_H169_1080.webp",
@@ -2029,6 +2065,10 @@
       },
       "nodes": [
         {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
+        {
           "pID": "960702072",
           "name": "赛场原声"
         }
@@ -2040,7 +2080,7 @@
       "title": "张安达PK塔猜亚 雷佩凡出战",
       "keyword": "11月28日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EO3RD4KNA.png",
@@ -2072,11 +2112,11 @@
     },
     {
       "mgdbId": "120000563095",
-      "pID": "960702082",
+      "pID": "960639612",
       "title": "男篮世预赛非洲赛区",
-      "keyword": "11月28日03:00",
+      "keyword": "11月28日 03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563095/202511261140_140788_H169_1080.webp",
@@ -2085,9 +2125,13 @@
       "modifyTitle": "男篮世预赛非洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日03:00"
+        "time": "11月28日 03:00"
       },
       "nodes": [
+        {
+          "pID": "960639612",
+          "name": "天赋无极限！2027男篮世预赛非洲赛区谁能脱颖而出？"
+        },
         {
           "pID": "960702082",
           "name": "赛场原声"
@@ -2096,11 +2140,11 @@
     },
     {
       "mgdbId": "120000563155",
-      "pID": "960702503",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月28日03:00",
+      "keyword": "11月28日 03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Palazzetto Dello Sport",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563155/202511261155_218907_H169_1080.webp",
@@ -2109,9 +2153,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日03:00"
+        "time": "11月28日 03:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702503",
           "name": "赛场原声"
@@ -2124,7 +2172,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日03:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Copper Box Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DQSARRM5V.jpg",
@@ -5437,10 +5485,6 @@
         {
           "pID": "960738515",
           "name": "混采区"
-        },
-        {
-          "pID": "960738414",
-          "name": "小马哥 ��扬"
         }
       ]
     },
@@ -5504,7 +5548,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "瑞昌碧源vs江苏羽超",
-      "modifyTitle": "���毛球超级联赛第四轮：瑞昌碧源vs江苏羽超",
+      "modifyTitle": "羽毛球超级联赛���四轮：瑞昌碧源vs江苏羽超",
       "presenters": "",
       "matchInfo": {
         "time": "11月30日18:30"
@@ -8706,7 +8750,7 @@
       "nodes": [
         {
           "pID": "960741526",
-          "name": "训练��"
+          "name": "训练���"
         },
         {
           "pID": "960741526",
