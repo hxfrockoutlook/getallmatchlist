@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-02 00:12:02",
+  "updateTime": "2025-12-02 05:22:36",
   "data": [
     {
       "mgdbId": "120000542647",
@@ -1681,7 +1681,7 @@
       "keyword": "11月30日23:15",
       "sportItemId": "1",
       "matchStatus": "2",
-      "matchField": "��斯胡安球场",
+      "matchField": "皮���胡安球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3HVMF4FIEP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
@@ -2814,7 +2814,7 @@
       "sportItemId": "7",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "���际乒联混合团体世界杯",
+      "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1OJ9GHAN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "一局未失！国乒大胜埃及迎连胜",
@@ -3000,18 +3000,18 @@
     },
     {
       "mgdbId": "120000563337",
-      "pID": "960736240",
-      "title": "丁俊晖vs徐思 赵心童晋级",
+      "pID": "960736226",
+      "title": "丁俊晖6-4徐思 赵心童6-1龙泽煌",
       "keyword": "12月01日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1V1FRSGP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "丁俊晖vs徐思 赵心童晋级",
-      "modifyTitle": "2025斯诺克英锦赛32进16：丁俊晖vs徐思 赵心童晋级",
-      "presenters": "柏林 秦正 庞卫国",
+      "pkInfoTitle": "丁俊晖6-4徐思 赵心童6-1龙泽煌",
+      "modifyTitle": "2025斯诺克英锦赛32进16：丁俊晖6-4徐思 赵心童6-1龙泽煌",
+      "presenters": "秦正 庞卫国 柏林",
       "matchInfo": {
         "time": "12月01日21:00"
       },
@@ -3036,11 +3036,11 @@
     },
     {
       "mgdbId": "120000563192",
-      "pID": "960702692",
+      "pID": "960851108",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月02日00:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Espoo Metro Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HDR13EORO.jpg",
@@ -3053,6 +3053,10 @@
       },
       "nodes": [
         {
+          "pID": "960851108",
+          "name": "2027男篮世界杯预选赛欧洲赛区G组小组赛全场集锦：芬兰vs法国"
+        },
+        {
           "pID": "960702692",
           "name": "赛场原声"
         }
@@ -3060,11 +3064,11 @@
     },
     {
       "mgdbId": "120000563168",
-      "pID": "960702340",
+      "pID": "960851080",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Spyros Kyprianou Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HDR1VIHGD.jpg",
@@ -3077,6 +3081,10 @@
       },
       "nodes": [
         {
+          "pID": "960851080",
+          "name": "2027男篮世界杯预选赛欧洲赛区E组小组赛全场集锦：塞浦路斯vs德国"
+        },
+        {
           "pID": "960702340",
           "name": "赛场原声"
         }
@@ -3084,11 +3092,11 @@
     },
     {
       "mgdbId": "120000563204",
-      "pID": "960702382",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月02日02:00",
+      "keyword": "12月02日 02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Scandinavium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HEI5U6JV4.jpg",
@@ -3097,9 +3105,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月02日02:00"
+        "time": "12月02日 02:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702382",
           "name": "赛场原声"
@@ -3108,11 +3120,11 @@
     },
     {
       "mgdbId": "120000563205",
-      "pID": "960702459",
+      "pID": "960851225",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月02日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Unibet Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HEN0C6P95.jpg",
@@ -3125,6 +3137,10 @@
       },
       "nodes": [
         {
+          "pID": "960851225",
+          "name": "2027男篮世界杯预选赛欧洲赛区H组小组赛全场集锦：爱沙尼亚vs捷克"
+        },
+        {
           "pID": "960702459",
           "name": "赛场原声"
         }
@@ -3132,11 +3148,11 @@
     },
     {
       "mgdbId": "120000563180",
-      "pID": "960702709",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月02日02:30",
+      "keyword": "12月02日 02:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Sportcampus Zuiderpark",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HENHUGBCJ.jpg",
@@ -3145,9 +3161,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月02日02:30"
+        "time": "12月02日 02:30"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702709",
           "name": "赛场原声"
@@ -3156,11 +3176,11 @@
     },
     {
       "mgdbId": "120000563169",
-      "pID": "960702728",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月02日03:00",
+      "keyword": "12月02日 03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Xiaomi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563169/202511261156_811923_H169_1080.webp",
@@ -3169,9 +3189,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月02日03:00"
+        "time": "12月02日 03:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702728",
           "name": "赛场原声"
@@ -3180,17 +3204,17 @@
     },
     {
       "mgdbId": "120000563338",
-      "pID": "960735487",
-      "title": "加里·威尔逊PK张安达 马克·艾伦出战",
+      "pID": "960735518",
+      "title": "张安达PK加里·威尔逊 马克·艾伦出战",
       "keyword": "12月02日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I20K88HJQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "加里·威尔逊PK张安达 马克·艾伦出战",
-      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：加里·威尔逊PK张安达 马克·艾伦出战",
+      "pkInfoTitle": "张安达PK加里·威尔逊 马克·艾伦出战",
+      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：张安达PK加里·威尔逊 马克·艾伦出战",
       "presenters": "",
       "matchInfo": {
         "time": "12月02日03:00"
@@ -3208,11 +3232,11 @@
     },
     {
       "mgdbId": "120000563181",
-      "pID": "960702752",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月02日03:20",
+      "keyword": "12月02日 03:20",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Sport Arena Wien",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HFVMSKBCT.png",
@@ -3221,9 +3245,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月02日03:20"
+        "time": "12月02日 03:20"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702752",
           "name": "赛场原声"
@@ -3236,7 +3264,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月02日03:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Mons Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563193/202511261202_699701_H169_1080.webp",
@@ -3260,7 +3288,7 @@
       "title": "意甲联赛",
       "keyword": "12月02日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "达尔阿拉球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I2BRTBL28.png",
@@ -3279,10 +3307,6 @@
         {
           "pID": "960739976",
           "name": "赛场原声"
-        },
-        {
-          "pID": "960740002",
-          "name": "鲁靖明"
         }
       ]
     },
@@ -3292,7 +3316,7 @@
       "title": "西甲联赛",
       "keyword": "12月02日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴列卡斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I2HFB7AAH.png",
@@ -3713,7 +3737,7 @@
     {
       "mgdbId": "120000562790",
       "pID": "960760035",
-      "title": "出线之争！法国战罗马尼亚",
+      "title": "出线之争！法国对决罗马尼亚",
       "keyword": "12月02日10:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -3721,7 +3745,7 @@
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1UIE03SH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "出线之争！法国战罗马尼亚",
+      "pkInfoTitle": "出线之争！法国对决罗马尼亚",
       "modifyTitle": "成都国际乒联混合团体世界杯：小组循环赛第3轮",
       "presenters": "周冠达 小马哥",
       "matchInfo": {
@@ -3898,10 +3922,6 @@
         },
         {
           "pID": "960741428",
-          "name": "2号桌"
-        },
-        {
-          "pID": "960741427",
           "name": "2号桌"
         },
         {
@@ -4739,6 +4759,10 @@
         {
           "pID": "960740780",
           "name": "混采区"
+        },
+        {
+          "pID": "960740222",
+          "name": "刘馨��"
         }
       ]
     },
