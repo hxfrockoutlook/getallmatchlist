@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-03 00:11:51",
+  "updateTime": "2025-12-03 06:38:26",
   "data": [
     {
       "mgdbId": "120000563098",
@@ -1978,7 +1978,7 @@
       "mgdbId": "120000546844",
       "pID": "960861302",
       "title": "NBA常规赛",
-      "keyword": "12月02��10:00",
+      "keyword": "12月02日10:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "德尔塔中心球馆",
@@ -1989,7 +1989,7 @@
       "modifyTitle": "NBA常规赛",
       "presenters": "连睿 曾令旭 周鹏",
       "matchInfo": {
-        "time": "12月02��10:00"
+        "time": "12月02日10:00"
       },
       "nodes": [
         {
@@ -2187,12 +2187,7 @@
       "matchInfo": {
         "time": "12月02日 15:00"
       },
-      "nodes": [
-        {
-          "pID": "960546721",
-          "name": "解说"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000561963",
@@ -2456,17 +2451,17 @@
     },
     {
       "mgdbId": "120000563339",
-      "pID": "960735637",
-      "title": "塞尔比VS雷佩凡 周跃龙迎战奥沙利文",
+      "pID": "960735569",
+      "title": "周跃龙6-4奥沙利文 雷佩凡不敌塞尔比",
       "keyword": "12月02日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1FUTQKLI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1GG9DG6F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "塞尔比VS雷佩凡 周跃龙迎战奥沙利文",
-      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：塞尔比VS雷佩凡 奥沙利文PK周跃龙",
+      "pkInfoTitle": "周跃龙6-4奥沙利文 雷佩凡不敌塞尔比",
+      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：周跃龙6-4奥沙利文 雷佩凡不敌塞尔比",
       "presenters": "柏林 乔迁",
       "matchInfo": {
         "time": "12月02日21:00"
@@ -2493,21 +2488,25 @@
     {
       "mgdbId": "120000563340",
       "pID": "960735732",
-      "title": "凯伦·威尔逊出战 霍金斯PK大卫·利利",
+      "title": "凯伦·威尔逊登场 霍金斯出战",
       "keyword": "12月03日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1KP9BBC5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊出战 霍金斯PK大卫·利利",
-      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：凯伦·威尔逊出战 霍金斯PK大卫·利利",
+      "pkInfoTitle": "凯伦·威尔逊登场 霍金斯出战",
+      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：凯伦·威尔逊登场 霍金斯出战",
       "presenters": "柏林",
       "matchInfo": {
         "time": "12月03日03:00"
       },
       "nodes": [
+        {
+          "pID": "960735800",
+          "name": "柏林"
+        },
         {
           "pID": "960735732",
           "name": "1号桌"
@@ -2515,10 +2514,6 @@
         {
           "pID": "960735777",
           "name": "2号桌"
-        },
-        {
-          "pID": "960735800",
-          "name": "柏林"
         }
       ]
     },
@@ -2528,10 +2523,10 @@
       "title": "英超联赛",
       "keyword": "12月03日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "克拉文农场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3IT28BAOFO.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JQR9PHFBV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "富勒姆 vs 曼城",
       "modifyTitle": "英超联赛",
@@ -2564,7 +2559,7 @@
       "title": "英超联赛",
       "keyword": "12月03日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "迪恩考特球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3IT2KD48GR.png",
@@ -2596,7 +2591,7 @@
       "title": "西甲联赛",
       "keyword": "12月03日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMK01IR22.jpg",
@@ -2628,7 +2623,7 @@
       "title": "意大利杯1/8决赛",
       "keyword": "12月03日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Allianz Stadium",
       "competitionName": "意大利杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I14D199DD.jpg",
@@ -2656,10 +2651,10 @@
       "title": "英超联赛",
       "keyword": "12月03日04:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "圣詹姆斯公园球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3IT2U1EJRB.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JQVM9KBSO.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "纽卡斯尔联 vs 托特纳姆热刺",
       "modifyTitle": "英超联赛",
@@ -6728,10 +6723,6 @@
       "nodes": [
         {
           "pID": "960760057",
-          "name": "训��馆"
-        },
-        {
-          "pID": "960760057",
           "name": "训练馆"
         }
       ]
@@ -6863,10 +6854,6 @@
         {
           "pID": "960864772",
           "name": "邓亚萍 刘国正 周冠达"
-        },
-        {
-          "pID": "960742544",
-          "name": "��亚萍 刘国正 周冠达"
         }
       ]
     },
@@ -6970,7 +6957,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
       "pkInfoTitle": "宁波VS嘉兴",
-      "modifyTitle": "宁波VS嘉兴",
+      "modifyTitle": "��波VS嘉兴",
       "presenters": "",
       "matchInfo": {
         "time": "12月07日19:30"
