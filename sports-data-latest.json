@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-06 00:12:29",
+  "updateTime": "2025-12-06 05:21:42",
   "data": [
     {
       "mgdbId": "120000550598",
@@ -914,7 +914,7 @@
         },
         {
           "pID": "960760096",
-          "name": "国际乒联��团世界杯"
+          "name": "国际乒联混团世界杯"
         },
         {
           "pID": "960882400",
@@ -923,10 +923,6 @@
         {
           "pID": "960739005",
           "name": "1号桌"
-        },
-        {
-          "pID": "960760096",
-          "name": "国际乒联混团世界杯"
         },
         {
           "pID": "960739405",
@@ -2252,29 +2248,25 @@
     },
     {
       "mgdbId": "120000563345",
-      "pID": "960736745",
-      "title": "丁俊晖PK特鲁姆普 庞俊旭VS罗伯逊",
+      "pID": "960736625",
+      "title": "丁俊晖2-6特鲁姆普 庞俊旭4-6罗伯逊",
       "keyword": "12月05日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LMDDG23ML.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "丁俊晖PK特鲁姆普 庞俊旭VS罗伯逊",
-      "modifyTitle": "2025斯诺克英锦赛1/4决赛：丁俊晖PK特鲁姆普 庞俊旭VS罗伯逊",
-      "presenters": "秦正 庞卫国 柏林",
+      "pkInfoTitle": "丁俊晖2-6特鲁姆普 庞俊旭4-6罗伯逊",
+      "modifyTitle": "2025斯诺克英锦赛1/4决赛：丁俊晖2-6特鲁姆普 庞俊旭4-6罗伯逊",
+      "presenters": "柏林 秦正 庞卫国",
       "matchInfo": {
         "time": "12月05日21:00"
       },
       "nodes": [
         {
-          "pID": "960736745",
-          "name": "桌次切换"
-        },
-        {
           "pID": "960736625",
-          "name": "柏林"
+          "name": "解说：柏林"
         },
         {
           "pID": "960736286",
@@ -2283,6 +2275,10 @@
         {
           "pID": "960736303",
           "name": "2号桌"
+        },
+        {
+          "pID": "960736745",
+          "name": "桌次切换"
         }
       ]
     },
@@ -2292,7 +2288,7 @@
       "title": "卢布列夫PK马哈奇 德米纳尔出战",
       "keyword": "12月06日01:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UTS",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LKC1RDKRC.jpg",
@@ -2320,10 +2316,10 @@
       "title": "法甲联赛",
       "keyword": "12月06日02:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "弗朗西斯·勒布雷体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KNPIIVC9R.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MHHOT2NHM.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
       "pkInfoTitle": "布雷斯特 vs 摩纳哥",
       "modifyTitle": "法甲联赛",
@@ -2352,7 +2348,7 @@
       "title": "张安达迎战墨菲 霍金斯PK塞尔比",
       "keyword": "12月06日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LK0OKHN4T.jpg",
@@ -2384,7 +2380,7 @@
       "title": "德甲联赛",
       "keyword": "12月06日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "欧宝球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KPTRPQ8RC.webp",
@@ -2416,7 +2412,7 @@
       "title": "足总杯第二轮",
       "keyword": "12月06日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "半岛酒店集团体育场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000559808/202511040630_851173_H169_1080.webp",
@@ -2444,7 +2440,7 @@
       "title": "法甲联赛",
       "keyword": "12月06日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "莫鲁瓦球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KNPP1SC1Q.jpg",
@@ -2472,7 +2468,7 @@
       "title": "西甲联赛",
       "keyword": "12月06日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "新卡洛斯·塔尔蒂耶雷体育场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543894/202512031356_787774_H169_1080.webp",
@@ -2894,7 +2890,7 @@
         },
         {
           "pID": "960738538",
-          "name": "凌维康 小马哥"
+          "name": "凌维康"
         },
         {
           "pID": "960965403",
@@ -2947,7 +2943,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "羽超联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MKB1L7E1F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "芜湖兴航VS深圳川崎羽众",
       "modifyTitle": "羽毛球超级联赛第六轮：芜湖兴航VS深圳川崎羽众",
@@ -3571,7 +3567,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "羽超联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MKB4ESB3V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "瑞昌碧源VS厦门银行",
       "modifyTitle": "羽毛球超级联赛第六轮：瑞昌碧源VS厦门银行",
@@ -5201,7 +5197,7 @@
           "name": "刘馨蕊 朱子恒"
         },
         {
-          "pID": "960738932",
+          "pID": "960965630",
           "name": "赛场原声"
         },
         {
@@ -5211,10 +5207,6 @@
         {
           "pID": "960864717",
           "name": "刘馨蕊 朱子恒"
-        },
-        {
-          "pID": "960965630",
-          "name": "赛场原声"
         }
       ]
     },
@@ -5489,7 +5481,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "铜牌赛、决赛",
       "modifyTitle": "成都国际乒联混合团体世界杯：铜牌赛、决赛",
-      "presenters": "邓亚萍 刘国正 周冠达 小马哥",
+      "presenters": "邓亚萍 刘国正 周冠达 李宏德",
       "matchInfo": {
         "time": "12月07日17:00"
       },
@@ -5507,7 +5499,7 @@
           "name": "小马哥"
         },
         {
-          "pID": "960739309",
+          "pID": "960965653",
           "name": "赛场原声"
         },
         {
@@ -5517,10 +5509,6 @@
         {
           "pID": "960864772",
           "name": "邓亚萍 刘国正 周冠达"
-        },
-        {
-          "pID": "960965653",
-          "name": "赛场原声"
         }
       ]
     },
