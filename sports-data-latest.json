@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-12 00:10:20",
+  "updateTime": "2025-12-12 05:19:30",
   "data": [
     {
       "mgdbId": "120000546897",
@@ -63,6 +63,10 @@
         {
           "pID": "960999439",
           "name": "英文原声"
+        },
+        {
+          "pID": "961075362",
+          "name": "25/26赛季NBA杯全场集锦：尼克斯117:101���龙（20251210）"
         }
       ]
     },
@@ -442,7 +446,7 @@
         },
         {
           "pID": "960999571",
-          "name": "王冠证 ���鹏 殷文玉"
+          "name": "王冠证 周鹏 殷��玉"
         }
       ]
     },
@@ -1009,25 +1013,21 @@
     {
       "mgdbId": "120000563901",
       "pID": "961056192",
-      "title": "赵心童白雨露出战 雷佩凡退赛 吴宜泽晋级",
+      "title": "吴宜泽轰单杆141 白雨露、吴安仪晋级",
       "keyword": "12月11日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/10/6V3Q7D2KLFBC.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3S3235GI78.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童白雨露出战 雷佩凡退赛 吴宜泽晋级",
-      "modifyTitle": "斯诺克单局限时赛128进64：赵心童白雨露出战 吴宜泽已晋级",
-      "presenters": "柏林",
+      "pkInfoTitle": "吴宜泽轰单杆141 白雨露、吴安仪晋级",
+      "modifyTitle": "斯诺克单局限时赛128进64：吴宜泽轰单杆141 白雨露、吴安仪晋级",
+      "presenters": "",
       "matchInfo": {
         "time": "12月11日21:00"
       },
       "nodes": [
-        {
-          "pID": "961101075",
-          "name": "柏林"
-        },
         {
           "pID": "961056192",
           "name": "现场原声"
@@ -1037,16 +1037,16 @@
     {
       "mgdbId": "120000563902",
       "pID": "961056216",
-      "title": "斯佳辉vs扎卡里 贺国强刘宏宇出战",
+      "title": "斯佳辉PK克雷吉 刘宏宇贺国强出战",
       "keyword": "12月12日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/10/6V3Q7D3KAA9J.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯佳辉vs扎卡里 贺国强刘宏宇出战",
-      "modifyTitle": "斯诺克单局限时赛第二日 斯佳辉vs扎卡里 贺国强刘宏宇出战",
+      "pkInfoTitle": "斯佳辉PK克雷吉 刘宏宇贺国强出战",
+      "modifyTitle": "斯诺克单局限时赛128进64：斯佳辉PK克雷吉 刘宏宇贺国强出战",
       "presenters": "",
       "matchInfo": {
         "time": "12月12日03:00"
@@ -1055,6 +1055,34 @@
         {
           "pID": "961056216",
           "name": "现场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563981",
+      "pID": "961108929",
+      "title": "英女超",
+      "keyword": "12月12日 03:00",
+      "sportItemId": "1",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "英女超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563981/202512111652_513075_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png",
+      "pkInfoTitle": "阿斯顿维拉女足vs利物浦女足",
+      "modifyTitle": "英女超",
+      "presenters": "胡小凡",
+      "matchInfo": {
+        "time": "12月12日 03:00"
+      },
+      "nodes": [
+        {
+          "pID": "961108929",
+          "name": "胡小凡"
+        },
+        {
+          "pID": "961108916",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1603,7 +1631,7 @@
     {
       "mgdbId": "120000563903",
       "pID": "961056229",
-      "title": "64进32",
+      "title": "斯诺克单局限时赛64进32",
       "keyword": "12月12日21:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1611,8 +1639,8 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "64进32",
-      "modifyTitle": "斯诺克限时挑战赛第三日 64进32",
+      "pkInfoTitle": "斯诺克单局限时赛64进32",
+      "modifyTitle": "斯诺克单局限时赛64进32",
       "presenters": "",
       "matchInfo": {
         "time": "12月12日21:00"
@@ -1627,7 +1655,7 @@
     {
       "mgdbId": "120000563904",
       "pID": "961056238",
-      "title": "斯诺克单局限时赛第三日64进32",
+      "title": "斯诺克单局限时赛64进32",
       "keyword": "12月13日03:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1635,8 +1663,8 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克单局限时赛第三日64进32",
-      "modifyTitle": "斯诺克单局限时赛第三日64进32",
+      "pkInfoTitle": "斯诺克单局限时赛64进32",
+      "modifyTitle": "斯诺克单局限时赛64进32",
       "presenters": "",
       "matchInfo": {
         "time": "12月13日03:00"
@@ -2433,10 +2461,6 @@
         {
           "pID": "961105074",
           "name": "赛场原声"
-        },
-        {
-          "pID": "961105121",
-          "name": "���雨轩 王宇"
         }
       ]
     },
@@ -4324,7 +4348,7 @@
       "mgdbId": "120000542876",
       "pID": "961107119",
       "title": "德甲联赛",
-      "keyword": "12月15��02:30",
+      "keyword": "12月15日02:30",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "威悉球场",
@@ -4335,7 +4359,7 @@
       "modifyTitle": "德甲联赛",
       "presenters": "鲁靖明",
       "matchInfo": {
-        "time": "12月15��02:30"
+        "time": "12月15日02:30"
       },
       "nodes": [
         {
@@ -4752,7 +4776,7 @@
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563429/202511291529_941963_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "火箭VS掘金",
+      "pkInfoTitle": "火箭VS掘���",
       "modifyTitle": "NBA常规赛",
       "presenters": "",
       "matchInfo": {
