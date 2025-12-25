@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-25 05:20:28",
+  "updateTime": "2025-12-25 14:21:57",
   "data": [
     {
       "mgdbId": "120000547868",
@@ -1940,7 +1940,7 @@
       "title": "2014NBA圣诞大战 骑士vs热火",
       "keyword": "12月25日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/23/6V4607R1FP62.jpg",
@@ -1960,11 +1960,11 @@
     },
     {
       "mgdbId": "120000564349",
-      "pID": "961364534",
+      "pID": "961444772",
       "title": "2017NBA圣诞大战 骑士vs勇士",
       "keyword": "12月25日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/23/6V4609KDN6LF.jpg",
@@ -1977,6 +1977,10 @@
       },
       "nodes": [
         {
+          "pID": "961444772",
+          "name": "2017NBA圣诞大战全场回放：骑士vs勇士（王冠证）"
+        },
+        {
           "pID": "961364534",
           "name": "王冠证"
         }
@@ -1988,7 +1992,7 @@
       "title": "《NBA周刊》2025圣诞大战特别节目",
       "keyword": "12月25日10:55",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/24/6V46U7DHK3V1.jpg",
@@ -2012,10 +2016,10 @@
       "title": "深圳川崎羽众VS厦门银行",
       "keyword": "12月25日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽超联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/24/6V46V3NLKMTT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/25/6V47Q8BMB1CR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "深圳川崎羽众VS厦门银行",
       "modifyTitle": "羽毛球超级联赛第十一轮：深圳川崎羽众VS厦门银行",
@@ -2036,10 +2040,10 @@
       "title": "辽宁极兔李永波VS青岛仁洲",
       "keyword": "12月25日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽超联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/24/6V46VB85J2NA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/25/6V47Q5UHP1CL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "辽宁极兔李永波VS青岛仁洲",
       "modifyTitle": "羽毛球超级联赛第十一轮：辽宁极兔李永波VS青岛仁洲",
@@ -2187,6 +2191,30 @@
         {
           "pID": "961364700",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564458",
+      "pID": "961444396",
+      "title": "UFC年度最佳评选特别节目：第一期",
+      "keyword": "12月25日19:00",
+      "sportItemId": "5",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "UFC前瞻与回顾",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/12/11/10000000124810603b67.png",
+      "pkInfoTitle": "UFC年度最佳评选特别节目：第一期",
+      "modifyTitle": "UFC年度最佳评选特别节目：第一期",
+      "presenters": "郑文祺",
+      "matchInfo": {
+        "time": "12月25日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "961444396",
+          "name": "郑文祺"
         }
       ]
     },
@@ -2468,7 +2496,7 @@
     },
     {
       "mgdbId": "120000564045",
-      "pID": "961427889",
+      "pID": "961427907",
       "title": "孙颖莎领衔深圳大学对决上海龙腾",
       "keyword": "12月26日11:00",
       "sportItemId": "7",
@@ -2485,12 +2513,12 @@
       },
       "nodes": [
         {
-          "pID": "961427889",
-          "name": "深圳大学vs上海龙腾"
-        },
-        {
           "pID": "961427907",
           "name": "侯英超 程靖淇 周冠达"
+        },
+        {
+          "pID": "961427889",
+          "name": "深圳大学vs上海龙腾"
         },
         {
           "pID": "961427941",
@@ -2580,6 +2608,7 @@
     },
     {
       "mgdbId": "120000564367",
+      "pID": "961444530",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月26日17:00",
       "sportItemId": "9",
@@ -2594,7 +2623,16 @@
       "matchInfo": {
         "time": "12月26日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444530",
+          "name": "本西奇 VS 王欣瑜（中文解说）"
+        },
+        {
+          "pID": "961444517",
+          "name": "本西奇 VS 王欣瑜（清流）"
+        }
+      ]
     },
     {
       "mgdbId": "120000564401",
@@ -2682,7 +2720,7 @@
     },
     {
       "mgdbId": "120000564046",
-      "pID": "961427990",
+      "pID": "961428403",
       "title": "王曼昱率山东鲁能迎战华东理工大学",
       "keyword": "12月26日19:00",
       "sportItemId": "7",
@@ -2699,21 +2737,26 @@
       },
       "nodes": [
         {
-          "pID": "961427990",
-          "name": "山东鲁能vs华东理工大学"
-        },
-        {
           "pID": "961428403",
           "name": "周雨 侯英超 程靖淇"
         },
         {
+          "pID": "961427990",
+          "name": "山东鲁能vs华东理工大学"
+        },
+        {
           "pID": "961428474",
           "name": "混采区"
+        },
+        {
+          "pID": "961444280",
+          "name": "嘉年华"
         }
       ]
     },
     {
       "mgdbId": "120000564368",
+      "pID": "961444530",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月26日19:00",
       "sportItemId": "9",
@@ -2728,7 +2771,40 @@
       "matchInfo": {
         "time": "12月26日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444530",
+          "name": "斯瓦泰克 VS 莱巴金娜（中文解说）"
+        },
+        {
+          "pID": "961444517",
+          "name": "斯瓦泰克 VS 莱巴金娜（清流）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564459",
+      "pID": "961444417",
+      "title": "UFC年度最佳评选特别节目：第二期",
+      "keyword": "12月26日19:00",
+      "sportItemId": "5",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "UFC前瞻与回顾",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/12/11/10000000124810603b67.png",
+      "pkInfoTitle": "UFC年度最佳评选特别节目：第二期",
+      "modifyTitle": "UFC年度最佳评选特别节目：第二期",
+      "presenters": "郑文祺",
+      "matchInfo": {
+        "time": "12月26日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "961444417",
+          "name": "郑文祺"
+        }
+      ]
     },
     {
       "mgdbId": "120000563448",
@@ -3302,6 +3378,7 @@
     },
     {
       "mgdbId": "120000564369",
+      "pID": "961444586",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月27日10:00",
       "sportItemId": "9",
@@ -3316,7 +3393,16 @@
       "matchInfo": {
         "time": "12月27日10:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444586",
+          "name": "科博利 VS 张之臻（中文解说）"
+        },
+        {
+          "pID": "961444570",
+          "name": "科博利 VS 张之臻（清流）"
+        }
+      ]
     },
     {
       "mgdbId": "120000546970",
@@ -3384,7 +3470,7 @@
     },
     {
       "mgdbId": "120000564047",
-      "pID": "961428519",
+      "pID": "961428566",
       "title": "林诗栋领衔黄石华新PK汕头明润",
       "keyword": "12月27日11:00",
       "sportItemId": "7",
@@ -3401,12 +3487,12 @@
       },
       "nodes": [
         {
-          "pID": "961428519",
-          "name": "黄石华新vs汕头明润"
-        },
-        {
           "pID": "961428566",
           "name": "侯英超 程靖淇 周冠达"
+        },
+        {
+          "pID": "961428519",
+          "name": "黄石华新vs汕头明润"
         },
         {
           "pID": "961428590",
@@ -3416,6 +3502,7 @@
     },
     {
       "mgdbId": "120000564370",
+      "pID": "961444586",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月27日12:00",
       "sportItemId": "9",
@@ -3430,7 +3517,16 @@
       "matchInfo": {
         "time": "12月27日12:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444586",
+          "name": "斯瓦泰克 VS 王欣瑜（中文解说）"
+        },
+        {
+          "pID": "961444570",
+          "name": "斯瓦泰克 VS 王欣瑜（清流）"
+        }
+      ]
     },
     {
       "mgdbId": "120000564385",
@@ -3722,6 +3818,7 @@
     },
     {
       "mgdbId": "120000564371",
+      "pID": "961444586",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月27日17:00",
       "sportItemId": "9",
@@ -3736,7 +3833,16 @@
       "matchInfo": {
         "time": "12月27日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444586",
+          "name": "瓦舍罗 VS 卢布列夫（中文解说）"
+        },
+        {
+          "pID": "961444570",
+          "name": "瓦舍罗 VS 卢布列夫（清流）"
+        }
+      ]
     },
     {
       "mgdbId": "120000564360",
@@ -3852,6 +3958,7 @@
     },
     {
       "mgdbId": "120000564353",
+      "pID": "961443715",
       "title": "JCK觉城之夜N114：哈萨诺夫VS马戈梅德沙皮耶夫",
       "keyword": "12月27日18:55",
       "sportItemId": "5",
@@ -3866,11 +3973,20 @@
       "matchInfo": {
         "time": "12月27日18:55"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961443715",
+          "name": "官方解说"
+        },
+        {
+          "pID": "961443721",
+          "name": "清流"
+        }
+      ]
     },
     {
       "mgdbId": "120000564048",
-      "pID": "961428634",
+      "pID": "961428677",
       "title": "王楚钦领衔山东魏桥对决上海地产",
       "keyword": "12月27日19:00",
       "sportItemId": "7",
@@ -3887,21 +4003,26 @@
       },
       "nodes": [
         {
-          "pID": "961428634",
-          "name": "山东魏桥vs上海地产集团"
-        },
-        {
           "pID": "961428677",
           "name": "周雨 侯英超 程靖淇"
         },
         {
+          "pID": "961428634",
+          "name": "山东魏桥vs上海地产集团"
+        },
+        {
           "pID": "961428709",
           "name": "混采区"
+        },
+        {
+          "pID": "961444283",
+          "name": "嘉年华"
         }
       ]
     },
     {
       "mgdbId": "120000564372",
+      "pID": "961444586",
       "title": "科博利/本西奇vs张之臻/王欣瑜",
       "keyword": "12月27日19:00",
       "sportItemId": "9",
@@ -3916,7 +4037,40 @@
       "matchInfo": {
         "time": "12月27日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444570",
+          "name": "科博利/本西奇 VS 张之臻/王欣瑜 (清流）"
+        },
+        {
+          "pID": "961444586",
+          "name": "科博利/本西奇 VS 张之臻/王欣瑜（中文解说）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564460",
+      "pID": "961444470",
+      "title": "聚焦八角笼：2025UFC年度奖项评选",
+      "keyword": "12月27日19:00",
+      "sportItemId": "5",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "UFC前瞻与回顾",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/12/11/10000000124810603b67.png",
+      "pkInfoTitle": "聚焦八角笼：2025UFC年度奖项评选",
+      "modifyTitle": "聚焦八角笼：2025UFC年度奖项评选",
+      "presenters": "陈瑞阳 郑文祺",
+      "matchInfo": {
+        "time": "12月27日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "961444470",
+          "name": "陈瑞阳 郑文祺"
+        }
+      ]
     },
     {
       "mgdbId": "120000543125",
@@ -3939,7 +4093,7 @@
     {
       "mgdbId": "120000563442",
       "pID": "961225790",
-      "title": "WCBA常规赛A��",
+      "title": "WCBA常规赛A组",
       "keyword": "12月27日19:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -4544,7 +4698,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543780/202507111225_511222_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/25/6V47SGQ9LN6A.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "比萨 vs 尤文图斯",
       "modifyTitle": "意甲联赛",
@@ -4832,6 +4986,7 @@
     },
     {
       "mgdbId": "120000564373",
+      "pID": "961444634",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月28日10:00",
       "sportItemId": "9",
@@ -4846,11 +5001,20 @@
       "matchInfo": {
         "time": "12月28日10:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444634",
+          "name": "瓦舍罗 VS 张之臻（中文解说）"
+        },
+        {
+          "pID": "961444608",
+          "name": "瓦舍罗 VS 张之臻（清流）"
+        }
+      ]
     },
     {
       "mgdbId": "120000564049",
-      "pID": "961428735",
+      "pID": "961428790",
       "title": "巅峰对决！女子团体决赛燃情开打",
       "keyword": "12月28日11:00",
       "sportItemId": "7",
@@ -4867,12 +5031,12 @@
       },
       "nodes": [
         {
-          "pID": "961428735",
-          "name": "赛场原声"
-        },
-        {
           "pID": "961428790",
           "name": "侯英超 程靖淇 周冠达"
+        },
+        {
+          "pID": "961428735",
+          "name": "赛场原声"
         },
         {
           "pID": "961428829",
@@ -4914,6 +5078,7 @@
     },
     {
       "mgdbId": "120000564374",
+      "pID": "961444634",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月28日12:00",
       "sportItemId": "9",
@@ -4928,7 +5093,16 @@
       "matchInfo": {
         "time": "12月28日12:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444608",
+          "name": "本西奇 VS 莱巴金娜（清流）"
+        },
+        {
+          "pID": "961444634",
+          "name": "本西奇 VS 莱巴金娜（中文解说）"
+        }
+      ]
     },
     {
       "mgdbId": "120000564389",
@@ -4938,7 +5112,7 @@
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "羽���联赛",
+      "competitionName": "羽超联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "深圳川崎羽众VS浙江竞体",
@@ -5112,6 +5286,7 @@
     },
     {
       "mgdbId": "120000564375",
+      "pID": "961444634",
       "title": "世界网球洲际对抗赛",
       "keyword": "12月28日17:00",
       "sportItemId": "9",
@@ -5126,7 +5301,16 @@
       "matchInfo": {
         "time": "12月28日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444634",
+          "name": "科博利 VS 卢布列夫（中文解说）"
+        },
+        {
+          "pID": "961444608",
+          "name": "科博利 VS 卢布列夫（清流）"
+        }
+      ]
     },
     {
       "mgdbId": "120000564365",
@@ -5238,7 +5422,7 @@
     },
     {
       "mgdbId": "120000564050",
-      "pID": "961428858",
+      "pID": "961428896",
       "title": "强强对话！男团总决赛火热来袭",
       "keyword": "12月28日19:00",
       "sportItemId": "7",
@@ -5255,21 +5439,26 @@
       },
       "nodes": [
         {
-          "pID": "961428858",
-          "name": "赛场原声"
-        },
-        {
           "pID": "961428896",
           "name": "侯英超 程靖淇 周冠达"
         },
         {
+          "pID": "961428858",
+          "name": "赛场原声"
+        },
+        {
           "pID": "961428969",
           "name": "混采区"
+        },
+        {
+          "pID": "961444295",
+          "name": "嘉年华"
         }
       ]
     },
     {
       "mgdbId": "120000564376",
+      "pID": "961444634",
       "title": "瓦舍罗/斯瓦泰克vs卢布列夫/莱巴金娜",
       "keyword": "12月28日19:00",
       "sportItemId": "9",
@@ -5284,7 +5473,16 @@
       "matchInfo": {
         "time": "12月28日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961444634",
+          "name": "瓦舍罗/斯瓦泰克 VS 卢布列夫/莱巴金娜（中文解说）"
+        },
+        {
+          "pID": "961444608",
+          "name": "瓦舍罗/斯瓦泰克 VS 卢布列夫/莱巴金娜（清流）"
+        }
+      ]
     },
     {
       "mgdbId": "120000543126",
@@ -5294,7 +5492,7 @@
       "matchStatus": "0",
       "matchField": "梅阿查/圣西罗球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543126/202507101935_642652_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/25/6V47T0K9VS3G.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "AC米兰 vs 维罗纳",
       "modifyTitle": "意甲联赛",
@@ -5674,7 +5872,7 @@
       "matchStatus": "0",
       "matchField": "吉奥瓦尼·齐尼体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543781/202507111225_566208_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/25/6V47T9ILQI8N.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "克雷莫纳 vs 那不勒斯",
       "modifyTitle": "意甲联赛",
@@ -5760,7 +5958,7 @@
       "matchStatus": "0",
       "matchField": "蓝色意大利竞技场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543128/202507101935_289699_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/25/6V47T3KL143J.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "亚特兰大 vs 国际米兰",
       "modifyTitle": "意甲联赛",
