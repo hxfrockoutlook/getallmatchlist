@@ -9,26 +9,35 @@ function getShanghaiTime() {
   return shanghaiTime.toISOString().replace('T', ' ').replace(/\.\d{3}Z$/, '');
 }
 
-// 统一格式化中文日期字符串（将"1月03日 15:00"转换为"01月03日15:00"）
+// 统一格式化中文日期字符串
+// 处理多种格式：将"1月03日15:00"、"1月03日 15:00"等转换为"01月03日15:00"
 function formatChineseDateTime(dateTimeStr) {
   try {
-    // 匹配格式：月日时分
-    // 例如："1月03日 15:00" 或 "01月03日15:00" 或 "1月03日15:00"
-    const match = dateTimeStr.match(/(\d{1,2})月(\d{1,2})日\s*(\d{1,2}):(\d{2})/);
-    if (!match) return dateTimeStr;
+    if (!dateTimeStr || typeof dateTimeStr !== 'string') {
+      return dateTimeStr;
+    }
     
-    let month = match[1];
-    let day = match[2];
-    let hour = match[3];
-    let minute = match[4];
+    // 去除字符串两端的空白字符
+    const trimmedStr = dateTimeStr.trim();
     
-    // 补全前导零
+    // 匹配模式：数字(1-2位)月数字(1-2位)日 空格(0或多个) 数字(1-2位):数字(2位)
+    const match = trimmedStr.match(/^(\d{1,2})月(\d{1,2})日\s*(\d{1,2}):(\d{2})$/);
+    
+    if (!match) {
+      return trimmedStr; // 返回原始字符串
+    }
+    
+    // 提取匹配的组
+    let month = match[1];  // 月
+    let day = match[2];    // 日
+    let hour = match[3];   // 时
+    let minute = match[4]; // 分
+    
+    // 补全前导零（确保月份和日期都是两位数）
     month = month.padStart(2, '0');
     day = day.padStart(2, '0');
     
-    // 保持小时格式（如果需要，也可以给小时补零）
-    // hour = hour.padStart(2, '0');
-    
+    // 构建格式化后的字符串
     return `${month}月${day}日${hour}:${minute}`;
   } catch (error) {
     console.error(`格式化中文日期时间错误: ${dateTimeStr}`, error);
