@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-06 00:15:12",
+  "updateTime": "2026-01-06 05:21:38",
   "data": [
     {
       "mgdbId": "120000542632",
@@ -99,6 +99,10 @@
         {
           "pID": "962100998",
           "name": "赛场原声"
+        },
+        {
+          "pID": "962101023",
+          "name": "颜强 徐��� 李子琪"
         }
       ]
     },
@@ -1872,7 +1876,7 @@
       "title": "斯瓦泰克逆转取胜 拉杜卡努1-2萨卡里",
       "keyword": "01月05日07:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "网球联合杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/05/770K6FGKB9GN.png",
@@ -2204,53 +2208,33 @@
     },
     {
       "mgdbId": "120000564607",
-      "pID": "962129419",
-      "title": "高阳PK霍尔沃斯 博伊科vs哈特姆·亚辛",
+      "pID": "962129526",
+      "title": "高阳5-2霍尔沃斯 博伊科晋级",
       "keyword": "01月05日22:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/04/770J898NSAVM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "高阳PK霍尔沃斯 博伊科vs哈特姆·亚辛",
-      "modifyTitle": "斯诺克德国大师赛资格赛128进96轮次",
+      "pkInfoTitle": "高阳5-2霍尔沃斯 博伊科晋级",
+      "modifyTitle": "高阳5-2霍尔沃斯 博伊科晋级",
       "presenters": "",
       "matchInfo": {
         "time": "01月05日22:30"
       },
       "nodes": [
         {
-          "pID": "962129419",
-          "name": "6号桌"
-        },
-        {
-          "pID": "962128978",
-          "name": "1号桌"
-        },
-        {
-          "pID": "962129046",
-          "name": "2号桌"
-        },
-        {
-          "pID": "962130013",
-          "name": "3号桌"
-        },
-        {
-          "pID": "962130484",
-          "name": "4号桌"
-        },
-        {
-          "pID": "962129305",
-          "name": "5号桌"
+          "pID": "962129526",
+          "name": "8号桌"
         },
         {
           "pID": "962129697",
           "name": "7号桌"
         },
         {
-          "pID": "962129526",
-          "name": "8号桌"
+          "pID": "962129305",
+          "name": "5号桌"
         }
       ]
     },
@@ -2260,7 +2244,7 @@
       "title": "傅家俊常冰玉出战 黄佳浩PK吉米怀特",
       "keyword": "01月06日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/04/770J89E6NG05.jpg",
@@ -2309,7 +2293,7 @@
     {
       "mgdbId": "120000564595",
       "pID": "962091822",
-      "title": "FAA率队出战 拉��迎战澳大利亚美少女",
+      "title": "FAA率队出战 拉奶迎战澳大利亚美少女",
       "keyword": "01月06日07:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -2884,7 +2868,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000564100/156606_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/5/24/1000000007881064a3a2.png",
       "pkInfoTitle": "越南U23 vs 约旦U23",
-      "modifyTitle": "U23��洲杯小组赛",
+      "modifyTitle": "U23亚洲杯小组赛",
       "presenters": "张昊泽",
       "matchInfo": {
         "time": "01月06日19:30"
