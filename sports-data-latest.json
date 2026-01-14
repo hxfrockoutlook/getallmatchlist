@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-15 00:15:04",
+  "updateTime": "2026-01-15 05:22:19",
   "data": [
     {
       "mgdbId": "120000564085",
@@ -2348,7 +2348,7 @@
       "title": "2026年斯诺克大师赛首轮：丁俊晖2-6特鲁姆普",
       "keyword": "01月14日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/11/770PIS0JJR78.jpg",
@@ -2362,26 +2362,30 @@
       "nodes": [
         {
           "pID": "962171475",
-          "name": "现场原声"
+          "name": "现��原声"
         },
         {
           "pID": "962287008",
           "name": "庞卫国 蔡剑忠"
+        },
+        {
+          "pID": "962171475",
+          "name": "现场原声"
         }
       ]
     },
     {
       "mgdbId": "120000564530",
       "pID": "962202466",
-      "title": "朱梓予冲正赛 陈俊崧/覃予萱晋级",
+      "title": "薛飞挺进正赛 陈俊崧/覃予萱晋级",
       "keyword": "01月14日22:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/15/770TAB8R1VP8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/15/770T78N9GR8V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "朱梓予冲正赛 陈俊崧/覃予萱晋级",
+      "pkInfoTitle": "薛飞挺进正赛 陈俊崧/覃予萱晋级",
       "modifyTitle": "WTT多哈球星挑战赛：男女单打资格赛第三轮、混双资格赛",
       "presenters": "朱子恒",
       "matchInfo": {
@@ -2397,26 +2401,26 @@
           "name": "1号桌"
         },
         {
+          "pID": "962202443",
+          "name": "4号桌"
+        },
+        {
           "pID": "962202348",
           "name": "2号桌"
         },
         {
           "pID": "962202412",
           "name": "3号桌"
-        },
-        {
-          "pID": "962202443",
-          "name": "4号桌"
         }
       ]
     },
     {
       "mgdbId": "120000564782",
-      "pID": "962201831",
+      "pID": "962390698",
       "title": "欧乒联男子欧冠联赛1/4决赛第一回合：穆尔豪森邮政vs杜塞尔多夫",
       "keyword": "01月15日01:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NPVKULCH1.jpg",
@@ -2448,10 +2452,10 @@
       "title": "德甲联赛",
       "keyword": "01月15日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "大众竞技场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542854/590507_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542854/872649_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "沃尔夫斯堡 vs 圣保利",
       "modifyTitle": "德甲联赛",
@@ -2476,10 +2480,10 @@
       "title": "意甲联赛",
       "keyword": "01月15日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "圣保罗球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543130/676927_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543130/437883_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "那不勒斯 vs 帕尔马",
       "modifyTitle": "意甲联赛",
@@ -2508,7 +2512,7 @@
       "title": "斯诺克大师赛 尼尔·罗伯逊 vs 克里斯·韦克林",
       "keyword": "01月15日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/11/770PIS3NLO0F.jpg",
@@ -2536,7 +2540,7 @@
       "title": "德甲联赛",
       "keyword": "01月15日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "莱茵内卡河球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542852/202601140442_421537_H169_1080.webp",
@@ -2564,10 +2568,10 @@
       "title": "德甲联赛",
       "keyword": "01月15日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "莱比锡体育场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542856/111667_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542856/336070_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "RB莱比锡 vs 弗赖堡",
       "modifyTitle": "德甲联赛",
@@ -2592,7 +2596,7 @@
       "title": "德甲联赛",
       "keyword": "01月15日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "莱茵能量球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543688/700463_H169_sc.jpg",
@@ -2624,7 +2628,7 @@
       "title": "意甲联赛",
       "keyword": "01月15日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "梅阿查/圣西罗球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543132/642825_H169_sc.jpg",
@@ -2775,10 +2779,6 @@
         {
           "pID": "962337073",
           "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962396844",
-          "name": "17��球场"
         }
       ]
     },
@@ -3181,15 +3181,15 @@
     {
       "mgdbId": "120000564531",
       "pID": "962202636",
-      "title": "男女单打1/32决赛、双打1/8决赛",
+      "title": "周启豪激战塔卡 黄友政三线作战",
       "keyword": "01月15日16:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/15/770T7Q7GK0BC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/32决赛、双打1/8决赛",
+      "pkInfoTitle": "周启豪激战塔卡 黄友政三线作战",
       "modifyTitle": "WTT多哈球星挑战赛：男女单打1/32决赛、双打1/8决赛",
       "presenters": "周冠达",
       "matchInfo": {
@@ -3577,15 +3577,15 @@
     {
       "mgdbId": "120000564532",
       "pID": "962202820",
-      "title": "男女单打1/32决赛、双打1/8决赛",
+      "title": "林诗栋/梁靖崑出战 黄友政冲32强",
       "keyword": "01月15日22:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/15/770T7RTPUMVN.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/32决赛、双打1/8决赛",
+      "pkInfoTitle": "林诗栋/梁靖崑出战 黄友政冲32强",
       "modifyTitle": "WTT多哈球星挑战赛：男女单打1/32决赛、双打1/8决赛",
       "presenters": "周泽昊",
       "matchInfo": {
@@ -4089,7 +4089,7 @@
       "competitionName": "BWF",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "印度羽毛球��开赛第四日",
+      "pkInfoTitle": "印度羽毛球公开赛第四日",
       "modifyTitle": "印度羽毛球公开赛第四日：1/4决赛",
       "presenters": "",
       "matchInfo": {
@@ -7104,7 +7104,7 @@
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547155/202508151233_221272_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "爵士VS��刺",
+      "pkInfoTitle": "爵士VS马刺",
       "modifyTitle": "NBA常规赛",
       "presenters": "",
       "matchInfo": {
