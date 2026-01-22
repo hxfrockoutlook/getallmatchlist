@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-23 00:13:35",
+  "updateTime": "2026-01-23 05:20:17",
   "data": [
     {
       "mgdbId": "120000563873",
@@ -1220,7 +1220,7 @@
     },
     {
       "mgdbId": "120000563880",
-      "pID": "962391916",
+      "pID": "962590105",
       "title": "WCBA常规赛A组",
       "keyword": "01月22日19:30",
       "sportItemId": "2",
@@ -1236,6 +1236,10 @@
         "time": "01月22日19:30"
       },
       "nodes": [
+        {
+          "pID": "962590105",
+          "name": "25/26赛季WCBA常规赛A组第19轮全场集锦：四川蜀道远达vs石家庄英励"
+        },
         {
           "pID": "962391916",
           "name": "清流播出"
@@ -1497,15 +1501,15 @@
     {
       "mgdbId": "120000565604",
       "pID": "962436151",
-      "title": "石洵瑶晋级8强 黄石组合冲混双决赛",
+      "title": "石洵瑶晋级8强 黄石组合挺进混双决赛",
       "keyword": "01月22日21:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/22/7713LQ83CI42.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714J83J9FKS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "石洵瑶晋级8强 黄石组合冲混双决赛",
+      "pkInfoTitle": "石洵瑶晋级8强 黄石组合挺进混双决赛",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打1/8决赛、混双半决赛",
       "presenters": "石楚阳",
       "matchInfo": {
@@ -1517,12 +1521,12 @@
           "name": "石楚阳"
         },
         {
-          "pID": "962436080",
-          "name": "1号桌"
-        },
-        {
           "pID": "962436138",
           "name": "2号桌"
+        },
+        {
+          "pID": "962436080",
+          "name": "1号桌"
         }
       ]
     },
@@ -1935,7 +1939,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714G2RSKIVJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "硬碰硬！林诗栋PK达科 石油组合冲男双决赛",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打1/4决赛、男女双打半决赛",
@@ -2303,7 +2307,7 @@
     {
       "mgdbId": "120000565606",
       "pID": "962436309",
-      "title": "男女单打半决赛、混双决赛",
+      "title": "冲冠！黄友政/石洵瑶对决印度组合",
       "keyword": "01月23日21:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -2311,7 +2315,7 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打半决赛、混双决赛",
+      "pkInfoTitle": "冲冠！黄友政/石洵瑶对决印度组合",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打半决赛、混双决赛",
       "presenters": "肖扬",
       "matchInfo": {
@@ -3006,7 +3010,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564209/202512171200_133606_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
       "pkInfoTitle": "上海玄鸟 VS 杭州经纬",
-      "modifyTitle": "NBL常规���",
+      "modifyTitle": "NBL常规赛",
       "presenters": "",
       "matchInfo": {
         "time": "01月24日17:00"
