@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-27 00:14:59",
+  "updateTime": "2026-01-27 05:22:07",
   "data": [
     {
       "mgdbId": "120000543601",
@@ -2252,7 +2252,7 @@
     },
     {
       "mgdbId": "120000564247",
-      "pID": "962304168",
+      "pID": "962691606",
       "title": "NBL常规赛",
       "keyword": "01月26日19:30",
       "sportItemId": "2",
@@ -2269,8 +2269,8 @@
       },
       "nodes": [
         {
-          "pID": "962304168",
-          "name": "入选国际篮联名人堂！王治郅深度专题片：21年职业生涯回顾 至今没有微信只用现金"
+          "pID": "962691606",
+          "name": "2026赛季NBL全国男子篮球联赛常规赛第14轮全场集锦：石家庄翔蓝vs焦作文旅"
         },
         {
           "pID": "962500556",
@@ -2460,26 +2460,22 @@
     },
     {
       "mgdbId": "120000566850",
-      "pID": "962585331",
-      "title": "凯伦·威尔逊、墨菲、霍金斯出战",
+      "pID": "962585373",
+      "title": "凯伦·威尔逊、墨菲、霍金斯晋级",
       "keyword": "01月26日22:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714G438QI4U.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊、墨菲、霍金斯出战",
-      "modifyTitle": "2026斯诺克德国大师赛第一轮：凯伦·威尔逊、墨菲、霍金斯出战",
+      "pkInfoTitle": "凯伦·威尔逊、墨菲、霍金斯晋级",
+      "modifyTitle": "2026斯诺克德国大师赛第一轮：凯伦·威尔逊、墨菲、霍金斯晋级",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "01月26日22:00"
       },
       "nodes": [
-        {
-          "pID": "962585331",
-          "name": "2号桌"
-        },
         {
           "pID": "962585373",
           "name": "3号桌"
@@ -2487,6 +2483,10 @@
         {
           "pID": "962585391",
           "name": "4号桌"
+        },
+        {
+          "pID": "962585331",
+          "name": "2号桌"
         },
         {
           "pID": "962684290",
@@ -2500,14 +2500,14 @@
     },
     {
       "mgdbId": "120000547203",
-      "pID": "962610055",
+      "pID": "962693660",
       "title": "NBA常规赛",
       "keyword": "01月27日02:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A83LAVRS.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/7718599TRSBJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "步行者VS老鹰",
       "modifyTitle": "NBA常规赛",
@@ -2516,6 +2516,10 @@
         "time": "01月27日02:30"
       },
       "nodes": [
+        {
+          "pID": "962693660",
+          "name": "25/26赛季NBA常规赛全场集锦：步行者116:132老鹰（20260127）"
+        },
         {
           "pID": "962610055",
           "name": "王琰博"
@@ -2532,10 +2536,10 @@
       "title": "威廉姆斯、韦克林出战",
       "keyword": "01月27日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77184D6ACQHK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "威廉姆斯、韦克林出战",
       "modifyTitle": "2026斯诺克德国大师赛第一轮：威廉姆斯、韦克林出战",
@@ -2560,10 +2564,10 @@
       "title": "意甲联赛",
       "keyword": "01月27日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "本特戈蒂球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543086/202507101925_502098_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543086/313122_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "维罗纳 vs 乌迪内斯",
       "modifyTitle": "意甲联赛",
@@ -2592,7 +2596,7 @@
       "title": "英超联赛",
       "keyword": "01月27日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542296/209217_H169_sc.jpg",
@@ -2628,10 +2632,10 @@
       "title": "西甲联赛",
       "keyword": "01月27日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "蒙蒂利维市政球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543371/202507102036_857462_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543371/576581_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
       "pkInfoTitle": "赫罗纳 vs 赫塔费",
       "modifyTitle": "西甲联赛",
@@ -2656,7 +2660,7 @@
       "title": "NBA常规赛",
       "keyword": "01月27日04:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A8HQ9517.png",
@@ -3911,10 +3915,6 @@
         {
           "pID": "962436077",
           "name": "清流"
-        },
-        {
-          "pID": "962435997",
-          "name": "���流"
         }
       ]
     },
@@ -5559,6 +5559,10 @@
         {
           "pID": "962436896",
           "name": "清流"
+        },
+        {
+          "pID": "962436896",
+          "name": "���流"
         }
       ]
     },
