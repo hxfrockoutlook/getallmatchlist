@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-28 00:15:22",
+  "updateTime": "2026-01-28 05:21:27",
   "data": [
     {
       "mgdbId": "120000542618",
@@ -2184,37 +2184,37 @@
     },
     {
       "mgdbId": "120000566855",
-      "pID": "962684300",
-      "title": "龙泽煌PK奥沙利文 赵心童5-0江俊",
+      "pID": "962586049",
+      "title": "奥沙利文、塞尔比晋级 赵心童5-0江俊",
       "keyword": "01月27日22:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/771871SU3JN9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "龙泽煌PK奥沙利文 赵心童5-0江俊",
-      "modifyTitle": "斯诺克德国大师赛第一轮：龙泽煌PK奥沙利文 赵心童5-0江俊",
+      "pkInfoTitle": "奥沙利文、塞尔比晋级 赵心童5-0江俊",
+      "modifyTitle": "斯诺克德国大师赛第一轮：奥沙利文、塞尔比晋级 赵心童5-0江俊",
       "presenters": "朱蒙 柏林",
       "matchInfo": {
         "time": "01月27日22:00"
       },
       "nodes": [
         {
-          "pID": "962684300",
-          "name": "解说：朱蒙"
-        },
-        {
-          "pID": "962585639",
-          "name": "1号桌"
-        },
-        {
           "pID": "962586049",
           "name": "4号桌"
         },
         {
+          "pID": "962684300",
+          "name": "解说：朱蒙"
+        },
+        {
           "pID": "962684310",
           "name": "解说：柏林"
+        },
+        {
+          "pID": "962585639",
+          "name": "1号桌"
         },
         {
           "pID": "962585823",
@@ -2228,22 +2228,30 @@
     },
     {
       "mgdbId": "120000566856",
-      "pID": "962585163",
-      "title": "32进16：囧哥、墨菲出战",
+      "pID": "962585267",
+      "title": "32进16：囧哥、墨菲晋级",
       "keyword": "01月28日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/28/7719241NOCT9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "32进16：囧哥、墨菲出战",
-      "modifyTitle": "2026年斯诺克德国大师赛32进16：囧哥、墨菲出战",
+      "pkInfoTitle": "32进16：囧哥、墨菲晋级",
+      "modifyTitle": "2026年斯诺克德国大师赛32进16：囧哥、墨菲晋级",
       "presenters": "",
       "matchInfo": {
         "time": "01月28日03:00"
       },
       "nodes": [
+        {
+          "pID": "962585267",
+          "name": "4号桌"
+        },
+        {
+          "pID": "962585237",
+          "name": "3号桌"
+        },
         {
           "pID": "962585163",
           "name": "1号桌"
@@ -2251,14 +2259,6 @@
         {
           "pID": "962585226",
           "name": "2号桌"
-        },
-        {
-          "pID": "962585237",
-          "name": "3号桌"
-        },
-        {
-          "pID": "962585267",
-          "name": "4号桌"
         }
       ]
     },
@@ -2268,7 +2268,7 @@
       "title": "德甲联赛",
       "keyword": "01月28日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "米勒恩托门体育场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542859/730126_H169_sc.jpg",
@@ -2300,7 +2300,7 @@
       "title": "德甲联赛",
       "keyword": "01月28日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "威悉球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542862/843872_H169_sc.jpg",
@@ -2328,7 +2328,7 @@
       "title": "意大利杯1/8决赛",
       "keyword": "01月28日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "弗朗基球场",
       "competitionName": "意大利杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000550699/407741_H169_sc.jpg",
@@ -2665,16 +2665,16 @@
     {
       "mgdbId": "120000567053",
       "pID": "962683581",
-      "title": "泰国羽毛球大师赛第二日",
+      "title": "国羽女单独苗！韩千禧对阵卡洛亚娜",
       "keyword": "01月28日10:00",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/28/77194NGN0MM3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "泰国羽毛球大师赛第二日",
-      "modifyTitle": "2026泰国羽毛球大师赛Day2：1/16决赛",
+      "pkInfoTitle": "国羽女单独苗！韩千禧对阵卡洛亚娜",
+      "modifyTitle": "2026泰国羽毛球大师赛Day2：国羽女单独苗！韩千禧对阵卡洛亚娜",
       "presenters": "",
       "matchInfo": {
         "time": "01月28日10:00"
@@ -2869,16 +2869,16 @@
     {
       "mgdbId": "120000566857",
       "pID": "962585284",
-      "title": "斯诺克德国大师赛32进16",
+      "title": "庞俊旭PK罗伯逊 张安达、高阳出战",
       "keyword": "01月28日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/28/77191SJ4R8O4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克德国大师赛32进16",
-      "modifyTitle": "斯诺克德国大师赛第二轮Day3 32进16",
+      "pkInfoTitle": "庞俊旭PK罗伯逊 张安达、高阳出战",
+      "modifyTitle": "斯诺克德国大师赛第二轮Day3：庞俊旭PK罗伯逊 张安达、高阳出战",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "01月28日17:00"
@@ -4169,7 +4169,7 @@
     {
       "mgdbId": "120000547224",
       "pID": "962608946",
-      "title": "NBA��规赛",
+      "title": "NBA常规赛",
       "keyword": "01月30日08:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -4263,6 +4263,10 @@
         {
           "pID": "962436896",
           "name": "清流"
+        },
+        {
+          "pID": "962436896",
+          "name": "清��"
         }
       ]
     },
@@ -4957,7 +4961,7 @@
       "keyword": "01月31日08:00",
       "sportItemId": "2",
       "matchStatus": "0",
-      "matchField": "第一资本��育馆",
+      "matchField": "第一资本体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547231/202601151118_616846_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
@@ -6856,7 +6860,7 @@
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542613/202507101726_499336_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
-      "pkInfoTitle": "斯特拉斯堡 vs 巴黎圣日耳曼",
+      "pkInfoTitle": "��特拉斯堡 vs 巴黎圣日耳曼",
       "modifyTitle": "法甲联赛",
       "presenters": "",
       "matchInfo": {
