@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-11 00:12:55",
+  "updateTime": "2026-02-11 05:19:50",
   "data": [
     {
       "mgdbId": "120000542603",
@@ -493,7 +493,7 @@
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HT2S27R31.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
-      "pkInfoTitle": "���西竹叶青酒 vs合肥文旅",
+      "pkInfoTitle": "山西竹叶青酒 vs合肥文旅",
       "modifyTitle": "女篮俱乐部杯",
       "presenters": "",
       "matchInfo": {
@@ -797,7 +797,7 @@
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773IPAL133TN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
-      "pkInfoTitle": "山���汾酒vs浙江方兴渡",
+      "pkInfoTitle": "山西汾酒vs浙江方兴渡",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
       "presenters": "庄宁宇 陈正昊 李根",
       "matchInfo": {
@@ -1438,6 +1438,10 @@
       "nodes": [
         {
           "pID": "963005767",
+          "name": "2026中国篮协女篮俱乐部杯小组赛B组全场回放：陕西榆林��泽 vs 北京首钢园"
+        },
+        {
+          "pID": "963005767",
           "name": "2026中国篮协女篮俱乐部杯小组赛B组全场回放：陕西榆林天泽 vs 北京首钢园"
         },
         {
@@ -1480,7 +1484,7 @@
     },
     {
       "mgdbId": "120000568483",
-      "pID": "962870643",
+      "pID": "963007959",
       "title": "女篮俱乐部杯",
       "keyword": "02月10日17:00",
       "sportItemId": "2",
@@ -1497,6 +1501,10 @@
       },
       "nodes": [
         {
+          "pID": "963007959",
+          "name": "2026中国篮协女篮俱乐部杯小组赛A组全场回放：东莞新彤盛vs福建金篮（现场解说）"
+        },
+        {
           "pID": "962870643",
           "name": "解说"
         }
@@ -1504,7 +1512,7 @@
     },
     {
       "mgdbId": "120000568484",
-      "pID": "962870689",
+      "pID": "963007139",
       "title": "女篮俱乐部杯",
       "keyword": "02月10日17:00",
       "sportItemId": "2",
@@ -1520,6 +1528,10 @@
         "time": "02月10日17:00"
       },
       "nodes": [
+        {
+          "pID": "963007139",
+          "name": "2026中国篮协女篮俱乐部杯小组赛B组全场回放：四川蜀道远达vs厦门银行"
+        },
         {
           "pID": "962870689",
           "name": "赛场原声"
@@ -1617,37 +1629,21 @@
     {
       "mgdbId": "120000568498",
       "pID": "962870640",
-      "title": "王欣瑜、郑钦文出战 斯瓦泰克晋级",
+      "title": "高芙出局 斯瓦泰克速胜晋级",
       "keyword": "02月10日18:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JMONVQKD5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KH486DN9A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "王欣瑜、郑钦文出战 斯瓦泰克晋级",
-      "modifyTitle": "WTA多哈站Day3：王欣瑜、郑钦文出战 斯瓦泰克晋级",
-      "presenters": "单文强 胡力涛",
+      "pkInfoTitle": "高芙出局 斯瓦泰克速胜晋级",
+      "modifyTitle": "WTA多哈站Day3：高芙出局 斯瓦泰克速胜晋级",
+      "presenters": "胡力涛",
       "matchInfo": {
         "time": "02月10日18:00"
       },
       "nodes": [
-        {
-          "pID": "963000748",
-          "name": "郑钦文 VS 帕克斯 （赛场原声）"
-        },
-        {
-          "pID": "963000783",
-          "name": "郑钦文 VS 帕克斯（单文强）"
-        },
-        {
-          "pID": "963000708",
-          "name": "王欣瑜 VS 莱巴金娜 （胡力涛）"
-        },
-        {
-          "pID": "963000722",
-          "name": "王欣瑜 VS 莱巴金娜（智能球路轨迹）"
-        },
         {
           "pID": "962870640",
           "name": "赛场原声"
@@ -1659,22 +1655,30 @@
         {
           "pID": "963000772",
           "name": "郑钦文 VS 帕克斯（英文原声）"
+        },
+        {
+          "pID": "963000708",
+          "name": "王欣瑜 VS 莱巴金娜 （胡力涛）"
+        },
+        {
+          "pID": "963000722",
+          "name": "王欣瑜 VS 莱巴金娜（智能球路轨迹）"
         }
       ]
     },
     {
       "mgdbId": "120000569172",
-      "pID": "962976753",
-      "title": "吴安仪迎战宾汉姆",
+      "pID": "962976742",
+      "title": "墨菲出战 加里·威尔逊晋级",
       "keyword": "02月10日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JMU99S49S.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KHG3DUMIH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吴安仪迎战宾汉姆",
-      "modifyTitle": "斯诺克玉山世界公开赛资格赛：吴安仪迎战宾汉姆",
+      "pkInfoTitle": "墨菲出战 加里·威尔逊晋级",
+      "modifyTitle": "斯诺克玉山世界公开赛资格赛：墨菲出战 加里·威尔逊晋级",
       "presenters": "",
       "matchInfo": {
         "time": "02月10日18:00"
@@ -1683,10 +1687,6 @@
         {
           "pID": "962976742",
           "name": "1号桌"
-        },
-        {
-          "pID": "962976753",
-          "name": "2号桌"
         },
         {
           "pID": "962976768",
@@ -1701,12 +1701,16 @@
           "name": "5号桌"
         },
         {
-          "pID": "962976855",
-          "name": "6号桌"
-        },
-        {
           "pID": "962976869",
           "name": "7号桌"
+        },
+        {
+          "pID": "962976753",
+          "name": "2号桌"
+        },
+        {
+          "pID": "962976855",
+          "name": "6号桌"
         },
         {
           "pID": "962976885",
@@ -1887,7 +1891,7 @@
       "matchStatus": "2",
       "matchField": "马克图姆球场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564587/202512311531_183645_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564587/202602110015_576714_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "德黑兰独立 vs 艾尔胡塞因",
       "modifyTitle": "亚冠二级1/8决赛",
@@ -1912,7 +1916,7 @@
       "title": "WTA多哈站Day3：帕克斯 vs 郑钦文",
       "keyword": "02月10日23:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JKV4EP54T.jpg",
@@ -1940,11 +1944,11 @@
     },
     {
       "mgdbId": "120000569176",
-      "pID": "962870640",
+      "pID": "963000708",
       "title": "WTA多哈站Day3：王欣瑜 vs 莱巴金娜",
       "keyword": "02月10日23:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JKVO43PJI.jpg",
@@ -1980,7 +1984,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月11日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "贾西姆·本·哈马德球场",
       "competitionName": "亚冠精英",
       "padImg": "",
@@ -2008,10 +2012,10 @@
       "title": "亚冠二级1/8决赛",
       "keyword": "02月11日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "祖拉体育场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564586/202512311531_592875_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564586/202602110215_969656_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "艾尔扎拉 vs 阿尔瓦斯尔",
       "modifyTitle": "亚冠二级1/8决赛",
@@ -2036,10 +2040,10 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月11日02:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "阿卜杜拉国王体育城球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F3CVVJJ5F.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KI0BU85R4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "吉达联合 vs 加拉法",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -2064,7 +2068,7 @@
       "title": "英超联赛",
       "keyword": "02月11日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "托特纳姆热刺球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542263/562893_H169_sc.jpg",
@@ -2096,7 +2100,7 @@
       "title": "英超联赛",
       "keyword": "02月11日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542267/324129_H169_sc.jpg",
@@ -2128,7 +2132,7 @@
       "title": "英超联赛",
       "keyword": "02月11日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "斯坦福桥球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542269/450223_H169_sc.jpg",
@@ -2164,7 +2168,7 @@
       "title": "意大利杯1/4决赛",
       "keyword": "02月11日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "圣保罗球场",
       "competitionName": "意大利杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000567250/366510_H169_sc.jpg",
@@ -2192,7 +2196,7 @@
       "title": "英超联赛",
       "keyword": "02月11日04:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "伦敦奥林匹克体育场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542262/153520_H169_sc.jpg",
@@ -2341,15 +2345,15 @@
     {
       "mgdbId": "120000569010",
       "pID": "962928439",
-      "title": "男女单打资格赛第二、三轮及双打资格赛",
+      "title": "外协众将冲击正赛",
       "keyword": "02月11日13:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KKD0R8OG1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛第二、三轮及双打资格赛",
+      "pkInfoTitle": "外协众将冲击正赛",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打资格赛第二、三轮及双打资格赛",
       "presenters": "",
       "matchInfo": {
