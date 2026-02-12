@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-13 00:11:47",
+  "updateTime": "2026-02-13 05:18:45",
   "data": [
     {
       "mgdbId": "120000547919",
@@ -1620,22 +1620,26 @@
     },
     {
       "mgdbId": "120000569174",
-      "pID": "962977093",
-      "title": "吴宜泽白雨露出战 丁俊晖2-5傅家俊",
+      "pID": "962977121",
+      "title": "吴宜泽、塞尔比晋级 丁俊晖2-5傅家俊",
       "keyword": "02月12日18:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LH8E7RISK.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MC18P0PI2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吴宜泽白雨露出战 丁俊晖2-5傅家俊",
-      "modifyTitle": "斯诺克世界公开赛资格赛：吴宜泽白雨露出战 丁俊晖2-5傅家俊",
+      "pkInfoTitle": "吴宜泽、塞尔比晋级 丁俊晖2-5傅家俊",
+      "modifyTitle": "斯诺克玉山世界公开赛资格赛：吴宜泽、塞尔比晋级 丁俊晖2-5傅家俊",
       "presenters": "柏林",
       "matchInfo": {
         "time": "02月12日18:00"
       },
       "nodes": [
+        {
+          "pID": "962977121",
+          "name": "7号桌"
+        },
         {
           "pID": "962977054",
           "name": "1号桌"
@@ -1653,20 +1657,16 @@
           "name": "4号桌"
         },
         {
+          "pID": "962977108",
+          "name": "5号桌"
+        },
+        {
           "pID": "962977114",
           "name": "6号桌"
         },
         {
-          "pID": "962977121",
-          "name": "7号桌"
-        },
-        {
           "pID": "962977133",
           "name": "备用信号"
-        },
-        {
-          "pID": "962977108",
-          "name": "5号桌"
         },
         {
           "pID": "963042598",
@@ -1735,22 +1735,26 @@
         {
           "pID": "962996347",
           "name": "赛场原声"
+        },
+        {
+          "pID": "963053475",
+          "name": "25/26赛季CBA俱乐部杯冠军赛全场集锦：上海vs���西"
         }
       ]
     },
     {
       "mgdbId": "120000568500",
       "pID": "962870825",
-      "title": "斯瓦泰克出战 奥斯塔彭科 2-0 科恰雷托",
+      "title": "姆博科晋级四强 斯瓦泰克1-2萨卡里",
       "keyword": "02月12日20:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LGMHJQOCR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCGKJPLC8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "斯瓦泰克出战 奥斯塔彭科 2-0 科恰雷托",
-      "modifyTitle": "WTA多哈站Day5：斯瓦泰克出战 奥斯塔彭科 2-0 科恰雷托",
+      "pkInfoTitle": "姆博科晋级四强 斯瓦泰克1-2萨卡里",
+      "modifyTitle": "WTA多哈站Day5：姆博科晋级四强 斯瓦泰克1-2萨卡里",
       "presenters": "",
       "matchInfo": {
         "time": "02月12日20:00"
@@ -1796,14 +1800,14 @@
     },
     {
       "mgdbId": "120000566495",
-      "pID": "963050551",
+      "pID": "963050560",
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：博戈里亚达通vs苏赫纽夫奥尔利奇银行",
       "keyword": "02月13日01:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LF7VV401O.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBDEC5EKM.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V4JDQ2PO.png",
       "pkInfoTitle": "博戈里亚达通vs苏赫纽夫奥尔利奇银行",
       "modifyTitle": "欧乒联男子欧冠联赛1/4决赛第二回合：博戈里亚达通vs苏赫纽夫奥尔利奇银行",
@@ -1813,12 +1817,12 @@
       },
       "nodes": [
         {
-          "pID": "963050551",
-          "name": "赛场原声"
-        },
-        {
           "pID": "963050560",
           "name": "周冠达"
+        },
+        {
+          "pID": "963050551",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1828,7 +1832,7 @@
       "title": "英超联赛",
       "keyword": "02月13日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Gtech Community Stadium",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542270/526269_H169_sc.jpg",
@@ -1977,15 +1981,15 @@
     {
       "mgdbId": "120000569013",
       "pID": "962929441",
-      "title": "男女单打1/16决赛、双打1/4决赛",
+      "title": "芝田沙季pk柳韩娜 林仲勋/吴晙诚出战",
       "keyword": "02月13日13:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBEHP96L6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、双打1/4决赛",
+      "pkInfoTitle": "芝田沙季pk柳韩娜 林仲勋/吴晙诚出战",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/16决赛、双打1/4决赛",
       "presenters": "凌维康",
       "matchInfo": {
@@ -2021,15 +2025,15 @@
     {
       "mgdbId": "120000569014",
       "pID": "962929717",
-      "title": "男女单打1/16决赛、双打半决赛、混双1/4决赛",
+      "title": "冲单打16强！林仲勋、大藤沙月出战",
       "keyword": "02月13日19:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBFOA6CQG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、双打半决赛、混双1/4决赛",
+      "pkInfoTitle": "冲单打16强！林仲勋、大藤沙月出战",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/16决赛、双打半决赛、混双1/4决赛",
       "presenters": "刘馨蕊",
       "matchInfo": {
@@ -2114,7 +2118,7 @@
     },
     {
       "mgdbId": "120000564347",
-      "pID": "963050565",
+      "pID": "963050575",
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：萨尔布吕肯vs昆内邦",
       "keyword": "02月14日02:00",
       "sportItemId": "7",
@@ -2131,18 +2135,18 @@
       },
       "nodes": [
         {
-          "pID": "963050565",
-          "name": "赛场原声"
-        },
-        {
           "pID": "963050575",
           "name": "凌维康"
+        },
+        {
+          "pID": "963050565",
+          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000566496",
-      "pID": "963050596",
+      "pID": "963050602",
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：杜塞尔多夫vs穆尔豪森邮政",
       "keyword": "02月14日02:00",
       "sportItemId": "7",
@@ -2159,12 +2163,12 @@
       },
       "nodes": [
         {
-          "pID": "963050596",
-          "name": "赛场原声"
-        },
-        {
           "pID": "963050602",
           "name": "刘馨蕊"
+        },
+        {
+          "pID": "963050596",
+          "name": "赛场原声"
         },
         {
           "pID": "963050595",
@@ -3212,7 +3216,7 @@
     },
     {
       "mgdbId": "120000566497",
-      "pID": "963050608",
+      "pID": "963050616",
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：迪亚尔多沃德科玻璃vs尼姆-蒙彼利埃",
       "keyword": "02月16日00:00",
       "sportItemId": "7",
@@ -3229,12 +3233,12 @@
       },
       "nodes": [
         {
-          "pID": "963050608",
-          "name": "赛场原声"
-        },
-        {
           "pID": "963050616",
           "name": "周泽昊"
+        },
+        {
+          "pID": "963050608",
+          "name": "赛场原声"
         }
       ]
     },
@@ -3437,6 +3441,10 @@
         {
           "pID": "962933951",
           "name": "英文原声"
+        },
+        {
+          "pID": "962933762",
+          "name": "杨健 曾令�� 周鹏"
         }
       ]
     },
