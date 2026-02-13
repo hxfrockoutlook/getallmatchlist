@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-14 00:12:31",
+  "updateTime": "2026-02-14 05:19:21",
   "data": [
     {
       "mgdbId": "120000564582",
@@ -935,6 +935,10 @@
         {
           "pID": "962996347",
           "name": "赛场原声"
+        },
+        {
+          "pID": "963053475",
+          "name": "25/26赛季CBA俱乐部杯冠军赛全场集锦���上海vs山西"
         }
       ]
     },
@@ -1269,17 +1273,17 @@
     {
       "mgdbId": "120000568501",
       "pID": "962870948",
-      "title": "奥斯塔彭科冲击决赛 穆霍娃接场",
+      "title": "穆霍娃2-1萨卡里 姆博科晋级决赛",
       "keyword": "02月13日23:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MDO1NJTV5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N90JDGVKG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "奥斯塔彭科冲击决赛 穆霍娃接场",
-      "modifyTitle": "WTA多哈站Day6：奥斯塔彭科冲击决赛 穆霍娃接场",
-      "presenters": "房朕 单文强",
+      "pkInfoTitle": "穆霍娃2-1萨卡里 姆博科晋级决赛",
+      "modifyTitle": "WTA多哈站Day6：穆霍娃2-1萨卡里 姆博科晋级决赛",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "02月13日23:00"
       },
@@ -1289,16 +1293,12 @@
           "name": "赛场原声"
         },
         {
-          "pID": "963068901",
-          "name": "奥斯塔彭科 VS 姆博科(房朕)"
+          "pID": "963071177",
+          "name": "萨卡里 VS 穆霍娃(单文强)"
         },
         {
           "pID": "962870979",
           "name": "英文原声"
-        },
-        {
-          "pID": "963071177",
-          "name": "萨卡里 VS 穆霍娃(单文强)"
         },
         {
           "pID": "963071111",
@@ -1308,22 +1308,26 @@
     },
     {
       "mgdbId": "120000569438",
-      "pID": "962870948",
-      "title": "奥斯塔彭科 vs 姆博科",
+      "pID": "963068901",
+      "title": "奥斯塔彭科 0-2 姆博科",
       "keyword": "02月13日23:05",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCA416F3A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "奥斯塔彭科 vs 姆博科",
-      "modifyTitle": "奥斯塔彭科 vs 姆博科",
+      "pkInfoTitle": "奥斯塔彭科 0-2 姆博科",
+      "modifyTitle": "奥斯塔彭科 0-2 姆博科",
       "presenters": "房朕",
       "matchInfo": {
         "time": "02月13日23:05"
       },
       "nodes": [
+        {
+          "pID": "963068901",
+          "name": "房朕"
+        },
         {
           "pID": "962870948",
           "name": "赛场原声"
@@ -1331,29 +1335,25 @@
         {
           "pID": "962870979",
           "name": "英文原声"
-        },
-        {
-          "pID": "963068901",
-          "name": "房朕"
         }
       ]
     },
     {
       "mgdbId": "120000569439",
       "pID": "962870948",
-      "title": "萨卡里 vs 穆霍娃",
-      "keyword": "02月14日00:30",
+      "title": "萨卡里 1-2 穆霍娃",
+      "keyword": "02月14日00:40",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBT61I4DS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N8SD8BPD6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨卡里 vs 穆霍娃",
-      "modifyTitle": "萨卡里 vs 穆霍娃",
+      "pkInfoTitle": "萨卡里 1-2 穆霍娃",
+      "modifyTitle": "萨卡里 1-2 穆霍娃",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "02月14日00:30"
+        "time": "02月14日00:40"
       },
       "nodes": [
         {
@@ -1380,10 +1380,10 @@
       "title": "法甲联赛",
       "keyword": "02月14日02:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "卢阿宗公园球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542597/348961_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542597/572844_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
       "pkInfoTitle": "雷恩 vs 巴黎圣日耳曼",
       "modifyTitle": "法甲联赛",
@@ -1408,10 +1408,10 @@
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：萨尔布吕肯vs昆内邦",
       "keyword": "02月14日02:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JMUH230B8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9DJ9O2B0.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V4JDQ2PO.png",
       "pkInfoTitle": "萨尔布吕肯vs昆内邦",
       "modifyTitle": "欧乒联男子欧冠联赛1/4决赛第二回合：萨尔布吕肯vs昆内邦",
@@ -1432,14 +1432,14 @@
     },
     {
       "mgdbId": "120000566496",
-      "pID": "963050602",
+      "pID": "963083619",
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：杜塞尔多夫vs穆尔豪森邮政",
       "keyword": "02月14日02:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714GC85TK6A.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N8P7OCONV.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V4JDQ2PO.png",
       "pkInfoTitle": "杜塞尔多夫vs穆尔豪森邮政",
       "modifyTitle": "欧乒联男子欧冠联赛1/4决赛第二回合：杜塞尔多夫vs穆尔豪森邮政",
@@ -1448,6 +1448,14 @@
         "time": "02月14日02:00"
       },
       "nodes": [
+        {
+          "pID": "963083619",
+          "name": "全场回放（刘馨蕊）"
+        },
+        {
+          "pID": "963083275",
+          "name": "【回放】安东·卡尔伯格3-0尼科·穆勒"
+        },
         {
           "pID": "963050602",
           "name": "刘馨蕊"
@@ -1468,7 +1476,7 @@
       "title": "英女超",
       "keyword": "02月14日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569442/202602131135_618964_H169_1080.webp",
@@ -1496,7 +1504,7 @@
       "title": "德甲联赛",
       "keyword": "02月14日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "多特蒙德球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542821/635853_H169_sc.jpg",
@@ -1524,7 +1532,7 @@
       "title": "意甲联赛",
       "keyword": "02月14日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543759/184548_H169_sc.jpg",
@@ -1552,7 +1560,7 @@
       "title": "足总杯第四轮",
       "keyword": "02月14日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金斯顿通信球场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LEHID6VHJ.jpg",
@@ -1580,7 +1588,7 @@
       "title": "足总杯第四轮",
       "keyword": "02月14日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "赛道球场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000565535/202601130331_486657_H169_1080.webp",
@@ -1608,7 +1616,7 @@
       "title": "西甲联赛",
       "keyword": "02月14日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "曼努埃尔·马丁内斯·巴莱罗市政体育场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543869/620933_H169_sc.jpg",
@@ -1636,7 +1644,7 @@
       "title": "法甲联赛",
       "keyword": "02月14日04:05",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "路易二世球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542598/202507101721_434385_H169_1080.webp",
@@ -1815,7 +1823,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NBKPI2PC8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NBLKGJNNM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "金娜英vs横井咲樱 吴晙诚/长崎美柚冲决赛",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/8决赛、混双半决赛",
@@ -2191,34 +2199,6 @@
       ]
     },
     {
-      "mgdbId": "120000565531",
-      "pID": "963064812",
-      "title": "足总杯第四轮",
-      "keyword": "02月14日23:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "维尔公园球场",
-      "competitionName": "足总杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000565531/202601130331_768763_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png",
-      "pkInfoTitle": "维尔港 vs 布里斯托尔城",
-      "modifyTitle": "足总杯第四轮",
-      "presenters": "乔迁",
-      "matchInfo": {
-        "time": "02月14日23:00"
-      },
-      "nodes": [
-        {
-          "pID": "963064812",
-          "name": "乔迁"
-        },
-        {
-          "pID": "963064808",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000565534",
       "pID": "963064794",
       "title": "足总杯第四轮",
@@ -2305,16 +2285,16 @@
     {
       "mgdbId": "120000568502",
       "pID": "962870998",
-      "title": "WTA多哈站Day7",
+      "title": "穆霍娃 vs 姆博科",
       "keyword": "02月14日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9EKIS1II.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA多哈站Day7",
-      "modifyTitle": "WTA多哈站Day7",
+      "pkInfoTitle": "穆霍娃 vs 姆博科",
+      "modifyTitle": "WTA多哈站Day7：穆霍娃 vs 姆博科",
       "presenters": "",
       "matchInfo": {
         "time": "02月14日23:00"
@@ -2333,6 +2313,24 @@
           "name": "智能球路轨迹"
         }
       ]
+    },
+    {
+      "mgdbId": "120000569495",
+      "title": "穆霍娃 vs 姆博科",
+      "keyword": "02月14日23:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9ECA4SGD.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "穆霍娃 vs 姆博科",
+      "modifyTitle": "穆霍娃 vs 姆博科",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月14日23:00"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000543346",
@@ -3718,7 +3716,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000565526/202601130330_950592_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png",
       "pkInfoTitle": "马科斯菲尔德镇 vs 布伦特福德",
-      "modifyTitle": "足总杯第四轮",
+      "modifyTitle": "足总��第四轮",
       "presenters": "涂远",
       "matchInfo": {
         "time": "02月17日03:30"
@@ -3989,7 +3987,7 @@
     {
       "mgdbId": "120000547907",
       "pID": "963063173",
-      "title": "亚冠精英联赛��段",
+      "title": "亚冠精英联赛阶段",
       "keyword": "02月18日00:00",
       "sportItemId": "1",
       "matchStatus": "0",
