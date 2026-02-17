@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 05:19:08",
+  "updateTime": "2026-02-17 14:19:11",
   "data": [
     {
       "mgdbId": "120000542601",
@@ -1556,10 +1556,10 @@
       "title": "足总杯第四轮",
       "keyword": "02月17日03:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "蔷薇球场",
       "competitionName": "足总杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P37S96BDT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q0UUOUFT3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png",
       "pkInfoTitle": "马科斯菲尔德镇 vs 布伦特福德",
       "modifyTitle": "足总杯第四轮",
@@ -1584,10 +1584,10 @@
       "title": "意甲联赛",
       "keyword": "02月17日03:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "撒丁岛竞技场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543070/769677_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q10JIJDUD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "卡利亚里 vs 莱切",
       "modifyTitle": "意甲联赛",
@@ -1612,10 +1612,10 @@
       "title": "西甲联赛",
       "keyword": "02月17日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "蒙蒂利维市政球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543349/702941_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543349/472993_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
       "pkInfoTitle": "赫罗纳 vs 巴塞罗那",
       "modifyTitle": "西甲联赛",
@@ -1640,11 +1640,11 @@
     },
     {
       "mgdbId": "120000569500",
-      "pID": "963095635",
+      "pID": "963133230",
       "title": "2003-04赛季魔术vs奇才",
       "keyword": "02月17日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -1656,6 +1656,10 @@
         "time": "02月17日10:00"
       },
       "nodes": [
+        {
+          "pID": "963133230",
+          "name": "2003-04赛季魔术vs奇才全场回放：麦迪生涯最高62分回顾（王冠证）"
+        },
         {
           "pID": "963095635",
           "name": "王冠证"
@@ -1682,7 +1686,7 @@
       "nodes": [
         {
           "pID": "963046780",
-          "name": "清流"
+          "name": "赛场原声"
         },
         {
           "pID": "963046805",
@@ -1897,7 +1901,7 @@
     {
       "mgdbId": "120000547907",
       "pID": "963063173",
-      "title": "亚冠精英联赛阶段",
+      "title": "亚���精英联赛阶段",
       "keyword": "02月18日00:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -1997,16 +2001,16 @@
       },
       "nodes": [
         {
+          "pID": "963122413",
+          "name": "朱蒙"
+        },
+        {
           "pID": "963070397",
           "name": "1号桌"
         },
         {
           "pID": "963070418",
           "name": "2号桌"
-        },
-        {
-          "pID": "963122413",
-          "name": "朱蒙"
         }
       ]
     },
@@ -2442,7 +2446,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q24P2EP1J.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打资格赛1/32决赛",
       "modifyTitle": "WTT新加坡大满贯资格赛：男女单打资格赛1/32决赛",
@@ -2482,7 +2486,7 @@
     },
     {
       "mgdbId": "120000569139",
-      "title": "男女单打资格���1/32决赛",
+      "title": "男女单打资格赛1/32决赛",
       "keyword": "02月19日16:00",
       "sportItemId": "7",
       "matchStatus": "0",
