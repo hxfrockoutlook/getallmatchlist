@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-02-18 05:19:08",
+  "updateTime": "2026-02-18 14:19:06",
   "data": [
     {
       "mgdbId": "120000566497",
-      "pID": "963050616",
+      "pID": "963119890",
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：迪亚尔多沃德科玻璃vs尼姆-蒙彼利埃",
       "keyword": "02月16日00:00",
       "sportItemId": "7",
@@ -20,6 +20,10 @@
         "time": "02月16日00:00"
       },
       "nodes": [
+        {
+          "pID": "963119890",
+          "name": "25/26赛季乒乓球欧冠1/4决赛第二回合回放：迪亚斯0-3A·勒布伦（周泽昊）"
+        },
         {
           "pID": "963050616",
           "name": "周泽昊"
@@ -1097,16 +1101,16 @@
     {
       "mgdbId": "120000569451",
       "pID": "963070418",
-      "title": "肖国栋PK韦克林 塞尔比vs小司机",
+      "title": "肖国栋2-6韦克林 塞尔比6-3小司机",
       "keyword": "02月18日03:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9TF04E9I.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "肖国栋PK韦克林 塞尔比vs小司机",
-      "modifyTitle": "斯诺克球员锦标赛第1轮：肖国栋PK韦克林 塞尔比vs利索夫斯基",
+      "pkInfoTitle": "肖国栋2-6韦克林 塞尔比6-3小司机",
+      "modifyTitle": "斯诺克球员锦标赛第1轮：肖国栋2-6韦克林 塞尔比6-3利索夫斯基",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "02月18日03:00"
@@ -1117,12 +1121,12 @@
           "name": "朱蒙"
         },
         {
-          "pID": "963070397",
-          "name": "1号桌"
-        },
-        {
           "pID": "963070418",
           "name": "2号桌"
+        },
+        {
+          "pID": "963070397",
+          "name": "1号桌"
         }
       ]
     },
@@ -1132,7 +1136,7 @@
       "title": "1994-95赛季公牛vs尼克斯",
       "keyword": "02月18日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -1153,7 +1157,7 @@
     {
       "mgdbId": "120000569384",
       "pID": "963046826",
-      "title": "阿尼西莫娃vs曾丽美 小米拉接场",
+      "title": "WTA迪拜站Day4",
       "keyword": "02月18日15:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -1161,8 +1165,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773R06E24C3R.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "阿尼西莫娃vs曾丽美 小米拉接场",
-      "modifyTitle": "WTA迪拜站Day4：阿尼西莫娃vs曾丽美 小米拉接场",
+      "pkInfoTitle": "WTA迪拜站Day4",
+      "modifyTitle": "WTA迪拜站Day4：曾丽美 vs 阿尼西莫娃 小米拉接场",
       "presenters": "",
       "matchInfo": {
         "time": "02月18日15:00"
@@ -1187,7 +1191,7 @@
       "matchStatus": "0",
       "matchField": "墨尔本矩形球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547904/202509131330_974181_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QV1OR1K6K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "墨尔本城 vs 江原",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -1229,8 +1233,8 @@
           "name": "娄一晨 李彦 魏欣怡"
         },
         {
-          "pID": "963127420",
-          "name": "冬奥会女子空中技巧决赛"
+          "pID": "963127255",
+          "name": "同看冬奥会"
         },
         {
           "pID": "963063246",
@@ -1572,7 +1576,8 @@
     },
     {
       "mgdbId": "120000569137",
-      "title": "男女单打资格赛1/32决赛",
+      "pID": "963142817",
+      "title": "男女单打资格赛第一轮",
       "keyword": "02月19日11:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -1580,13 +1585,30 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q24P2EP1J.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛1/32决赛",
-      "modifyTitle": "WTT新加坡大满贯资格赛：男女单打资格赛1/32决赛",
-      "presenters": "",
+      "pkInfoTitle": "男女单打资格赛第一轮",
+      "modifyTitle": "WTT新加坡大满贯：男女单打资格赛第一轮",
+      "presenters": "凌维康",
       "matchInfo": {
         "time": "02月19日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963142817",
+          "name": "凌维康"
+        },
+        {
+          "pID": "963142786",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963142799",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963142808",
+          "name": "4号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000564573",
@@ -1618,7 +1640,8 @@
     },
     {
       "mgdbId": "120000569139",
-      "title": "男女单打资格赛1/32决赛",
+      "pID": "963142839",
+      "title": "男女单打资格赛第一轮",
       "keyword": "02月19日16:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -1626,13 +1649,30 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛1/32决赛",
-      "modifyTitle": "WTT新加坡大满贯资格赛：男女单打资格赛1/32决赛",
+      "pkInfoTitle": "男女单打资格赛第一轮",
+      "modifyTitle": "WTT新加坡大满贯：男女单打资格赛第一轮",
       "presenters": "",
       "matchInfo": {
         "time": "02月19日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963142839",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963142874",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963142899",
+          "name": "4号桌"
+        },
+        {
+          "pID": "963134556",
+          "name": "同看冬奥会冰壶"
+        }
+      ]
     },
     {
       "mgdbId": "120000564572",
@@ -1757,12 +1797,16 @@
       },
       "nodes": [
         {
+          "pID": "963122437",
+          "name": "朱蒙"
+        },
+        {
           "pID": "963070993",
           "name": "1号桌"
         },
         {
-          "pID": "963122437",
-          "name": "朱蒙"
+          "pID": "963135012",
+          "name": "同看冬奥会"
         }
       ]
     },
@@ -2036,7 +2080,8 @@
     },
     {
       "mgdbId": "120000569140",
-      "title": "男女单打资格赛1/32决赛",
+      "pID": "963142927",
+      "title": "男女单打资格赛第一轮",
       "keyword": "02月20日11:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -2044,13 +2089,26 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛1/32决赛",
-      "modifyTitle": "WTT新加坡大满贯资格赛：男女单打资格赛1/32决赛",
+      "pkInfoTitle": "男女单打资格赛第一轮",
+      "modifyTitle": "WTT新加坡大满贯：男女单打资格赛第一轮",
       "presenters": "",
       "matchInfo": {
         "time": "02月20日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963142927",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963142942",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963142967",
+          "name": "4号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000547345",
@@ -2082,7 +2140,8 @@
     },
     {
       "mgdbId": "120000569142",
-      "title": "男女单打资格赛1/16决赛",
+      "pID": "963143045",
+      "title": "男女单打资格赛第二轮",
       "keyword": "02月20日16:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -2090,16 +2149,34 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛1/16决赛",
-      "modifyTitle": "WTT新加坡大满贯资格赛：男女单打资格赛1/16决赛",
-      "presenters": "",
+      "pkInfoTitle": "男女单打资格赛第二轮",
+      "modifyTitle": "WTT新加坡大满贯：男女单打资格赛第二轮",
+      "presenters": "刘馨蕊",
       "matchInfo": {
         "time": "02月20日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143045",
+          "name": "刘馨蕊"
+        },
+        {
+          "pID": "963142992",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963143008",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963143029",
+          "name": "4号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000569143",
+      "pID": "963143071",
       "title": "抽签仪式：孙颖莎、林诗栋担任嘉宾",
       "keyword": "02月20日17:30",
       "sportItemId": "7",
@@ -2110,11 +2187,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "抽签仪式：孙颖莎、林诗栋担任嘉宾",
       "modifyTitle": "WTT新加坡大满贯：抽签仪式",
-      "presenters": "",
+      "presenters": "周泽昊",
       "matchInfo": {
         "time": "02月20日17:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143071",
+          "name": "周泽昊"
+        },
+        {
+          "pID": "963143058",
+          "name": "抽签仪式"
+        }
+      ]
     },
     {
       "mgdbId": "120000569386",
@@ -2582,7 +2668,8 @@
     },
     {
       "mgdbId": "120000569145",
-      "title": "男女单打资格赛1/16决赛",
+      "pID": "963143082",
+      "title": "男女单打资格赛第二轮",
       "keyword": "02月21日11:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -2590,17 +2677,31 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛1/16决赛",
-      "modifyTitle": "WTT新加坡大满贯资格赛：男女单打资格赛1/16决赛",
+      "pkInfoTitle": "男女单打资格赛第二轮",
+      "modifyTitle": "WTT新加坡大满贯：男女单打资格赛第二轮",
       "presenters": "",
       "matchInfo": {
         "time": "02月21日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143082",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963143092",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963143110",
+          "name": "4号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000569146",
-      "title": "男女单打资格赛1/8决赛",
+      "pID": "963143230",
+      "title": "男女单打资格赛第三轮",
       "keyword": "02月21日16:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -2608,17 +2709,35 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛1/8决赛",
-      "modifyTitle": "WTT新加坡大满贯资格赛：男女单打资格赛1/8决赛",
-      "presenters": "",
+      "pkInfoTitle": "男女单打资格赛第三轮",
+      "modifyTitle": "WTT新加坡大满贯：男女单打资格赛第三轮",
+      "presenters": "刘馨蕊",
       "matchInfo": {
         "time": "02月21日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143230",
+          "name": "刘馨蕊"
+        },
+        {
+          "pID": "963143145",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963143166",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963143217",
+          "name": "4号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000569147",
-      "title": "程靖淇领衔嘉宾坐镇直播间",
+      "pID": "963143236",
+      "title": "程靖淇、周冠达、周泽昊解读签位",
       "keyword": "02月21日18:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -2626,13 +2745,18 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "程靖淇领衔嘉宾坐镇直播间",
-      "modifyTitle": "WTT新加坡大满贯：程靖淇领衔嘉宾坐镇直播间",
-      "presenters": "",
+      "pkInfoTitle": "程靖淇、周冠达、周泽昊解读签位",
+      "modifyTitle": "WTT新加坡大满贯：程靖淇、周冠达、周泽昊解读签位",
+      "presenters": "程靖淇 周冠达 周泽昊",
       "matchInfo": {
         "time": "02月21日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143236",
+          "name": "程靖淇 周冠达 周泽昊"
+        }
+      ]
     },
     {
       "mgdbId": "120000543867",
@@ -3498,6 +3622,7 @@
     },
     {
       "mgdbId": "120000569148",
+      "pID": "963143248",
       "title": "第一比赛日热身区",
       "keyword": "02月22日11:00",
       "sportItemId": "7",
@@ -3512,10 +3637,16 @@
       "matchInfo": {
         "time": "02月22日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143248",
+          "name": "热身馆"
+        }
+      ]
     },
     {
       "mgdbId": "120000569150",
+      "pID": "963142813",
       "title": "男女单打1/32决赛、双打1/16决赛",
       "keyword": "02月22日12:00",
       "sportItemId": "7",
@@ -3526,14 +3657,44 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/32决赛、双打1/16决赛",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛",
-      "presenters": "",
+      "presenters": "侯英超 周冠达",
       "matchInfo": {
         "time": "02月22日12:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963142813",
+          "name": "侯英超"
+        },
+        {
+          "pID": "963142823",
+          "name": "周冠达"
+        },
+        {
+          "pID": "963143285",
+          "name": "1号桌"
+        },
+        {
+          "pID": "963143313",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963142757",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963142775",
+          "name": "4号桌"
+        },
+        {
+          "pID": "963142804",
+          "name": "英文解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000569151",
+      "pID": "963142935",
       "title": "男女单打1/32决赛、双打1/16决赛",
       "keyword": "02月22日18:00",
       "sportItemId": "7",
@@ -3544,11 +3705,40 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/32决赛、双打1/16决赛",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛",
-      "presenters": "",
+      "presenters": "周泽昊 程靖淇 朱子恒",
       "matchInfo": {
         "time": "02月22日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963142935",
+          "name": "周泽昊 程靖淇"
+        },
+        {
+          "pID": "963143088",
+          "name": "朱子恒"
+        },
+        {
+          "pID": "963142975",
+          "name": "1号桌"
+        },
+        {
+          "pID": "963142994",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963143018",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963143050",
+          "name": "4号桌"
+        },
+        {
+          "pID": "963143074",
+          "name": "英文解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000543060",
@@ -4394,6 +4584,7 @@
     },
     {
       "mgdbId": "120000569153",
+      "pID": "963143164",
       "title": "第二比赛日热身区",
       "keyword": "02月23日11:00",
       "sportItemId": "7",
@@ -4408,11 +4599,17 @@
       "matchInfo": {
         "time": "02月23日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143164",
+          "name": "热身馆"
+        }
+      ]
     },
     {
       "mgdbId": "120000569154",
-      "title": "男女单打1/32决赛、双打1/16决赛",
+      "pID": "963143278",
+      "title": "男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
       "keyword": "02月23日12:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -4420,17 +4617,47 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/32决赛、双打1/16决赛",
-      "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛",
-      "presenters": "",
+      "pkInfoTitle": "男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
+      "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
+      "presenters": "侯英超 刘馨蕊",
       "matchInfo": {
         "time": "02月23日12:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143278",
+          "name": "侯英超"
+        },
+        {
+          "pID": "963143289",
+          "name": "刘馨蕊"
+        },
+        {
+          "pID": "963143198",
+          "name": "1号桌"
+        },
+        {
+          "pID": "963143209",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963143221",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963143244",
+          "name": "4号桌"
+        },
+        {
+          "pID": "963143271",
+          "name": "英文解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000569156",
-      "title": "男女单打1/32决赛、双打1/16决赛",
+      "pID": "963143329",
+      "title": "男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
       "keyword": "02月23日18:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -4438,13 +4665,42 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/32决赛、双打1/16决赛",
-      "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛",
-      "presenters": "",
+      "pkInfoTitle": "男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
+      "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
+      "presenters": "周冠达 程靖淇 朱子恒",
       "matchInfo": {
         "time": "02月23日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143329",
+          "name": "周冠达 程靖淇"
+        },
+        {
+          "pID": "963142827",
+          "name": "朱子恒"
+        },
+        {
+          "pID": "963143338",
+          "name": "1号桌"
+        },
+        {
+          "pID": "963143350",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963143362",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963142789",
+          "name": "4号桌"
+        },
+        {
+          "pID": "963142802",
+          "name": "英文解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000543757",
@@ -4618,6 +4874,7 @@
     },
     {
       "mgdbId": "120000569157",
+      "pID": "963142872",
       "title": "第三比赛日热身区",
       "keyword": "02月24日11:00",
       "sportItemId": "7",
@@ -4632,10 +4889,16 @@
       "matchInfo": {
         "time": "02月24日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963142872",
+          "name": "热身馆"
+        }
+      ]
     },
     {
       "mgdbId": "120000569158",
+      "pID": "963142960",
       "title": "男女单打1/16决赛、双打1/8决赛",
       "keyword": "02月24日12:00",
       "sportItemId": "7",
@@ -4646,14 +4909,44 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/16决赛、双打1/8决赛",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/16决赛、双打1/8决赛",
-      "presenters": "",
+      "presenters": "侯英超 周冠达",
       "matchInfo": {
         "time": "02月24日12:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963142960",
+          "name": "侯英超"
+        },
+        {
+          "pID": "963142973",
+          "name": "周冠达"
+        },
+        {
+          "pID": "963142893",
+          "name": "1号桌"
+        },
+        {
+          "pID": "963142895",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963142911",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963142923",
+          "name": "4号桌"
+        },
+        {
+          "pID": "963142937",
+          "name": "英文解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000569159",
+      "pID": "963143385",
       "title": "男女单打1/16决赛、双打1/8决赛",
       "keyword": "02月24日18:00",
       "sportItemId": "7",
@@ -4664,11 +4957,40 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/16决赛、双打1/8决赛",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/16决赛、双打1/8决赛",
-      "presenters": "",
+      "presenters": "周泽昊 程靖淇 周冠达",
       "matchInfo": {
         "time": "02月24日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963143385",
+          "name": "周泽昊 程靖淇"
+        },
+        {
+          "pID": "963143298",
+          "name": "周冠达"
+        },
+        {
+          "pID": "963143036",
+          "name": "1号桌"
+        },
+        {
+          "pID": "963143100",
+          "name": "2号桌"
+        },
+        {
+          "pID": "963143120",
+          "name": "3号桌"
+        },
+        {
+          "pID": "963143246",
+          "name": "4号桌"
+        },
+        {
+          "pID": "963143269",
+          "name": "英文解说"
+        }
+      ]
     }
   ]
 }
