@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-20 00:11:55",
+  "updateTime": "2026-02-20 05:19:06",
   "data": [
     {
       "mgdbId": "120000547906",
@@ -725,16 +725,16 @@
     {
       "mgdbId": "120000569385",
       "pID": "963046895",
-      "title": "高芙出战 小米拉1-2阿尼西莫娃",
+      "title": "高芙晋级 小米拉1-2阿尼西莫娃",
       "keyword": "02月19日18:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSSGU896R.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/20/773SNG257JCF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "高芙出战 小米拉1-2阿尼西莫娃",
-      "modifyTitle": "WTA迪拜站Day5：高芙出战 小米拉1-2阿尼西莫娃",
+      "pkInfoTitle": "高芙晋级 小米拉1-2阿尼西莫娃",
+      "modifyTitle": "WTA迪拜站Day5：高芙晋级 小米拉1-2阿尼西莫娃",
       "presenters": "",
       "matchInfo": {
         "time": "02月19日18:00"
@@ -777,16 +777,16 @@
     {
       "mgdbId": "120000569454",
       "pID": "963070809",
-      "title": "约翰·希金斯 vs 克里斯·韦克林",
+      "title": "约翰·希金斯 6-3 克里斯·韦克林",
       "keyword": "02月19日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSDSR9041.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "约翰·希金斯 vs 克里斯·韦克林",
-      "modifyTitle": "斯诺克球员锦标赛1/4决赛 晚场",
+      "pkInfoTitle": "约翰·希金斯 6-3 克里斯·韦克林",
+      "modifyTitle": "斯诺克球员锦标赛 约翰·希金斯 6-3 克里斯·韦克林",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "02月19日21:00"
@@ -804,11 +804,11 @@
     },
     {
       "mgdbId": "120000569455",
-      "pID": "963070993",
+      "pID": "963122437",
       "title": "贾德·特鲁姆普 vs 马克·威廉姆斯",
       "keyword": "02月20日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSECA08EF.jpg",
@@ -1165,7 +1165,7 @@
     {
       "mgdbId": "120000569142",
       "pID": "963143045",
-      "title": "WTT新加坡大满贯资格赛Day2下午场",
+      "title": "朴康贤亮相 卢茨姐妹冲正赛",
       "keyword": "02月20日16:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -1173,7 +1173,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSTBRGMAM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "WTT新加坡大满贯资格赛Day2下午场",
+      "pkInfoTitle": "朴康贤亮相 卢茨姐妹冲正赛",
       "modifyTitle": "WTT新加坡大满贯：男女单打资格赛第二轮",
       "presenters": "刘馨蕊",
       "matchInfo": {
@@ -1307,7 +1307,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/20/773SQ9E0LQVH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "佩古拉vs阿尼西莫娃",
       "modifyTitle": "佩古拉vs阿尼西莫娃",
@@ -2071,6 +2071,10 @@
         {
           "pID": "963068547",
           "name": "赛场原声"
+        },
+        {
+          "pID": "963156710",
+          "name": "球门后视角"
         },
         {
           "pID": "963068560",
@@ -2975,6 +2979,10 @@
           "name": "赛场原声"
         },
         {
+          "pID": "963156389",
+          "name": "球门后视角"
+        },
+        {
           "pID": "963069262",
           "name": "英文原声"
         }
@@ -3235,6 +3243,14 @@
           "name": "陈凯冬 何辉"
         },
         {
+          "pID": "963156187",
+          "name": "飞猫视角"
+        },
+        {
+          "pID": "963156232",
+          "name": "数据领域"
+        },
+        {
           "pID": "963069613",
           "name": "洪荒"
         },
@@ -3249,10 +3265,6 @@
         {
           "pID": "963069548",
           "name": "英文原声"
-        },
-        {
-          "pID": "963069449",
-          "name": "���俊 张路 李子琪"
         }
       ]
     },
@@ -3879,6 +3891,10 @@
         {
           "pID": "963069362",
           "name": "赛场原声"
+        },
+        {
+          "pID": "963156065",
+          "name": "球门后视角"
         },
         {
           "pID": "963069379",
