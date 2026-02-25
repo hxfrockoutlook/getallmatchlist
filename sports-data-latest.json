@@ -1,1019 +1,7 @@
 {
   "success": true,
-  "updateTime": "2026-02-25 14:22:24",
+  "updateTime": "2026-02-26 00:16:07",
   "data": [
-    {
-      "mgdbId": "120000542592",
-      "pID": "963069141",
-      "title": "法甲联赛",
-      "keyword": "02月23日00:15",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "让·布安球场",
-      "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542592/306808_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
-      "pkInfoTitle": "昂热 vs 里尔",
-      "modifyTitle": "法甲联赛",
-      "presenters": "李永熙",
-      "matchInfo": {
-        "time": "02月23日00:15"
-      },
-      "nodes": [
-        {
-          "pID": "963069141",
-          "name": "李永熙"
-        },
-        {
-          "pID": "963069113",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000542593",
-      "pID": "963069191",
-      "title": "法甲联赛",
-      "keyword": "02月23日00:15",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "比茹尔球场",
-      "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542593/202602230215_887915_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
-      "pkInfoTitle": "南特 vs 勒阿弗尔",
-      "modifyTitle": "法甲联赛",
-      "presenters": "乔迁",
-      "matchInfo": {
-        "time": "02月23日00:15"
-      },
-      "nodes": [
-        {
-          "pID": "963069191",
-          "name": "乔迁"
-        },
-        {
-          "pID": "963069165",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000543589",
-      "pID": "963069244",
-      "title": "法甲联赛",
-      "keyword": "02月23日00:15",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "尼斯球场",
-      "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543589/202602230220_192233_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
-      "pkInfoTitle": "尼斯 vs 洛里昂",
-      "modifyTitle": "法甲联赛",
-      "presenters": "盛斌",
-      "matchInfo": {
-        "time": "02月23日00:15"
-      },
-      "nodes": [
-        {
-          "pID": "963069244",
-          "name": "盛斌"
-        },
-        {
-          "pID": "963069223",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000542253",
-      "pID": "963069449",
-      "title": "英超联赛",
-      "keyword": "02月23日00:30",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "托特纳姆热刺球场",
-      "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542253/232558_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
-      "pkInfoTitle": "托特纳姆热刺 vs 阿森纳",
-      "modifyTitle": "英超联赛",
-      "presenters": "詹俊 张路 李子琪 陈凯冬 何辉 洪荒 陈渤胄",
-      "matchInfo": {
-        "time": "02月23日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "963069449",
-          "name": "詹俊 张路 李子琪"
-        },
-        {
-          "pID": "963069502",
-          "name": "陈凯冬 何辉"
-        },
-        {
-          "pID": "963156187",
-          "name": "飞猫视角"
-        },
-        {
-          "pID": "963156232",
-          "name": "数据领域"
-        },
-        {
-          "pID": "963069613",
-          "name": "洪荒"
-        },
-        {
-          "pID": "963069619",
-          "name": "陈渤胄"
-        },
-        {
-          "pID": "963069594",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963069548",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000542811",
-      "pID": "963124204",
-      "title": "德甲联赛",
-      "keyword": "02月23日00:30",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "米勒恩托门体育场",
-      "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542811/904607_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
-      "pkInfoTitle": "圣保利 vs 不来梅",
-      "modifyTitle": "德甲联赛",
-      "presenters": "赵宇",
-      "matchInfo": {
-        "time": "02月23日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "963124204",
-          "name": "赵宇"
-        },
-        {
-          "pID": "963124196",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000543057",
-      "pID": "963124372",
-      "title": "意甲联赛",
-      "keyword": "02月23日01:00",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "梅阿查/圣西罗球场",
-      "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VEV0M75OA.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
-      "pkInfoTitle": "AC米兰 vs 帕尔马",
-      "modifyTitle": "意甲联赛",
-      "presenters": "石庆圣 李彦",
-      "matchInfo": {
-        "time": "02月23日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "963124372",
-          "name": "石庆圣 李彦"
-        },
-        {
-          "pID": "963124362",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000543337",
-      "pID": "963070002",
-      "title": "西甲联赛",
-      "keyword": "02月23日01:30",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "巴莱多斯球场",
-      "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543337/935133_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
-      "pkInfoTitle": "塞尔塔 vs 马略卡",
-      "modifyTitle": "西甲联赛",
-      "presenters": "张天翼",
-      "matchInfo": {
-        "time": "02月23日01:30"
-      },
-      "nodes": [
-        {
-          "pID": "963070002",
-          "name": "张天翼"
-        },
-        {
-          "pID": "963069986",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547361",
-      "pID": "963212768",
-      "title": "NBA常规赛",
-      "keyword": "02月23日02:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "Paycom中心",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VFAR9GKM0.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "骑士VS雷霆",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "陈鑫隆",
-      "matchInfo": {
-        "time": "02月23日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "963212768",
-          "name": "25/26赛季NBA常规赛全场集锦：骑士113:121雷霆（20260223）"
-        },
-        {
-          "pID": "963201715",
-          "name": "陈鑫隆"
-        },
-        {
-          "pID": "963201740",
-          "name": "英文原声"
-        },
-        {
-          "pID": "963183210",
-          "name": "冬奥会闭幕式"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000542810",
-      "pID": "963124189",
-      "title": "德甲联赛",
-      "keyword": "02月23日02:30",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "福伊特竞技场",
-      "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542810/458840_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
-      "pkInfoTitle": "海登海姆 vs 斯图加特",
-      "modifyTitle": "德甲联赛",
-      "presenters": "吴子越",
-      "matchInfo": {
-        "time": "02月23日02:30"
-      },
-      "nodes": [
-        {
-          "pID": "963124189",
-          "name": "吴子越"
-        },
-        {
-          "pID": "963124185",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000569461",
-      "pID": "963071362",
-      "title": "赵心童10-7希金斯夺冠！",
-      "keyword": "02月23日03:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UJDQ2CUGG.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童10-7希金斯夺冠！",
-      "modifyTitle": "斯诺克球员锦标赛决赛第二阶段：赵心童10-7希金斯",
-      "presenters": "朱蒙",
-      "matchInfo": {
-        "time": "02月23日03:00"
-      },
-      "nodes": [
-        {
-          "pID": "963071362",
-          "name": "1号桌"
-        },
-        {
-          "pID": "963122468",
-          "name": "朱蒙"
-        },
-        {
-          "pID": "963183210",
-          "name": "同看闭幕式（CCTV5）"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000542596",
-      "pID": "963069295",
-      "title": "法甲联赛",
-      "keyword": "02月23日03:45",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "梅纳乌球场",
-      "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542596/801429_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
-      "pkInfoTitle": "斯特拉斯堡 vs 里昂",
-      "modifyTitle": "法甲联赛",
-      "presenters": "张天翼",
-      "matchInfo": {
-        "time": "02月23日03:45"
-      },
-      "nodes": [
-        {
-          "pID": "963069295",
-          "name": "张天翼"
-        },
-        {
-          "pID": "963069285",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000543756",
-      "pID": "963124356",
-      "title": "意甲联赛",
-      "keyword": "02月23日03:45",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "奥林匹克球场",
-      "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543756/946628_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
-      "pkInfoTitle": "罗马 vs 克雷莫纳",
-      "modifyTitle": "意甲联赛",
-      "presenters": "刘焕",
-      "matchInfo": {
-        "time": "02月23日03:45"
-      },
-      "nodes": [
-        {
-          "pID": "963124356",
-          "name": "刘焕"
-        },
-        {
-          "pID": "963183210",
-          "name": "冬奥会闭幕式"
-        },
-        {
-          "pID": "963124325",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000543341",
-      "pID": "963070077",
-      "title": "西甲联赛",
-      "keyword": "02月23日04:00",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "情歌球场",
-      "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543341/573736_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
-      "pkInfoTitle": "比利亚雷亚尔 vs 瓦伦西亚",
-      "modifyTitle": "西甲联赛",
-      "presenters": "李霄",
-      "matchInfo": {
-        "time": "02月23日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "963070077",
-          "name": "李霄"
-        },
-        {
-          "pID": "963070071",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547362",
-      "pID": "963213294",
-      "title": "NBA常规赛",
-      "keyword": "02月23日04:30",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "费哲论坛球馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VFS058551.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "猛龙VS雄鹿",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "王琰博",
-      "matchInfo": {
-        "time": "02月23日04:30"
-      },
-      "nodes": [
-        {
-          "pID": "963201856",
-          "name": "王琰博"
-        },
-        {
-          "pID": "963201792",
-          "name": "英文原声"
-        },
-        {
-          "pID": "963183210",
-          "name": "冬奥会闭幕式"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547363",
-      "pID": "963213295",
-      "title": "NBA常规赛",
-      "keyword": "02月23日04:30",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "州立农业球馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VFUTH4LTQ.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "篮网VS老鹰",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "张泽欣",
-      "matchInfo": {
-        "time": "02月23日04:30"
-      },
-      "nodes": [
-        {
-          "pID": "963201771",
-          "name": "张泽欣"
-        },
-        {
-          "pID": "963201779",
-          "name": "英文原声"
-        },
-        {
-          "pID": "963183210",
-          "name": "冬奥会闭幕式"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547364",
-      "pID": "963213488",
-      "title": "NBA常规赛",
-      "keyword": "02月23日04:30",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "大通中心",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VG4AB0PNS.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "掘金VS勇士",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "连睿 周鹏",
-      "matchInfo": {
-        "time": "02月23日04:30"
-      },
-      "nodes": [
-        {
-          "pID": "963201912",
-          "name": "连睿 周鹏"
-        },
-        {
-          "pID": "963201875",
-          "name": "英文原声"
-        },
-        {
-          "pID": "963183210",
-          "name": "冬奥会闭幕式"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547365",
-      "pID": "963213790",
-      "title": "NBA常规赛",
-      "keyword": "02月23日06:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "盖恩布里奇体育馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGF65GELK.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "独行侠VS步行者",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "罗森",
-      "matchInfo": {
-        "time": "02月23日06:00"
-      },
-      "nodes": [
-        {
-          "pID": "963213790",
-          "name": "25/26赛季NBA常规赛全场集锦：独行侠134:130步行者（20260223）"
-        },
-        {
-          "pID": "963202005",
-          "name": "罗森"
-        },
-        {
-          "pID": "963201953",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547366",
-      "pID": "963214251",
-      "title": "NBA常规赛",
-      "keyword": "02月23日07:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "第一资本体育馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGNTOTAJK.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "黄蜂VS奇才",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "刘圳展",
-      "matchInfo": {
-        "time": "02月23日07:00"
-      },
-      "nodes": [
-        {
-          "pID": "963214251",
-          "name": "25/26赛季NBA常规赛全场集锦: 黄蜂129:112奇才（20260223）"
-        },
-        {
-          "pID": "963202101",
-          "name": "刘圳展"
-        },
-        {
-          "pID": "963202040",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000570176",
-      "pID": "963214163",
-      "title": "G联赛",
-      "keyword": "02月23日07:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "G联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VEL7QG4JF.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png",
-      "pkInfoTitle": "圣克鲁兹勇士VS撕裂之城混音",
-      "modifyTitle": "G联赛",
-      "presenters": "邢晨",
-      "matchInfo": {
-        "time": "02月23日07:00"
-      },
-      "nodes": [
-        {
-          "pID": "963214163",
-          "name": "杨瀚森集锦"
-        },
-        {
-          "pID": "963203986",
-          "name": "邢晨"
-        },
-        {
-          "pID": "963204004",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547367",
-      "pID": "963214903",
-      "title": "NBA常规赛",
-      "keyword": "02月23日07:30",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "加密网体育馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGR5UTPS4.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "凯尔特人VS湖人",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "杨健 曾令旭 季孟年 郑泽鹏 莫俊祺 洪荒",
-      "matchInfo": {
-        "time": "02月23日07:30"
-      },
-      "nodes": [
-        {
-          "pID": "963202172",
-          "name": "杨健 曾令旭 季孟年"
-        },
-        {
-          "pID": "963202191",
-          "name": "郑泽鹏"
-        },
-        {
-          "pID": "963202118",
-          "name": "英文原声"
-        },
-        {
-          "pID": "963202194",
-          "name": "莫俊祺"
-        },
-        {
-          "pID": "963202205",
-          "name": "洪荒"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547368",
-      "pID": "963214981",
-      "title": "NBA常规赛",
-      "keyword": "02月23日08:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "標靶中心",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VH1VNJD3M.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "76人VS森林狼",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "盛哲",
-      "matchInfo": {
-        "time": "02月23日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "963214981",
-          "name": "25-26赛季NBA常规赛全场集锦: 明尼苏达森林狼108:135费城76人"
-        },
-        {
-          "pID": "963202262",
-          "name": "盛哲"
-        },
-        {
-          "pID": "963202229",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547369",
-      "pID": "963215394",
-      "title": "NBA常规赛",
-      "keyword": "02月23日09:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "联合中心球馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VHBA5RPBO.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "尼克斯VS公牛",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "王晓晨",
-      "matchInfo": {
-        "time": "02月23日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "963215394",
-          "name": "25/26赛季NBA常规赛全场集锦：尼克斯105:99公牛（20260223）"
-        },
-        {
-          "pID": "963202315",
-          "name": "王晓晨"
-        },
-        {
-          "pID": "963202283",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547370",
-      "pID": "963215239",
-      "title": "NBA常规赛",
-      "keyword": "02月23日09:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "凤凰城竞技场",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VHA9TE1NE.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "开拓者VS太阳",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "蔡凯臣 殷文玉 廖昕阳",
-      "matchInfo": {
-        "time": "02月23日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "963202395",
-          "name": "蔡凯臣 殷文玉 廖昕阳"
-        },
-        {
-          "pID": "963202341",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000547371",
-      "pID": "963216668",
-      "title": "NBA常规赛",
-      "keyword": "02月23日10:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "因图特圆顶球馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VHICJ888U.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "魔术VS快船",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "徐秦威",
-      "matchInfo": {
-        "time": "02月23日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "963216668",
-          "name": "25-26赛季NBA常规赛全场集锦：魔术111:109快船（20260223）"
-        },
-        {
-          "pID": "963202501",
-          "name": "徐秦威"
-        },
-        {
-          "pID": "963202469",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000569153",
-      "pID": "963143164",
-      "title": "第二比赛日热身区",
-      "keyword": "02月23日11:00",
-      "sportItemId": "7",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VEP3BE9IM.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "第二比赛日热身区",
-      "modifyTitle": "WTT新加坡大满贯：第二比赛日热身区",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月23日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "963143164",
-          "name": "热身馆"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000569154",
-      "pID": "963143278",
-      "title": "陈俊菘2-3张本智和 王艺迪横扫晋级",
-      "keyword": "02月23日12:00",
-      "sportItemId": "7",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VFHCT6K9I.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "陈俊菘2-3张本智和 王艺迪横扫晋级",
-      "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
-      "presenters": "侯英超 刘馨��",
-      "matchInfo": {
-        "time": "02月23日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "963143278",
-          "name": "侯英超"
-        },
-        {
-          "pID": "963143198",
-          "name": "1号桌"
-        },
-        {
-          "pID": "963143164",
-          "name": "热身馆"
-        },
-        {
-          "pID": "963143271",
-          "name": "英文解说"
-        },
-        {
-          "pID": "963143289",
-          "name": "刘馨蕊"
-        },
-        {
-          "pID": "963143209",
-          "name": "2号桌"
-        },
-        {
-          "pID": "963143221",
-          "name": "3号桌"
-        },
-        {
-          "pID": "963143244",
-          "name": "4号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000569156",
-      "pID": "963143338",
-      "title": "孙颖莎迎开门红 黄友政/陈熠挺进8强",
-      "keyword": "02月23日18:00",
-      "sportItemId": "7",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VH50FATT7.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "孙颖莎迎开门红 黄友政/陈熠挺进8强",
-      "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
-      "presenters": "周冠达 程靖淇 朱子恒",
-      "matchInfo": {
-        "time": "02月23日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "963143338",
-          "name": "1号桌"
-        },
-        {
-          "pID": "963142802",
-          "name": "英文解说"
-        },
-        {
-          "pID": "963143329",
-          "name": "周冠达 程靖淇"
-        },
-        {
-          "pID": "963142789",
-          "name": "4号桌"
-        },
-        {
-          "pID": "963143350",
-          "name": "2号桌"
-        },
-        {
-          "pID": "963143362",
-          "name": "3号桌"
-        },
-        {
-          "pID": "963143164",
-          "name": "热身馆"
-        },
-        {
-          "pID": "963142827",
-          "name": "朱子恒"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000570148",
-      "pID": "963203238",
-      "title": "雷佩凡出局、杰克琼斯晋级",
-      "keyword": "02月23日18:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGNIP3QGT.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "雷佩凡出局、杰克琼斯晋级",
-      "modifyTitle": "斯诺克威尔士公开赛 雷佩凡淘汰、杰克琼斯晋级",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月23日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "963203238",
-          "name": "1号桌"
-        },
-        {
-          "pID": "963203251",
-          "name": "2号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000564191",
-      "pID": "963154320",
-      "title": "NBL常规赛",
-      "keyword": "02月23日19:30",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "NBL",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564191/202602232230_293175_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
-      "pkInfoTitle": "安徽皖江龙 VS 江西鲸裕清酒",
-      "modifyTitle": "NBL常规赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月23日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "963154320",
-          "name": "解说"
-        },
-        {
-          "pID": "963154339",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000564222",
-      "pID": "963229728",
-      "title": "NBL常规赛",
-      "keyword": "02月23日19:30",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "NBL",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564222/202602232210_363703_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
-      "pkInfoTitle": "杭州经纬 VS 山东蜜獾",
-      "modifyTitle": "NBL常规赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月23日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "963229728",
-          "name": "2026NBL全国男子篮球联赛常规赛第17轮全场集锦：杭州经纬vs山东蜜獾"
-        },
-        {
-          "pID": "963154355",
-          "name": "解说"
-        },
-        {
-          "pID": "963154370",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000570149",
-      "pID": "963203276",
-      "title": "塞尔比3-4江俊 霍金斯晋级",
-      "keyword": "02月23日21:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VHD8EN0FQ.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "塞尔比3-4江俊 霍金斯晋级",
-      "modifyTitle": "斯诺克威尔士公开赛：塞尔比3-4江俊 霍金斯晋级",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月23日21:00"
-      },
-      "nodes": [
-        {
-          "pID": "963203276",
-          "name": "2号桌"
-        },
-        {
-          "pID": "963203265",
-          "name": "1号桌"
-        },
-        {
-          "pID": "963203317",
-          "name": "3号桌"
-        },
-        {
-          "pID": "963203327",
-          "name": "4号桌"
-        }
-      ]
-    },
     {
       "mgdbId": "120000543757",
       "pID": "963124319",
@@ -1756,7 +744,7 @@
     },
     {
       "mgdbId": "120000547376",
-      "pID": "963256118",
+      "pID": "963257278",
       "title": "NBA常规赛",
       "keyword": "02月25日08:30",
       "sportItemId": "2",
@@ -1773,8 +761,8 @@
       },
       "nodes": [
         {
-          "pID": "963256118",
-          "name": "戴森回头望月送妙传 库明加积极跟进单臂炸筐"
+          "pID": "963257278",
+          "name": "25/26赛季NBA常规赛全场集锦：奇才98:119老鹰（20260225）"
         },
         {
           "pID": "963201988",
@@ -2048,7 +1036,7 @@
     },
     {
       "mgdbId": "120000547385",
-      "pID": "963261406",
+      "pID": "963263609",
       "title": "NBA常规赛",
       "keyword": "02月25日11:00",
       "sportItemId": "2",
@@ -2065,8 +1053,8 @@
       },
       "nodes": [
         {
-          "pID": "963261406",
-          "name": "技惊四座！杰登反击自抛自扣打停比赛"
+          "pID": "963263609",
+          "name": "25-26赛季NBA常规赛全场集锦：森林狼124:121开拓者（20260225）"
         },
         {
           "pID": "963202631",
@@ -2084,10 +1072,10 @@
       "title": "第四比赛日热身区",
       "keyword": "02月25日11:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741BRB2OISA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741AT2I5R5L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第四比赛日热身区",
       "modifyTitle": "WTT新加坡大满贯：第四比赛日热身区",
@@ -2104,7 +1092,7 @@
     },
     {
       "mgdbId": "120000547384",
-      "pID": "963262488",
+      "pID": "963264228",
       "title": "NBA常规赛",
       "keyword": "02月25日11:30",
       "sportItemId": "2",
@@ -2121,8 +1109,8 @@
       },
       "nodes": [
         {
-          "pID": "963262488",
-          "name": "为什么不投？东契奇空位三分拒投 詹姆斯失绝杀"
+          "pID": "963264228",
+          "name": "2526赛季NBA常规赛全场集锦：魔术110:109湖人"
         },
         {
           "pID": "963202708",
@@ -2141,15 +1129,15 @@
     {
       "mgdbId": "120000569161",
       "pID": "963142920",
-      "title": "蒯曼/陈熠3-1险胜 何卓佳迎战早田",
+      "title": "蒯曼/陈熠3-1险胜  向鹏晋级16强",
       "keyword": "02月25日12:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77418SIHPNU0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419HG7QDFL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "蒯曼/陈熠3-1险胜 何卓佳迎战早田",
+      "pkInfoTitle": "蒯曼/陈熠3-1险胜  向鹏晋级16强",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/16决赛、女双及混双1/4决赛",
       "presenters": "侯英超 凌维康",
       "matchInfo": {
@@ -2161,10 +1149,6 @@
           "name": "侯英超"
         },
         {
-          "pID": "963142958",
-          "name": "凌维康"
-        },
-        {
           "pID": "963143336",
           "name": "热身馆"
         },
@@ -2173,67 +1157,71 @@
           "name": "1号桌"
         },
         {
-          "pID": "963143196",
-          "name": "2号桌"
-        },
-        {
           "pID": "963143367",
           "name": "英文解说"
         },
         {
+          "pID": "963142958",
+          "name": "凌维康"
+        },
+        {
           "pID": "963143137",
           "name": "3号桌"
+        },
+        {
+          "pID": "963143196",
+          "name": "2号桌"
         }
       ]
     },
     {
       "mgdbId": "120000570166",
-      "pID": "963203563",
-      "title": "国羽军团出击！王祉怡女单领衔",
+      "pID": "963203571",
+      "title": "国羽军团出击！王祉怡2-0速胜",
       "keyword": "02月25日17:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419ETPEA9N.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741BKUHPQNS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "国羽军团出击！王祉怡女单领衔",
-      "modifyTitle": "德国羽毛球公开赛Day2：国羽军团出击！王祉怡女单领衔",
+      "pkInfoTitle": "国羽军团出击！王祉怡2-0速胜",
+      "modifyTitle": "德国羽毛球公开赛Day2：国羽军团出击！王祉怡2-0速胜",
       "presenters": "",
       "matchInfo": {
         "time": "02月25日17:00"
       },
       "nodes": [
         {
-          "pID": "963203563",
-          "name": "1号场"
-        },
-        {
           "pID": "963203571",
           "name": "2号场"
         },
         {
-          "pID": "963203576",
-          "name": "3号场"
+          "pID": "963203563",
+          "name": "1号场"
         },
         {
           "pID": "963203588",
           "name": "4号场"
+        },
+        {
+          "pID": "963203576",
+          "name": "3号场"
         }
       ]
     },
     {
       "mgdbId": "120000569162",
-      "pID": "963143336",
-      "title": "孙颖莎冲16强 黄友政/陈熠出战",
+      "pID": "963142829",
+      "title": "孙颖莎闯进16强 黄友政/陈熠止步8强",
       "keyword": "02月25日18:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740E839O7N9.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741B1ILKUV0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "孙颖莎冲16强 黄友政/陈熠出战",
+      "pkInfoTitle": "孙颖莎闯进16强 黄友政/陈熠止步8强",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/16决赛、男双及混双1/4决赛",
       "presenters": "周冠达 刘国正",
       "matchInfo": {
@@ -2245,62 +1233,54 @@
           "name": "周冠达 刘国正"
         },
         {
-          "pID": "963143336",
-          "name": "热身馆"
-        },
-        {
           "pID": "963142836",
           "name": "1号桌"
         },
         {
-          "pID": "963142852",
-          "name": "2号桌"
-        },
-        {
-          "pID": "963142906",
-          "name": "3号桌"
-        },
-        {
           "pID": "963142870",
           "name": "英文解说"
+        },
+        {
+          "pID": "963142852",
+          "name": "2号桌"
         }
       ]
     },
     {
       "mgdbId": "120000570154",
-      "pID": "963203529",
-      "title": "肖国栋PK利索夫斯基 杰克·琼斯出战",
+      "pID": "963203541",
+      "title": "肖国栋3-4不敌利索夫斯基",
       "keyword": "02月25日18:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741AMC1DBUV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "肖国栋PK利索夫斯基 杰克·琼斯出战",
-      "modifyTitle": "斯诺克威尔士公开赛第二轮：肖国栋PK利索夫斯基 杰克·琼斯出战",
+      "pkInfoTitle": "肖国栋3-4不敌利索夫斯基",
+      "modifyTitle": "斯诺克威尔士公开赛第二轮：肖国栋3-4不敌利索夫斯基",
       "presenters": "",
       "matchInfo": {
         "time": "02月25日18:00"
       },
       "nodes": [
         {
-          "pID": "963203529",
-          "name": "1号桌"
-        },
-        {
           "pID": "963203541",
           "name": "2号桌"
+        },
+        {
+          "pID": "963203529",
+          "name": "1号桌"
         }
       ]
     },
     {
       "mgdbId": "120000564123",
-      "pID": "963154488",
+      "pID": "963271795",
       "title": "NBL常规赛",
       "keyword": "02月25日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740BRR59G08.png",
@@ -2313,6 +1293,10 @@
       },
       "nodes": [
         {
+          "pID": "963271795",
+          "name": "2026NBL全国男子篮球联赛常规赛第17轮全场集锦：焦作文旅vs上海玄鸟"
+        },
+        {
           "pID": "963154488",
           "name": "解说"
         },
@@ -2324,22 +1308,30 @@
     },
     {
       "mgdbId": "120000570155",
-      "pID": "963203560",
-      "title": "江俊PK袁思俊 吴宜泽、常冰玉出战",
+      "pID": "963266225",
+      "title": "庞俊旭出战 江俊4-0袁思俊",
       "keyword": "02月25日21:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741AMCK73RL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741BJJPQR8H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "江俊PK袁思俊 吴宜泽、常冰玉出战",
-      "modifyTitle": "斯诺克威尔士公开赛第二轮：江俊PK袁思俊 吴宜泽、常冰玉出战",
-      "presenters": "",
+      "pkInfoTitle": "庞俊旭出战 江俊4-0袁思俊",
+      "modifyTitle": "斯诺克威尔士公开赛第二轮：庞俊旭出战 江俊4-0袁思俊",
+      "presenters": "柏林 朱峰立",
       "matchInfo": {
         "time": "02月25日21:00"
       },
       "nodes": [
+        {
+          "pID": "963266225",
+          "name": "柏林"
+        },
+        {
+          "pID": "963266288",
+          "name": "朱峰立"
+        },
         {
           "pID": "963203560",
           "name": "1号桌"
@@ -2371,11 +1363,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童PK穆迪 张安达、希金斯出战",
       "modifyTitle": "斯诺克威尔士公开赛第二轮：赵心童PK斯坦·穆迪 张安达、希金斯出战",
-      "presenters": "",
+      "presenters": "朱峰立",
       "matchInfo": {
         "time": "02月26日03:00"
       },
       "nodes": [
+        {
+          "pID": "963266331",
+          "name": "朱峰立"
+        },
         {
           "pID": "963203602",
           "name": "1号桌"
@@ -2519,7 +1515,7 @@
       "matchStatus": "0",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547389/202601151500_415267_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77418T966G6F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS雄鹿",
       "modifyTitle": "NBA常规赛",
@@ -2551,7 +1547,7 @@
       "matchStatus": "0",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547390/202601151501_678750_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77418TAM3CP7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS火箭",
       "modifyTitle": "NBA常规赛",
@@ -2579,7 +1575,7 @@
       "matchStatus": "0",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547391/202601151501_457103_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77418TFCLN1F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "凯尔特人VS掘金",
       "modifyTitle": "NBA常规赛",
@@ -2625,15 +1621,15 @@
     {
       "mgdbId": "120000569164",
       "pID": "963142996",
-      "title": "男女单打1/8决赛、女双及混双半决赛",
+      "title": "长崎美柚/申裕斌冲决赛 张禹珍vs松岛辉空",
       "keyword": "02月26日12:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741B7KLAI3H.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/8决赛、女双及混双半决赛",
+      "pkInfoTitle": "长崎美柚/申裕斌冲决赛 张禹珍vs松岛辉空",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/8决赛、女双及混双半决赛",
       "presenters": "程靖淇",
       "matchInfo": {
@@ -2671,7 +1667,7 @@
       "matchStatus": "0",
       "matchField": "University of Guam Field House",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563026/202511261121_474131_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419GAOOISK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "关岛vs澳大利亚",
       "modifyTitle": "男篮世预赛亚洲赛区",
@@ -2689,15 +1685,15 @@
     {
       "mgdbId": "120000569165",
       "pID": "963142996",
-      "title": "男女单打1/8决赛、女双及混双半决赛",
+      "title": "王楚钦激战林德 王曼昱冲8强",
       "keyword": "02月26日18:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419S1PIG3L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/8决赛、女双及混双半决赛",
+      "pkInfoTitle": "王楚钦激战林德 王曼昱冲8强",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/8决赛、女双及混双半决赛",
       "presenters": "周泽昊 刘国正 周冠达",
       "matchInfo": {
@@ -2743,18 +1739,18 @@
       "matchStatus": "0",
       "matchField": "Okinawa Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563039/202511261126_305853_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/774195M00BLI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "日本vs中国",
       "modifyTitle": "男篮世预赛亚洲赛区",
-      "presenters": "杨健 杨毅 杨鸣",
+      "presenters": "杨健 杨鸣 杨毅",
       "matchInfo": {
         "time": "02月26日18:05"
       },
       "nodes": [
         {
           "pID": "963258892",
-          "name": "杨健 杨毅 杨鸣"
+          "name": "男篮世预赛"
         },
         {
           "pID": "963258943",
@@ -2771,7 +1767,7 @@
       "matchStatus": "0",
       "matchField": "Xinzhuang Gymnasium",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563038/202511261125_418732_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741964M482O.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "中国台北vs韩国",
       "modifyTitle": "男篮世预赛亚洲赛区",
@@ -2799,7 +1795,7 @@
       "matchStatus": "0",
       "matchField": "Mall of Asia Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563027/202511261121_715567_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419HJBF7Q1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "菲律宾vs新西兰",
       "modifyTitle": "男篮世预赛亚洲赛区",
@@ -2879,7 +1875,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBL",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564229/202512171220_443011_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419A7R3LU4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
       "pkInfoTitle": "香港金牛 VS 安徽皖江龙",
       "modifyTitle": "NBL常规赛",
@@ -2988,7 +1984,7 @@
       "matchStatus": "0",
       "matchField": "Borg Elarab Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563107/202511261141_336868_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419HLT7PHG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "安哥拉vs乌干达",
       "modifyTitle": "男篮世预赛非洲赛区",
@@ -3200,7 +2196,7 @@
       "matchStatus": "0",
       "matchField": "Coliseo Roberto Clemente",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000562991/202511261115_162817_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419ADS54QU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "波多黎各vs加拿大",
       "modifyTitle": "男篮世预赛美洲赛区",
@@ -3492,7 +2488,7 @@
       "matchStatus": "0",
       "matchField": "Frontwave Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000562979/202511261111_698725_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/77419E7S640G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "美国vs多米尼加",
       "modifyTitle": "男篮世预赛美洲赛区",
@@ -3505,7 +2501,7 @@
     {
       "mgdbId": "120000569167",
       "pID": "963143225",
-      "title": "男女单打1/8决赛、男双半决赛",
+      "title": "蒯曼迎战早田 石油组合冲决赛",
       "keyword": "02月27日12:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -3513,7 +2509,7 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/8决赛、男双半决赛",
+      "pkInfoTitle": "蒯曼迎战早田 石油组合冲决赛",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/8决赛、男双半决赛",
       "presenters": "程靖淇",
       "matchInfo": {
@@ -3545,7 +2541,7 @@
     {
       "mgdbId": "120000569168",
       "pID": "963143225",
-      "title": "混双决赛、男女单打1/8决赛、男双半决赛",
+      "title": "姐妹对对碰！孙颖莎迎战石洵瑶",
       "keyword": "02月27日18:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -3553,7 +2549,7 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "混双决赛、男女单打1/8决赛、��双半决赛",
+      "pkInfoTitle": "姐妹对对碰！孙颖莎迎战石洵瑶",
       "modifyTitle": "WTT新加坡大满贯：混双决赛、男女单打1/8决赛、男双半决赛",
       "presenters": "周冠达 侯英超",
       "matchInfo": {
@@ -4561,6 +3557,30 @@
       ]
     },
     {
+      "mgdbId": "120000570398",
+      "pID": "963256196",
+      "title": "贺州市平桂区队vs梧州市岑溪市队",
+      "keyword": "02月28日14:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "广西县级足球超级联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png",
+      "pkInfoTitle": "贺州市平桂区队vs梧州市岑溪市队",
+      "modifyTitle": "贺州市平桂区队vs梧州市岑溪市队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月28日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "963256196",
+          "name": "广西县级足球超级联赛第四轮: 贺州市平桂区队vs梧州市岑溪市队"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000569171",
       "pID": "963142869",
       "title": "男双决赛、男女单打1/4决赛",
@@ -4597,6 +3617,30 @@
         {
           "pID": "963143010",
           "name": "英文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000570399",
+      "pID": "963256248",
+      "title": "贵港市桂平市队vs玉林市北流市队",
+      "keyword": "02月28日18:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "广西县级足球超级联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png",
+      "pkInfoTitle": "贵港市桂平市队vs玉林市北流市队",
+      "modifyTitle": "贵港市桂平市队vs玉林市北流市队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月28日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "963256248",
+          "name": "广西县级足球超级联赛第四轮: 贵港市桂平市队vs玉林市北流市队"
         }
       ]
     },
@@ -4844,7 +3888,7 @@
     },
     {
       "mgdbId": "120000542248",
-      "title": "英超联赛",
+      "title": "英超���赛",
       "keyword": "02月28日23:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -5487,6 +4531,78 @@
       ]
     },
     {
+      "mgdbId": "120000570400",
+      "pID": "963256310",
+      "title": "梧州市苍梧县队vs贺州市八步区队",
+      "keyword": "03月01日13:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "广西县级足球超级联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png",
+      "pkInfoTitle": "梧州市苍梧县队vs贺州市八步区队",
+      "modifyTitle": "梧州市苍梧县队vs贺州市八步区队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月01日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "963256310",
+          "name": "广西县级足球超级联赛第四轮: 梧州市苍梧县队vs贺州市八步区队"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000570401",
+      "pID": "963256330",
+      "title": "钦州市灵山县队vs防城港市东兴市队",
+      "keyword": "03月01日13:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "广西县级足球超级联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png",
+      "pkInfoTitle": "钦州市灵山县队vs防城港市东兴市队",
+      "modifyTitle": "钦州市灵山县队vs防城港市东兴市队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月01日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "963256330",
+          "name": "广西县级足球超级联赛第四轮: 钦州市灵山县队vs防城港市东兴市队"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000570402",
+      "pID": "963256347",
+      "title": "北海市合浦县队vs崇左市龙州县队",
+      "keyword": "03月01日14:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "广西县级足球超级联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/16/1000000013881064d45a.png",
+      "pkInfoTitle": "北海市合浦县队vs崇左市龙州县队",
+      "modifyTitle": "北海市合浦县队vs崇左市龙州县队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月01日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "963256347",
+          "name": "广西县级足球超级联赛第四轮: 北海市合浦县队vs崇左市龙州县队"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000563028",
       "pID": "963259809",
       "title": "男篮世预赛亚洲赛区",
@@ -5605,6 +4721,24 @@
           "name": "U19决赛"
         }
       ]
+    },
+    {
+      "mgdbId": "120000570421",
+      "title": "中国超级杯",
+      "keyword": "03月01日15:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "奥林匹克体育中心",
+      "competitionName": "超级杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/7741AL2K725P.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/3/31/100000001034106bfe89.png",
+      "pkInfoTitle": "上海海港 vs 北京国安",
+      "modifyTitle": "中国超级杯",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月01日15:30"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000563040",
@@ -6839,6 +5973,24 @@
       "nodes": []
     },
     {
+      "mgdbId": "120000570418",
+      "title": "2025中国金球奖颁奖仪式",
+      "keyword": "03月02日14:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中超",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/25/774196G2H5RL.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
+      "pkInfoTitle": "2025中国金球奖颁奖仪式",
+      "modifyTitle": "2025中国金球奖颁奖仪式",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月02日14:00"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000569138",
       "pID": "963143261",
       "title": "侯英超、周冠达、周泽昊全面复盘",
@@ -7067,6 +6219,24 @@
       ]
     },
     {
+      "mgdbId": "120000569985",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月03日00:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "拉希德球场",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569985/202602192331_549236_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "迪拜国民 vs 大不里士拖拉机",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月03日00:00"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "300000001935",
       "pID": "922834850",
       "title": "官方：戴伟浚租借深圳新鹏城 将身披球队23号球衣",
@@ -7209,6 +6379,24 @@
       "presenters": "",
       "matchInfo": {
         "time": "03月03日02:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569984",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月03日02:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "阿卜杜拉·本·哈里发球场",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569984/202602192331_662595_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "杜海勒 vs 吉达国民",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月03日02:15"
       },
       "nodes": []
     },
@@ -7495,6 +6683,24 @@
       "nodes": []
     },
     {
+      "mgdbId": "120000569983",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月03日15:45",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "墨尔本矩形球场",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569983/202602192331_499913_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "墨尔本城 vs 武里南联",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月03日15:45"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000569126",
       "title": "女足亚洲杯小组赛",
       "keyword": "03月03日16:00",
@@ -7509,6 +6715,24 @@
       "presenters": "",
       "matchInfo": {
         "time": "03月03日16:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569982",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月03日18:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "Chuncheon Songam Stadium",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569982/202602192331_102885_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "江原 vs 町田泽维亚",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月03日18:00"
       },
       "nodes": []
     },
@@ -7539,6 +6763,467 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000569981",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月04日00:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "纳哈扬球场",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569981/202602192331_947700_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "阿布扎比统一 vs 吉达联合",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日00:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569932",
+      "title": "亚冠二级1/4决赛",
+      "keyword": "03月04日02:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "图马马球场",
+      "competitionName": "亚冠二级",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569932/202602190630_740714_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
+      "pkInfoTitle": "艾尔艾利 vs 艾尔胡塞因",
+      "modifyTitle": "亚冠二级1/4决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日02:15"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569980",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月04日02:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "贾西姆·本·哈马德球场",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569980/202602192331_493674_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "萨德 vs 利雅得新月",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日02:15"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000542236",
+      "title": "英超联赛",
+      "keyword": "03月04日03:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "艾兰路球场",
+      "competitionName": "英超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542236/202507101551_909725_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
+      "pkInfoTitle": "利兹联 vs 桑德兰",
+      "modifyTitle": "英超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日03:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000542238",
+      "title": "英超联赛",
+      "keyword": "03月04日03:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "英超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542238/202507101551_522554_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
+      "pkInfoTitle": "埃弗顿 vs 伯恩利",
+      "modifyTitle": "英超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日03:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000542241",
+      "title": "英超联赛",
+      "keyword": "03月04日03:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "迪恩考特球场",
+      "competitionName": "英超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542241/202507101551_691116_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
+      "pkInfoTitle": "伯恩茅斯 vs 布伦特福德",
+      "modifyTitle": "英超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日03:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000565531",
+      "pID": "963064812",
+      "title": "足总杯第四轮",
+      "keyword": "03月04日03:45",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "维尔公园球场",
+      "competitionName": "足总杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000565531/202601130331_768763_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png",
+      "pkInfoTitle": "维尔港 vs 布里斯托尔城",
+      "modifyTitle": "足总杯第四轮",
+      "presenters": "乔迁",
+      "matchInfo": {
+        "time": "03月04日03:45"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569274",
+      "title": "意大利杯半决赛",
+      "keyword": "03月04日04:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "朱塞佩·西尼加利亚体育场",
+      "competitionName": "意大利杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569274/202602110635_913548_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png",
+      "pkInfoTitle": "科莫 vs 国际米兰",
+      "modifyTitle": "意大利杯半决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日04:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000542232",
+      "title": "英超联赛",
+      "keyword": "03月04日04:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "莫利纽球场",
+      "competitionName": "英超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542232/202507101551_967612_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
+      "pkInfoTitle": "狼队 vs 利物浦",
+      "modifyTitle": "英超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日04:15"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547427",
+      "title": "NBA常规赛",
+      "keyword": "03月04日08:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "安利中心",
+      "competitionName": "NBA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "奇才VS魔术",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日08:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547428",
+      "title": "NBA常规赛",
+      "keyword": "03月04日08:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "光谱中心",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547428/202508151333_308316_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "独行侠VS黄蜂",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日08:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547429",
+      "title": "NBA常规赛",
+      "keyword": "03月04日08:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "火箭信贷球馆",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547429/202508151333_404421_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "活塞VS骑士",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日08:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547430",
+      "title": "NBA常规赛",
+      "keyword": "03月04日08:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "卡西亚中心",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547430/202508151337_709060_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "篮网VS热火",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日08:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547431",
+      "title": "NBA常规赛",
+      "keyword": "03月04日08:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "丰业银行球馆",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547431/202508151336_375801_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "尼克斯VS猛龙",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日08:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547432",
+      "title": "NBA常规赛",
+      "keyword": "03月04日09:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "標靶中心",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547432/202508151334_903096_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "灰熊VS森林狼",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日09:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547433",
+      "title": "NBA常规赛",
+      "keyword": "03月04日09:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "富国银行中心",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547433/202508151336_553764_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "马刺VS76人",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日09:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547434",
+      "title": "NBA常规赛",
+      "keyword": "03月04日09:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "联合中心球馆",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547434/202508151336_224111_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "雷霆VS公牛",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日09:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547435",
+      "title": "NBA常规赛",
+      "keyword": "03月04日11:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "加密网体育馆",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547435/202508151337_965143_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "鹈鹕VS湖人",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日11:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000547436",
+      "title": "NBA常规赛",
+      "keyword": "03月04日12:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "金色一号中心",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000547436/202508151335_998687_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "太阳VS国王",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日12:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569125",
+      "title": "女足亚洲杯小组赛",
+      "keyword": "03月04日13:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "珀斯矩形球场",
+      "competitionName": "女足亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSD87LRAQ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png",
+      "pkInfoTitle": "日本 vs 中国台北",
+      "modifyTitle": "女足亚洲杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日13:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569963",
+      "title": "亚冠二级1/4决赛",
+      "keyword": "03月04日18:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "市立吹田球场",
+      "competitionName": "亚冠二级",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569963/202602192030_513889_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
+      "pkInfoTitle": "大阪钢巴 vs 拉查布里府",
+      "modifyTitle": "亚冠二级1/4决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日18:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569979",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月04日18:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "首尔世界杯球场",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569979/202602192331_963521_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "首尔 vs 神户胜利船",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日18:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000569134",
+      "title": "女足亚洲杯小组赛",
+      "keyword": "03月04日19:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "珀斯矩形球场",
+      "competitionName": "女足亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569134/202602091236_228997_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png",
+      "pkInfoTitle": "越南 vs 印度",
+      "modifyTitle": "女足亚洲杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日19:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000564153",
+      "pID": "963154313",
+      "title": "NBL常规赛",
+      "keyword": "03月04日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBL",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564153/202512171152_575650_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
+      "pkInfoTitle": "贵州猛龙 VS 山东蜜獾",
+      "modifyTitle": "NBL常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "963154313",
+          "name": "解说"
+        },
+        {
+          "pID": "963154336",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000569978",
+      "title": "亚冠精英1/8决赛",
+      "keyword": "03月04日20:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "蘇丹依布拉欣體育場",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569978/202602192331_485904_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "柔佛新山 vs 广岛三箭",
+      "modifyTitle": "亚冠精英1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月04日20:15"
+      },
+      "nodes": []
     }
   ]
 }
