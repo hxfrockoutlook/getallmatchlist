@@ -1,5 +1,6 @@
 const fs = require('fs');
 const https = require('https');
+const http = require('http'); 
 
 // 获取上海时间
 function getShanghaiTime() {
@@ -45,11 +46,21 @@ function formatChineseDateTime(dateTimeStr) {
   }
 }
 
+// 修改后的 fetchWithRetry：支持 HTTP 和 HTTPS
 async function fetchWithRetry(url, options, maxRetries = 2) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
       return await new Promise((resolve, reject) => {
-        const req = https.get(url, options, (res) => {
+        let client;
+        try {
+          const urlObj = new URL(url);
+          client = urlObj.protocol === 'https:' ? https : http;
+        } catch (e) {
+          reject(new Error('Invalid URL'));
+          return;
+        }
+        
+        const req = client.get(url, options, (res) => {
           let data = '';
           
           res.on('data', (chunk) => {
@@ -79,6 +90,91 @@ async function fetchWithRetry(url, options, maxRetries = 2) {
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
   }
+}
+
+/**
+ * 从 M3U 地址获取数据，聚合体育相关条目（昨天、今天、明天）
+ * 返回 Map，键为去除空格后的 tvg-id，值为聚合对象，包含 times 数组
+ */
+async function fetchM3UAndAggregate() {
+  const aggregateMap = new Map();
+  try {
+    console.log('开始获取 M3U 数据...');
+    const response = await fetchWithRetry('http://140.240.151.194:3010/');
+    const m3uContent = response.data;
+    const lines = m3uContent.split('\n');
+    
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (!line.startsWith('#EXTINF:')) continue;
+      
+      // 解析 EXTINF 行属性
+      const tvgIdMatch = line.match(/tvg-id="([^"]*)"/);
+      const tvgNameMatch = line.match(/tvg-name="([^"]*)"/);
+      const groupTitleMatch = line.match(/group-title="([^"]*)"/);
+      
+      if (!tvgIdMatch || !tvgNameMatch || !groupTitleMatch) continue;
+      
+      const tvgId = tvgIdMatch[1];
+      const tvgName = tvgNameMatch[1];
+      const groupTitle = groupTitleMatch[1];
+      
+      // 只保留体育-昨天、今天、明天
+      if (!groupTitle.startsWith('体育-')) continue;
+      const suffix = groupTitle.substring(3);
+      if (!['昨天', '今天', '明天'].includes(suffix)) continue;
+      
+      // 获取下一行的 URL
+      let j = i + 1;
+      while (j < lines.length && lines[j].trim() === '') j++;
+      if (j >= lines.length) break;
+      const url = lines[j].trim();
+      i = j; // 下次循环从 URL 之后开始
+      
+      // 提取 competitionName（第一个空格前的内容）
+      const firstSpaceIdx = tvgName.indexOf(' ');
+      if (firstSpaceIdx === -1) continue; // 格式异常，跳过
+      const competitionName = tvgName.substring(0, firstSpaceIdx);
+      
+      // 提取 time（最后一个空格后的 HH:MM）
+      const lastSpaceIdx = tvgName.lastIndexOf(' ');
+      if (lastSpaceIdx === -1) continue;
+      const possibleTime = tvgName.substring(lastSpaceIdx + 1).trim();
+      if (!/^\d{2}:\d{2}$/.test(possibleTime)) continue; // 不是时间格式，跳过
+      const time = possibleTime;
+      
+      // 提取中间部分（去掉 competitionName 和 time）
+      let middlePart = tvgName.substring(firstSpaceIdx + 1, lastSpaceIdx).trim();
+      
+      // 从中间部分移除 tvg-id 得到 name
+      // 转义 tvgId 中的正则特殊字符
+      const escapedTvgId = tvgId.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const name = middlePart.replace(new RegExp(escapedTvgId, 'g'), '').trim();
+      
+      // 用于匹配的键：去除所有空格的 tvg-id
+      const normalizedTvgId = tvgId.replace(/\s+/g, '');
+      
+      if (!aggregateMap.has(normalizedTvgId)) {
+        // 首次遇到该 tvg-id，初始化 times 数组和 nodes 数组
+        aggregateMap.set(normalizedTvgId, {
+          tvgId: tvgId,
+          normalizedTvgId: normalizedTvgId,
+          competitionName: competitionName,
+          times: [time],          // 改为数组，存储所有时间
+          nodes: [{ name, url }]
+        });
+      } else {
+        // 已存在，追加时间（可能重复，但匹配时会遍历）
+        const entry = aggregateMap.get(normalizedTvgId);
+        entry.times.push(time);
+        entry.nodes.push({ name, url });
+      }
+    }
+    console.log(`M3U 数据聚合完成，共 ${aggregateMap.size} 个唯一 tvg-id`);
+  } catch (error) {
+    console.warn('获取或解析 M3U 数据失败:', error.message);
+  }
+  return aggregateMap;
 }
 
 async function getMatchNodes(mgdbId) {
@@ -130,9 +226,31 @@ async function getMatchNodes(mgdbId) {
   return nodes;
 }
 
+/**
+ * 标准化队伍字符串：忽略顺序，支持 VS 分隔（不区分大小写）
+ * 例如 "热火VS76人" 和 "76人VS热火" 均返回 "76人热火"
+ */
+function normalizeTeamString(str) {
+  if (!str) return '';
+  const trimmed = str.replace(/\s+/g, ''); // 先去除所有空格
+  // 匹配 VS（不区分大小写），捕获 VS 前后的内容
+  const vsMatch = trimmed.match(/^(.*?)(vs)(.*)$/i);
+  if (vsMatch) {
+    const team1 = vsMatch[1];
+    const team2 = vsMatch[3];
+    // 对两个队伍名称排序，然后拼接
+    const parts = [team1, team2].sort();
+    return parts.join('').toLowerCase();
+  }
+  return trimmed.toLowerCase();
+}
+
 async function fetchAndProcessData() {
   try {
     console.log('开始获取赛事数据...');
+    
+    // 获取并聚合 M3U 体育数据
+    const m3uAggregateMap = await fetchM3UAndAggregate();
     
     // 获取主JSON数据
     const jsonResponse = await fetchWithRetry('https://vms-sc.miguvideo.com/vms-match/v6/staticcache/basic/match-list/normal-match-list/0/all/default/1/miguvideo');
@@ -172,6 +290,45 @@ async function fetchAndProcessData() {
           matchInfo: { time: formatChineseDateTime(match.keyword) },
           nodes: nodes
         };
+
+        // 匹配 M3U 数据并合并节点======================
+        // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配）
+        const normalizedPkInfoTitle = normalizeTeamString(match.pkInfoTitle);
+        const matchCompetitionName = (match.competitionName || '').toLowerCase();
+        const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
+        
+        // 将 matchTimeStr 转换为分钟数（如果格式正确）
+        let matchMinutes = null;
+        if (/^\d{2}:\d{2}$/.test(matchTimeStr)) {
+          matchMinutes = parseInt(matchTimeStr.slice(0,2)) * 60 + parseInt(matchTimeStr.slice(3,5));
+        }
+        
+        // 遍历聚合 Map 寻找匹配项
+        for (const [normId, aggItem] of m3uAggregateMap.entries()) {
+          // 比较 tvg-id（标准化处理，支持顺序无关）
+          if (normalizeTeamString(normId) !== normalizedPkInfoTitle) continue;
+          
+          // 比较 competitionName（忽略大小写）
+          if (aggItem.competitionName.toLowerCase() !== matchCompetitionName) continue;
+          
+          // 比较时间：检查 aggItem.times 中是否存在与 matchMinutes 相差 ≤30 分钟的时间
+          if (matchMinutes === null) continue;
+          let timeMatched = false;
+          for (const t of aggItem.times) {
+            const aggMinutes = parseInt(t.slice(0,2)) * 60 + parseInt(t.slice(3,5));
+            if (Math.abs(aggMinutes - matchMinutes) <= 30) {
+              timeMatched = true;
+              break;
+            }
+          }
+          if (!timeMatched) continue;
+          
+          // 三项匹配成功，追加节点
+          mergedMatch.nodes.push(...aggItem.nodes.map(node => ({ url: node.url, name: node.name })));
+          console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，追加 ${aggItem.nodes.length} 个节点`);
+          break; // 一个比赛只匹配一个 tvg-id
+        }
+        // =============================================
         
         result.push(mergedMatch);
         
