@@ -228,6 +228,25 @@ async function getMatchNodes(mgdbId) {
 
 // ==================== 修改后的匹配辅助函数 ====================
 
+/**
+ * 标准化队伍字符串：忽略顺序，支持 VS 分隔（不区分大小写）
+ * 例如 "热火VS76人" 和 "76人VS热火" 均返回 "76人热火"
+ */
+function normalizeTeamString(str) {
+  if (!str) return '';
+  const trimmed = str.replace(/\s+/g, ''); // 先去除所有空格
+  // 匹配 VS（不区分大小写），捕获 VS 前后的内容
+  const vsMatch = trimmed.match(/^(.*?)(vs)(.*)$/i);
+  if (vsMatch) {
+    const team1 = vsMatch[1];
+    const team2 = vsMatch[3];
+    // 对两个队伍名称排序，然后拼接
+    const parts = [team1, team2].sort();
+    return parts.join('').toLowerCase();
+  }
+  return trimmed.toLowerCase();
+}
+
 // 计算两个 HH:MM 时间在 24 小时内的最小分钟差
 function timeDiffInMinutes(t1, t2) {
   const [h1, m1] = t1.split(':').map(Number);
@@ -238,89 +257,12 @@ function timeDiffInMinutes(t1, t2) {
   return Math.min(diff, 24 * 60 - diff);
 }
 
-/**
- * 从字符串中提取两支队伍（去除空格，按 vs 或比分分隔）
- * 如果无法提取（没有分隔符），返回空数组
- */
-function extractTeams(str) {
-  if (!str) return [];
-  const cleaned = str.replace(/\s+/g, '');
-  // 匹配 vs（不区分大小写）或 数字-数字 或 数字:数字
-  const match = cleaned.match(/^(.*?)(?:vs|\d+[-:]\d+)(.*)$/i);
-  return match ? [match[1], match[2]] : [];
-}
-
-/**
- * 计算两支队伍的匹配得分
- * 完全相等（去空格后相同）→ 30分
- * 包含关系（子串）→ 20分
- * 否则 → 0分
- */
-function teamMatchScore(teamA, teamB) {
-  const a = teamA.replace(/\s+/g, '');
-  const b = teamB.replace(/\s+/g, '');
-  if (a === b) return 30;
-  if (a.includes(b) || b.includes(a)) return 20;
-  return 0;
-}
-
-/**
- * 计算两个队伍列表的最佳配对总分（上限50）
- * teams1, teams2 均为长度为2的数组
- */
-function getTeamPairScore(teams1, teams2) {
-  if (teams1.length !== 2 || teams2.length !== 2) return 0;
-  const score1 = teamMatchScore(teams1[0], teams2[0]) + teamMatchScore(teams1[1], teams2[1]);
-  const score2 = teamMatchScore(teams1[0], teams2[1]) + teamMatchScore(teams1[1], teams2[0]);
-  return Math.min(Math.max(score1, score2), 50);
-}
-
-/**
- * 整体字符串匹配得分（用于无法提取队伍的情况）
- * 完全相等（去空格后相同）→ 50分
- * 包含关系（子串）→ 30分
- * 否则 → 0分
- */
-function overallMatchScore(strA, strB) {
-  const a = (strA || '').replace(/\s+/g, '');
-  const b = (strB || '').replace(/\s+/g, '');
-  if (a === b) return 50;
-  if (a.includes(b) || b.includes(a)) return 30;
-  return 0;
-}
-
-/**
- * 赛事名称匹配得分
- * 完全相等（忽略大小写）→ 30分
- * 互相包含 → 20分
- * 否则 → 0分
- */
-function competitionMatchScore(compA, compB) {
-  const a = (compA || '').toLowerCase();
-  const b = (compB || '').toLowerCase();
-  if (a === b) return 30;
-  if (a.includes(b) || b.includes(a)) return 20;
-  return 0;
-}
-
-/**
- * 时间匹配得分
- * 完全相同 → 20分
- * 相差 ≤30分钟（跨午夜）→ 10分
- * 否则 → 0分
- */
-function timeMatchScore(t1, t2) {
-  if (t1 === t2) return 20;
-  if (timeDiffInMinutes(t1, t2) <= 30) return 10;
-  return 0;
-}
-
 async function fetchAndProcessData() {
   try {
     console.log('开始获取赛事数据...');
     
     // 获取并聚合 M3U 体育数据
-    let m3uAggregateMap = await fetchM3UAndAggregate();
+    const m3uAggregateMap = await fetchM3UAndAggregate();
     
     // 获取主JSON数据
     const jsonResponse = await fetchWithRetry('https://vms-sc.miguvideo.com/vms-match/v6/staticcache/basic/match-list/normal-match-list/0/all/default/1/miguvideo');
@@ -363,49 +305,32 @@ async function fetchAndProcessData() {
 
         // 匹配 M3U 数据并合并节点======================
         // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配、支持跨午夜）
-        // 匹配 M3U 数据并合并节点（基于分数匹配，每个 M3U 条目只匹配一场比赛）
-        const matchTeams = extractTeams(match.pkInfoTitle);
+        const normalizedPkInfoTitle = normalizeTeamString(match.pkInfoTitle);
         const matchCompetitionName = (match.competitionName || '').toLowerCase();
-        const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // HH:MM
-
-        let bestMatchTotal = 0;
-        let bestMatchNodes = [];
-        let bestMatchNormId = null; // 记录最佳匹配的 normId
-
+        const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
+        
+        // 遍历聚合 Map 寻找匹配项
         for (const [normId, aggItem] of m3uAggregateMap.entries()) {
-            const tvgTeams = extractTeams(normId);
-            
-            // 队伍得分
-            let teamScore;
-            if (matchTeams.length === 2 && tvgTeams.length === 2) {
-                teamScore = getTeamPairScore(matchTeams, tvgTeams);
-            } else {
-                teamScore = overallMatchScore(match.pkInfoTitle, normId);
+          // 比较 tvg-id（标准化处理，支持顺序无关）
+          if (normalizeTeamString(normId) !== normalizedPkInfoTitle) continue;
+          
+          // 比较 competitionName（忽略大小写）
+          if (aggItem.competitionName.toLowerCase() !== matchCompetitionName) continue;
+          
+          // 比较时间：检查 aggItem.times 中是否存在与 matchTimeStr 相差 ≤30 分钟的时间（考虑跨午夜）
+          let timeMatched = false;
+          for (const t of aggItem.times) {
+            if (timeDiffInMinutes(t, matchTimeStr) <= 30) {
+              timeMatched = true;
+              break;
             }
-            
-            // 赛事名称得分
-            const compScore = competitionMatchScore(match.competitionName, aggItem.competitionName);
-            
-            // 时间得分（取最高）
-            let bestTimeScore = 0;
-            for (const t of aggItem.times) {
-                const ts = timeMatchScore(matchTimeStr, t);
-                if (ts > bestTimeScore) bestTimeScore = ts;
-            }
-            
-            const totalScore = teamScore + compScore + bestTimeScore;
-            if (totalScore > bestMatchTotal) {
-                bestMatchTotal = totalScore;
-                bestMatchNodes = aggItem.nodes;
-                bestMatchNormId = normId;
-            }
-        }
-
-        if (bestMatchTotal >= 50 && bestMatchNormId) {
-            mergedMatch.nodes.push(...bestMatchNodes.map(node => ({ url: node.url, name: node.name })));
-            console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，总分 ${bestMatchTotal}，追加 ${bestMatchNodes.length} 个节点`);
-            // 从 map 中删除已匹配的条目，防止被其他比赛使用
-            m3uAggregateMap.delete(bestMatchNormId);
+          }
+          if (!timeMatched) continue;
+          
+          // 三项匹配成功，追加节点
+          mergedMatch.nodes.push(...aggItem.nodes.map(node => ({ url: node.url, name: node.name })));
+          console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，追加 ${aggItem.nodes.length} 个节点`);
+          break; // 一个比赛只匹配一个 tvg-id
         }
         // =============================================
         
