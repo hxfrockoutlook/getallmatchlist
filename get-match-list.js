@@ -284,12 +284,26 @@ async function fetchAndProcessData() {
         // 获取节点数据
         console.log(`获取比赛 ${match.mgdbId} 的节点数据...`);
         const nodes = await getMatchNodes(match.mgdbId);
+
+      // 在此处插入时间处理逻辑
+      let timeStr;
+      if (!match.keyword) { // 判断 keyword 是否为空
+          // 生成默认时间：北京时间今天零点
+          const now = new Date();
+          const shanghaiTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
+          const month = String(shanghaiTime.getUTCMonth() + 1).padStart(2, '0');
+          const day = String(shanghaiTime.getUTCDate()).padStart(2, '0');
+          timeStr = `${month}月${day}日00:00`;
+      } else {
+          timeStr = formatChineseDateTime(match.keyword);
+      }
         
         const mergedMatch = {
           mgdbId: match.mgdbId,
           pID: match.pID,
           title: match.title,
-          keyword: formatChineseDateTime(match.keyword),  // 使用格式化函数
+          //keyword: formatChineseDateTime(match.keyword),  // 使用格式化函数
+          keyword: timeStr,
           sportItemId: match.sportItemId,
           matchStatus: match.matchStatus,
           matchField: match.matchField || "",
@@ -299,7 +313,8 @@ async function fetchAndProcessData() {
           pkInfoTitle: match.pkInfoTitle,
           modifyTitle: match.modifyTitle,
           presenters: match.presenters ? match.presenters.map(p => p.name).join(" ") : "",
-          matchInfo: { time: formatChineseDateTime(match.keyword) },
+          //matchInfo: { time: formatChineseDateTime(match.keyword) },
+          matchInfo: { time: timeStr },
           nodes: nodes
         };
 
