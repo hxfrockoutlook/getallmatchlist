@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-17 01:57:40",
+  "updateTime": "2026-03-17 05:22:29",
   "data": [
     {
       "mgdbId": "120000543581",
@@ -223,7 +223,16 @@
       "matchInfo": {
         "time": "03月15日01:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963572208",
+          "name": "王子睿"
+        },
+        {
+          "pID": "963572192",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000543856",
@@ -3518,7 +3527,7 @@
       "title": "意甲联赛",
       "keyword": "03月17日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "吉奥瓦尼·齐尼体育场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543748/169971_H169_sc.jpg",
@@ -3546,7 +3555,7 @@
       "title": "英超联赛",
       "keyword": "03月17日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Gtech Community Stadium",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542230/621518_H169_sc.jpg",
@@ -3582,7 +3591,7 @@
       "title": "西甲联赛",
       "keyword": "03月17日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴列卡斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543857/915544_H169_sc.jpg",
@@ -3858,7 +3867,7 @@
     },
     {
       "mgdbId": "120000571284",
-      "pID": "963442921",
+      "pID": "963442944",
       "title": "常冰玉大战吴宜泽 囧哥迎战吕昊天",
       "keyword": "03月17日09:30",
       "sportItemId": "8",
@@ -6117,7 +6126,20 @@
       "matchInfo": {
         "time": "03月20日08:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963595236",
+          "name": "杨健 曾令旭 马健"
+        },
+        {
+          "pID": "963595253",
+          "name": "英文原声"
+        },
+        {
+          "pID": "963595256",
+          "name": "智能字幕"
+        }
+      ]
     },
     {
       "mgdbId": "120000547558",
@@ -7344,7 +7366,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "南海体育中心体育场",
-      "competitionName": "中甲",
+      "competitionName": "中���",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570736/721348_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "佛山南狮 vs 广东广州豹",
@@ -7486,7 +7508,12 @@
       "matchInfo": {
         "time": "03月21日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963499523",
+          "name": "图文直播"
+        }
+      ]
     },
     {
       "mgdbId": "120000562365",
