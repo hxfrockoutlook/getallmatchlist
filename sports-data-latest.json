@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-26 00:13:02",
+  "updateTime": "2026-03-26 05:20:02",
   "data": [
     {
       "mgdbId": "120000572712",
@@ -1056,7 +1056,7 @@
       "title": "小组赛第1日晚场-皇马巴萨U12出战",
       "keyword": "03月25日23:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "LALIGA FC FUTURES全球锦标赛",
       "padImg": "",
@@ -1077,25 +1077,21 @@
     {
       "mgdbId": "120000572394",
       "pID": "963659124",
-      "title": "莱巴金娜PK佩古拉 萨巴伦卡清晨出战",
+      "title": "萨巴伦卡清晨出战 莱巴金娜闯入四强",
       "keyword": "03月26日01:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S7BT0B8KU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "莱巴金娜PK佩古拉 萨巴伦卡清晨出战",
-      "modifyTitle": "WTA迈阿密站女单1/4决赛：莱巴金娜PK佩古拉 萨巴伦卡清晨出战",
-      "presenters": "宋光振",
+      "pkInfoTitle": "萨巴伦卡清晨出战 莱巴金娜闯入四强",
+      "modifyTitle": "WTA迈阿密站女单1/4决赛：萨巴伦卡清晨出战 莱巴金娜闯入四强",
+      "presenters": "",
       "matchInfo": {
         "time": "03月26日01:00"
       },
       "nodes": [
-        {
-          "pID": "963806165",
-          "name": "宋光振"
-        },
         {
           "pID": "963659124",
           "name": "赛场原声"
@@ -1108,16 +1104,16 @@
     },
     {
       "mgdbId": "120000572452",
-      "pID": "963692175",
-      "title": "陈思羽、汪洋领衔冲正赛",
+      "pID": "963692239",
+      "title": "陈思羽3-2闯入正赛 汪洋1-3止步",
       "keyword": "03月26日01:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S9CS7DAUL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/26/776T4E9C2MMB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "陈思羽、汪洋领衔冲正赛",
+      "pkInfoTitle": "陈思羽3-2闯入正赛 汪洋1-3止步",
       "modifyTitle": "WTT突尼斯常规挑战赛资格赛",
       "presenters": "",
       "matchInfo": {
@@ -1129,12 +1125,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "963692205",
-          "name": "2号桌"
-        },
-        {
           "pID": "963692239",
           "name": "3号桌"
+        },
+        {
+          "pID": "963692205",
+          "name": "2号桌"
         },
         {
           "pID": "963692254",
@@ -1148,10 +1144,10 @@
       "title": "WTA迈阿密站女单1/4决赛：莱巴金娜 vs 佩古拉",
       "keyword": "03月26日01:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S9LIRK1KV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/26/776T4NSP49C0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "莱巴金娜 vs 佩古拉",
       "modifyTitle": "WTA迈阿密站女单1/4决赛：莱巴金娜 vs 佩古拉",
@@ -2283,7 +2279,7 @@
       "competitionName": "LALIGA FC FUTURES全球锦标赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776R9SULAAL0.jpg",
-      "pkInfoTitle": "小组赛第3日晚��-U12皇萨皆迎德比",
+      "pkInfoTitle": "小组赛第3日晚场-U12皇萨皆迎德比",
       "modifyTitle": "LALIGA FC FUTURES全球锦标赛",
       "presenters": "",
       "matchInfo": {
@@ -4434,7 +4430,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000562406/202511191742_856412_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "新疆伊力特vs宁波町渥",
-      "modifyTitle": "CBA常规赛第32轮",
+      "modifyTitle": "CBA���规赛第32轮",
       "presenters": "",
       "matchInfo": {
         "time": "03月30日20:00"
