@@ -96,10 +96,10 @@ async function fetchWithRetry(url, options, maxRetries = 2) {
  * 从 M3U 地址获取数据，按指定日期（MMDD）过滤
  * 返回 Map，键为去除空格后的 tvg-id，值为聚合对象，包含 times 数组
  */
-async function fetchM3UAndAggregate() {
+async function fetchM3UAndAggregateForDate(targetMMDD) {
   const aggregateMap = new Map();
   try {
-    console.log('开始获取 M3U 数据...');
+    console.log(`开始获取 M3U 数据（日期 ${targetMMDD}）...`);
     const response = await fetchWithRetry('http://vip.fs.frp.one:56234/');
     const m3uContent = response.data;
     const lines = m3uContent.split('\n');
