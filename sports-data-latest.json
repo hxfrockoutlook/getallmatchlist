@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-08 00:16:24",
+  "updateTime": "2026-04-08 05:22:06",
   "data": [
     {
       "mgdbId": "120000543741",
@@ -1901,16 +1901,16 @@
     {
       "mgdbId": "120000573444",
       "pID": "963943946",
-      "title": "伊埃拉出战 科斯蒂亚速胜",
+      "title": "伊埃拉速胜 科斯蒂亚速胜",
       "keyword": "04月07日18:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/07/7796RHT7G5GO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "伊埃拉出战 科斯蒂亚速胜",
-      "modifyTitle": "WTA林茨站女单第一轮：伊埃拉出战 科斯蒂亚速胜",
+      "pkInfoTitle": "伊埃拉速胜 科斯蒂亚速胜",
+      "modifyTitle": "WTA林茨站女单第一轮：伊埃拉速胜 科斯蒂亚速胜",
       "presenters": "",
       "matchInfo": {
         "time": "04月07日18:00"
@@ -2104,22 +2104,34 @@
     },
     {
       "mgdbId": "120000573525",
-      "pID": "963974815",
-      "title": "张家玮、老将达赫迪、女皇埃文斯出战",
+      "pID": "963975518",
+      "title": "张家玮惜败 老将达赫迪、女皇埃文斯出局",
       "keyword": "04月07日21:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/07/7796PSNQV2Q0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "张家玮、老将达赫迪、女皇埃文斯出战",
-      "modifyTitle": "斯诺克世锦赛资格赛144进112轮次：张家���、老将达赫迪、女皇埃文斯出战",
+      "pkInfoTitle": "张家玮惜败 老将达赫迪、女皇埃文斯出局",
+      "modifyTitle": "斯诺克世锦赛资格赛144进112轮次：���家玮惜败 老将达赫迪、女皇埃文斯出局",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "04月07日21:30"
       },
       "nodes": [
+        {
+          "pID": "963975518",
+          "name": "7号桌"
+        },
+        {
+          "pID": "963975416",
+          "name": "6号桌"
+        },
+        {
+          "pID": "963974959",
+          "name": "3号桌"
+        },
         {
           "pID": "963975305",
           "name": "5号桌"
@@ -2137,18 +2149,6 @@
           "name": "1号桌"
         },
         {
-          "pID": "963974959",
-          "name": "3号桌"
-        },
-        {
-          "pID": "963975416",
-          "name": "6号桌"
-        },
-        {
-          "pID": "963975518",
-          "name": "7号桌"
-        },
-        {
           "pID": "963975180",
           "name": "4号桌"
         },
@@ -2160,30 +2160,22 @@
     },
     {
       "mgdbId": "120000573526",
-      "pID": "963974558",
-      "title": "傅家俊争晋级 许医尘PK卡林顿",
+      "pID": "963974981",
+      "title": "傅家俊、许医尘轻松晋级",
       "keyword": "04月08日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/07/7796RA60QN9D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "傅家俊争晋级 许医尘PK卡林顿",
-      "modifyTitle": "斯诺克世锦赛资格赛144进112轮次：傅家俊争晋级 许医尘PK卡林顿",
+      "pkInfoTitle": "傅家俊、许医尘轻松晋级",
+      "modifyTitle": "斯诺克世锦赛资格赛144进112轮次：傅家俊、许医尘轻松晋级",
       "presenters": "",
       "matchInfo": {
         "time": "04月08日02:00"
       },
       "nodes": [
-        {
-          "pID": "963974558",
-          "name": "1号桌"
-        },
-        {
-          "pID": "963974838",
-          "name": "2号桌"
-        },
         {
           "pID": "963974981",
           "name": "3号桌"
@@ -2193,16 +2185,24 @@
           "name": "4号桌"
         },
         {
-          "pID": "963975318",
-          "name": "5号桌"
+          "pID": "963975525",
+          "name": "7号桌"
+        },
+        {
+          "pID": "963974838",
+          "name": "2号桌"
         },
         {
           "pID": "963975431",
           "name": "6号桌"
         },
         {
-          "pID": "963975525",
-          "name": "7号桌"
+          "pID": "963974558",
+          "name": "1号桌"
+        },
+        {
+          "pID": "963975318",
+          "name": "5号桌"
         }
       ]
     },
@@ -4601,7 +4601,7 @@
       "competitionName": "国际马联场地障碍世界杯",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/1/13/100000001010106d9f87.jpg",
-      "pkInfoTitle": "场地障碍第一���",
+      "pkInfoTitle": "场地障碍第一场",
       "modifyTitle": "世界杯总决赛场地障碍第一场",
       "presenters": "",
       "matchInfo": {
@@ -5926,7 +5926,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "广东省城市篮球联赛",
+      "competitionName": "广东省城市篮���联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573226/202603301535_684620_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/31/7771NVP7ICON.png",
       "pkInfoTitle": "珠海vs广州",
@@ -7929,7 +7929,7 @@
       "competitionName": "国际马联场地障碍世界杯",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/1/13/100000001010106d9f87.jpg",
-      "pkInfoTitle": "场地障��第三场",
+      "pkInfoTitle": "场地障碍第三场",
       "modifyTitle": "世界杯总决赛场地障碍第三场",
       "presenters": "",
       "matchInfo": {
