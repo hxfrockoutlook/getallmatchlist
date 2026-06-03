@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-03 05:21:27",
+  "updateTime": "2026-06-03 14:21:45",
   "data": [
     {
       "mgdbId": "120000578933",
@@ -622,7 +622,7 @@
       "title": "咪咕体育日报 第129期",
       "keyword": "06月03日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -645,7 +645,7 @@
       "title": "第四届全国攀岩冠军赛Day2",
       "keyword": "06月03日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国攀岩冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/02/77EO5M7MGUE7.png",
@@ -665,22 +665,30 @@
     },
     {
       "mgdbId": "120000579177",
-      "pID": "965105874",
+      "pID": "965133904",
       "title": "魔鬼主场继续！一百分对阵印尼双雄",
       "keyword": "06月03日10:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/02/77EO74GEGTU3.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/03/77EP4IHRSMUC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "魔鬼主场继续！一百分对阵印尼双雄",
       "modifyTitle": "印尼羽毛球公开赛第二日：魔鬼主场继续！一百分对阵印尼双雄",
-      "presenters": "",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "06月03日10:00"
       },
       "nodes": [
+        {
+          "pID": "965133904",
+          "name": "安洗莹VS伊吉特"
+        },
+        {
+          "pID": "965105981",
+          "name": "3号场地"
+        },
         {
           "pID": "965105874",
           "name": "1号场地"
@@ -688,10 +696,6 @@
         {
           "pID": "965105922",
           "name": "2号场地"
-        },
-        {
-          "pID": "965105981",
-          "name": "3号场地"
         },
         {
           "pID": "965114823",
@@ -705,11 +709,11 @@
     },
     {
       "mgdbId": "120000579212",
-      "pID": "965118631",
+      "pID": "965140355",
       "title": "《NBA周刊》2026总决赛G1特辑",
       "keyword": "06月03日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/02/77EO65SA99DB.jpg",
@@ -722,6 +726,10 @@
       },
       "nodes": [
         {
+          "pID": "965140355",
+          "name": "《NBA周刊》总决赛G1特别节目：连线周琦揭秘圣城主场氛围 剖析终局之战走向（拜月宁、管维佳、曾令旭）"
+        },
+        {
           "pID": "965118631",
           "name": "拜月宁 管维佳 曾令旭"
         }
@@ -733,7 +741,7 @@
       "title": "精彩回顾：莱巴金娜 vs 穆霍娃",
       "keyword": "06月03日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/02/77EO5V8N6QL7.jpg",
@@ -757,7 +765,7 @@
       "title": "精彩回顾：姆博科 vs 纳瓦罗",
       "keyword": "06月03日14:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/02/77EO7C4U8RF2.jpg",
@@ -836,6 +844,30 @@
         {
           "pID": "965057577",
           "name": "第二阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000579184",
+      "pID": "965106074",
+      "title": "NBA精彩重播：1999总决赛 马刺vs尼克斯 G5",
+      "keyword": "06月03日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：1999总决赛 马刺vs尼克斯 G5",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "蔡凯臣",
+      "matchInfo": {
+        "time": "06月03日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965106074",
+          "name": "蔡凯臣"
         }
       ]
     },
@@ -940,7 +972,7 @@
       "matchStatus": "0",
       "matchField": "Stade de Lattre de Tassigny",
       "competitionName": "土伦杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578939/202605301431_724213_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/03/77EP4SPPB4GP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png",
       "pkInfoTitle": "科特迪瓦U23 vs 委内瑞拉U20",
       "modifyTitle": "土伦杯小组赛",
@@ -1311,7 +1343,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "浪琴环球马术冠军赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/03/77EP4EE27TRE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/1/100000001461106b6114.png",
       "pkInfoTitle": "戛纳站GCL团体赛",
       "modifyTitle": "2026浪琴环球马术冠军赛戛纳站day1",
@@ -1406,14 +1438,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "《NBA周刊》2026总决赛G2特辑",
       "modifyTitle": "NBA",
-      "presenters": "",
+      "presenters": "孙博 蔡凯臣 佳依",
       "matchInfo": {
         "time": "06月05日10:00"
       },
       "nodes": [
         {
           "pID": "965118637",
-          "name": "现场原声"
+          "name": "佳依 孙博 蔡凯臣"
         }
       ]
     },
@@ -1598,7 +1630,7 @@
       "matchStatus": "0",
       "matchField": "Parc des Sports",
       "competitionName": "土伦杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/03/77EP517KI7C7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png",
       "pkInfoTitle": "哥伦比亚U19 vs 中国U20",
       "modifyTitle": "土伦杯小组赛",
@@ -2552,7 +2584,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "浪琴环球马术冠军赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/03/77EP4EDIJL8J.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/1/100000001461106b6114.png",
       "pkInfoTitle": "戛纳站LGCT大奖赛",
       "modifyTitle": "2026浪琴环球马术冠军赛戛纳站day3",
@@ -2853,10 +2885,6 @@
         {
           "pID": "964868331",
           "name": "虹口邮储银行vs宝山国投私募基金"
-        },
-        {
-          "pID": "964868331",
-          "name": "虹口邮��银行vs宝山国投私募基金"
         }
       ]
     },
@@ -3193,6 +3221,34 @@
         {
           "pID": "965030549",
           "name": "咪咕体育日报 第135期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000579246",
+      "pID": "965140951",
+      "title": "中国vs泰国",
+      "keyword": "06月09日19:35",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国之队·国际足球邀请赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000579246/202606031131_773220_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/3/100000001478106571d7.png",
+      "pkInfoTitle": "中国vs泰国",
+      "modifyTitle": "中国vs泰国",
+      "presenters": "苏东 徐阳 李子琪",
+      "matchInfo": {
+        "time": "06月09日19:35"
+      },
+      "nodes": [
+        {
+          "pID": "965140951",
+          "name": "苏东 徐阳 李子琪"
+        },
+        {
+          "pID": "965140941",
+          "name": "赛场原声"
         }
       ]
     },
