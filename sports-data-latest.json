@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-09 05:20:14",
+  "updateTime": "2026-06-09 14:19:49",
   "data": [
     {
       "mgdbId": "120000579221",
@@ -828,6 +828,10 @@
           "name": "赛场原声"
         },
         {
+          "url": "http://vip.xa.frp.one:36234/965255230",
+          "name": "全场回放"
+        },
+        {
           "url": "http://vip.xa.frp.one:36234/965235288",
           "name": "全场回放（张昊泽、王宇）"
         }
@@ -1024,7 +1028,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/08/77ETL84QNKOR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "郑钦文止步首轮！费尔南德斯比赛推迟",
-      "modifyTitle": "WTA500伦敦站女单第一轮：费尔南德斯迎战博尔特",
+      "modifyTitle": "WTA500伦敦站女单第一轮：郑钦文止步首轮！费尔南德斯比赛推迟",
       "presenters": "李宁",
       "matchInfo": {
         "time": "06月08日20:00"
@@ -1049,6 +1053,10 @@
         {
           "url": "http://vip.xa.frp.one:36234/965251983",
           "name": "【回放】郑钦文0-2克里斯蒂安（赛场原声）"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965252075",
+          "name": "【回放】博尔特暂0-1费尔南德斯（赛场原声）"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965252051",
@@ -1151,85 +1159,33 @@
           "name": "赛场原声"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965251969",
-          "name": "全场回放"
-        },
-        {
           "url": "http://vip.xa.frp.one:36234/965251924",
           "name": "全场回放（鹿中原）"
         }
       ]
     },
     {
-      "mgdbId": "120000579501",
-      "pID": "965239959",
-      "title": "蓄势待发！一百分、凡贤组合联袂出击",
-      "keyword": "06月09日07:00",
-      "sportItemId": "6",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/08/77ETLCG001A4.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "蓄势待发！一百��、凡贤组合联袂出击",
-      "modifyTitle": "澳大利亚公开赛第一日：蓄势待发！一百分、凡贤组合联袂出击",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月09日07:00"
-      },
-      "nodes": [
-        {
-          "pID": "965239959",
-          "name": "1号场地"
-        },
-        {
-          "pID": "965239988",
-          "name": "2号场地"
-        },
-        {
-          "pID": "965240022",
-          "name": "3号场地"
-        },
-        {
-          "pID": "965240052",
-          "name": "4号场地"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965239959",
-          "name": "1号场地"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965239988",
-          "name": "2号场地"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965240022",
-          "name": "3号场地"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965240052",
-          "name": "4号场地"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000569221",
-      "pID": "965244066",
+      "pID": "965256035",
       "title": "NBA总决赛",
       "keyword": "06月09日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/08/77ETK0NG39KG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUJEA8E6R6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS尼克斯",
       "modifyTitle": "NBA总决赛",
-      "presenters": "杨健 周琦 陈正昊 姜帆 马健 周鹏 王晓晨 洪荒 莫俊祺",
+      "presenters": "杨健 周琦 陈正昊 姜帆 马健 周鹏 王晓晨 莫俊祺 洪荒",
       "matchInfo": {
         "time": "06月09日08:30"
       },
       "nodes": [
+        {
+          "pID": "965256035",
+          "name": "全场集锦"
+        },
         {
           "pID": "965244066",
           "name": "杨健 周琦 陈正昊"
@@ -1243,8 +1199,8 @@
           "name": "王晓晨"
         },
         {
-          "pID": "965244275",
-          "name": "智能字幕"
+          "pID": "965248250",
+          "name": "莫俊祺"
         },
         {
           "pID": "965244349",
@@ -1263,8 +1219,8 @@
           "name": "球场十倍镜"
         },
         {
-          "pID": "965248250",
-          "name": "莫俊祺"
+          "pID": "965244275",
+          "name": "智能字幕"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965244066",
@@ -1279,8 +1235,8 @@
           "name": "王晓晨"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965244275",
-          "name": "智能字幕"
+          "url": "http://vip.xa.frp.one:36234/965248250",
+          "name": "莫俊祺"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965244349",
@@ -1297,10 +1253,6 @@
         {
           "url": "http://vip.xa.frp.one:36234/965244496",
           "name": "球场十倍镜"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965248250",
-          "name": "莫俊祺"
         }
       ]
     },
@@ -1310,7 +1262,7 @@
       "title": "斯诺克经典回放重播：2022英锦赛决赛 丁俊晖vs艾伦（一）",
       "keyword": "06月09日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "",
@@ -1329,6 +1281,58 @@
         {
           "url": "http://vip.xa.frp.one:36234/965162082",
           "name": "一"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000579501",
+      "pID": "965239988",
+      "title": "蓄势待发！一百分、凡贤组合联袂出击",
+      "keyword": "06月09日14:00",
+      "sportItemId": "6",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/08/77ETLCG001A4.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "蓄势待发！一百分、凡贤组合联袂出击",
+      "modifyTitle": "澳大利亚公开赛第一日：蓄势待发！一百分、凡贤组合联袂出击",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "965239988",
+          "name": "2号场地"
+        },
+        {
+          "pID": "965240022",
+          "name": "3号场地"
+        },
+        {
+          "pID": "965240052",
+          "name": "4号场地"
+        },
+        {
+          "pID": "965239959",
+          "name": "1号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965239988",
+          "name": "2号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965240022",
+          "name": "3号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965240052",
+          "name": "4号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965239959",
+          "name": "1号场地"
         }
       ]
     },
@@ -1444,9 +1448,45 @@
       ]
     },
     {
+      "mgdbId": "120000579238",
+      "pID": "965146106",
+      "title": "拉杜卡努出战 小威廉姆斯女双亮相",
+      "keyword": "06月09日19:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUIROQ36QA.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "拉杜卡努出战 小威廉姆斯女双亮相",
+      "modifyTitle": "WTA500伦敦站女单/双第一轮：拉杜卡努出战 小威廉姆斯女双亮相",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "965146106",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965146195",
+          "name": "英文原声"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965146106",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965146195",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000579507",
       "pID": "965240483",
-      "title": "CUVA男子高水平组总决赛：复旦大学vs南京师范大学",
+      "title": "CUVA女子高水平组总决赛：复旦大学vs南京师范大学",
       "keyword": "06月09日19:00",
       "sportItemId": "3",
       "matchStatus": "0",
@@ -1454,7 +1494,7 @@
       "competitionName": "中国大学生排球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "CUVA男子高水平组总决赛：复旦大学vs南京师范大学",
+      "pkInfoTitle": "CUVA女子高水平组总决赛：复旦大学vs南京师范大学",
       "modifyTitle": "中国大学生排球联赛",
       "presenters": "",
       "matchInfo": {
@@ -1544,57 +1584,21 @@
       ]
     },
     {
-      "mgdbId": "120000579238",
-      "pID": "965146106",
-      "title": "WTA伦敦站 Day2",
-      "keyword": "06月09日20:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA伦敦站 Day2",
-      "modifyTitle": "WTA伦敦站 Day2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月09日20:00"
-      },
-      "nodes": [
-        {
-          "pID": "965146106",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965146195",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965146106",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965146195",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000578850",
       "pID": "965048600",
-      "title": "单打资格赛第二轮",
-      "keyword": "06月09日22:00",
+      "title": "方博迎复出首秀 薛飞领衔国乒小将冲正赛",
+      "keyword": "06月09日21:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUJFSOIP7I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "单打资格赛第二轮",
+      "pkInfoTitle": "方博迎复出首秀 薛飞领衔国乒小将冲正赛",
       "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛第二轮",
       "presenters": "",
       "matchInfo": {
-        "time": "06月09日22:00"
+        "time": "06月09日21:00"
       },
       "nodes": [
         {
@@ -1922,7 +1926,7 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965164415",
-          "name": "二号桌"
+          "name": "资格赛第一轮：��家玮出战 二号桌"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965164432",
@@ -1989,7 +1993,7 @@
     {
       "mgdbId": "120000579508",
       "pID": "965240498",
-      "title": "CUVA女子高水平组总决赛：北京体育大学vs南昌大学",
+      "title": "CUVA男子高水平组总决赛：北京体育大学vs南昌大学",
       "keyword": "06月10日19:00",
       "sportItemId": "3",
       "matchStatus": "0",
@@ -1997,7 +2001,7 @@
       "competitionName": "中国大学生排球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "CUVA女子高水平组总决赛：北京体育大学vs南昌大学",
+      "pkInfoTitle": "CUVA男子高水平组总决赛：北京体育大学vs南昌大学",
       "modifyTitle": "中国大学生排球联赛",
       "presenters": "",
       "matchInfo": {
@@ -2154,7 +2158,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png",
       "pkInfoTitle": "佛山vs河源",
-      "modifyTitle": "广东省城市篮球联赛",
+      "modifyTitle": "广东省���市篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月10日19:30"
@@ -2267,14 +2271,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "单打资格赛最终轮",
       "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛最终轮",
-      "presenters": "樊欣阳",
+      "presenters": "刘馨蕊",
       "matchInfo": {
         "time": "06月10日23:00"
       },
       "nodes": [
         {
           "pID": "965049040",
-          "name": "樊欣阳"
+          "name": "刘馨蕊"
         },
         {
           "pID": "965048944",
@@ -2294,7 +2298,7 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965049040",
-          "name": "樊欣阳"
+          "name": "刘馨蕊"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965048944",
@@ -2480,7 +2484,7 @@
     },
     {
       "mgdbId": "120000579503",
-      "pID": "965240183",
+      "pID": "965253838",
       "title": "1/8决赛",
       "keyword": "06月11日10:00",
       "sportItemId": "6",
@@ -2497,28 +2501,28 @@
       },
       "nodes": [
         {
-          "pID": "965240183",
+          "pID": "965253838",
           "name": "1号场地"
-        },
-        {
-          "pID": "965240212",
-          "name": "1号场地"
-        },
-        {
-          "pID": "965240229",
-          "name": "2号场地"
-        },
-        {
-          "pID": "965240257",
-          "name": "3号场地"
-        },
-        {
-          "pID": "965240274",
-          "name": "4号场地"
         },
         {
           "pID": "965240281",
           "name": "1号场地英文解说视角"
+        },
+        {
+          "pID": "965253791",
+          "name": "1号场地"
+        },
+        {
+          "pID": "965253817",
+          "name": "2号场地"
+        },
+        {
+          "pID": "965253832",
+          "name": "3号场地"
+        },
+        {
+          "pID": "965253835",
+          "name": "4号场地"
         }
       ]
     },
@@ -2696,7 +2700,7 @@
     {
       "mgdbId": "120000579509",
       "pID": "965240571",
-      "title": "CUVA男子高水平组总决赛：南京师范大学vs复旦大学",
+      "title": "CUVA女子高水平组总决赛：南京师范大学vs复旦大学",
       "keyword": "06月11日19:00",
       "sportItemId": "3",
       "matchStatus": "0",
@@ -2704,7 +2708,7 @@
       "competitionName": "中国大学生排球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "CUVA男子高水平组总决赛：南京师范大学vs复旦大学",
+      "pkInfoTitle": "CUVA女子高水平组总决赛：南京师范大学vs复旦大学",
       "modifyTitle": "中国大学生排球联赛",
       "presenters": "",
       "matchInfo": {
@@ -2730,9 +2734,9 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "吴越杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000579458/202606081041_402960_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000579458/202606090945_208713_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/10000000143110601739.png",
-      "pkInfoTitle": "温州vs金华",
+      "pkInfoTitle": "金华VS温州",
       "modifyTitle": "浙江省城市足球联赛",
       "presenters": "",
       "matchInfo": {
@@ -3015,7 +3019,7 @@
     },
     {
       "mgdbId": "120000579504",
-      "pID": "965240304",
+      "pID": "965253863",
       "title": "1/4决赛",
       "keyword": "06月12日10:00",
       "sportItemId": "6",
@@ -3032,7 +3036,7 @@
       },
       "nodes": [
         {
-          "pID": "965240304",
+          "pID": "965253863",
           "name": "1号场地"
         },
         {
@@ -3044,7 +3048,7 @@
           "name": "3号场地"
         },
         {
-          "pID": "965240389",
+          "pID": "965253871",
           "name": "1号场地英文解说视角"
         }
       ]
@@ -3084,7 +3088,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577655/202605200935_444870_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
       "pkInfoTitle": "神农架vs鄂州临空",
-      "modifyTitle": "湖北省城市足球联赛",
+      "modifyTitle": "湖北省城��足球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月12日15:50"
@@ -3490,7 +3494,7 @@
     },
     {
       "mgdbId": "120000579505",
-      "pID": "965240424",
+      "pID": "965253881",
       "title": "半决赛",
       "keyword": "06月13日10:00",
       "sportItemId": "6",
@@ -3507,7 +3511,7 @@
       },
       "nodes": [
         {
-          "pID": "965240424",
+          "pID": "965253881",
           "name": "1号场地"
         },
         {
@@ -3515,7 +3519,7 @@
           "name": "2号场地"
         },
         {
-          "pID": "965240468",
+          "pID": "965253902",
           "name": "1号场地英文解说视角"
         }
       ]
@@ -3533,7 +3537,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "茸城乒将 vs 崇明乘风破浪队",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第七轮：茸城乒将 vs 崇明乘风破浪队",
-      "presenters": "凌维康",
+      "presenters": "王睿涓",
       "matchInfo": {
         "time": "06月13日14:00"
       },
@@ -3550,7 +3554,7 @@
     },
     {
       "mgdbId": "120000578404",
-      "pID": "964868370",
+      "pID": "965254595",
       "title": "上海乒乓球嘉年华市级循环赛第七轮：嘉定统嘉集团 vs 长宁乐动虹桥",
       "keyword": "06月13日14:00",
       "sportItemId": "7",
@@ -3561,11 +3565,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "嘉定统嘉集团 vs 长宁乐动虹桥",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第七轮：嘉定统嘉集团 vs 长宁乐动虹桥",
-      "presenters": "",
+      "presenters": "凌维康",
       "matchInfo": {
         "time": "06月13日14:00"
       },
       "nodes": [
+        {
+          "pID": "965254595",
+          "name": "嘉定统嘉集团vs长宁乐动虹桥"
+        },
         {
           "pID": "964868370",
           "name": "嘉定统嘉集团vs长宁乐动虹桥"
@@ -3574,7 +3582,7 @@
     },
     {
       "mgdbId": "120000578405",
-      "pID": "964868364",
+      "pID": "965254633",
       "title": "上海乒乓球嘉年华市级循环赛第七轮：静安中安弘 vs 金山物流汇喆宇",
       "keyword": "06月13日14:00",
       "sportItemId": "7",
@@ -3585,11 +3593,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "静安中安弘 vs 金山物流汇喆宇",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第七轮：静安中安弘 vs 金山物流汇喆宇",
-      "presenters": "",
+      "presenters": "刘馨蕊",
       "matchInfo": {
         "time": "06月13日14:00"
       },
       "nodes": [
+        {
+          "pID": "965254633",
+          "name": "静安中安弘vs金山物流汇喆宇"
+        },
         {
           "pID": "964868364",
           "name": "静安中安弘vs金山物流汇喆宇"
@@ -3598,7 +3610,7 @@
     },
     {
       "mgdbId": "120000578406",
-      "pID": "964868358",
+      "pID": "965254688",
       "title": "上海乒乓球嘉年华市级循环赛第七轮：奉贤经发 vs 徐汇愚公科技",
       "keyword": "06月13日14:00",
       "sportItemId": "7",
@@ -3609,11 +3621,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "奉贤经发 vs 徐汇愚公科技",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第七轮：奉贤经发 vs 徐汇愚公科技",
-      "presenters": "",
+      "presenters": "胡朔",
       "matchInfo": {
         "time": "06月13日14:00"
       },
       "nodes": [
+        {
+          "pID": "965254688",
+          "name": "奉贤经发vs徐汇愚公科技"
+        },
         {
           "pID": "964868358",
           "name": "奉贤经发vs徐汇愚公科技"
@@ -4125,7 +4141,7 @@
     },
     {
       "mgdbId": "120000578407",
-      "pID": "964868282",
+      "pID": "965254734",
       "title": "上海乒乓球嘉年华市级循环赛第七轮：黄浦南房 vs 虹口邮储银行",
       "keyword": "06月13日19:00",
       "sportItemId": "7",
@@ -4136,11 +4152,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "黄浦南房 vs 虹口邮储银行",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第七轮：黄浦南房 vs 虹口邮储银行",
-      "presenters": "",
+      "presenters": "章稀瑄",
       "matchInfo": {
         "time": "06月13日19:00"
       },
       "nodes": [
+        {
+          "pID": "965254734",
+          "name": "黄浦南房vs虹口邮储银行"
+        },
         {
           "pID": "964868282",
           "name": "黄浦南房vs虹口邮储银行"
@@ -4149,7 +4169,7 @@
     },
     {
       "mgdbId": "120000578408",
-      "pID": "964868277",
+      "pID": "965254767",
       "title": "上海乒乓球嘉年华市级循环赛第七轮：杨浦回力 vs 普陀淘宝闪购",
       "keyword": "06月13日19:00",
       "sportItemId": "7",
@@ -4160,11 +4180,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "杨浦回力 vs 普陀淘宝闪购",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第七轮：杨浦回力 vs 普陀淘宝闪购",
-      "presenters": "",
+      "presenters": "林睿思",
       "matchInfo": {
         "time": "06月13日19:00"
       },
       "nodes": [
+        {
+          "pID": "965254767",
+          "name": "杨浦回力vs普陀淘宝闪购"
+        },
         {
           "pID": "964868277",
           "name": "杨浦回力vs普陀淘宝闪购"
@@ -4173,7 +4197,7 @@
     },
     {
       "mgdbId": "120000578409",
-      "pID": "964868258",
+      "pID": "965254812",
       "title": "上海乒乓球嘉年华市级循环赛第七轮：闵行沿浦 vs 上善青浦队",
       "keyword": "06月13日19:00",
       "sportItemId": "7",
@@ -4184,11 +4208,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "闵行沿浦 vs 上善青浦队",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第七轮：闵行沿浦 vs 上善青浦队",
-      "presenters": "",
+      "presenters": "胡朔",
       "matchInfo": {
         "time": "06月13日19:00"
       },
       "nodes": [
+        {
+          "pID": "965254812",
+          "name": "闵行沿浦vs上善青浦队"
+        },
         {
           "pID": "964868258",
           "name": "闵行沿浦vs上善青浦队"
@@ -4198,7 +4226,7 @@
     {
       "mgdbId": "120000579510",
       "pID": "965240599",
-      "title": "CUVA女子高水平组总决赛：南昌大学vs北京体育大学",
+      "title": "CUVA男子高水平组总决赛：南昌大学vs北京体育大学",
       "keyword": "06月13日19:00",
       "sportItemId": "3",
       "matchStatus": "0",
@@ -4206,7 +4234,7 @@
       "competitionName": "中国大学生排球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "CUVA女子高水平组总决赛：南昌大学vs北京体育大学",
+      "pkInfoTitle": "CUVA男子高水平组总决赛：南昌大学vs北京体育大学",
       "modifyTitle": "中国大学生排球联赛",
       "presenters": "",
       "matchInfo": {
@@ -4346,7 +4374,7 @@
     {
       "mgdbId": "120000577659",
       "pID": "964887188",
-      "title": "湖北省城市足��联赛",
+      "title": "湖北省城市足球联赛",
       "keyword": "06月13日19:25",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -5064,6 +5092,24 @@
       "nodes": []
     },
     {
+      "mgdbId": "120000569223",
+      "title": "NBA总决赛",
+      "keyword": "06月14日08:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "冰霜银行中心",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569223/202605311113_819076_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "尼克斯VS马刺",
+      "modifyTitle": "NBA总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日08:30"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000575535",
       "title": "世界杯小组赛",
       "keyword": "06月14日09:00",
@@ -5083,7 +5129,7 @@
     },
     {
       "mgdbId": "120000579506",
-      "pID": "965240490",
+      "pID": "965253914",
       "title": "决赛",
       "keyword": "06月14日11:00",
       "sportItemId": "6",
@@ -5100,11 +5146,11 @@
       },
       "nodes": [
         {
-          "pID": "965240490",
+          "pID": "965253914",
           "name": "1号场地"
         },
         {
-          "pID": "965240520",
+          "pID": "965253922",
           "name": "1号场地英文解说视角"
         }
       ]
@@ -5157,7 +5203,7 @@
     },
     {
       "mgdbId": "120000578410",
-      "pID": "964868224",
+      "pID": "965254852",
       "title": "上海乒乓球嘉年华市级循环赛第八轮：嘉定统嘉集团 vs 崇明乘风破浪队",
       "keyword": "06月14日14:00",
       "sportItemId": "7",
@@ -5168,11 +5214,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "嘉定统嘉集团 vs 崇明乘风破浪队",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第八轮：嘉定统嘉集团 vs 崇明乘风破浪队",
-      "presenters": "",
+      "presenters": "凌维康",
       "matchInfo": {
         "time": "06月14日14:00"
       },
       "nodes": [
+        {
+          "pID": "965254852",
+          "name": "嘉定统嘉集团vs崇明乘风破浪队"
+        },
         {
           "pID": "964868224",
           "name": "嘉定统嘉集团vs崇明乘风破浪队"
@@ -5181,7 +5231,7 @@
     },
     {
       "mgdbId": "120000578411",
-      "pID": "964868214",
+      "pID": "965254887",
       "title": "上海乒乓球嘉年华市级循环赛第八轮：奉贤经发 vs 金山物流汇喆宇",
       "keyword": "06月14日14:00",
       "sportItemId": "7",
@@ -5192,11 +5242,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "奉贤经发 vs 金山物流汇喆宇",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第八轮：奉贤经发 vs 金山物流汇喆宇",
-      "presenters": "",
+      "presenters": "胡朔",
       "matchInfo": {
         "time": "06月14日14:00"
       },
       "nodes": [
+        {
+          "pID": "965254887",
+          "name": "奉贤经发 vs 金山物流汇喆宇"
+        },
         {
           "pID": "964868214",
           "name": "奉贤经发 vs 金山物流汇喆宇"
@@ -5205,7 +5259,7 @@
     },
     {
       "mgdbId": "120000578412",
-      "pID": "964868202",
+      "pID": "965254916",
       "title": "上海乒乓球嘉年华市级循环赛第八轮：徐汇愚公科技 vs 上善青浦队",
       "keyword": "06月14日14:00",
       "sportItemId": "7",
@@ -5216,11 +5270,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "徐汇愚公科技 vs 上善青浦队",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第八轮：徐汇愚公科技 vs 上善青浦队",
-      "presenters": "",
+      "presenters": "张铭哲",
       "matchInfo": {
         "time": "06月14日14:00"
       },
       "nodes": [
+        {
+          "pID": "965254916",
+          "name": "徐汇愚公科技vs上善青浦队"
+        },
         {
           "pID": "964868202",
           "name": "徐汇愚公科技vs上善青浦队"
@@ -5441,7 +5499,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "黄浦南房 vs 浦东引领",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第八轮：黄浦南房 vs 浦东引领",
-      "presenters": "凌维康",
+      "presenters": "陈希",
       "matchInfo": {
         "time": "06月14日19:00"
       },
@@ -5458,7 +5516,7 @@
     },
     {
       "mgdbId": "120000578413",
-      "pID": "964866038",
+      "pID": "965254989",
       "title": "上海乒乓球嘉年华市级循环赛第八轮：虹口邮储银行 vs 长宁乐动虹桥",
       "keyword": "06月14日19:00",
       "sportItemId": "7",
@@ -5469,11 +5527,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "虹口邮储银行 vs 长宁乐动虹桥",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第八轮：虹口邮储银行 vs 长宁乐动虹桥",
-      "presenters": "",
+      "presenters": "凌维康",
       "matchInfo": {
         "time": "06月14日19:00"
       },
       "nodes": [
+        {
+          "pID": "965254989",
+          "name": "虹口邮储银行vs长宁乐动虹桥"
+        },
         {
           "pID": "964866038",
           "name": "虹口邮储银行vs长宁乐动虹桥"
@@ -5482,7 +5544,7 @@
     },
     {
       "mgdbId": "120000578414",
-      "pID": "964866056",
+      "pID": "965255035",
       "title": "上海乒乓球嘉年华市级循环赛第八轮：静安中安弘 vs 杨浦回力",
       "keyword": "06月14日19:00",
       "sportItemId": "7",
@@ -5493,11 +5555,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "静安中安弘 vs 杨浦回力",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第八轮：静安中安弘 vs 杨浦回力",
-      "presenters": "",
+      "presenters": "胡朔",
       "matchInfo": {
         "time": "06月14日19:00"
       },
       "nodes": [
+        {
+          "pID": "965255035",
+          "name": "静安中安弘vs杨浦回力"
+        },
         {
           "pID": "964866056",
           "name": "静安中安弘vs杨浦回力"
@@ -5506,7 +5572,7 @@
     },
     {
       "mgdbId": "120000578415",
-      "pID": "964866069",
+      "pID": "965255068",
       "title": "上海乒乓球嘉年华市级循环赛第八轮：普陀淘宝闪购 vs 闵行沿浦",
       "keyword": "06月14日19:00",
       "sportItemId": "7",
@@ -5517,11 +5583,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "普陀淘宝闪购 vs 闵行沿浦",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第八轮：普陀淘宝闪购 vs 闵行沿浦",
-      "presenters": "",
+      "presenters": "赵曦",
       "matchInfo": {
         "time": "06月14日19:00"
       },
       "nodes": [
+        {
+          "pID": "965255068",
+          "name": "普陀淘宝闪购vs闵行沿浦"
+        },
         {
           "pID": "964866069",
           "name": "普陀淘宝闪购vs闵行沿浦"
