@@ -188,7 +188,7 @@ async function fetchAndProcessData() {
       for (const match of matches) {
         // 获取节点数据
         console.log(`获取比赛 ${match.mgdbId} 的节点数据...`);
-        const nodes = await getMatchNodes(match.mgdbId);
+        const nodes = await getMatchNodes(match.mgdbId, match.matchStatus);
         
         const mergedMatch = {
           mgdbId: match.mgdbId,
