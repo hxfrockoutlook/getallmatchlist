@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-18 00:14:51",
+  "updateTime": "2026-06-18 05:21:16",
   "data": [
     {
       "mgdbId": "120000575532",
@@ -1370,32 +1370,64 @@
     {
       "mgdbId": "120000579689",
       "pID": "965271562",
-      "title": "萨巴伦卡出战 高芙遗憾止步",
+      "title": "萨巴伦卡晋级 高芙遗憾止步",
       "keyword": "06月17日17:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5S7CHIUBC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨巴伦卡出战 高芙遗憾止步",
-      "modifyTitle": "WTA500柏林站女单第一、二轮： 萨巴伦卡出战 高芙遗憾止步",
-      "presenters": "刘钟鸣",
+      "pkInfoTitle": "萨巴伦卡晋级 高芙遗憾止步",
+      "modifyTitle": "WTA500柏林站女单第一、二轮： 萨巴伦卡晋级 高芙遗憾止步",
+      "presenters": "",
       "matchInfo": {
         "time": "06月17日17:00"
       },
       "nodes": [
         {
-          "pID": "965271562",
-          "name": "赛场原声"
+          "pID": "965470981",
+          "name": "【回放】萨巴伦卡2-0亚历山德洛娃（赛场原声）"
         },
         {
-          "pID": "965271571",
-          "name": "英文原声"
+          "pID": "965466667",
+          "name": "【回放】巴多萨2-1高芙（赛场原声）"
         },
         {
-          "pID": "965443948",
-          "name": "郑钦文 vs 吉布森(刘钟鸣)"
+          "pID": "965463042",
+          "name": "【回放】佩古拉2-0西尼亚科娃（赛场原声）"
+        },
+        {
+          "pID": "965460177",
+          "name": "【回放】维基奇0-2伊埃拉（赛场原声）"
+        },
+        {
+          "pID": "965468559",
+          "name": "【回放】萨巴伦卡2-0亚历山德洛娃（英文原声）"
+        },
+        {
+          "pID": "965466550",
+          "name": "【回放】巴多萨2-1高芙（英文原声）"
+        },
+        {
+          "pID": "965462319",
+          "name": "【回放】佩古拉2-0西尼亚科娃（英文原声）"
+        },
+        {
+          "pID": "965461925",
+          "name": "【回放】维基奇0-2伊埃拉（英文原声）"
+        },
+        {
+          "pID": "965467510",
+          "name": "【全场回放】（赛场原声）（一）"
+        },
+        {
+          "pID": "965467458",
+          "name": "【全场回放】（英文原声）（一）"
+        },
+        {
+          "pID": "965469900",
+          "name": "【全场回放】（英文原声）（二）"
         }
       ]
     },
@@ -1418,36 +1450,12 @@
       },
       "nodes": [
         {
-          "pID": "965462893",
-          "name": "2026WTT卢布尔雅那球星挑战赛Day2晚间场一号桌全场回放（赛场原声）"
-        },
-        {
-          "pID": "965462878",
-          "name": "2026WTT卢布尔雅那球星挑战赛Day2晚间场三号桌全场回放（赛场原声）（二）"
-        },
-        {
-          "pID": "965462331",
-          "name": "2026WTT卢布尔雅那球星挑战赛男双资格赛：宇田幸矢/滨田一辉2-3吉山瞭一/小林广梦（赛场原声）"
-        },
-        {
-          "pID": "965462360",
-          "name": "2026WTT卢布尔雅那球星挑战赛Day2晚间场二号桌全场回放（赛场原声）（二）"
-        },
-        {
-          "pID": "965461903",
-          "name": "2026WTT卢布尔雅那球星挑战赛男双资格赛回放：蔡劭恒/关文皓3-1冯翊新/郭冠宏（赛场原声）"
-        },
-        {
-          "pID": "965463411",
-          "name": "2026WTT卢布尔雅那球星挑战赛Day2晚间场四号桌全场回放（赛场原声）"
-        },
-        {
-          "pID": "965461826",
-          "name": "2026WTT卢布尔雅那球星挑战赛男双资格赛：伊沃·本/加奇尼1-3西蒙·高茨/泊雷特（赛场原声）"
-        },
-        {
           "pID": "965461437",
           "name": "全场回放（凌维康）"
+        },
+        {
+          "pID": "965462893",
+          "name": "全场回放（一号桌）"
         },
         {
           "pID": "965462128",
@@ -1456,13 +1464,17 @@
         {
           "pID": "965461115",
           "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "965463411",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000580052",
       "pID": "965358724",
-      "title": "龙泽煌4-5博登 常冰玉5-2黄佳浩",
+      "title": "常冰玉5-2黄佳浩 刘宏宇5-2奥凯恩",
       "keyword": "06月17日17:00",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -1470,21 +1482,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5RCKRU9G2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "龙泽煌4-5博登 常冰玉5-2黄佳浩",
-      "modifyTitle": "斯诺克武汉公开赛资格赛：龙泽煌4-5博登 常冰玉5-2黄佳浩",
+      "pkInfoTitle": "常冰玉5-2黄佳浩 刘宏宇5-2奥凯恩",
+      "modifyTitle": "斯诺克武汉公开赛资格赛：常冰玉5-2黄佳浩 刘宏宇5-2奥凯恩",
       "presenters": "孙嘉星",
       "matchInfo": {
         "time": "06月17日17:00"
       },
       "nodes": [
-        {
-          "pID": "965463077",
-          "name": "【回放】徐思3-5迪伦·埃莫里（赛场原声）"
-        },
-        {
-          "pID": "965462372",
-          "name": "【回放】龙泽煌4-5阿尔菲·博登（赛场原声）"
-        },
         {
           "pID": "965460799",
           "name": "【回放】常冰玉5-2黄佳浩（赛场原声）"
@@ -1492,6 +1496,14 @@
         {
           "pID": "965461583",
           "name": "【回放】刘宏宇5-2菲尔·奥凯恩（赛场原声）"
+        },
+        {
+          "pID": "965463077",
+          "name": "【回放】徐思3-5迪伦·埃莫里（赛场原声）"
+        },
+        {
+          "pID": "965462372",
+          "name": "【回放】龙泽煌4-5阿尔菲·博登（赛场原声）"
         },
         {
           "pID": "965460168",
@@ -1731,15 +1743,15 @@
     {
       "mgdbId": "120000580016",
       "pID": "965361668",
-      "title": "温瑞博/蒯曼领衔冲正赛 黄友政vs及川瑞基",
+      "title": "温瑞博/蒯曼鏖战五局晋级 黄友政1-3及川",
       "keyword": "06月17日23:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6PIMI89DG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6MNNBDLVE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "温瑞博/蒯曼领衔冲正赛 黄友政vs及川瑞基",
+      "pkInfoTitle": "温瑞博/蒯曼鏖战五局晋级 黄友政1-3及川",
       "modifyTitle": "WTT卢布尔雅那球星挑战赛男女单打最终轮及混双资格赛",
       "presenters": "樊欣阳",
       "matchInfo": {
@@ -1747,72 +1759,96 @@
       },
       "nodes": [
         {
-          "pID": "965361668",
-          "name": "樊欣阳"
+          "pID": "965470499",
+          "name": "2026WTT卢布尔雅那球星挑战赛Day2夜间场二号桌全场回放（赛场原声）"
         },
         {
-          "pID": "965361537",
-          "name": "2号桌"
+          "pID": "965470161",
+          "name": "2026WTT卢布尔雅那球星挑战赛Day2夜间场三号桌全场回放（赛场原声）"
         },
         {
-          "pID": "965361486",
-          "name": "1号桌"
+          "pID": "965468971",
+          "name": "全场回放（樊欣阳）"
         },
         {
-          "pID": "965361570",
-          "name": "3号桌"
+          "pID": "965470097",
+          "name": "全场回放（一号桌）"
         },
         {
-          "pID": "965361648",
-          "name": "4号桌"
+          "pID": "965469681",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000580053",
       "pID": "965358981",
-      "title": "范争一、贺国强、姚朋成出战",
+      "title": "姚朋成、范争一、贺国强成功晋级",
       "keyword": "06月17日23:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5REA2DM8J.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "范争一、贺国强、姚朋成出战",
-      "modifyTitle": "斯诺克武汉公开赛资格赛：范争一、贺国强、姚朋成出战",
+      "pkInfoTitle": "姚朋成、范争一、贺国强成功晋级",
+      "modifyTitle": "斯诺克武汉公开赛资格赛：姚朋成、范争一、贺国强成功晋级",
       "presenters": "",
       "matchInfo": {
         "time": "06月17日23:00"
       },
       "nodes": [
         {
-          "pID": "965358895",
-          "name": "一号桌"
+          "pID": "965469596",
+          "name": "【回放】贺国强5-2肖恩·奥沙利文（赛场原声）"
         },
         {
-          "pID": "965358938",
-          "name": "二号桌"
+          "pID": "965469988",
+          "name": "【回放】范争一5-3安东·卡扎科夫（赛场原声）"
         },
         {
-          "pID": "965358981",
-          "name": "三号桌"
+          "pID": "965470705",
+          "name": "【回放】吉米·罗伯逊4-5姚朋成（赛场原声）"
         },
         {
-          "pID": "965359030",
-          "name": "四号桌"
+          "pID": "965470637",
+          "name": "【回放】大卫·利利2-5阿尔特米·齐津斯（赛场原声）"
         },
         {
-          "pID": "965359082",
-          "name": "五号桌"
+          "pID": "965468890",
+          "name": "【回放】斯坦·穆迪5-2马哈茂德·埃尔·哈雷迪（赛场原声）"
         },
         {
-          "pID": "965359123",
-          "name": "六号桌"
+          "pID": "965469700",
+          "name": "【回放】扎克·舒尔第3-5奥利弗·塞克斯（赛场原声）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580277",
+      "pID": "965443950",
+      "title": "WTA250诺丁汉站女单第二轮： 吉布森 vs 郑钦文",
+      "keyword": "06月18日00:40",
+      "sportItemId": "9",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6MQSG9FJT.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "吉布森 vs 郑钦文",
+      "modifyTitle": "WTA250诺丁汉站女单第二轮： 吉布森 vs 郑钦文",
+      "presenters": "刘钟鸣",
+      "matchInfo": {
+        "time": "06月18日00:40"
+      },
+      "nodes": [
+        {
+          "pID": "965469571",
+          "name": "全场回放（刘钟鸣）"
         },
         {
-          "pID": "965359147",
-          "name": "七号桌"
+          "pID": "965470414",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1822,10 +1858,10 @@
       "title": "世界杯小组赛",
       "keyword": "06月18日01:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "休斯敦球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5SK205EA5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6MQMQ86DV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "葡萄牙 vs 民主刚果",
       "modifyTitle": "世界杯小组赛",
@@ -1835,68 +1871,40 @@
       },
       "nodes": [
         {
-          "pID": "965336584",
-          "name": "娄一晨 李彦 武磊 魏欣怡"
+          "pID": "965469564",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965337445",
-          "name": "葡萄牙队视角"
+          "pID": "965469657",
+          "name": "全场集锦"
         },
         {
-          "pID": "965337458",
-          "name": "刚果(金) 队视角"
+          "pID": "965469989",
+          "name": "纯享版回放（娄一晨、李彦、武磊、魏欣怡）"
         },
         {
-          "pID": "965337606",
-          "name": "AI智慧观赛"
+          "pID": "965470158",
+          "name": "全场回放（娄一晨、李彦、武磊、魏欣怡）"
         },
         {
-          "pID": "965337398",
-          "name": "粤语：江忠德"
+          "pID": "965469895",
+          "name": "全场回放（江忠德）"
         },
         {
-          "pID": "965337379",
-          "name": "女声：沈云怡 胡小凡"
+          "pID": "965469837",
+          "name": "全场回放（沈云怡、胡小凡）"
         },
         {
-          "pID": "965337414",
-          "name": "新声代：鹿中原 乔迁"
+          "pID": "965469869",
+          "name": "全场回放（鹿中原、乔迁）"
         },
         {
-          "pID": "965337421",
-          "name": "赛场原声"
+          "pID": "965469976",
+          "name": "全场回放（AI智慧观赛）"
         },
         {
-          "pID": "965337591",
-          "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000580277",
-      "pID": "965443950",
-      "title": "WTA250诺丁汉站女单第二轮：吉布森 vs 郑钦文",
-      "keyword": "06月18日01:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5SF9UJKO7.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "吉布森 vs 郑钦文",
-      "modifyTitle": "WTA250诺丁汉站女单第二轮：吉布森 vs 郑钦文",
-      "presenters": "刘钟鸣",
-      "matchInfo": {
-        "time": "06月18日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "965443948",
-          "name": "郑钦文 vs 吉布森(刘钟鸣)"
-        },
-        {
-          "pID": "965443950",
-          "name": "清流播出"
+          "pID": "965470184",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -1906,10 +1914,10 @@
       "title": "世界杯小组赛",
       "keyword": "06月18日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "达拉斯球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5SKJL049P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6ND1M427O.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "英格兰 vs 克罗地亚",
       "modifyTitle": "世界杯小组赛",
@@ -1939,20 +1947,56 @@
           "name": "新声代：张天翼 洪宇青"
         },
         {
-          "pID": "965337922",
-          "name": "闽南语：洪荒"
+          "pID": "965337795",
+          "name": "英格兰队视角"
         },
         {
-          "pID": "965337929",
+          "pID": "965337810",
+          "name": "克罗地亚队视角"
+        },
+        {
+          "pID": "965337739",
           "name": "沪语：陈渤胄"
+        },
+        {
+          "pID": "965337919",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "965311076",
+          "name": "假如你是其中一位边裁！"
+        },
+        {
+          "pID": "965311093",
+          "name": "假如你是另外一位边裁！"
+        },
+        {
+          "pID": "965311060",
+          "name": "山顶的风好大！"
+        },
+        {
+          "pID": "965311004",
+          "name": "开天眼了！"
         },
         {
           "pID": "965337772",
           "name": "赛场原声"
         },
         {
-          "pID": "965337919",
-          "name": "智能字幕"
+          "pID": "965337729",
+          "name": "闽南语：洪荒"
+        },
+        {
+          "pID": "965337922",
+          "name": "闽南语智能字幕"
+        },
+        {
+          "pID": "965337929",
+          "name": "沪语智能字幕"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         }
       ]
     },
@@ -2067,16 +2111,16 @@
     {
       "mgdbId": "120000579690",
       "pID": "965271575",
-      "title": "WTA柏林站Day4",
+      "title": "莱巴金娜出战！斯维托丽娜争晋级",
       "keyword": "06月18日17:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6N1ML2EU1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA柏林站Day4",
-      "modifyTitle": "WTA柏林站Day4",
+      "pkInfoTitle": "莱巴金娜出战！斯维托丽娜争晋级",
+      "modifyTitle": "WTA柏林站女单第二轮：莱巴金娜出战！斯维托丽娜争晋级",
       "presenters": "",
       "matchInfo": {
         "time": "06月18日17:00"
@@ -2101,7 +2145,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6N9FSDF6U.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/32决赛、双打1/8决赛",
       "modifyTitle": "WTT卢布尔雅那球星挑战赛男女单打1/32决赛、双打1/8决赛",
@@ -2370,7 +2414,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6NAPUABVB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/32决赛、双打1/8决赛",
       "modifyTitle": "WTT卢布尔雅那球星挑战赛男女单打1/32决赛、双打1/8决赛",
@@ -2526,7 +2570,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "瑞士 vs 波黑",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "苏东 刘越 韩乔生",
+      "presenters": "苏东 刘越 韩乔生 孟繁达 张力",
       "matchInfo": {
         "time": "06月19日03:00"
       },
@@ -2534,6 +2578,10 @@
         {
           "pID": "965451988",
           "name": "苏东 刘越 韩乔生 程思钦"
+        },
+        {
+          "pID": "965461930",
+          "name": "孟繁达 张力"
         },
         {
           "pID": "965452801",
@@ -2554,10 +2602,6 @@
         {
           "pID": "965453404",
           "name": "智能解说"
-        },
-        {
-          "pID": "965461930",
-          "name": "呼叫我的球搭子"
         }
       ]
     },
@@ -2570,7 +2614,7 @@
       "matchStatus": "0",
       "matchField": "不列颠哥伦比亚球场",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6MF2U183F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "加拿大 vs 卡塔尔",
       "modifyTitle": "世界杯小组赛",
@@ -2650,11 +2694,11 @@
       "matchStatus": "0",
       "matchField": "瓜达拉哈拉体育场",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6MF5HSJO0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "墨西哥 vs 韩国",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "詹俊 张路 李子琪 梁祥宇 张辛昕",
+      "presenters": "詹俊 张路 李子琪",
       "matchInfo": {
         "time": "06月19日09:00"
       },
@@ -2662,6 +2706,10 @@
         {
           "pID": "965451996",
           "name": "詹俊 张路 李子琪"
+        },
+        {
+          "pID": "965462011",
+          "name": "梁祥宇 张辛昕"
         },
         {
           "pID": "965452969",
@@ -2674,26 +2722,22 @@
         {
           "pID": "965454696",
           "name": "智能解说"
-        },
-        {
-          "pID": "965462011",
-          "name": "梁祥宇 张辛昕"
         }
       ]
     },
     {
       "mgdbId": "120000580267",
       "pID": "965433382",
-      "title": "PPA亚洲职业匹克球巡回赛北京站Day2",
+      "title": "PPA亚洲职业匹克球巡回赛北京站1/4决赛",
       "keyword": "06月19日09:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "PPA亚洲职业匹克球巡回赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6MUNEJOUF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/16/10000000149210679187.png",
-      "pkInfoTitle": "PPA亚洲职业匹克球巡回赛北京站Day2",
-      "modifyTitle": "PPA亚洲职业匹克球巡回赛北京站Day2",
+      "pkInfoTitle": "PPA亚洲职业匹克球巡回赛北京站1/4决赛",
+      "modifyTitle": "PPA亚洲职业匹克球巡回赛北京站1/4决赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月19日09:00"
@@ -2792,7 +2836,7 @@
     {
       "mgdbId": "120000576960",
       "pID": "965335120",
-      "title": "足协杯第四轮",
+      "title": "足协杯第四��",
       "keyword": "06月19日15:30",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -3635,18 +3679,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "美国 vs 澳大利亚",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "孙雷 李欣 徐云龙 叶紫辰 任锴",
+      "presenters": "孙雷 李欣 徐云龙",
       "matchInfo": {
         "time": "06月20日03:00"
       },
       "nodes": [
         {
           "pID": "965454743",
-          "name": "孙雷 李欣 徐云龙"
+          "name": "孙雷 李欣 徐云龙 李子琪"
         },
         {
           "pID": "965454806",
-          "name": "叶紫辰 任锴"
+          "name": "粤语：叶紫辰 任锴"
         },
         {
           "pID": "965454810",
@@ -3735,30 +3779,34 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "巴西 vs 海地",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "刘腾 贺宇 王伟 詹俊 张路 王天放 颜强 徐阳 邵凌霄 沈云怡 林梦鸽 陈凯冬 陈熙荣 张昊泽 涂远",
+      "presenters": "刘腾 贺宇 王伟 詹俊 张路 王天放 颜强 徐阳 邵凌霄",
       "matchInfo": {
         "time": "06月20日08:30"
       },
       "nodes": [
         {
           "pID": "965448427",
-          "name": "刘腾 贺宇 王伟"
+          "name": "刘腾 贺宇 王伟 美娜"
+        },
+        {
+          "pID": "965461989",
+          "name": "詹俊 张路 王天放 曾可妮"
         },
         {
           "pID": "965448454",
           "name": "颜强 徐阳 邵凌霄"
         },
         {
-          "pID": "965448508",
-          "name": "沈云怡 林梦鸽"
+          "pID": "965448534",
+          "name": "粤语：陈凯冬 陈熙荣"
         },
         {
-          "pID": "965448534",
-          "name": "陈凯冬 陈熙荣"
+          "pID": "965448508",
+          "name": "女声：沈云怡 林梦鸽"
         },
         {
           "pID": "965448548",
-          "name": "张昊泽 涂远"
+          "name": "新声代：张昊泽 涂远"
         },
         {
           "pID": "965448554",
@@ -3771,17 +3819,13 @@
         {
           "pID": "965448783",
           "name": "智能字幕"
-        },
-        {
-          "pID": "965461989",
-          "name": "詹俊 张路 王天放"
         }
       ]
     },
     {
       "mgdbId": "120000580268",
       "pID": "965433365",
-      "title": "PPA亚洲职业匹克球巡回赛北京站Day3",
+      "title": "PPA亚洲职业匹克球巡回赛北京站半决赛",
       "keyword": "06月20日09:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -3789,8 +3833,8 @@
       "competitionName": "PPA亚洲职业匹克球巡回赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/16/10000000149210679187.png",
-      "pkInfoTitle": "PPA亚洲职业匹克球巡回赛北京站Day3",
-      "modifyTitle": "PPA亚洲职业匹克球巡回赛北京站Day3",
+      "pkInfoTitle": "PPA亚洲职业匹克球巡回赛北京站半决赛",
+      "modifyTitle": "PPA亚洲职业匹克球巡回赛北京站半决赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月20日09:00"
@@ -3815,7 +3859,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "土耳其 vs 巴拉圭",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "孙雨轩 张辛昕 李子琪 江忠德",
+      "presenters": "孙雨轩 张辛昕 李子琪",
       "matchInfo": {
         "time": "06月20日11:00"
       },
@@ -3826,7 +3870,7 @@
         },
         {
           "pID": "965449576",
-          "name": "江忠德"
+          "name": "粤语：江忠德"
         },
         {
           "pID": "965449565",
@@ -3842,7 +3886,7 @@
         },
         {
           "pID": "965450769",
-          "name": "粤语 智能字幕"
+          "name": "粤语智能字幕"
         }
       ]
     },
@@ -4790,7 +4834,7 @@
       "competitionName": "足协杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000577091/529976_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png",
-      "pkInfoTitle": "石家庄功夫 vs 上海申花",
+      "pkInfoTitle": "石��庄功夫 vs 上海申花",
       "modifyTitle": "足协杯第四轮",
       "presenters": "涂远",
       "matchInfo": {
@@ -5582,30 +5626,34 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "荷兰 vs 瑞典",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "娄一晨 李彦 于海 刘焕 梁祥宇 沈云怡 胡小凡 叶紫辰 陆毅隽 张天翼 洪宇青",
+      "presenters": "娄一晨 李彦 于海 刘焕 梁祥宇",
       "matchInfo": {
         "time": "06月21日01:00"
       },
       "nodes": [
         {
           "pID": "965453274",
-          "name": "娄一晨 李彦 于海"
+          "name": "娄一晨 李彦 于海 魏欣怡"
+        },
+        {
+          "pID": "965461983",
+          "name": "刘焕 梁祥宇"
+        },
+        {
+          "pID": "965453407",
+          "name": "粤语：叶紫辰 陆毅隽"
+        },
+        {
+          "pID": "965453393",
+          "name": "女声：沈云怡 胡小凡"
+        },
+        {
+          "pID": "965453439",
+          "name": "新声代：张天翼 洪宇青"
         },
         {
           "pID": "965451233",
           "name": "赛场原声"
-        },
-        {
-          "pID": "965453393",
-          "name": "沈云怡 胡小凡"
-        },
-        {
-          "pID": "965453407",
-          "name": "叶紫辰 陆毅隽"
-        },
-        {
-          "pID": "965453439",
-          "name": "张天翼 洪宇青"
         },
         {
           "pID": "965453681",
@@ -5614,10 +5662,6 @@
         {
           "pID": "965453737",
           "name": "智能字幕"
-        },
-        {
-          "pID": "965461983",
-          "name": "刘焕 梁祥宇"
         }
       ]
     },
@@ -5662,38 +5706,38 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "德国 vs 科特迪瓦",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "詹俊 张路 冯潇霆 兰子非 胡小凡 陈曦 梁柏翘 刘一臻 盛斌",
+      "presenters": "詹俊 张路 冯潇霆",
       "matchInfo": {
         "time": "06月21日04:00"
       },
       "nodes": [
         {
           "pID": "965453743",
-          "name": "詹俊 张路 冯潇霆"
+          "name": "詹俊 张路 冯潇霆 李子琪"
+        },
+        {
+          "pID": "965453774",
+          "name": "粤语：陈曦 梁柏翘"
+        },
+        {
+          "pID": "965453755",
+          "name": "女声：兰子非 胡小凡"
+        },
+        {
+          "pID": "965453800",
+          "name": "新声代：刘一臻 盛斌"
         },
         {
           "pID": "965453751",
           "name": "赛场原声"
         },
         {
-          "pID": "965453755",
-          "name": "兰子非 胡小凡"
-        },
-        {
-          "pID": "965453774",
-          "name": "陈曦 梁柏翘"
-        },
-        {
-          "pID": "965453800",
-          "name": "刘一臻 盛斌"
+          "pID": "965455825",
+          "name": "智能解说"
         },
         {
           "pID": "965454366",
           "name": "智能字幕"
-        },
-        {
-          "pID": "965455825",
-          "name": "智能解说"
         }
       ]
     },
@@ -5738,6 +5782,10 @@
           "name": "石庆圣 鲁靖明 姚安妮"
         },
         {
+          "pID": "965461962",
+          "name": "孙雷 李霄"
+        },
+        {
           "pID": "965450475",
           "name": "赛场原声"
         },
@@ -5748,17 +5796,13 @@
         {
           "pID": "965451990",
           "name": "智能字幕"
-        },
-        {
-          "pID": "965461962",
-          "name": "孙雷 李霄"
         }
       ]
     },
     {
       "mgdbId": "120000580269",
       "pID": "965433362",
-      "title": "PPA亚洲职业匹克球巡回赛北京站Day4",
+      "title": "PPA亚洲职业匹克球巡回赛北京站决赛＆铜牌战",
       "keyword": "06月21日09:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -5766,8 +5810,8 @@
       "competitionName": "PPA亚洲职业匹克球巡回赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/16/10000000149210679187.png",
-      "pkInfoTitle": "PPA亚洲职业匹克球巡回赛北京站Day4",
-      "modifyTitle": "PPA亚洲职业匹克球巡回赛北京站Day4",
+      "pkInfoTitle": "PPA亚洲职业匹克球巡回赛北京站决赛＆铜牌战",
+      "modifyTitle": "PPA亚洲职业匹克球巡回赛北京站决赛＆铜牌战",
       "presenters": "",
       "matchInfo": {
         "time": "06月21日09:00"
@@ -5792,26 +5836,26 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "突尼斯 vs 日本",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "苏东 刘越 徐云龙 沈云怡 林梦鸽 江忠德 鹿中原 乔迁",
+      "presenters": "苏东 刘越 徐云龙",
       "matchInfo": {
         "time": "06月21日12:00"
       },
       "nodes": [
         {
           "pID": "965452002",
-          "name": "苏东 刘越 徐云龙"
-        },
-        {
-          "pID": "965452025",
-          "name": "沈云怡 林梦鸽"
+          "name": "苏东 刘越 徐云龙 程思钦"
         },
         {
           "pID": "965452032",
-          "name": "江忠德"
+          "name": "粤语：江忠德"
+        },
+        {
+          "pID": "965452025",
+          "name": "女声：沈云怡 林梦鸽"
         },
         {
           "pID": "965452048",
-          "name": "鹿中原 乔迁"
+          "name": "新声代：鹿中原 乔迁"
         },
         {
           "pID": "965452056",
@@ -5827,7 +5871,7 @@
         },
         {
           "pID": "965452636",
-          "name": "粤语 智能字幕"
+          "name": "粤语智能字幕"
         }
       ]
     },
@@ -6625,26 +6669,26 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "西班牙 vs 沙特阿拉伯",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "娄一晨 李彦 武磊 沈云怡 胡小凡 江忠德 张昊泽 涂远",
+      "presenters": "娄一晨 李彦 武磊",
       "matchInfo": {
         "time": "06月22日00:00"
       },
       "nodes": [
         {
           "pID": "965452657",
-          "name": "娄一晨 李彦 武磊"
-        },
-        {
-          "pID": "965452659",
-          "name": "沈云怡 胡小凡"
+          "name": "娄一晨 李彦 武磊 邵凌霄"
         },
         {
           "pID": "965452667",
-          "name": "江忠德"
+          "name": "粤语：江忠德"
+        },
+        {
+          "pID": "965452659",
+          "name": "女声：沈云怡 胡小凡"
         },
         {
           "pID": "965452675",
-          "name": "张昊泽 涂远"
+          "name": "新声代：张昊泽 涂远"
         },
         {
           "pID": "965452689",
@@ -6660,7 +6704,7 @@
         },
         {
           "pID": "965453033",
-          "name": "粤语 智能字幕"
+          "name": "粤语智能字幕"
         }
       ]
     },
@@ -6677,38 +6721,38 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "比利时 vs 伊朗",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "苏东 刘越 韩乔生 兰子非 胡小凡 陈凯冬 陆毅隽 张天翼 洪宇青",
+      "presenters": "苏东 刘越 韩乔生",
       "matchInfo": {
         "time": "06月22日03:00"
       },
       "nodes": [
         {
           "pID": "965448827",
-          "name": "苏东 刘越 韩乔生"
-        },
-        {
-          "pID": "965448805",
-          "name": "兰子非 胡小凡"
+          "name": "苏东 刘越 韩乔生 林梦鸽"
         },
         {
           "pID": "965448785",
-          "name": "陈凯冬 陆毅隽"
+          "name": "粤语：陈凯冬 陆毅隽"
+        },
+        {
+          "pID": "965448805",
+          "name": "女声：兰子非 胡小凡"
         },
         {
           "pID": "965448727",
-          "name": "张天翼 洪宇青"
+          "name": "新声代：张天翼 洪宇青"
         },
         {
           "pID": "965448716",
           "name": "赛场原声"
         },
         {
-          "pID": "965448884",
-          "name": "智能字幕"
-        },
-        {
           "pID": "965448935",
           "name": "智能解说"
+        },
+        {
+          "pID": "965448884",
+          "name": "智能字幕"
         }
       ]
     },
@@ -6725,30 +6769,30 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "乌拉圭 vs 佛得角",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "孙雷 贺宇 孙葆洁 陈凯冬 陈熙荣",
+      "presenters": "孙雷 贺宇 孙葆洁",
       "matchInfo": {
         "time": "06月22日06:00"
       },
       "nodes": [
         {
           "pID": "965449226",
-          "name": "孙雷 贺宇 孙葆洁"
+          "name": "孙雷 贺宇 孙葆洁 李子琪"
         },
         {
-          "pID": "965449180",
-          "name": "智能字幕"
+          "pID": "965449705",
+          "name": "粤语：陈凯冬 陈熙荣"
         },
         {
           "pID": "965449681",
           "name": "赛场原声"
         },
         {
-          "pID": "965449705",
-          "name": "陈凯冬 陈熙荣"
-        },
-        {
           "pID": "965449916",
           "name": "智能解说"
+        },
+        {
+          "pID": "965449180",
+          "name": "智能字幕"
         }
       ]
     },
@@ -6779,12 +6823,12 @@
           "name": "赛场原声"
         },
         {
-          "pID": "965450408",
-          "name": "智能字幕"
-        },
-        {
           "pID": "965450441",
           "name": "智能解说"
+        },
+        {
+          "pID": "965450408",
+          "name": "智能字幕"
         }
       ]
     },
@@ -6801,38 +6845,38 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "阿根廷 vs 奥地利",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "詹俊 张路 冯潇霆 鹿中原 乔迁 任锴 陆毅隽 沈云怡 林梦鸽",
+      "presenters": "詹俊 张路 冯潇霆",
       "matchInfo": {
         "time": "06月23日01:00"
       },
       "nodes": [
         {
           "pID": "965460581",
-          "name": "詹俊 张路 冯潇霆"
+          "name": "詹俊 张路 冯潇霆 李子琪"
+        },
+        {
+          "pID": "965461105",
+          "name": "粤语：任锴 陆毅隽"
+        },
+        {
+          "pID": "965461113",
+          "name": "女声：沈云怡 林梦鸽"
+        },
+        {
+          "pID": "965461054",
+          "name": "新声代：鹿中原 乔迁"
         },
         {
           "pID": "965460086",
           "name": "智能解说"
         },
         {
-          "pID": "965460420",
-          "name": "智能字幕"
-        },
-        {
           "pID": "965460944",
           "name": "赛场原声"
         },
         {
-          "pID": "965461054",
-          "name": "鹿中原 乔迁"
-        },
-        {
-          "pID": "965461105",
-          "name": "任锴 陆毅隽"
-        },
-        {
-          "pID": "965461113",
-          "name": "沈云怡 林梦鸽"
+          "pID": "965460420",
+          "name": "智能字幕"
         }
       ]
     },
@@ -6849,38 +6893,38 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "法国 vs 伊拉克",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "苏东 徐阳 孙继海 刘一臻 盛斌 梁柏翘 叶紫辰 兰子非 胡小凡",
+      "presenters": "苏东 徐阳 孙继海",
       "matchInfo": {
         "time": "06月23日05:00"
       },
       "nodes": [
         {
           "pID": "965460904",
-          "name": "苏东 徐阳 孙继海"
+          "name": "苏东 徐阳 孙继海 李子琪"
+        },
+        {
+          "pID": "965461044",
+          "name": "粤语：梁柏翘 叶紫辰"
+        },
+        {
+          "pID": "965461051",
+          "name": "女声：兰子非 胡小凡"
+        },
+        {
+          "pID": "965461027",
+          "name": "新声代：刘一臻 盛斌"
         },
         {
           "pID": "965460364",
           "name": "智能解说"
         },
         {
-          "pID": "965460516",
-          "name": "智能字幕"
-        },
-        {
           "pID": "965460942",
           "name": "赛场原声"
         },
         {
-          "pID": "965461027",
-          "name": "刘一臻 盛斌"
-        },
-        {
-          "pID": "965461044",
-          "name": "梁柏翘 叶紫辰"
-        },
-        {
-          "pID": "965461051",
-          "name": "兰子非 胡小凡"
+          "pID": "965460516",
+          "name": "智能字幕"
         }
       ]
     },
@@ -6897,7 +6941,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "挪威 vs 塞内加尔",
       "modifyTitle": "世界杯小组赛",
-      "presenters": "鲁靖明 马延峰 孙蕊 梁柏翘 叶紫辰",
+      "presenters": "鲁靖明 马延峰 孙蕊",
       "matchInfo": {
         "time": "06月23日08:00"
       },
@@ -6905,6 +6949,10 @@
         {
           "pID": "965460994",
           "name": "鲁靖明 马延峰 孙蕊"
+        },
+        {
+          "pID": "965461016",
+          "name": "粤语：梁柏翘 叶紫辰"
         },
         {
           "pID": "965460937",
@@ -6917,10 +6965,6 @@
         {
           "pID": "965460384",
           "name": "智能字幕"
-        },
-        {
-          "pID": "965461016",
-          "name": "梁柏翘 叶紫辰"
         }
       ]
     },
@@ -6944,19 +6988,19 @@
       "nodes": [
         {
           "pID": "965460548",
-          "name": "孙雨轩 李欣 贺宇"
+          "name": "孙雨轩 李欣 贺宇 程思钦"
         },
         {
           "pID": "965460351",
           "name": "智能解说"
         },
         {
-          "pID": "965460492",
-          "name": "智能字幕"
-        },
-        {
           "pID": "965460931",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965460492",
+          "name": "智能字幕"
         }
       ]
     },
@@ -6968,7 +7012,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "全国���年篮球联赛",
+      "competitionName": "全国青年篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
       "pkInfoTitle": "福建U21vs江西赣星",
