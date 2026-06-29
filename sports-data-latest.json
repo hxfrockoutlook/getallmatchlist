@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-30 00:17:50",
+  "updateTime": "2026-06-30 06:32:41",
   "data": [
     {
       "mgdbId": "120000580348",
@@ -510,7 +510,7 @@
         },
         {
           "pID": "965754716",
-          "name": "全场回放���陈曦、陈熙荣）"
+          "name": "全场回放（陈曦、陈熙荣）"
         },
         {
           "pID": "965754234",
@@ -562,7 +562,7 @@
         },
         {
           "pID": "965757886",
-          "name": "副赛全��（汪乐）"
+          "name": "副赛全场（汪乐）"
         },
         {
           "pID": "965761207",
@@ -710,7 +710,7 @@
         },
         {
           "pID": "965761239",
-          "name": "全场回放（��中原、乔迁）"
+          "name": "全场回放（鹿中原、乔迁）"
         },
         {
           "pID": "965761455",
@@ -1186,7 +1186,7 @@
         },
         {
           "pID": "965776108",
-          "name": "2026全国男子冰球锦标赛Day2全场回放（官方解说）（二）"
+          "name": "2026全国男子冰球锦标赛Day2全场回放（官���解说）（二）"
         }
       ]
     },
@@ -2102,7 +2102,7 @@
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "安���75-48吴兴",
+      "pkInfoTitle": "��吉75-48吴兴",
       "modifyTitle": "安吉75-48吴兴",
       "presenters": "",
       "matchInfo": {
@@ -3022,6 +3022,10 @@
         {
           "pID": "965801105",
           "name": "2026全国男子冰球锦标赛Day3全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "965807892",
+          "name": "2026全国男子冰球锦标赛Day3全场回放（官方解说）（二）"
         }
       ]
     },
@@ -3068,8 +3072,8 @@
       },
       "nodes": [
         {
-          "pID": "965788388",
-          "name": "2026赛季浙江省城市篮球联赛温州赛区: 永嘉VS瓯海"
+          "pID": "965808314",
+          "name": "2026浙江省城市篮球联赛全场回放：永嘉VS瓯海（官方解说）"
         }
       ]
     },
@@ -3092,8 +3096,8 @@
       },
       "nodes": [
         {
-          "pID": "965788447",
-          "name": "2026赛季浙江省城市篮球联赛衢州赛区: 龙游VS开化"
+          "pID": "965807540",
+          "name": "2026浙江省城市篮球联赛全场回放：龙游VS开化（官方解说）"
         }
       ]
     },
@@ -3116,14 +3120,14 @@
       },
       "nodes": [
         {
-          "pID": "965788463",
-          "name": "2026赛季浙江省城市篮球联赛丽水赛区: 松阳VS莲都"
+          "pID": "965807350",
+          "name": "2026浙江省城市篮球联赛全场回放：松阳VS莲都（官方解说）"
         }
       ]
     },
     {
       "mgdbId": "120000563053",
-      "pID": "965792960",
+      "pID": "965810007",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "06月29日21:30",
       "sportItemId": "2",
@@ -3140,18 +3144,22 @@
       },
       "nodes": [
         {
-          "pID": "965792960",
-          "name": "赛场原声"
+          "pID": "965810007",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965809733",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000563064",
-      "pID": "965792987",
+      "pID": "965811762",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "06月30日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Al-Gharafa Sports Club Multi-Purpose Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGP92USOCN.jpg",
@@ -3164,18 +3172,22 @@
       },
       "nodes": [
         {
-          "pID": "965792987",
-          "name": "赛场原声"
+          "pID": "965811762",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965812718",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000563052",
-      "pID": "965793087",
+      "pID": "965812229",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "06月30日00:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Prince Hamza",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/77440B3556MJ.jpg",
@@ -3188,8 +3200,12 @@
       },
       "nodes": [
         {
-          "pID": "965793087",
-          "name": "赛场原声"
+          "pID": "965812229",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965812710",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -3199,10 +3215,10 @@
       "title": "世界杯1/16决赛",
       "keyword": "06月30日01:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "休斯敦球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFPGEO59O2.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHK7CU5Q6O.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "巴西 vs 日本",
       "modifyTitle": "世界杯1/16决赛",
@@ -3212,54 +3228,50 @@
       },
       "nodes": [
         {
-          "pID": "965736790",
-          "name": "娄一晨 李彦 武磊 邵凌霄"
+          "pID": "965812674",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965738191",
-          "name": "巴西队视角"
+          "pID": "965812670",
+          "name": "全场集锦"
         },
         {
-          "pID": "965738240",
-          "name": "日本队视角"
+          "pID": "965812434",
+          "name": "纯享版回放（娄一晨、李彦、武磊、邵凌霄）"
         },
         {
-          "pID": "965737182",
-          "name": "AI智慧观赛"
+          "pID": "965812967",
+          "name": "全场回放（娄一晨、李彦、武磊、邵凌霄）"
         },
         {
-          "pID": "965736846",
-          "name": "粤语：陈凯冬 陆毅隽"
+          "pID": "965812729",
+          "name": "全场回放（沈云怡、胡小凡）"
         },
         {
-          "pID": "965736815",
-          "name": "女声：沈云怡 胡小凡"
+          "pID": "965812742",
+          "name": "全场回放（陈凯冬、陆毅隽）"
         },
         {
-          "pID": "965736871",
-          "name": "新声代：张昊泽 涂远"
+          "pID": "965812787",
+          "name": "全场回放（张昊泽、涂远）"
         },
         {
-          "pID": "965736901",
-          "name": "赛场原声"
+          "pID": "965813052",
+          "name": "全场回放（智能解说）"
         },
         {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "965738013",
-          "name": "智能字幕"
+          "pID": "965813056",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
     {
       "mgdbId": "120000563065",
-      "pID": "965793113",
+      "pID": "965776092",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "06月30日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Nouhad Nawfal Sports Complex",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGP90AJCSL.jpg",
@@ -3272,6 +3284,10 @@
       },
       "nodes": [
         {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
+        {
           "pID": "965793113",
           "name": "赛场原声"
         }
@@ -3283,10 +3299,10 @@
       "title": "莎头组合重出江湖 陈幸同出战",
       "keyword": "06月30日03:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGMLQFVNI9.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHKQ7BVEQQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "莎头组合重出江湖 陈幸同出战",
       "modifyTitle": "WTT美国大满贯男女单打1/32决赛、男双1/16决赛、混双1/8决赛",
@@ -3327,10 +3343,10 @@
       "title": "世界杯1/16决赛",
       "keyword": "06月30日04:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波士顿球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFPMPKFJIG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHKKOE3UA2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "德国 vs 巴拉圭",
       "modifyTitle": "世界杯1/16决赛",
@@ -3358,6 +3374,34 @@
         {
           "pID": "965736971",
           "name": "新声代：刘一臻 盛斌"
+        },
+        {
+          "pID": "965737046",
+          "name": "德国队主帅视角"
+        },
+        {
+          "pID": "965737058",
+          "name": "巴拉圭队主帅视角"
+        },
+        {
+          "pID": "965737124",
+          "name": "德国队明星视角"
+        },
+        {
+          "pID": "965737196",
+          "name": "巴拉圭队明星视角"
+        },
+        {
+          "pID": "965737188",
+          "name": "山顶的风好大！"
+        },
+        {
+          "pID": "965737216",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         },
         {
           "pID": "965736975",
@@ -4183,12 +4227,7 @@
       "matchInfo": {
         "time": "07月01日19:30"
       },
-      "nodes": [
-        {
-          "pID": "965788578",
-          "name": "2026赛季浙江省城市篮球联赛宁波赛区: 江北VS余姚"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000581647",
@@ -7119,12 +7158,7 @@
       "matchInfo": {
         "time": "07月04日19:40"
       },
-      "nodes": [
-        {
-          "pID": "964851511",
-          "name": "2026赛季东北地区城市足球联赛第4轮: 通辽VS大连"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000574257",
@@ -7197,7 +7231,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "人机大战：谁是世界杯预言家 第10期",
-      "modifyTitle": "��机大战：谁是世界杯预言家 第10期",
+      "modifyTitle": "人机大战：谁是世界杯预言家 第10期",
       "presenters": "",
       "matchInfo": {},
       "nodes": [
