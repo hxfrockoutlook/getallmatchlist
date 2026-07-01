@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-02 00:16:54",
+  "updateTime": "2026-07-02 05:22:49",
   "data": [
     {
       "mgdbId": "120000563064",
@@ -1073,6 +1073,10 @@
         {
           "pID": "965866681",
           "name": "2026全国男子冰球锦标赛Day4全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "965873854",
+          "name": "2026全国男子冰球锦标赛Day4全场回放（官方解说）（二）"
         }
       ]
     },
@@ -1554,6 +1558,10 @@
         {
           "pID": "965872486",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965872921",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1578,6 +1586,10 @@
         {
           "pID": "965872612",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965873040",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1640,11 +1652,11 @@
     },
     {
       "mgdbId": "120000581914",
-      "pID": "965856017",
+      "pID": "965873858",
       "title": "U17男篮世界杯16进8淘汰赛",
       "keyword": "07月01日22:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI8URQLGLP.jpg",
@@ -1657,22 +1669,22 @@
       },
       "nodes": [
         {
-          "pID": "965605676",
-          "name": "16支球队集结！U17男篮世界杯球队巡礼 谁能最终登顶？"
+          "pID": "965873858",
+          "name": "全场集锦"
         },
         {
-          "pID": "965856017",
-          "name": "赛场原声"
+          "pID": "965874788",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000581913",
-      "pID": "965856053",
+      "pID": "965874732",
       "title": "U17男篮世界杯16进8淘汰赛",
       "keyword": "07月01日23:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC National Teams Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI8V4610VV.jpg",
@@ -1685,8 +1697,12 @@
       },
       "nodes": [
         {
-          "pID": "965856053",
-          "name": "赛场原声"
+          "pID": "965874732",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965876374",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1696,10 +1712,10 @@
       "title": "世界杯1/16决赛",
       "keyword": "07月02日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "亚特兰大球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGP54C0P8D.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ3CP9L75E.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "英格兰 vs 刚果（金）",
       "modifyTitle": "世界杯1/16决赛",
@@ -1709,70 +1725,50 @@
       },
       "nodes": [
         {
-          "pID": "965828325",
-          "name": "詹俊 张路 孙葆洁 郭小仙儿"
+          "pID": "965876192",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965827661",
-          "name": "AI智慧观赛"
+          "pID": "965876160",
+          "name": "全场集锦"
         },
         {
-          "pID": "965828363",
-          "name": "粤语：陈凯冬 叶紫辰"
+          "pID": "965876095",
+          "name": "纯享版回放（詹俊、张路、孙葆洁、郭小仙儿）"
         },
         {
-          "pID": "965828352",
-          "name": "女声：胡小凡 林梦鸽"
+          "pID": "965876391",
+          "name": "全场回放（詹俊、张路、孙葆洁、郭小仙儿）"
         },
         {
-          "pID": "965828385",
-          "name": "新声代：刘一臻 盛斌"
+          "pID": "965876165",
+          "name": "全场回放（陈凯冬、叶紫辰）"
         },
         {
-          "pID": "965271838",
-          "name": "CCTV5"
+          "pID": "965876184",
+          "name": "全场回放（胡小凡、林梦鸽）"
         },
         {
-          "pID": "965828389",
-          "name": "赛场原声"
+          "pID": "965876253",
+          "name": "全场回放（刘一臻、盛斌）"
         },
         {
-          "pID": "965828579",
-          "name": "英格兰队主帅视角"
+          "pID": "965876324",
+          "name": "全场回放（AI智慧观赛）"
         },
         {
-          "pID": "965828690",
-          "name": "刚果（金）队主帅视角"
-        },
-        {
-          "pID": "965828873",
-          "name": "英格兰队明星视角"
-        },
-        {
-          "pID": "965827520",
-          "name": "刚果（金）队明星视角"
-        },
-        {
-          "pID": "965828894",
-          "name": "山顶的风好大！"
-        },
-        {
-          "pID": "965827556",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965827622",
-          "name": "智能字幕"
+          "pID": "965876364",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
     {
       "mgdbId": "120000581916",
-      "pID": "965856115",
+      "pID": "965876621",
       "title": "U17男篮世界杯16进8淘汰赛",
       "keyword": "07月02日01:15",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI8VA7IGBH.jpg",
@@ -1785,18 +1781,22 @@
       },
       "nodes": [
         {
-          "pID": "965856115",
-          "name": "赛场原声"
+          "pID": "965876621",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965876997",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000581918",
-      "pID": "965856127",
+      "pID": "965877068",
       "title": "U17男篮世界杯16进8淘汰赛",
       "keyword": "07月02日01:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "BDC National Teams Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI902T38D6.jpg",
@@ -1809,23 +1809,27 @@
       },
       "nodes": [
         {
-          "pID": "965856127",
-          "name": "赛场原声"
+          "pID": "965877727",
+          "name": "全场回放"
+        },
+        {
+          "pID": "965877068",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000580357",
       "pID": "965624022",
-      "title": "莎头组合冲四强 陈垣宇PK雨果",
+      "title": "莎头组合冲四强 双曼组合晋级",
       "keyword": "07月02日03:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI81AT98DQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ43SMUBPI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "莎头组合冲四强 陈垣宇PK雨果",
+      "pkInfoTitle": "莎头组合冲四强 双曼组合晋级",
       "modifyTitle": "WTT美国大满贯男女单打1/16决赛、双打1/4决赛",
       "presenters": "朱子恒",
       "matchInfo": {
@@ -1845,14 +1849,6 @@
           "name": "2号桌"
         },
         {
-          "pID": "965623967",
-          "name": "3号桌"
-        },
-        {
-          "pID": "965623994",
-          "name": "4号桌"
-        },
-        {
           "pID": "965797176",
           "name": "智能字幕"
         }
@@ -1864,10 +1860,10 @@
       "title": "世界杯1/16决赛",
       "keyword": "07月02日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "西雅图球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGP5HMUNES.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ43VPJG3J.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "比利时 vs 塞内加尔",
       "modifyTitle": "世界杯1/16决赛",
@@ -1897,8 +1893,36 @@
           "name": "新声代：鹿中原 乔迁"
         },
         {
+          "pID": "965828547",
+          "name": "比利时球星视角"
+        },
+        {
+          "pID": "965828644",
+          "name": "塞内加尔球星视角"
+        },
+        {
+          "pID": "965828124",
+          "name": "比利时队主帅视角"
+        },
+        {
+          "pID": "965828180",
+          "name": "塞内加尔队主帅视角"
+        },
+        {
           "pID": "965827973",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "965828580",
+          "name": "纵览全局"
+        },
+        {
+          "pID": "965828677",
+          "name": "开天眼了！"
         },
         {
           "pID": "965828738",
@@ -1967,7 +1991,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国男子冰球锦标赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ6C2FSFD4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png",
       "pkInfoTitle": "全国男子冰球锦标赛day5",
       "modifyTitle": "全国男子冰球锦标赛day5",
@@ -2125,7 +2149,7 @@
     {
       "mgdbId": "120000581718",
       "pID": "965799385",
-      "title": "2025斯诺克国际��标赛半决赛第一阶段 吴宜泽vs赵心童",
+      "title": "2025斯诺克国际锦标赛半决赛第一阶段 吴宜泽vs赵心童",
       "keyword": "07月02日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -2793,7 +2817,7 @@
       "matchStatus": "0",
       "matchField": "Arena \"Husejin Smajlovic\"",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563150/202511261151_531952_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ34DJEIGS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "波黑vs土耳其",
       "modifyTitle": "男篮世预赛欧洲赛区",
@@ -2821,7 +2845,7 @@
       "matchStatus": "0",
       "matchField": "BCF Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563151/202511261152_164938_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ34I2R44M.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "瑞士vs塞尔维亚",
       "modifyTitle": "男篮世预赛欧洲赛区",
@@ -3019,7 +3043,7 @@
     {
       "mgdbId": "120000580361",
       "pID": "965624397",
-      "title": "男女单打1/8决赛、女双、混双半决赛",
+      "title": "王楚钦冲八强！双曼组合PK陈熠/王艺迪",
       "keyword": "07月03日09:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -3027,7 +3051,7 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/8决赛、女双、混双半决赛",
+      "pkInfoTitle": "王楚钦冲八强！双曼组合PK陈熠/王艺迪",
       "modifyTitle": "WTT美国大满贯男女单打1/8决赛、女双、混双半决赛",
       "presenters": "周泽昊 程靖淇",
       "matchInfo": {
@@ -3304,7 +3328,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
       "pkInfoTitle": "晋城赛区暨2026年晋城市第八届市直单位3-4名、冠亚军决赛",
-      "modifyTitle": "晋城赛区暨2026年晋城市第八届市直单位3-4名、冠亚��决赛",
+      "modifyTitle": "晋城赛区暨2026年晋城市第八届市直单位3-4名、冠亚军决赛",
       "presenters": "",
       "matchInfo": {
         "time": "07月03日17:40"
@@ -3999,6 +4023,30 @@
       ]
     },
     {
+      "mgdbId": "120000563006",
+      "pID": "965791174",
+      "title": "男篮世预赛美洲赛区",
+      "keyword": "07月04日07:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Coliseo Evangelista Mora",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563006/202511261116_802766_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
+      "pkInfoTitle": "哥伦比亚vs智利",
+      "modifyTitle": "男篮世预赛美洲赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月04日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "965791174",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000562982",
       "pID": "965791161",
       "title": "男篮世预赛美洲赛区",
@@ -4051,30 +4099,6 @@
         {
           "pID": "965824078",
           "name": "殷文玉"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000563006",
-      "pID": "965791174",
-      "title": "男篮世预赛美洲赛区",
-      "keyword": "07月04日08:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "Coliseo Evangelista Mora",
-      "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563006/202511261116_802766_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "哥伦比亚vs智利",
-      "modifyTitle": "男篮世预赛美洲赛区",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月04日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "965791174",
-          "name": "赛场原声"
         }
       ]
     },
@@ -4263,30 +4287,6 @@
         {
           "pID": "965626205",
           "name": "林睿思"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000563007",
-      "pID": "965791100",
-      "title": "男篮世预赛美洲赛区",
-      "keyword": "07月04日13:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "Coliseo Evangelista Mora",
-      "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563007/202511261116_390016_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "委内瑞拉vs巴西",
-      "modifyTitle": "男篮世预赛美洲赛区",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月04日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "965791100",
-          "name": "赛场原声"
         }
       ]
     },
@@ -6353,6 +6353,30 @@
       "nodes": []
     },
     {
+      "mgdbId": "120000563007",
+      "pID": "965791100",
+      "title": "男篮世预赛美洲赛区",
+      "keyword": "07月05日08:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Coliseo Evangelista Mora",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563007/202511261116_390016_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
+      "pkInfoTitle": "委内瑞拉vs巴西",
+      "modifyTitle": "男篮世预赛美洲赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月05日08:10"
+      },
+      "nodes": [
+        {
+          "pID": "965791100",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000580364",
       "pID": "965623831",
       "title": "男双决赛、男女单打1/4决赛",
@@ -8038,11 +8062,11 @@
       "keyword": "07月06日08:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "Estadio Banorte",
+      "matchField": "墨西哥城球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575605/202607011215_365804_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575605/202607020230_455631_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
-      "pkInfoTitle": "1/8决赛",
+      "pkInfoTitle": "墨西哥 vs 英格兰",
       "modifyTitle": "世界杯1/8决赛",
       "presenters": "",
       "matchInfo": {
@@ -8127,30 +8151,6 @@
         {
           "pID": "965828726",
           "name": "经典重映"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000563009",
-      "pID": "965791256",
-      "title": "男篮世预赛美洲赛区",
-      "keyword": "07月06日13:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "Coliseo Evangelista Mora",
-      "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563009/202511261116_522816_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "委内瑞拉vs智利",
-      "modifyTitle": "男篮世预赛美洲赛区",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月06日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "965791256",
-          "name": "赛场原声"
         }
       ]
     },
@@ -8573,6 +8573,30 @@
         "time": "07月07日03:00"
       },
       "nodes": []
+    },
+    {
+      "mgdbId": "120000563009",
+      "pID": "965791256",
+      "title": "男篮世预赛美洲赛区",
+      "keyword": "07月07日05:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Coliseo Evangelista Mora",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563009/202511261116_522816_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
+      "pkInfoTitle": "委内瑞拉vs智利",
+      "modifyTitle": "男篮世预赛美洲赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月07日05:10"
+      },
+      "nodes": [
+        {
+          "pID": "965791256",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000562996",
