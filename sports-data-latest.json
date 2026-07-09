@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-10 00:15:15",
+  "updateTime": "2026-07-10 05:20:55",
   "data": [
     {
       "mgdbId": "120000575608",
@@ -1138,10 +1138,10 @@
       "title": "NBA夏季联赛",
       "keyword": "07月10日03:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPFGOLN548.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQD3472Q15.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS鹈鹕",
       "modifyTitle": "NBA夏季联赛",
@@ -1166,10 +1166,10 @@
       "title": "世界杯1/4决赛",
       "keyword": "07月10日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波士顿球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/07/77HNNA9MSIO5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQCSLC237F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "法国 vs 摩洛哥",
       "modifyTitle": "世界杯1/4决赛",
@@ -1195,8 +1195,24 @@
           "name": "女声：兰子非 林梦鸽"
         },
         {
+          "pID": "966068665",
+          "name": "法国队球星视角"
+        },
+        {
+          "pID": "966068618",
+          "name": "摩洛哥队球星视角"
+        },
+        {
           "pID": "966068944",
           "name": "新声代：刘一臻 盛斌"
+        },
+        {
+          "pID": "966071760",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "966068926",
+          "name": "赛场原声"
         },
         {
           "pID": "966069014",
@@ -1207,8 +1223,20 @@
           "name": "沪语：陈渤胄"
         },
         {
-          "pID": "966068926",
-          "name": "赛场原声"
+          "pID": "966068895",
+          "name": "法国队主帅视角"
+        },
+        {
+          "pID": "966068738",
+          "name": "摩洛哥队主帅视角"
+        },
+        {
+          "pID": "966068651",
+          "name": "最佳观赛位"
+        },
+        {
+          "pID": "966068607",
+          "name": "开天眼了！"
         },
         {
           "pID": "966068561",
@@ -1230,7 +1258,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月10日04:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPFGJGL8ST.png",
@@ -1794,66 +1822,58 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "西班牙 vs 比利时",
       "modifyTitle": "世界杯1/4决赛",
-      "presenters": "詹俊 张路 孙继海 沈云怡 兰子非 任锴 梁柏翘 洪荒 陈渤胄 鹿中原 乔迁 鲁靖明 李彦 魏欣怡",
+      "presenters": "詹俊 张路 孙继海 鲁靖明 李彦 魏欣怡",
       "matchInfo": {
         "time": "07月11日03:00"
       },
       "nodes": [
         {
           "pID": "966085959",
-          "name": "詹俊 张路 孙继海"
-        },
-        {
-          "pID": "966085969",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966085972",
-          "name": "沈云怡 兰子非"
-        },
-        {
-          "pID": "966085987",
-          "name": "任锴 梁柏翘"
-        },
-        {
-          "pID": "966086001",
-          "name": "洪荒"
-        },
-        {
-          "pID": "966086004",
-          "name": "陈渤胄"
-        },
-        {
-          "pID": "966086017",
-          "name": "鹿中原 乔迁"
-        },
-        {
-          "pID": "966086141",
-          "name": "詹俊 张路 孙继海"
-        },
-        {
-          "pID": "966086149",
-          "name": "洪荒"
-        },
-        {
-          "pID": "966086155",
-          "name": "陈渤胄"
-        },
-        {
-          "pID": "966086197",
-          "name": "智能解说"
+          "name": "詹俊 张路 孙继海 邵凌霄"
         },
         {
           "pID": "966086277",
           "name": "鲁靖明 李彦 魏欣怡"
         },
         {
-          "pID": "966086337",
-          "name": "开路CCTV5+"
+          "pID": "966086163",
+          "name": "AI智慧观赛"
         },
         {
-          "pID": "966086352",
-          "name": "开路CCTV5"
+          "pID": "966085987",
+          "name": "粤语：任锴 梁柏翘"
+        },
+        {
+          "pID": "966085972",
+          "name": "女声：沈云怡 兰子非"
+        },
+        {
+          "pID": "966086017",
+          "name": "新声代：鹿中原 乔迁"
+        },
+        {
+          "pID": "966085969",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966086001",
+          "name": "闽南语：洪荒"
+        },
+        {
+          "pID": "966086004",
+          "name": "沪语：陈渤胄"
+        },
+        {
+          "pID": "966086141",
+          "name": "为了听不见的你"
+        },
+        {
+          "pID": "966086149",
+          "name": "闽南语智能字幕"
+        },
+        {
+          "pID": "966086155",
+          "name": "沪语智能字幕"
         }
       ]
     },
@@ -4148,66 +4168,58 @@
       "matchStatus": "0",
       "matchField": "迈阿密球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575573/202607060610_559361_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQC1PH2F1M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "挪威 vs 英格兰",
       "modifyTitle": "世界杯1/4决赛",
-      "presenters": "苏东 贺宇 冯潇霆 娄一晨 刘越 徐云龙 兰子非 林梦鸽 江忠德 洪荒 陈渤胄 张昊泽 涂远",
+      "presenters": "苏东 贺宇 冯潇霆 娄一晨 刘越 徐云龙",
       "matchInfo": {
         "time": "07月12日05:00"
       },
       "nodes": [
         {
           "pID": "966085964",
-          "name": "苏东 贺宇 冯潇霆"
+          "name": "苏东 贺宇 冯潇霆 李子琪"
         },
         {
           "pID": "966085976",
-          "name": "娄一晨 刘越 徐云龙"
+          "name": "娄一晨 刘越 徐云龙 Doggie"
+        },
+        {
+          "pID": "966086372",
+          "name": "AI智慧观赛"
+        },
+        {
+          "pID": "966086050",
+          "name": "粤语：江忠德"
+        },
+        {
+          "pID": "966086016",
+          "name": "女声：兰子非 林梦鸽"
+        },
+        {
+          "pID": "966086093",
+          "name": "新声代：张昊泽 涂远"
         },
         {
           "pID": "966086006",
           "name": "赛场原声"
         },
         {
-          "pID": "966086016",
-          "name": "兰子非 林梦鸽"
-        },
-        {
-          "pID": "966086050",
-          "name": "江忠德"
-        },
-        {
           "pID": "966086063",
-          "name": "洪荒"
+          "name": "闽南语：洪荒"
         },
         {
           "pID": "966086078",
-          "name": "陈渤胄"
-        },
-        {
-          "pID": "966086093",
-          "name": "张昊泽 涂远"
+          "name": "沪语：陈渤胄"
         },
         {
           "pID": "966086343",
-          "name": "苏东 贺宇 冯潇霆"
+          "name": "为了听不见的你"
         },
         {
           "pID": "966086354",
-          "name": "江忠德"
-        },
-        {
-          "pID": "966086392",
-          "name": "智能解说"
-        },
-        {
-          "pID": "966086429",
-          "name": "开路CCTV5"
-        },
-        {
-          "pID": "966086431",
-          "name": "开路CCTV5+"
+          "name": "粤语智能字幕"
         }
       ]
     },
@@ -4356,74 +4368,70 @@
       "matchStatus": "0",
       "matchField": "堪萨斯城体育场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575571/202607080212_789996_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQC1SC6Q3S.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "阿根廷 vs 瑞士",
       "modifyTitle": "世界杯1/4决赛",
-      "presenters": "颜强 李欣 孙葆洁 詹俊 张路 邵凌霄 沈云怡 林梦鸽 陈曦 叶紫辰 洪荒 陈渤胄 张天翼 洪宇青 鲁靖明 李彦 魏欣怡",
+      "presenters": "颜强 李欣 孙葆洁 詹俊 张路 邵凌霄",
       "matchInfo": {
         "time": "07月12日09:00"
       },
       "nodes": [
         {
           "pID": "966086008",
-          "name": "颜强 李欣 孙葆洁"
-        },
-        {
-          "pID": "966085999",
-          "name": "赛场原声"
+          "name": "颜强 李欣 孙葆洁 郭小仙儿"
         },
         {
           "pID": "966086020",
           "name": "詹俊 张路 邵凌霄"
         },
         {
-          "pID": "966086115",
-          "name": "沈云怡 林梦鸽"
-        },
-        {
-          "pID": "966086126",
-          "name": "陈曦 叶紫辰"
-        },
-        {
-          "pID": "966086134",
-          "name": "洪荒"
-        },
-        {
-          "pID": "966086140",
-          "name": "陈渤胄"
-        },
-        {
-          "pID": "966086151",
-          "name": "张天翼 洪宇青"
-        },
-        {
           "pID": "966086233",
           "name": "鲁靖明 李彦 魏欣怡"
         },
         {
+          "pID": "966086556",
+          "name": "AI智慧观赛"
+        },
+        {
+          "pID": "966086126",
+          "name": "粤语：陈曦 叶紫辰"
+        },
+        {
+          "pID": "966086115",
+          "name": "女声：沈云怡 林梦鸽"
+        },
+        {
+          "pID": "966086151",
+          "name": "新声代：张天翼 洪宇青"
+        },
+        {
+          "pID": "966085999",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966086134",
+          "name": "闽南语：洪荒"
+        },
+        {
+          "pID": "966086140",
+          "name": "沪语：陈渤胄"
+        },
+        {
           "pID": "966086418",
-          "name": "颜强 李欣 孙葆洁"
+          "name": "为了听不见的你"
         },
         {
           "pID": "966086447",
-          "name": "洪荒"
+          "name": "闽南语智能字幕"
         },
         {
           "pID": "966086463",
-          "name": "陈渤胄"
+          "name": "沪语智能字幕"
         },
         {
-          "pID": "966086623",
-          "name": "智能解说"
-        },
-        {
-          "pID": "966086671",
-          "name": "开路CCTV5"
-        },
-        {
-          "pID": "966086684",
-          "name": "开路CCTV5+"
+          "pID": "966086418",
+          "name": "为了听不��的你"
         }
       ]
     },
@@ -5787,7 +5795,7 @@
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "全国乒乓球锦标���",
+      "competitionName": "全国乒乓球锦标赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "男双、女双、混双资格赛第一轮",
