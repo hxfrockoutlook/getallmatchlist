@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-09 05:19:51",
+  "updateTime": "2026-07-09 14:21:03",
   "data": [
     {
       "mgdbId": "120000563152",
@@ -1999,11 +1999,11 @@
     },
     {
       "mgdbId": "120000563000",
-      "pID": "965791089",
+      "pID": "966080135",
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月09日08:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Coliseo Evangelista Mora",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GH1E7AUTS.png",
@@ -2016,8 +2016,12 @@
       },
       "nodes": [
         {
-          "pID": "965791089",
-          "name": "赛场原声"
+          "pID": "966082667",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966080135",
+          "name": "全场集锦"
         }
       ]
     },
@@ -2027,7 +2031,7 @@
       "title": "精彩回顾：郑钦文 vs 谢拉",
       "keyword": "07月09日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/08/77HOI10232BA.png",
@@ -2051,7 +2055,7 @@
       "title": "经典重映-2026印尼赛半决赛",
       "keyword": "07月09日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOMLAIKMU.jpg",
@@ -2075,7 +2079,7 @@
       "title": "美国队VS波兰队",
       "keyword": "07月09日12:00",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界女排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/08/77HOINPHAO03.jpg",
@@ -2142,6 +2146,30 @@
       ]
     },
     {
+      "mgdbId": "120000582570",
+      "pID": "966085643",
+      "title": "NBA季后赛精彩重播：火箭 vs 湖人 G1",
+      "keyword": "07月09日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：火箭 vs 湖人 G1",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 曾令旭 周鹏",
+      "matchInfo": {
+        "time": "07月09日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966085643",
+          "name": "杨健 曾令旭 周鹏"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582333",
       "pID": "966011081",
       "title": "象山VS江北",
@@ -2185,30 +2213,6 @@
       "nodes": [
         {
           "pID": "966011092",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582336",
-      "pID": "966011101",
-      "title": "龙港VS泰顺",
-      "keyword": "07月09日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "龙港VS泰顺",
-      "modifyTitle": "龙港VS泰顺",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月09日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011101",
           "name": "赛场原声"
         }
       ]
@@ -2312,7 +2316,7 @@
     {
       "mgdbId": "300000002180",
       "pID": "965549876",
-      "title": "人机大战��谁是世界杯预言家 第14期",
+      "title": "人机大战：谁是世界杯预言家 第14期",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
@@ -2343,34 +2347,38 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "法国 vs 摩洛哥",
       "modifyTitle": "世界杯1/4决赛",
-      "presenters": "詹俊 张路 张国伟 兰子非 林梦鸽 陈凯冬 陆毅隽 洪荒 陈渤胄 刘一臻 盛斌",
+      "presenters": "詹俊 张路 张国伟",
       "matchInfo": {
         "time": "07月10日04:00"
       },
       "nodes": [
         {
           "pID": "966069072",
-          "name": "詹俊 张路 张国伟"
+          "name": "詹俊 张路 张国伟 魏欣怡"
         },
         {
-          "pID": "966069045",
-          "name": "兰子非 林梦鸽"
+          "pID": "966068494",
+          "name": "AI智慧观赛"
         },
         {
           "pID": "966069023",
-          "name": "陈凯冬 陆毅隽"
+          "name": "粤语：陈凯冬 陆毅隽"
         },
         {
-          "pID": "966069014",
-          "name": "洪荒"
-        },
-        {
-          "pID": "966068952",
-          "name": "陈渤胄"
+          "pID": "966069045",
+          "name": "女声：兰子非 林梦鸽"
         },
         {
           "pID": "966068944",
-          "name": "刘一臻 盛斌"
+          "name": "新声代：刘一臻 盛斌"
+        },
+        {
+          "pID": "966069014",
+          "name": "闽南语：洪荒"
+        },
+        {
+          "pID": "966068952",
+          "name": "沪语：陈渤胄"
         },
         {
           "pID": "966068926",
@@ -2378,27 +2386,15 @@
         },
         {
           "pID": "966068561",
-          "name": "詹俊 张路 张国伟"
+          "name": "为了听不见的你"
         },
         {
           "pID": "966068513",
-          "name": "洪荒"
+          "name": "闽南语智能字幕"
         },
         {
           "pID": "966068507",
-          "name": "陈渤胄"
-        },
-        {
-          "pID": "966068452",
-          "name": "智能解说"
-        },
-        {
-          "pID": "966071760",
-          "name": "开路CCTV5"
-        },
-        {
-          "pID": "966071777",
-          "name": "开路CCTV5+"
+          "name": "沪语智能字幕"
         }
       ]
     },
@@ -2411,7 +2407,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPEVQTJFRL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "精彩回顾：王欣瑜 vs 扎拉祖阿",
       "modifyTitle": "2026WTA巴特洪堡站女单第一轮精彩回顾：王欣瑜 vs 扎拉祖阿",
@@ -2459,7 +2455,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPF4L9O3GP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "精彩回顾：王欣瑜 vs 费尔南德斯",
       "modifyTitle": "2026WTA巴特洪堡站女单第二轮精彩回顾：王欣瑜 vs 费尔南德斯",
@@ -2471,6 +2467,30 @@
         {
           "pID": "965929002",
           "name": "宋光振"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582567",
+      "pID": "966085462",
+      "title": "跃马少年时·马术新星赛（七月站）Day1",
+      "keyword": "07月10日15:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "马术新星赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/26/10000000147010600839.png",
+      "pkInfoTitle": "跃马少年时·马术新星赛（七月站）Day1",
+      "modifyTitle": "马术新星赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月10日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "966085462",
+          "name": "七月站"
         }
       ]
     },
@@ -2547,6 +2567,30 @@
       ]
     },
     {
+      "mgdbId": "120000582565",
+      "pID": "966082740",
+      "title": "曲靖VS德宏",
+      "keyword": "07月10日18:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "滇超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582565/202607091129_100088_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png",
+      "pkInfoTitle": "曲靖VS德宏",
+      "modifyTitle": "曲靖VS德宏",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月10日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "966082740",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582340",
       "pID": "966011134",
       "title": "临安VS桐庐",
@@ -2588,30 +2632,6 @@
         {
           "pID": "965274158",
           "name": "绿茵狂想第28期"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582341",
-      "pID": "966011139",
-      "title": "苍南VS平阳",
-      "keyword": "07月10日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "苍南VS平阳",
-      "modifyTitle": "苍南VS平阳",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月10日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011139",
-          "name": "赛场原声"
         }
       ]
     },
@@ -2707,6 +2727,7 @@
     },
     {
       "mgdbId": "120000575574",
+      "pID": "966085959",
       "title": "世界杯1/4决赛",
       "keyword": "07月11日03:00",
       "sportItemId": "1",
@@ -2717,11 +2738,40 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "西班牙 vs 比利时",
       "modifyTitle": "世界杯1/4决赛",
-      "presenters": "",
+      "presenters": "詹俊 张路 孙继海 沈云怡 兰子非 任锴 梁柏翘 洪荒 陈渤胄",
       "matchInfo": {
         "time": "07月11日03:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966085959",
+          "name": "詹俊 张路 孙继海"
+        },
+        {
+          "pID": "966085969",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966085972",
+          "name": "沈云怡 兰子非"
+        },
+        {
+          "pID": "966085987",
+          "name": "任锴 梁柏翘"
+        },
+        {
+          "pID": "966086001",
+          "name": "洪荒"
+        },
+        {
+          "pID": "966086004",
+          "name": "陈渤胄"
+        },
+        {
+          "pID": "966086017",
+          "name": "鹿中原 乔迁"
+        }
+      ]
     },
     {
       "mgdbId": "120000582318",
@@ -2772,6 +2822,30 @@
       ]
     },
     {
+      "mgdbId": "120000582529",
+      "pID": "966068450",
+      "title": "环大美青海国际公路自行车赛",
+      "keyword": "07月11日13:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "环大美青海国际公路自行车赛",
+      "modifyTitle": "环大美青海国际公路自行车赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "966068450",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582379",
       "pID": "966020105",
       "title": "贵州村超",
@@ -2792,6 +2866,30 @@
         {
           "pID": "966020105",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582568",
+      "pID": "966085454",
+      "title": "跃马少年时·马术新星赛（七月站）Day2",
+      "keyword": "07月11日14:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "马术新星赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/26/10000000147010600839.png",
+      "pkInfoTitle": "跃马少年时·马术新星赛（七月站）Day2",
+      "modifyTitle": "马术新星赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "966085454",
+          "name": "七月站"
         }
       ]
     },
@@ -2831,7 +2929,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582322/202607061130_114101_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png",
       "pkInfoTitle": "锡林郭勒队vs乌兰察布队",
-      "modifyTitle": "蒙超联赛",
+      "modifyTitle": "���超联赛",
       "presenters": "",
       "matchInfo": {
         "time": "07月11日16:00"
@@ -2934,6 +3032,24 @@
       ]
     },
     {
+      "mgdbId": "120000580955",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月11日17:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580955/202606231055_852901_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "澳大利亚U17女篮vs拉脱维亚U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日17:30"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000570643",
       "pID": "966058205",
       "title": "中甲联赛",
@@ -2957,6 +3073,48 @@
         },
         {
           "pID": "966058207",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580956",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月11日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580956/202606231055_280879_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "科特迪瓦U17女篮vs美国U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日18:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000582566",
+      "pID": "966082766",
+      "title": "丽江VS昆明",
+      "keyword": "07月11日18:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "滇超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582566/202607091125_257306_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png",
+      "pkInfoTitle": "丽江VS昆明",
+      "modifyTitle": "丽江VS昆明",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "966082766",
           "name": "赛场原声"
         }
       ]
@@ -3196,30 +3354,6 @@
       ]
     },
     {
-      "mgdbId": "120000582346",
-      "pID": "966011197",
-      "title": "萧山VS钱塘",
-      "keyword": "07月11日19:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "萧山VS钱塘",
-      "modifyTitle": "萧山VS钱塘",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "966011197",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000582537",
       "pID": "966069696",
       "title": "徽BA",
@@ -3404,30 +3538,6 @@
       "nodes": [
         {
           "pID": "966034426",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582408",
-      "pID": "966034437",
-      "title": "楚超",
-      "keyword": "07月11日19:25",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "楚超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582408/202607071100_775503_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
-      "pkInfoTitle": "荆州恒隆vs咸宁外星人",
-      "modifyTitle": "楚超",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:25"
-      },
-      "nodes": [
-        {
-          "pID": "966034437",
           "name": "赛场原声"
         }
       ]
@@ -3719,30 +3829,6 @@
       ]
     },
     {
-      "mgdbId": "120000582339",
-      "pID": "966013211",
-      "title": "蒙超联赛",
-      "keyword": "07月11日19:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "蒙超联赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582339/202607061205_108014_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png",
-      "pkInfoTitle": "包头队vs呼伦贝尔队",
-      "modifyTitle": "蒙超联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966013211",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000582343",
       "pID": "966013229",
       "title": "蒙超联赛",
@@ -3762,102 +3848,6 @@
       "nodes": [
         {
           "pID": "966013229",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582347",
-      "pID": "966011205",
-      "title": "海曙VS奉化",
-      "keyword": "07月11日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "海曙VS奉化",
-      "modifyTitle": "海曙VS奉化",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011205",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582348",
-      "pID": "966011210",
-      "title": "瑞安VS文成",
-      "keyword": "07月11日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "瑞安VS文成",
-      "modifyTitle": "瑞安VS文成",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011210",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582349",
-      "pID": "966011220",
-      "title": "海宁VS南湖",
-      "keyword": "07月11日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "海宁VS南湖",
-      "modifyTitle": "海宁VS南湖",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011220",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582350",
-      "pID": "966011232",
-      "title": "普陀VS定海",
-      "keyword": "07月11日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "普陀VS定海",
-      "modifyTitle": "普陀VS定海",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011232",
           "name": "赛场原声"
         }
       ]
@@ -4329,6 +4319,24 @@
       "nodes": []
     },
     {
+      "mgdbId": "120000580973",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月11日20:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580973/202606231105_182953_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "埃及U17女篮vs新西兰U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日20:15"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000582382",
       "pID": "966020132",
       "title": "贵州村超",
@@ -4353,9 +4361,27 @@
       ]
     },
     {
+      "mgdbId": "120000580974",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月11日20:45",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580974/202606231056_338539_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "意大利U17女篮vs加拿大U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日20:45"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000582397",
       "pID": "966033984",
-      "title": "疆超",
+      "title": "疆超8进4第一回合",
       "keyword": "07月11日21:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -4364,7 +4390,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582397/202607070950_525244_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
       "pkInfoTitle": "喀什VS昌吉",
-      "modifyTitle": "疆超",
+      "modifyTitle": "疆超8进4第一回合",
       "presenters": "",
       "matchInfo": {
         "time": "07月11日21:00"
@@ -4422,8 +4448,80 @@
       ]
     },
     {
+      "mgdbId": "120000580967",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月11日23:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580967/202606231056_285888_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "日本U17女篮vs哥伦比亚U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日23:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580968",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月11日23:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580968/202606231056_408227_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "捷克U17女篮vs斯洛文尼亚U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日23:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580961",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日01:45",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580961/202606231048_446809_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "墨西哥U17女篮vs中国U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日01:45"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580962",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日02:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580962/202606231056_577166_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "德国U17女篮vs西班牙U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日02:15"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000575395",
-      "title": "UFC第329期：嘴炮VS霍洛威 王聪出战",
+      "title": "UFC第329期国际格斗周",
       "keyword": "07月12日05:00",
       "sportItemId": "5",
       "matchStatus": "0",
@@ -4431,7 +4529,7 @@
       "competitionName": "UFC数字赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000004031067eab4.png",
-      "pkInfoTitle": "UFC第329期：嘴炮VS霍洛威 王聪出战",
+      "pkInfoTitle": "UFC第329期国际格斗周",
       "modifyTitle": "UFC第329期：嘴炮VS霍洛威 王聪出战",
       "presenters": "",
       "matchInfo": {
@@ -4441,6 +4539,7 @@
     },
     {
       "mgdbId": "120000575573",
+      "pID": "966085964",
       "title": "世界杯1/4决赛",
       "keyword": "07月12日05:00",
       "sportItemId": "1",
@@ -4451,14 +4550,48 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "挪威 vs 英格兰",
       "modifyTitle": "世界杯1/4决赛",
-      "presenters": "",
+      "presenters": "苏东 贺宇 冯潇霆 娄一晨 刘越 徐云龙",
       "matchInfo": {
         "time": "07月12日05:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966085964",
+          "name": "苏东 贺宇 冯潇霆"
+        },
+        {
+          "pID": "966085976",
+          "name": "娄一晨 刘越 徐云龙"
+        },
+        {
+          "pID": "966086006",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966086016",
+          "name": "兰子非 林梦鸽"
+        },
+        {
+          "pID": "966086050",
+          "name": "江忠德"
+        },
+        {
+          "pID": "966086063",
+          "name": "洪荒"
+        },
+        {
+          "pID": "966086078",
+          "name": "陈渤胄"
+        },
+        {
+          "pID": "966086093",
+          "name": "张昊泽 涂远"
+        }
+      ]
     },
     {
       "mgdbId": "120000575571",
+      "pID": "966085999",
       "title": "世界杯1/4决赛",
       "keyword": "07月12日09:00",
       "sportItemId": "1",
@@ -4473,7 +4606,24 @@
       "matchInfo": {
         "time": "07月12日09:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966086008",
+          "name": "颜强 李欣 孙葆洁"
+        },
+        {
+          "pID": "966085999",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966086020",
+          "name": "詹俊 张路 邵凌霄"
+        },
+        {
+          "pID": "966086115",
+          "name": "沈云怡 林梦鸽"
+        }
+      ]
     },
     {
       "mgdbId": "120000582173",
@@ -4496,6 +4646,30 @@
         {
           "pID": "965929024",
           "name": "宋光振"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582530",
+      "pID": "966068436",
+      "title": "环大美青海国际公路自行车赛",
+      "keyword": "07月12日13:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "环大美青海国际公路自行车赛",
+      "modifyTitle": "环大美青海国际公路自行车赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "966068436",
+          "name": "解说"
         }
       ]
     },
@@ -4746,7 +4920,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/28/1000000003731065d01d.jpg",
       "pkInfoTitle": "周冠达、侯英超、马特、常新宇前瞻全锦赛",
       "modifyTitle": "全国乒乓球锦标赛观察室",
-      "presenters": "侯英超 马特 常新宇",
+      "presenters": "周冠达 侯英超 马特",
       "matchInfo": {
         "time": "07月12日17:00"
       },
@@ -4769,6 +4943,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "大连可为 vs 上海赛更达",
       "modifyTitle": "中乙联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日17:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580975",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日17:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580975/202606231056_633981_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "新西兰U17女篮vs意大利U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
         "time": "07月12日17:30"
@@ -4846,6 +5038,24 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000580976",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580976/202606231057_352378_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "加拿大U17女篮vs埃及U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日18:00"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000571946",
@@ -5169,49 +5379,25 @@
       "nodes": []
     },
     {
-      "mgdbId": "120000582351",
-      "pID": "966011240",
-      "title": "镇海VS象山",
+      "mgdbId": "120000582339",
+      "pID": "966013211",
+      "title": "蒙超联赛",
       "keyword": "07月12日19:30",
-      "sportItemId": "2",
+      "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "镇海VS象山",
-      "modifyTitle": "镇海VS象山",
+      "competitionName": "蒙超联赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582339/202607061205_108014_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png",
+      "pkInfoTitle": "包头队vs呼伦贝尔队",
+      "modifyTitle": "蒙超联赛",
       "presenters": "",
       "matchInfo": {
         "time": "07月12日19:30"
       },
       "nodes": [
         {
-          "pID": "966011240",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582352",
-      "pID": "966011254",
-      "title": "龙湾VS鹿城",
-      "keyword": "07月12日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "龙湾VS鹿城",
-      "modifyTitle": "龙湾VS鹿城",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月12日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011254",
+          "pID": "966013211",
           "name": "赛场原声"
         }
       ]
@@ -5236,54 +5422,6 @@
       "nodes": [
         {
           "pID": "966011262",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582354",
-      "pID": "966011276",
-      "title": "嵊泗VS岱山",
-      "keyword": "07月12日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "嵊泗VS岱山",
-      "modifyTitle": "嵊泗VS岱山",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月12日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011276",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582355",
-      "pID": "966011292",
-      "title": "青田VS莲都",
-      "keyword": "07月12日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "浙BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "青田VS莲都",
-      "modifyTitle": "青田VS莲都",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月12日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966011292",
           "name": "赛场原声"
         }
       ]
@@ -5355,6 +5493,24 @@
       ]
     },
     {
+      "mgdbId": "120000580963",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日20:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580963/202606231056_765754_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "中国U17女篮vs德国U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日20:15"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000582386",
       "pID": "966020163",
       "title": "贵州村超",
@@ -5377,6 +5533,24 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000580964",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日20:45",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580964/202606231056_878721_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "西班牙U17女篮vs墨西哥U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日20:45"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000582399",
@@ -5427,6 +5601,78 @@
       ]
     },
     {
+      "mgdbId": "120000580969",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日23:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580969/202606231049_641786_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "斯洛文尼亚U17女篮vs日本U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日23:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580970",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月12日23:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580970/202606231049_165557_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "哥伦比亚U17女篮vs捷克U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日23:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580957",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月13日01:45",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580957/202606231104_813914_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "拉脱维亚U17女篮vs科特迪瓦U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日01:45"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580958",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月13日02:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580958/202606231048_611826_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "美国U17女篮vs澳大利亚U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日02:15"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000582416",
       "title": "男双、女双、混双资格赛第一轮",
       "keyword": "07月13日13:00",
@@ -5443,6 +5689,30 @@
         "time": "07月13日13:00"
       },
       "nodes": []
+    },
+    {
+      "mgdbId": "120000582531",
+      "pID": "966068423",
+      "title": "环大美青海国际公路自行车赛",
+      "keyword": "07月13日13:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "环大美青海国际公路自行车赛",
+      "modifyTitle": "环大美青海国际公路自行车赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "966068423",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000580207",
@@ -5493,6 +5763,54 @@
       ]
     },
     {
+      "mgdbId": "120000582347",
+      "pID": "966011205",
+      "title": "海曙VS奉化",
+      "keyword": "07月13日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "海曙VS奉化",
+      "modifyTitle": "海曙VS奉化",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966011205",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582349",
+      "pID": "966011220",
+      "title": "海宁VS南湖",
+      "keyword": "07月13日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "海宁VS南湖",
+      "modifyTitle": "海宁VS南湖",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966011220",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582417",
       "title": "男双、女双、混双资格赛第二轮",
       "keyword": "07月14日13:00",
@@ -5507,6 +5825,66 @@
       "presenters": "",
       "matchInfo": {
         "time": "07月14日13:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000582532",
+      "pID": "966068395",
+      "title": "环大美青海国际公路自行车赛",
+      "keyword": "07月14日13:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "环大美青海国际公路自行车赛",
+      "modifyTitle": "环大美青海国际公路自行车赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "966068395",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580965",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月14日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580965/202606231056_736411_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "中国U17女篮vs西班牙U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日18:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580966",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月14日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580966/202606231056_158660_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "德国U17女篮vs墨西哥U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日18:00"
       },
       "nodes": []
     },
@@ -5535,6 +5913,114 @@
       ]
     },
     {
+      "mgdbId": "120000582346",
+      "pID": "966011197",
+      "title": "萧山VS钱塘",
+      "keyword": "07月14日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "萧山VS钱塘",
+      "modifyTitle": "萧山VS钱塘",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966011197",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582351",
+      "pID": "966080377",
+      "title": "镇海VS象山",
+      "keyword": "07月14日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "镇海VS象山",
+      "modifyTitle": "镇海VS象山",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966080377",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582355",
+      "pID": "966011292",
+      "title": "青田VS莲都",
+      "keyword": "07月14日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "青田VS莲都",
+      "modifyTitle": "青田VS莲都",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966011292",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580959",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月14日20:45",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580959/202606231055_914821_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "科特迪瓦U17女篮vs澳大利亚U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日20:45"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580960",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月14日20:45",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580960/202606231055_382302_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "拉脱维亚U17女篮vs美国U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日20:45"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "300000002182",
       "pID": "965549922",
       "title": "人机大战：谁是世界杯预言家 第16期",
@@ -5554,6 +6040,78 @@
           "name": "人机大战第16期"
         }
       ]
+    },
+    {
+      "mgdbId": "120000580971",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月14日23:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580971/202606231056_998175_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "日本U17女篮vs捷克U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日23:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580972",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月14日23:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580972/202606231056_911016_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "斯洛文尼亚U17女篮vs哥伦比亚U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日23:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580924",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月15日02:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580924/202606231035_296544_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "加拿大U17女篮vs新西兰U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月15日02:15"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000580925",
+      "title": "U17女篮世界杯小组赛",
+      "keyword": "07月15日02:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Starez Arena Vodova Hall 2",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "埃及U17女篮vs意大利U17女篮",
+      "modifyTitle": "U17女篮世界杯小组赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月15日02:15"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000575552",
@@ -5590,6 +6148,30 @@
         "time": "07月15日13:00"
       },
       "nodes": []
+    },
+    {
+      "mgdbId": "120000582533",
+      "pID": "966068388",
+      "title": "环大美青海国际公路自行车赛",
+      "keyword": "07月15日13:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "环大美青海国际公路自行车赛",
+      "modifyTitle": "环大美青海国际公路自行车赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月15日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "966068388",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "300000002155",
