@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 05:21:33",
+  "updateTime": "2026-07-13 14:23:55",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -1307,7 +1307,7 @@
         },
         {
           "pID": "966152885",
-          "name": "全场回放"
+          "name": "全场回放（普通话）"
         }
       ]
     },
@@ -3233,6 +3233,10 @@
         {
           "pID": "966159410",
           "name": "2026“九九杯”海南（文昌）乡镇排球联赛第三日全场回放（二）"
+        },
+        {
+          "pID": "966162372",
+          "name": "2026“九九杯”海南（文昌）乡镇排球联赛第三日全场回放（一）"
         }
       ]
     },
@@ -3620,12 +3624,12 @@
       },
       "nodes": [
         {
-          "pID": "966159735",
-          "name": "全场回放"
-        },
-        {
           "pID": "966159455",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966159735",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -3648,12 +3652,12 @@
       },
       "nodes": [
         {
-          "pID": "966159706",
-          "name": "全场回放"
-        },
-        {
           "pID": "966159582",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966159706",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -3676,18 +3680,18 @@
       },
       "nodes": [
         {
-          "pID": "966159803",
-          "name": "全场回放"
-        },
-        {
           "pID": "966159751",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966159803",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000580958",
-      "pID": "965605708",
+      "pID": "966159791",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月13日02:15",
       "sportItemId": "2",
@@ -3704,14 +3708,18 @@
       },
       "nodes": [
         {
+          "pID": "966159791",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966159847",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582613",
-      "pID": "966159725",
+      "pID": "966159908",
       "title": "NBA夏季联赛",
       "keyword": "07月13日03:00",
       "sportItemId": "2",
@@ -3728,12 +3736,28 @@
       },
       "nodes": [
         {
+          "pID": "966159908",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966159887",
+          "name": "全场回放（王琰博）"
+        },
+        {
+          "pID": "966159910",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966159758",
           "name": "第一节"
         },
         {
           "pID": "966159761",
           "name": "第二节"
+        },
+        {
+          "pID": "966159861",
+          "name": "第三节"
         },
         {
           "pID": "966159844",
@@ -3743,14 +3767,14 @@
     },
     {
       "mgdbId": "120000582617",
-      "pID": "966089004",
+      "pID": "966159967",
       "title": "NBA夏季联赛",
       "keyword": "07月13日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9600Q4OI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT4H96AI4A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS活塞",
       "modifyTitle": "NBA夏季联赛",
@@ -3760,25 +3784,45 @@
       },
       "nodes": [
         {
-          "pID": "966089004",
-          "name": "王冠证"
+          "pID": "966159967",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089020",
-          "name": "英文原声"
+          "pID": "966159926",
+          "name": "全场回放（王冠证）"
+        },
+        {
+          "pID": "966160006",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "966159808",
+          "name": "第一节"
+        },
+        {
+          "pID": "966159831",
+          "name": "第二节"
+        },
+        {
+          "pID": "966159892",
+          "name": "第三节"
+        },
+        {
+          "pID": "966159913",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582805",
-      "pID": "966159799",
+      "pID": "966159852",
       "title": "BIG3",
       "keyword": "07月13日04:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9E3DLGB4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT4ECH11FR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "迈阿密305 vs 休斯顿铁钻",
       "modifyTitle": "BIG3",
@@ -3788,29 +3832,25 @@
       },
       "nodes": [
         {
-          "pID": "966159799",
-          "name": "闲庭信步！比斯利转身一步过掉防守轻松上篮得手"
+          "pID": "966159852",
+          "name": "全场回放（蔡凯臣）"
         },
         {
-          "pID": "966146404",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "966146416",
-          "name": "英文原声"
+          "pID": "966159916",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582621",
-      "pID": "966089037",
+      "pID": "966160111",
       "title": "NBA夏季联赛",
       "keyword": "07月13日05:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS962PCG6J.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT4RPVS4HH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "黄蜂VS凯尔特人",
       "modifyTitle": "NBA夏季联赛",
@@ -3820,25 +3860,45 @@
       },
       "nodes": [
         {
-          "pID": "966089037",
-          "name": "季孟年"
+          "pID": "966160111",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089056",
-          "name": "英文原声"
+          "pID": "966160104",
+          "name": "全场回放（季孟年）"
+        },
+        {
+          "pID": "966160222",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "966159885",
+          "name": "第一节"
+        },
+        {
+          "pID": "966159922",
+          "name": "第二节"
+        },
+        {
+          "pID": "966159995",
+          "name": "第三节"
+        },
+        {
+          "pID": "966160063",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582806",
-      "pID": "966146431",
+      "pID": "966159947",
       "title": "BIG3",
       "keyword": "07月13日05:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9E796T2C.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT53722T07.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "DMV三部曲 vs 达拉斯动力",
       "modifyTitle": "BIG3",
@@ -3848,25 +3908,25 @@
       },
       "nodes": [
         {
-          "pID": "966146431",
-          "name": "蔡凯臣"
+          "pID": "966159947",
+          "name": "全场回放（蔡凯臣）"
         },
         {
-          "pID": "966146441",
-          "name": "英文原声"
+          "pID": "966159988",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582624",
-      "pID": "966089144",
+      "pID": "966160297",
       "title": "NBA夏季联赛",
       "keyword": "07月13日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9669F5G8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT53ASFPP5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS勇士",
       "modifyTitle": "NBA夏季联赛",
@@ -3876,25 +3936,45 @@
       },
       "nodes": [
         {
-          "pID": "966089144",
-          "name": "刘圳展"
+          "pID": "966160297",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089150",
-          "name": "英文原声"
+          "pID": "966160296",
+          "name": "全场回放（刘圳展）"
+        },
+        {
+          "pID": "966160445",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "966160030",
+          "name": "第一节"
+        },
+        {
+          "pID": "966160039",
+          "name": "第二节"
+        },
+        {
+          "pID": "966160185",
+          "name": "第三节"
+        },
+        {
+          "pID": "966160207",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582807",
-      "pID": "966146445",
+      "pID": "966160164",
       "title": "BIG3",
       "keyword": "07月13日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9EAJQRPP.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT540I9ECI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "洛杉矶狂潮 vs 底特律脉冲",
       "modifyTitle": "BIG3",
@@ -3904,25 +3984,25 @@
       },
       "nodes": [
         {
-          "pID": "966146445",
-          "name": "李嘉伟"
+          "pID": "966160164",
+          "name": "全场回放（李嘉伟）"
         },
         {
-          "pID": "966146447",
-          "name": "英文原声"
+          "pID": "966160303",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582628",
-      "pID": "966089189",
+      "pID": "966161390",
       "title": "NBA夏季联赛",
       "keyword": "07月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8TI6V8VG.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5KKCP49H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "魔术VS开拓者",
       "modifyTitle": "NBA夏季联赛",
@@ -3932,25 +4012,49 @@
       },
       "nodes": [
         {
-          "pID": "966089189",
-          "name": "邢晨"
+          "pID": "966161390",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089198",
-          "name": "英文原声"
+          "pID": "966161106",
+          "name": "全场回放（邢晨）"
+        },
+        {
+          "pID": "966162091",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "966160197",
+          "name": "第一节"
+        },
+        {
+          "pID": "966160316",
+          "name": "第二节"
+        },
+        {
+          "pID": "966160507",
+          "name": "第三节"
+        },
+        {
+          "pID": "966160848",
+          "name": "第四节"
+        },
+        {
+          "pID": "966160898",
+          "name": "加时"
         }
       ]
     },
     {
       "mgdbId": "120000582808",
-      "pID": "966146463",
+      "pID": "966160718",
       "title": "BIG3",
       "keyword": "07月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9EFBGH0P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5DNT7PBF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "芝加哥三雄 vs 波士顿球霸",
       "modifyTitle": "BIG3",
@@ -3960,25 +4064,25 @@
       },
       "nodes": [
         {
-          "pID": "966146463",
-          "name": "李嘉伟"
+          "pID": "966160718",
+          "name": "全场回放（李嘉伟）"
         },
         {
-          "pID": "966146469",
-          "name": "英文原声"
+          "pID": "966161055",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582629",
-      "pID": "966089211",
+      "pID": "966161560",
       "title": "NBA夏季联赛",
       "keyword": "07月13日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9201HK7D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5N81412A.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS奇才",
       "modifyTitle": "NBA夏季联赛",
@@ -3988,25 +4092,45 @@
       },
       "nodes": [
         {
-          "pID": "966089211",
-          "name": "孙博"
+          "pID": "966161560",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089240",
-          "name": "英文原声"
+          "pID": "966161507",
+          "name": "全场回放（孙博）"
+        },
+        {
+          "pID": "966162750",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "966160425",
+          "name": "第一节"
+        },
+        {
+          "pID": "966160698",
+          "name": "第二节"
+        },
+        {
+          "pID": "966161020",
+          "name": "第三节"
+        },
+        {
+          "pID": "966161387",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582631",
-      "pID": "966089250",
+      "pID": "966163838",
       "title": "NBA夏季联赛",
       "keyword": "07月13日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS92CJP6LE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT60CI83Q7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS雄鹿",
       "modifyTitle": "NBA夏季联赛",
@@ -4016,29 +4140,45 @@
       },
       "nodes": [
         {
-          "pID": "966089250",
-          "name": "王晓晨"
+          "pID": "966163838",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089269",
-          "name": "英文原声"
+          "pID": "966163764",
+          "name": "全场回放（王晓晨）"
         },
         {
-          "pID": "966145050",
-          "name": "智能字幕"
+          "pID": "966164279",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "966161682",
+          "name": "第一节"
+        },
+        {
+          "pID": "966162186",
+          "name": "第二节"
+        },
+        {
+          "pID": "966163059",
+          "name": "第三节"
+        },
+        {
+          "pID": "966163636",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582632",
-      "pID": "966089284",
+      "pID": "966163956",
       "title": "NBA夏季联赛",
       "keyword": "07月13日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS92LH1G1C.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT6A6HESOA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "快船VS爵士",
       "modifyTitle": "NBA夏季联赛",
@@ -4048,40 +4188,36 @@
       },
       "nodes": [
         {
-          "pID": "966089284",
-          "name": "吴博文"
+          "pID": "966163956",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089304",
-          "name": "英文原声"
+          "pID": "966163953",
+          "name": "全场回放（吴博文）"
         },
         {
-          "pID": "966145041",
-          "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582771",
-      "pID": "966121776",
-      "title": "男、女10岁组预赛暨团体决赛、个人全能决赛",
-      "keyword": "07月13日10:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "全国少年体操U系列锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7K0VMI7A.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
-      "pkInfoTitle": "男、女10岁组预赛暨团体决赛、个人全能决赛",
-      "modifyTitle": "全国少年体操U系列锦标赛Day3：男、女10岁组预赛暨团体决赛、个人全能决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月13日10:00"
-      },
-      "nodes": [
+          "pID": "966164063",
+          "name": "全场回放（英文原声）"
+        },
         {
-          "pID": "966121776",
-          "name": "赛场原声"
+          "pID": "966162125",
+          "name": "第一节"
+        },
+        {
+          "pID": "966162803",
+          "name": "第二节"
+        },
+        {
+          "pID": "966163471",
+          "name": "第三节"
+        },
+        {
+          "pID": "966163850",
+          "name": "第四节"
+        },
+        {
+          "pID": "966164314",
+          "name": "全场回放"
         }
       ]
     },
@@ -4091,10 +4227,10 @@
       "title": "孙杨/杨屹韵双削出战 周雨/赵尚亮相",
       "keyword": "07月13日13:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8JJ7G4B8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT6JLH0NLM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "孙杨/杨屹韵双削出战 周雨/赵尚亮相",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双资格赛第一轮",
@@ -4112,14 +4248,6 @@
           "name": "章稀瑄 林睿思"
         },
         {
-          "pID": "966151034",
-          "name": "1号桌"
-        },
-        {
-          "pID": "966151405",
-          "name": "2号桌"
-        },
-        {
           "pID": "966151519",
           "name": "3号桌"
         },
@@ -4132,12 +4260,20 @@
           "name": "5号桌"
         },
         {
-          "pID": "966151726",
-          "name": "6号桌"
-        },
-        {
           "pID": "966151744",
           "name": "7号桌"
+        },
+        {
+          "pID": "966151034",
+          "name": "1号桌"
+        },
+        {
+          "pID": "966151405",
+          "name": "2号桌"
+        },
+        {
+          "pID": "966151726",
+          "name": "6号桌"
         },
         {
           "pID": "966151780",
@@ -4155,7 +4291,7 @@
       "title": "环大美青海国际公路自行车赛",
       "keyword": "07月13日13:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7DMA2IUK.jpg",
@@ -4179,7 +4315,7 @@
       "title": "围甲联赛第6轮",
       "keyword": "07月13日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7DUJPKS4.png",
@@ -4194,6 +4330,30 @@
         {
           "pID": "965416762",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582771",
+      "pID": "966121776",
+      "title": "全国少年体操U系列锦标赛Day3",
+      "keyword": "07月13日15:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国少年体操U系列锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7K0VMI7A.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
+      "pkInfoTitle": "全国少年体操U系列锦标赛Day3",
+      "modifyTitle": "全国少年体操U系列锦标赛Day3：男、女10岁组预赛暨团体决赛、个人全能决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "966121776",
+          "name": "赛场原声"
         }
       ]
     },
@@ -4218,6 +4378,30 @@
         {
           "pID": "966011518",
           "name": "第二阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582574",
+      "pID": "966085583",
+      "title": "NBA季后赛精彩重播：火箭 vs 湖人 G5",
+      "keyword": "07月13日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：火箭 vs 湖人 G5",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 苏群 周鹏",
+      "matchInfo": {
+        "time": "07月13日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966085583",
+          "name": "杨健 苏群 周鹏"
         }
       ]
     },
@@ -4346,6 +4530,34 @@
       ]
     },
     {
+      "mgdbId": "120000582820",
+      "pID": "966161477",
+      "title": "WTA250雅典站女单第一轮：郑钦文 vs 马内罗",
+      "keyword": "07月13日22:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT6IOLHCAH.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "郑钦文 vs 马内罗",
+      "modifyTitle": "WTA250雅典站女单第一轮：郑钦文 vs 马内罗",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "07月13日22:30"
+      },
+      "nodes": [
+        {
+          "pID": "966161482",
+          "name": "单文强"
+        },
+        {
+          "pID": "966161477",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582633",
       "pID": "966089576",
       "title": "NBA夏季联赛",
@@ -4354,7 +4566,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582633/202607091556_974262_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5KR8BLJE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS尼克斯",
       "modifyTitle": "NBA夏季联赛",
@@ -4382,7 +4594,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582634/202607091554_799950_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5L3N0SUV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "猛龙VS步行者",
       "modifyTitle": "NBA夏季联赛",
@@ -4410,7 +4622,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582635/202607091555_689151_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5LC8MG96.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS凯尔特人",
       "modifyTitle": "NBA夏季联赛",
@@ -4438,7 +4650,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582636/202607091556_718648_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5LDEV0GN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "独行侠VS灰熊",
       "modifyTitle": "NBA夏季联赛",
@@ -4466,7 +4678,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582637/202607091556_950877_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5JMHPGC9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS骑士",
       "modifyTitle": "NBA夏季联赛",
@@ -4490,6 +4702,38 @@
       ]
     },
     {
+      "mgdbId": "120000582849",
+      "pID": "966164667",
+      "title": "1/16决赛",
+      "keyword": "07月14日08:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "1/16决赛",
+      "modifyTitle": "日本羽毛球公开赛第一日：1/16决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月14日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "966164667",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164674",
+          "name": "2号场地"
+        },
+        {
+          "pID": "966164687",
+          "name": "3号场地"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582638",
       "pID": "966089440",
       "title": "NBA夏季联赛",
@@ -4498,7 +4742,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582638/202607091557_385559_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5JPPLUV3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "公牛VS爵士",
       "modifyTitle": "NBA夏季联赛",
@@ -4526,7 +4770,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582639/202607091557_703074_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5JSVI1V8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "太阳VS雄鹿",
       "modifyTitle": "NBA夏季联赛",
@@ -4558,7 +4802,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582640/202607091557_303244_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5K0EOT6A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS开拓者",
       "modifyTitle": "NBA夏季联赛",
@@ -4668,15 +4912,15 @@
     {
       "mgdbId": "120000582650",
       "pID": "966089287",
-      "title": "斯诺克经典回放：吴宜泽VS艾伦 重温世锦赛历史100分钟最长单局",
+      "title": "重温世锦赛历史100分钟最长单局",
       "keyword": "07月14日13:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5K0M488N.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克经典回放：吴宜泽VS艾伦 重温世锦赛历史100分钟最长单局",
+      "pkInfoTitle": "重温世锦赛历史100分钟最长单局",
       "modifyTitle": "斯诺克经典回放：吴宜泽VS艾伦 重温世锦赛历史100分钟最长单局",
       "presenters": "",
       "matchInfo": {
@@ -4692,19 +4936,19 @@
     {
       "mgdbId": "120000582772",
       "pID": "966121757",
-      "title": "男、女9岁、10岁组单项决赛",
-      "keyword": "07月14日15:00",
+      "title": "全国少年体操U系列锦标赛Day4",
+      "keyword": "07月14日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国少年体操U系列锦标赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
-      "pkInfoTitle": "男、女9岁、10岁组单项决赛",
+      "pkInfoTitle": "全国少年体操U系列锦标赛Day4",
       "modifyTitle": "全国少年体操U系列锦标赛Day4：男、女9岁、10岁组单项决赛",
       "presenters": "",
       "matchInfo": {
-        "time": "07月14日15:00"
+        "time": "07月14日14:00"
       },
       "nodes": [
         {
@@ -4716,15 +4960,15 @@
     {
       "mgdbId": "120000582651",
       "pID": "966089332",
-      "title": "斯诺克经典回放：重温艾伦世锦赛致命黑球失误",
+      "title": "重温艾伦世锦赛致命黑球失误",
       "keyword": "07月14日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5K71I9GR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克经典回放：重温艾伦世锦赛致命黑球失误",
+      "pkInfoTitle": "重温艾伦世锦赛致命黑球失误",
       "modifyTitle": "斯诺克经典回放：重温艾伦世锦赛致命黑球失误",
       "presenters": "",
       "matchInfo": {
@@ -4746,7 +4990,7 @@
       "matchStatus": "0",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580965/202607101755_669294_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT67R623TC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "中国U17女篮vs西班牙U17女篮",
       "modifyTitle": "U17女篮世界杯小组赛",
@@ -4967,7 +5211,7 @@
       "matchStatus": "0",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580971/202607101755_544497_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT60P5NP07.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "日本U17女篮vs捷克U17女篮",
       "modifyTitle": "U17女篮世界杯小组赛",
@@ -5015,7 +5259,7 @@
       "matchStatus": "0",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580924/202607101756_494089_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT60R1L77D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "加拿大U17女篮vs新西兰U17女篮",
       "modifyTitle": "U17女篮世界杯小组赛",
@@ -5185,6 +5429,46 @@
       ]
     },
     {
+      "mgdbId": "120000582850",
+      "pID": "966164690",
+      "title": "1/16决赛",
+      "keyword": "07月15日08:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "1/16决赛",
+      "modifyTitle": "日本羽毛球公开赛第二日：1/16决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月15日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "966164690",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164719",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164727",
+          "name": "2号场地"
+        },
+        {
+          "pID": "966164744",
+          "name": "3号场地"
+        },
+        {
+          "pID": "966164746",
+          "name": "1号场地英文视角"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582594",
       "pID": "966088839",
       "title": "NBA夏季联赛",
@@ -5347,15 +5631,15 @@
     {
       "mgdbId": "120000582652",
       "pID": "966089363",
-      "title": "斯诺克经典回放：2026斯诺克世锦赛决赛 吴宜泽vs墨菲 第一阶段",
+      "title": "2026斯诺克世锦赛决赛 吴宜泽vs墨菲",
       "keyword": "07月15日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5KA6T606.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克经典回放：2026斯诺克世锦赛决赛 吴宜泽vs墨菲 第一阶段",
+      "pkInfoTitle": "2026斯诺克世锦赛决赛 吴宜泽vs墨菲",
       "modifyTitle": "斯诺克经典回放：2026斯诺克世锦赛决赛 吴宜泽vs墨菲 第一阶段",
       "presenters": "",
       "matchInfo": {
@@ -5629,6 +5913,54 @@
       ]
     },
     {
+      "mgdbId": "120000582851",
+      "pID": "966164753",
+      "title": "1/8决赛",
+      "keyword": "07月16日08:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "1/8决赛",
+      "modifyTitle": "日本羽毛球公开赛第三日：1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月16日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "966164753",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164773",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164782",
+          "name": "2号场地"
+        },
+        {
+          "pID": "966164793",
+          "name": "2号场地"
+        },
+        {
+          "pID": "966164802",
+          "name": "3号场地"
+        },
+        {
+          "pID": "966164831",
+          "name": "1号场地英文视角"
+        },
+        {
+          "pID": "966164840",
+          "name": "2号场地英文视角"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582609",
       "pID": "966089369",
       "title": "NBA夏季联赛",
@@ -5809,7 +6141,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5KEREE2H.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "斯诺克经典回放：2026斯诺克世锦赛决赛 吴宜泽vs墨菲 第二阶段",
       "modifyTitle": "斯诺克经典回放：2026斯诺克世锦赛决赛 吴宜泽vs墨菲 第二阶段",
@@ -6094,6 +6426,46 @@
       ]
     },
     {
+      "mgdbId": "120000582852",
+      "pID": "966164847",
+      "title": "1/4决赛",
+      "keyword": "07月17日09:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "1/4决赛",
+      "modifyTitle": "日本羽毛球公开赛第四日：1/4决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月17日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "966164847",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164854",
+          "name": "2号场地"
+        },
+        {
+          "pID": "966164862",
+          "name": "2号场地"
+        },
+        {
+          "pID": "966164879",
+          "name": "1号场地英文视角"
+        },
+        {
+          "pID": "966164885",
+          "name": "2号场地英文视角"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582421",
       "pID": "966150854",
       "title": "男双、女双、混双1/8决赛",
@@ -6218,7 +6590,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5KFTSET5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "斯诺克经典回放：2026斯诺克世锦赛决赛 吴宜泽vs墨菲 第三阶段",
       "modifyTitle": "斯诺克经典回放：2026斯诺克世锦赛决赛 吴宜泽vs墨菲 第三阶段",
@@ -6476,6 +6848,34 @@
         {
           "pID": "966088224",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582853",
+      "pID": "966164900",
+      "title": "半决赛",
+      "keyword": "07月18日09:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "半决赛",
+      "modifyTitle": "日本羽毛球公开赛第五日：半决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月18日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "966164900",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164909",
+          "name": "1号场地英文视角"
         }
       ]
     },
@@ -7842,7 +8242,7 @@
     },
     {
       "mgdbId": "120000576101",
-      "title": "PFL奥斯汀：斯蒂尼斯VS埃布伦",
+      "title": "PFL奥斯汀：埃布伦VS卡桑加奈",
       "keyword": "07月19日07:00",
       "sportItemId": "5",
       "matchStatus": "0",
@@ -7850,13 +8250,41 @@
       "competitionName": "PFL",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png",
-      "pkInfoTitle": "PFL奥斯汀：斯蒂尼斯VS埃布伦",
-      "modifyTitle": "PFL奥斯汀：斯蒂尼斯VS埃布伦",
+      "pkInfoTitle": "PFL奥斯汀：埃布伦VS卡桑加奈",
+      "modifyTitle": "PFL奥斯汀：埃布伦VS卡桑加奈",
       "presenters": "",
       "matchInfo": {
         "time": "07月19日07:00"
       },
       "nodes": []
+    },
+    {
+      "mgdbId": "120000582854",
+      "pID": "966164919",
+      "title": "决赛",
+      "keyword": "07月19日10:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "决赛",
+      "modifyTitle": "日本羽毛球公开赛第六日：决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "966164919",
+          "name": "1号场地"
+        },
+        {
+          "pID": "966164927",
+          "name": "1号场地英文视角"
+        }
+      ]
     },
     {
       "mgdbId": "120000582425",
