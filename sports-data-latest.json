@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-27 00:13:41",
+  "updateTime": "2026-07-27 05:20:33",
   "data": [
     {
       "mgdbId": "120000583087",
@@ -755,7 +755,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：勇士vs马刺",
       "modifyTitle": "NBA经典赛事",
-      "presenters": "���晓晨 马健 秋童",
+      "presenters": "王晓晨 马健 秋童",
       "matchInfo": {
         "time": "07月25日18:00"
       },
@@ -2594,7 +2594,7 @@
       "nodes": [
         {
           "pID": "966401451",
-          "name": "全场��锦"
+          "name": "全场集锦"
         },
         {
           "pID": "966401249",
@@ -3002,7 +3002,7 @@
       "nodes": [
         {
           "pID": "966407501",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -3026,7 +3026,7 @@
       "nodes": [
         {
           "pID": "966407374",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -3081,21 +3081,25 @@
     {
       "mgdbId": "120000583230",
       "pID": "966239803",
-      "title": "常冰玉4-3逆转晋级 范争一登场",
+      "title": "江俊迎战高阳 龙泽煌对阵王信伯",
       "keyword": "07月26日17:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I90HGTSMI3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9QVHVH5IT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "常冰玉4-3逆转晋级 范争一登场",
-      "modifyTitle": "斯诺克英格兰公开赛资格赛第二轮：常冰玉4-3逆转晋级 范争一登场",
+      "pkInfoTitle": "江俊迎战高阳 龙泽煌对阵王信伯",
+      "modifyTitle": "斯诺克英格兰公开赛资格赛第二轮：江俊迎战高阳 龙泽煌对阵王信伯",
       "presenters": "",
       "matchInfo": {
         "time": "07月26日17:00"
       },
       "nodes": [
+        {
+          "pID": "966239754",
+          "name": "5号桌"
+        },
         {
           "pID": "966239803",
           "name": "6号桌"
@@ -3115,10 +3119,6 @@
         {
           "pID": "966239744",
           "name": "4号桌"
-        },
-        {
-          "pID": "966239754",
-          "name": "5号桌"
         },
         {
           "pID": "966239821",
@@ -3533,8 +3533,8 @@
       },
       "nodes": [
         {
-          "pID": "965595623",
-          "name": "2026赛季江西省城市足球超级联赛第7轮: 上饶VS南昌"
+          "pID": "966418743",
+          "name": "全场回放"
         }
       ]
     },
@@ -3557,8 +3557,8 @@
       },
       "nodes": [
         {
-          "pID": "965595687",
-          "name": "2026赛季江西省城市足球超级联赛第8轮: 新余VS抚州"
+          "pID": "966418748",
+          "name": "全场回放"
         }
       ]
     },
@@ -3629,8 +3629,8 @@
       },
       "nodes": [
         {
-          "pID": "966305512",
-          "name": "赛场原声"
+          "pID": "966418590",
+          "name": "2026浙江省城市篮球联赛全场回放：鹿城VS乐清（赛场原声）"
         }
       ]
     },
@@ -3653,8 +3653,8 @@
       },
       "nodes": [
         {
-          "pID": "966305536",
-          "name": "赛场原声"
+          "pID": "966418658",
+          "name": "2026浙江省城市篮球联赛全场回放：南浔VS长兴（赛场原声）"
         }
       ]
     },
@@ -3677,8 +3677,8 @@
       },
       "nodes": [
         {
-          "pID": "966305560",
-          "name": "赛场原声"
+          "pID": "966418754",
+          "name": "2026浙江省城市篮球联赛全场回放：江山VS衢江（赛场原声）"
         }
       ]
     },
@@ -3701,8 +3701,8 @@
       },
       "nodes": [
         {
-          "pID": "966322672",
-          "name": "赛场原声"
+          "pID": "966418606",
+          "name": "全场回放"
         }
       ]
     },
@@ -3817,8 +3817,8 @@
       },
       "nodes": [
         {
-          "pID": "966339186",
-          "name": "赛场原声"
+          "pID": "966418737",
+          "name": "全场回放"
         }
       ]
     },
@@ -3841,8 +3841,8 @@
       },
       "nodes": [
         {
-          "pID": "966339207",
-          "name": "赛场原声"
+          "pID": "966418765",
+          "name": "全场回放"
         }
       ]
     },
@@ -3889,8 +3889,8 @@
       },
       "nodes": [
         {
-          "pID": "966339266",
-          "name": "赛场原声"
+          "pID": "966418807",
+          "name": "全场回放"
         }
       ]
     },
@@ -3969,8 +3969,12 @@
           "name": "全场回放（乔迁）"
         },
         {
+          "pID": "966418681",
+          "name": "【回放】斯尼古尔0-2塔格尔（赛场原声）"
+        },
+        {
           "pID": "966417402",
-          "name": "全场回放"
+          "name": "【回放】斯尼古尔0-2塔格尔（英文原声）"
         }
       ]
     },
@@ -3998,11 +4002,11 @@
         },
         {
           "pID": "966417334",
-          "name": "全场回放"
+          "name": "【回放】邦达尔0-2科尔帕奇（赛场原声）"
         },
         {
           "pID": "966417497",
-          "name": "全场回放"
+          "name": "【回放】邦达尔0-2科尔帕奇（英文原声）"
         }
       ]
     },
@@ -4025,23 +4029,23 @@
       },
       "nodes": [
         {
-          "pID": "966352013",
-          "name": "文昌"
+          "pID": "966419109",
+          "name": "2026年“九九杯”海南（文昌）乡镇排球联赛Day3全场回放（官方解说）"
         }
       ]
     },
     {
       "mgdbId": "120000583091",
-      "pID": "966198427",
-      "title": "雨果情侣档冲冠 早田逆转桥本",
+      "pID": "966198394",
+      "title": "户上/大藤夺冠 早田逆转桥本",
       "keyword": "07月26日22:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I90GG861MJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9R1DTUQ7J.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "雨果情侣档冲冠 早田逆转桥本",
+      "pkInfoTitle": "户上/大藤夺冠 早田逆转桥本",
       "modifyTitle": "WTT巴西球星挑战赛男女单打半决赛、混双决赛",
       "presenters": "徐儒叶",
       "matchInfo": {
@@ -4049,25 +4053,25 @@
       },
       "nodes": [
         {
-          "pID": "966198427",
-          "name": "徐儒叶"
+          "pID": "966419212",
+          "name": "全场回放（徐儒叶）"
         },
         {
-          "pID": "966198394",
-          "name": "赛场原声"
+          "pID": "966419414",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000585281",
-      "pID": "966404650",
+      "pID": "966419241",
       "title": "BIG3",
       "keyword": "07月27日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I8U8DTCITN.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9QRNBAKGM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "DMV三部曲VS迈阿密305",
       "modifyTitle": "BIG3",
@@ -4077,27 +4081,23 @@
       },
       "nodes": [
         {
-          "pID": "966404650",
-          "name": "邵化谦"
-        },
-        {
-          "pID": "966404694",
-          "name": "英文原声"
+          "pID": "966419241",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000585282",
-      "pID": "966404724",
+      "pID": "966419322",
       "title": "BIG3",
       "keyword": "07月27日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I8U8GUJLH3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9R9H4CLI4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
-      "pkInfoTitle": "���斯顿铁钻VS达拉斯动力",
+      "pkInfoTitle": "休斯顿铁钻VS达拉斯动力",
       "modifyTitle": "BIG3",
       "presenters": "邵化谦",
       "matchInfo": {
@@ -4105,27 +4105,23 @@
       },
       "nodes": [
         {
-          "pID": "966404724",
-          "name": "邵化谦"
-        },
-        {
-          "pID": "966404733",
-          "name": "英文原声"
+          "pID": "966419322",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000583093",
       "pID": "966198502",
-      "title": "男女单打决赛",
+      "title": "雨果主场冲冠 日乒包揽女单冠亚",
       "keyword": "07月27日04:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9RSPSDJKG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打决赛",
+      "pkInfoTitle": "雨果主场冲冠 日乒包揽女单冠亚",
       "modifyTitle": "WTT巴西球星挑战赛男女单打决赛",
       "presenters": "樊欣阳",
       "matchInfo": {
@@ -4148,7 +4144,7 @@
       "title": "Zuffa拳击第9期：贝尔兰加VS巴特勒",
       "keyword": "07月27日05:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "Zuffa拳击",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I5ALVDUOM1.png",
@@ -4197,16 +4193,16 @@
     {
       "mgdbId": "120000583051",
       "pID": "966197613",
-      "title": "斯诺克上海大师赛第一轮",
+      "title": "斯诺克上海大师赛第一轮：肖国栋VS徐嘉锐",
       "keyword": "07月27日09:30",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9U07VR1LP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖国栋VS徐嘉锐",
-      "modifyTitle": "斯诺克上海大师赛第一轮",
+      "modifyTitle": "斯诺克上海大师赛第一轮：肖国栋VS徐嘉锐",
       "presenters": "秦正",
       "matchInfo": {
         "time": "07月27日09:30"
@@ -4214,7 +4210,7 @@
       "nodes": [
         {
           "pID": "966197613",
-          "name": "1号桌"
+          "name": "现场原声"
         },
         {
           "pID": "966384575",
@@ -4225,16 +4221,16 @@
     {
       "mgdbId": "120000583052",
       "pID": "966197651",
-      "title": "斯诺克上海大师赛第一轮",
+      "title": "斯诺克上海大师赛第一轮：克里斯·韦克林VS唐和文",
       "keyword": "07月27日09:30",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9U0ALSVE2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "克里斯·韦克林VS唐和文",
-      "modifyTitle": "斯诺克上海大师赛第一轮",
+      "modifyTitle": "斯诺克上海大师赛第一轮：克里斯·韦克林VS唐和文",
       "presenters": "孙嘉星",
       "matchInfo": {
         "time": "07月27日09:30"
@@ -4242,7 +4238,7 @@
       "nodes": [
         {
           "pID": "966197651",
-          "name": "2号桌"
+          "name": "现场原声"
         },
         {
           "pID": "966384585",
