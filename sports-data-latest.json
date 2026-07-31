@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-31 05:20:23",
+  "updateTime": "2026-07-31 14:21:18",
   "data": [
     {
       "mgdbId": "120000585467",
@@ -1089,6 +1089,10 @@
           "name": "【回放】哈尔布0-2林湘缇"
         },
         {
+          "pID": "966478527",
+          "name": "【回放】李佳豪0-2王渝凯（朱胤丞）"
+        },
+        {
           "pID": "966471088",
           "name": "【回放】夏尔马2-0塔丽塔（赛场原声）"
         },
@@ -1109,12 +1113,24 @@
           "name": "【回放】赖柏佑/蔡富丞0-2谢定峰/戴伟钦（张婕）"
         },
         {
+          "pID": "966478464",
+          "name": "【回放】李瑞珍/李妍雨1-2哈泰蒂普/纳帕帕卡扎（朱胤丞）"
+        },
+        {
+          "pID": "966478413",
+          "name": "【回放】中出堇/高桥美优2-0谢沛珊/洪恩慈（金子嘉）"
+        },
+        {
           "pID": "966476912",
           "name": "【回放】陈康乐/蒂娜2-1陈妍妃/孙亮晴（余昌瑞）"
         },
         {
           "pID": "966476241",
           "name": "【全场回放】一号场地（赛场原声）（一）"
+        },
+        {
+          "pID": "966478632",
+          "name": "【全场回放】一号场地（赛场原声）（二）"
         },
         {
           "pID": "966473576",
@@ -1133,20 +1149,12 @@
           "name": "【全场回放】四号场地（赛场原声）（一）"
         },
         {
-          "pID": "966478464",
-          "name": "【回放】李瑞珍/李妍雨1-2哈泰蒂普/纳帕帕卡扎（朱胤丞）"
-        },
-        {
-          "pID": "966478527",
-          "name": "2026BWF中国台北羽毛球公开赛男单1/8决赛回放：李佳豪0-2王渝凯（朱胤丞）"
-        },
-        {
-          "pID": "966478632",
-          "name": "2026BWF中国台北羽毛球公开赛Day3一号场地全场回放（赛场原声）（二）"
-        },
-        {
           "pID": "966478176",
-          "name": "2026BWF中国台北羽毛球公开赛Day3四号场地全场回放（赛场原声）（二）"
+          "name": "【全场回放】四号场地（赛场原声）（二）"
+        },
+        {
+          "pID": "966477933",
+          "name": "2026BWF中国台北羽毛球公开赛Day3三号场地全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -1170,11 +1178,11 @@
       "nodes": [
         {
           "pID": "966474268",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：凯伦·威尔逊6-5马克·威廉姆斯（陶哲铭）"
+          "name": "【回放】凯伦·威尔逊6-5马克·威廉姆斯（陶哲铭）"
         },
         {
           "pID": "966475318",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：凯伦·威尔逊6-5马克·威廉姆斯（赛场原声）"
+          "name": "【回放】凯伦·威尔逊6-5马克·威廉姆斯（赛场原声）"
         }
       ]
     },
@@ -1202,7 +1210,7 @@
         },
         {
           "pID": "966473733",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：赵心童6-0尼尔·罗伯逊 （赛场原声）"
+          "name": "【回放】赵心童6-0尼尔·罗伯逊 （赛场原声）"
         }
       ]
     },
@@ -1481,16 +1489,16 @@
       },
       "nodes": [
         {
-          "pID": "966480528",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：吴宜泽6-5肖恩·墨菲（赛场原声）"
-        },
-        {
           "pID": "966480641",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：吴宜泽6-5肖恩·墨菲（秦正、庞卫国）"
+          "name": "【回放】吴宜泽6-5肖恩·墨菲（秦正、庞卫国）"
         },
         {
           "pID": "966479993",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：吴宜泽6-5肖恩·墨菲（蔡剑忠）"
+          "name": "【回放】吴宜泽6-5肖恩·墨菲（蔡剑忠）"
+        },
+        {
+          "pID": "966480528",
+          "name": "【回放】吴宜泽6-5肖恩·墨菲（赛场原声）"
         }
       ]
     },
@@ -1514,11 +1522,11 @@
       "nodes": [
         {
           "pID": "966477767",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：特鲁姆普6-0约翰·希金斯（陶哲铭）"
+          "name": "【回放】特鲁姆普6-0约翰·希金斯（陶哲铭）"
         },
         {
           "pID": "966478184",
-          "name": "26/27赛季斯诺克上海大师赛1/4决赛回放：特鲁姆普6-0约翰·希金斯（赛场原声）"
+          "name": "【回放】特鲁姆普6-0约翰·希金斯（赛场原声）"
         }
       ]
     },
@@ -1549,56 +1557,100 @@
     {
       "mgdbId": "120000585392",
       "pID": "966425677",
-      "title": "斯特恩斯出战 柳托娃逆转取胜",
+      "title": "斯特恩斯、柳托娃晋级八强",
       "keyword": "07月31日00:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDFG38N0A9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "斯特恩斯出战 柳托娃逆转取胜",
-      "modifyTitle": "WTA250孟菲斯站女单第二轮： 斯特恩斯出战 柳托娃逆转取胜",
+      "pkInfoTitle": "斯特恩斯、柳托娃晋级八强",
+      "modifyTitle": "WTA250孟菲斯站女单第二轮： 斯特恩斯、柳托娃晋级八强",
       "presenters": "",
       "matchInfo": {
         "time": "07月31日00:00"
       },
       "nodes": [
         {
-          "pID": "966425677",
-          "name": "赛场原声"
+          "pID": "966480822",
+          "name": "【回放】柳托娃2-1乔恩特（赛场原声）"
         },
         {
-          "pID": "966425691",
-          "name": "英文原声"
+          "pID": "966481035",
+          "name": "【回放】普罗佐洛娃0-2斯特恩斯（赛场原声）"
+        },
+        {
+          "pID": "966480859",
+          "name": "【回放】马烨欣0-2麦克纳莉（蔡凯臣）"
+        },
+        {
+          "pID": "966480923",
+          "name": "【回放】马烨欣0-2麦克纳莉（赛场原声）"
+        },
+        {
+          "pID": "966480906",
+          "name": "【回放】马烨欣0-2麦克纳莉（英文原声）"
+        },
+        {
+          "pID": "966480824",
+          "name": "【回放】柳托娃2-1乔恩特（英文原声）"
+        },
+        {
+          "pID": "966481024",
+          "name": "【回放】普罗佐洛娃0-2斯特恩斯（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000583779",
       "pID": "966341035",
-      "title": "佩古拉逆转晋级 斯维托丽娜轮番登场",
+      "title": "佩古拉逆转晋级 斯维托丽娜2-0速胜",
       "keyword": "07月31日01:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDG9I1B0VQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDH86BHT4B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "佩古拉逆转晋级 斯维托丽娜轮番登场",
-      "modifyTitle": "WTA500华盛顿站女单第二轮：佩古拉逆转晋级 斯维托丽娜轮番登场",
+      "pkInfoTitle": "佩古拉逆转晋级 斯维托丽娜2-0速胜",
+      "modifyTitle": "WTA500华盛顿站女单第二轮：佩古拉逆转晋级 斯维托丽娜2-0速胜",
       "presenters": "",
       "matchInfo": {
         "time": "07月31日01:00"
       },
       "nodes": [
         {
-          "pID": "966341035",
-          "name": "赛场原声"
+          "pID": "966484119",
+          "name": "【回放】库德梅托娃0-2斯维托丽娜（赛场原声）"
         },
         {
-          "pID": "966341041",
-          "name": "英文原声"
+          "pID": "966481831",
+          "name": "【回放】施耐德2-0波塔波娃（赛场原声）"
+        },
+        {
+          "pID": "966480875",
+          "name": "【回放】曾丽美1-2卡林斯卡娅（赛场原声）"
+        },
+        {
+          "pID": "966480959",
+          "name": "【回放】佩古拉2-1弗莱彻（赛场原声）"
+        },
+        {
+          "pID": "966484045",
+          "name": "【回放】库德梅托娃0-2斯维托丽娜（英文原声）"
+        },
+        {
+          "pID": "966481829",
+          "name": "【回放】施耐德2-0波塔波娃（英文原声）"
+        },
+        {
+          "pID": "966480843",
+          "name": "【回放】曾丽美1-2卡林斯卡娅（英文原声）"
+        },
+        {
+          "pID": "966480939",
+          "name": "【回放】佩古拉2-1弗莱彻（英文原声）"
         }
       ]
     },
@@ -1622,7 +1674,15 @@
       "nodes": [
         {
           "pID": "966480859",
-          "name": "全场回放（蔡凯臣）"
+          "name": "【回放】马烨欣0-2麦克纳莉（蔡凯臣）"
+        },
+        {
+          "pID": "966480923",
+          "name": "【回放】马烨欣0-2麦克纳莉（赛场原声）"
+        },
+        {
+          "pID": "966480906",
+          "name": "【回放】马烨欣0-2麦克纳莉（英文原声）"
         }
       ]
     },
@@ -1632,7 +1692,7 @@
       "title": "中国自行车运动超级赛暨中国泵道自行车联赛（自贡站）",
       "keyword": "07月31日07:40",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/30/77ICKBFER802.png",
@@ -1656,7 +1716,7 @@
       "title": "动感地带校园电竞联赛春季赛总决赛",
       "keyword": "07月31日09:30",
       "sportItemId": "10",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "动感地带电竞联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/30/77ICJK6RR0KA.jpg",
@@ -1676,16 +1736,16 @@
     },
     {
       "mgdbId": "120000585440",
-      "pID": "966427863",
-      "title": "王楚钦领衔魏桥迎战安徽 林诗栋率上海男团登场",
+      "pID": "966427833",
+      "title": "林诗栋率上海男团登场 王楚钦率魏桥迎积分赛首胜",
       "keyword": "07月31日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDIDHE3CGT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDFDIC1LMQ.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4DCD6FR90.png",
-      "pkInfoTitle": "王楚钦领衔魏桥迎战安徽 林诗栋率上海男团登场",
+      "pkInfoTitle": "林诗栋率上海男团登场 王楚钦率魏桥迎积分赛首胜",
       "modifyTitle": "乒超联赛雄安站Day3中午场",
       "presenters": "朱子恒",
       "matchInfo": {
@@ -1693,16 +1753,16 @@
       },
       "nodes": [
         {
-          "pID": "966427863",
-          "name": "朱子恒"
-        },
-        {
-          "pID": "966427560",
-          "name": "1号桌"
+          "pID": "966427833",
+          "name": "5号桌"
         },
         {
           "pID": "966427593",
           "name": "2号桌"
+        },
+        {
+          "pID": "966427863",
+          "name": "朱子恒"
         },
         {
           "pID": "966427804",
@@ -1713,12 +1773,12 @@
           "name": "4号桌"
         },
         {
-          "pID": "966427833",
-          "name": "5号桌"
-        },
-        {
           "pID": "966427843",
           "name": "6号桌"
+        },
+        {
+          "pID": "966427560",
+          "name": "1号桌"
         }
       ]
     },
@@ -1728,10 +1788,10 @@
       "title": "超三联赛 北京西城争霸赛 小组赛Day1下午场",
       "keyword": "07月31日13:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/30/77ICJ04TK5G6.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDF50N4TDM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
       "pkInfoTitle": "超三联赛 北京西城争霸赛 小组赛Day1下午场",
       "modifyTitle": "超三联赛",
@@ -1743,34 +1803,38 @@
         {
           "pID": "966470131",
           "name": "蔡凯臣 李嘉伟"
+        },
+        {
+          "pID": "966485286",
+          "name": "蔡凯臣 李嘉伟"
         }
       ]
     },
     {
       "mgdbId": "120000583071",
-      "pID": "966198439",
+      "pID": "966384772",
       "title": "斯诺克上海大师赛半决赛第一阶段：贾德·特鲁姆普VS吴宜泽",
       "keyword": "07月31日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDIDS63DGA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "贾德·特鲁姆普VS吴宜泽 第一阶段",
       "modifyTitle": "斯诺克上海大师赛半决赛第一阶段：贾德·特鲁姆普VS吴宜泽",
-      "presenters": "秦正",
+      "presenters": "蔡剑忠",
       "matchInfo": {
         "time": "07月31日14:00"
       },
       "nodes": [
         {
-          "pID": "966198439",
-          "name": "第一阶段"
+          "pID": "966384772",
+          "name": "蔡剑忠"
         },
         {
-          "pID": "966384772",
-          "name": "秦正"
+          "pID": "966198439",
+          "name": "现场原声"
         }
       ]
     },
@@ -1912,6 +1976,7 @@
     },
     {
       "mgdbId": "300000002227",
+      "pID": "966482467",
       "title": "篮球公园丨淬炼青春",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1923,7 +1988,12 @@
       "modifyTitle": "篮球公园丨淬炼青春",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966482467",
+          "name": "CCTV5"
+        }
+      ]
     },
     {
       "mgdbId": "120000585396",
@@ -1970,12 +2040,16 @@
         {
           "pID": "966470154",
           "name": "李月擎"
+        },
+        {
+          "pID": "966485306",
+          "name": "李月擎"
         }
       ]
     },
     {
       "mgdbId": "120000583072",
-      "pID": "966198476",
+      "pID": "966468204",
       "title": "斯诺克上海大师赛半决赛第二阶段：贾德·特鲁姆普VS吴宜泽",
       "keyword": "07月31日19:30",
       "sportItemId": "8",
@@ -1986,22 +2060,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "贾德·特鲁姆普VS吴宜泽 第二阶段",
       "modifyTitle": "斯诺克上海大师赛半决赛第二阶段：贾德·特鲁姆普VS吴宜泽",
-      "presenters": "朱峰立 秦正 庞卫国",
+      "presenters": "秦正 庞卫国",
       "matchInfo": {
         "time": "07月31日19:30"
       },
       "nodes": [
         {
-          "pID": "966198476",
-          "name": "第二阶段"
-        },
-        {
-          "pID": "966384775",
-          "name": "朱峰立"
-        },
-        {
           "pID": "966468204",
           "name": "秦正 庞卫国"
+        },
+        {
+          "pID": "966482507",
+          "name": "庞卫国"
+        },
+        {
+          "pID": "966198476",
+          "name": "特鲁姆普vs吴宜泽"
         }
       ]
     },
@@ -2102,6 +2176,10 @@
         {
           "pID": "966454484",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966485412",
+          "name": "智能解说"
         }
       ]
     },
@@ -2208,16 +2286,16 @@
     {
       "mgdbId": "120000583780",
       "pID": "966341055",
-      "title": "WTA500华盛顿站1/4决赛",
+      "title": "前赛会冠军佩古拉PK卡林斯卡娅",
       "keyword": "08月01日00:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDFD1A7SLV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA500华盛顿站1/4决赛",
-      "modifyTitle": "WTA500华盛顿站1/4决赛",
+      "pkInfoTitle": "前赛会冠军佩古拉PK卡林斯卡娅",
+      "modifyTitle": "WTA500华盛顿站1/4决赛：前赛会冠军佩古拉PK卡林斯卡娅",
       "presenters": "",
       "matchInfo": {
         "time": "08月01日00:00"
@@ -2236,16 +2314,16 @@
     {
       "mgdbId": "120000585393",
       "pID": "966425793",
-      "title": "WTA250孟菲斯站 1/4决赛",
+      "title": "16岁小将柳托娃PK麦克纳莉",
       "keyword": "08月01日00:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDIDNEIM9U.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA250孟菲斯站 1/4决赛",
-      "modifyTitle": "WTA250孟菲斯站 1/4决赛",
+      "pkInfoTitle": "16岁小将柳托娃PK麦克纳莉",
+      "modifyTitle": "WTA250孟菲斯站女单1/4决赛：16岁小将柳托娃PK麦克纳莉",
       "presenters": "",
       "matchInfo": {
         "time": "08月01日00:00"
@@ -2674,26 +2752,26 @@
       "nodes": []
     },
     {
-      "mgdbId": "120000585389",
-      "pID": "966423962",
-      "title": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
-      "keyword": "08月01日18:40",
-      "sportItemId": "2",
+      "mgdbId": "120000574268",
+      "pID": "964851612",
+      "title": "东北地区城市足球联赛",
+      "keyword": "08月01日18:50",
+      "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "晋超联赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
-      "pkInfoTitle": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
-      "modifyTitle": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
+      "competitionName": "东北超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574268/202604131755_111057_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/13/1000000014401064d03a.png",
+      "pkInfoTitle": "大连vs鸡西",
+      "modifyTitle": "东北地区城市足球联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "08月01日18:40"
+        "time": "08月01日18:50"
       },
       "nodes": [
         {
-          "pID": "966423962",
-          "name": "赛场原声"
+          "pID": "964851612",
+          "name": "2026赛季东北地区城市足球联赛第6轮: 大连VS鸡西"
         }
       ]
     },
@@ -2722,6 +2800,10 @@
         {
           "pID": "966454762",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966485368",
+          "name": "智能解说"
         }
       ]
     },
@@ -2944,6 +3026,30 @@
       ]
     },
     {
+      "mgdbId": "120000585389",
+      "pID": "966423962",
+      "title": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
+      "keyword": "08月01日19:20",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "晋超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
+      "pkInfoTitle": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
+      "modifyTitle": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月01日19:20"
+      },
+      "nodes": [
+        {
+          "pID": "966423962",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000577665",
       "pID": "964887245",
       "title": "湖北省城市足球联赛",
@@ -3118,7 +3224,16 @@
       "matchInfo": {
         "time": "08月01日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966312841",
+          "name": "普通话"
+        },
+        {
+          "pID": "966483958",
+          "name": "粤语"
+        }
+      ]
     },
     {
       "mgdbId": "120000574643",
@@ -3137,7 +3252,16 @@
       "matchInfo": {
         "time": "08月01日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966312847",
+          "name": "普通话"
+        },
+        {
+          "pID": "966483972",
+          "name": "粤语"
+        }
+      ]
     },
     {
       "mgdbId": "120000574644",
@@ -3156,7 +3280,12 @@
       "matchInfo": {
         "time": "08月01日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966312857",
+          "name": "粤语"
+        }
+      ]
     },
     {
       "mgdbId": "120000574645",
@@ -3175,7 +3304,16 @@
       "matchInfo": {
         "time": "08月01日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966312868",
+          "name": "普通话"
+        },
+        {
+          "pID": "966483975",
+          "name": "粤语"
+        }
+      ]
     },
     {
       "mgdbId": "120000574646",
@@ -3194,7 +3332,16 @@
       "matchInfo": {
         "time": "08月01日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966312881",
+          "name": "普通话"
+        },
+        {
+          "pID": "966483981",
+          "name": "粤语"
+        }
+      ]
     },
     {
       "mgdbId": "120000574656",
@@ -3217,6 +3364,10 @@
         {
           "pID": "964217873",
           "name": "2026赛季广东省城市足球超级联赛第十一轮（东区）: 河源VS东莞"
+        },
+        {
+          "pID": "966483995",
+          "name": "客家话"
         }
       ]
     },
@@ -3241,6 +3392,10 @@
         {
           "pID": "964217902",
           "name": "2026赛季广东省城市足球超级联赛第十一轮（东区）: 汕尾VS清远"
+        },
+        {
+          "pID": "966483998",
+          "name": "粤语"
         }
       ]
     },
@@ -3265,6 +3420,10 @@
         {
           "pID": "964217918",
           "name": "2026赛季广东省城市足球超级联赛第十一轮（东区）: 韶关VS揭阳"
+        },
+        {
+          "pID": "966484004",
+          "name": "粤语"
         }
       ]
     },
@@ -3289,6 +3448,10 @@
         {
           "pID": "964217945",
           "name": "2026赛季广东省城市足球超级联赛第十一轮（东区）: 汕头VS梅州"
+        },
+        {
+          "pID": "966484016",
+          "name": "潮汕话"
         }
       ]
     },
@@ -3313,6 +3476,10 @@
         {
           "pID": "964217966",
           "name": "2026赛季广东省城市足球超级联赛第十一轮（东区）: 深圳VS惠州"
+        },
+        {
+          "pID": "966484021",
+          "name": "粤语"
         }
       ]
     },
@@ -3337,10 +3504,6 @@
         {
           "pID": "966198530",
           "name": "第二阶段"
-        },
-        {
-          "pID": "966384792",
-          "name": "朱峰立"
         },
         {
           "pID": "966468217",
@@ -3953,30 +4116,6 @@
       ]
     },
     {
-      "mgdbId": "120000574268",
-      "pID": "964851612",
-      "title": "东北地区城市足球联赛",
-      "keyword": "08月01日19:35",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "东北超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574268/202604131755_111057_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/13/1000000014401064d03a.png",
-      "pkInfoTitle": "大连vs鸡西",
-      "modifyTitle": "东北地区城市足球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月01日19:35"
-      },
-      "nodes": [
-        {
-          "pID": "964851612",
-          "name": "2026赛季东北地区城市足球联赛第6轮: 大连VS鸡西"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000585484",
       "pID": "966437224",
       "title": "湘超",
@@ -4280,7 +4419,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583511/202607211300_956737_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
       "pkInfoTitle": "吐鲁番VS喀什",
-      "modifyTitle": "疆超半决���第二回合",
+      "modifyTitle": "疆超半决赛第二回合",
       "presenters": "",
       "matchInfo": {
         "time": "08月01日20:00"
@@ -4377,6 +4516,30 @@
         {
           "pID": "966425861",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586261",
+      "pID": "966482939",
+      "title": "首届“珠江源头”公路自行车挑战赛",
+      "keyword": "08月02日07:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "首届“珠江源头”公路自行车挑战赛",
+      "modifyTitle": "首届“珠江源头”公路自行车挑战赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月02日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "966482939",
+          "name": "解说"
         }
       ]
     },
@@ -4671,6 +4834,10 @@
         {
           "pID": "966454976",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966485230",
+          "name": "智能解说"
         }
       ]
     },
@@ -5199,6 +5366,10 @@
         {
           "pID": "966455055",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966485169",
+          "name": "智能解说"
         }
       ]
     },
@@ -5325,6 +5496,10 @@
         {
           "pID": "966455102",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966485140",
+          "name": "智能解说"
         }
       ]
     },
@@ -5635,21 +5810,21 @@
     {
       "mgdbId": "300000002206",
       "pID": "966197036",
-      "title": "乒乓观察室",
+      "title": "周冠达、侯英超领衔为您前瞻横滨冠军赛",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "乒乓观察室",
+      "pkInfoTitle": "周冠达、侯英超领衔为您前瞻横滨冠军赛",
       "modifyTitle": "WTT横滨冠军赛观察室",
-      "presenters": "",
+      "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {},
       "nodes": [
         {
           "pID": "966197036",
-          "name": "乒乓观察室"
+          "name": "周冠达 侯英超 程靖淇 徐晨皓"
         }
       ]
     },
@@ -5726,7 +5901,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/16决赛",
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
-      "presenters": "",
+      "presenters": "李柯鑫 张靖松",
       "matchInfo": {
         "time": "08月04日10:00"
       },
@@ -5734,6 +5909,10 @@
         {
           "pID": "966197293",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966483829",
+          "name": "李柯鑫 张靖松"
         }
       ]
     },
@@ -5838,7 +6017,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/16决赛",
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
-      "presenters": "",
+      "presenters": "周冠达 周雨 程靖淇",
       "matchInfo": {
         "time": "08月04日16:30"
       },
@@ -5846,6 +6025,10 @@
         {
           "pID": "966197328",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966483834",
+          "name": "周冠达 周雨 程靖淇"
         }
       ]
     },
@@ -6002,7 +6185,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/16决赛",
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
-      "presenters": "",
+      "presenters": "张靖松 赵曦",
       "matchInfo": {
         "time": "08月05日10:00"
       },
@@ -6010,6 +6193,10 @@
         {
           "pID": "966197346",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966483892",
+          "name": "张靖松 赵曦"
         }
       ]
     },
@@ -6026,7 +6213,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/16决赛",
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
-      "presenters": "",
+      "presenters": "周冠达 侯英超 周雨",
       "matchInfo": {
         "time": "08月05日16:30"
       },
@@ -6034,6 +6221,10 @@
         {
           "pID": "966197365",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966483921",
+          "name": "周冠达 侯英超 周雨"
         }
       ]
     },
@@ -6148,7 +6339,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/16决赛",
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
-      "presenters": "",
+      "presenters": "徐儒叶",
       "matchInfo": {
         "time": "08月06日10:00"
       },
@@ -6156,6 +6347,10 @@
         {
           "pID": "966197431",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966483882",
+          "name": "徐儒叶"
         }
       ]
     },
@@ -6172,7 +6367,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/8决赛",
       "modifyTitle": "WTT横滨冠军赛男女单打1/8决赛",
-      "presenters": "",
+      "presenters": "周冠达 刘国正 侯英超",
       "matchInfo": {
         "time": "08月06日16:30"
       },
@@ -6180,6 +6375,10 @@
         {
           "pID": "966197445",
           "name": "赛场原声"
+        },
+        {
+          "pID": "966483916",
+          "name": "周冠达 刘国正 侯英超"
         }
       ]
     },
