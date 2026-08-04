@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-04 05:21:57",
+  "updateTime": "2026-08-04 14:22:29",
   "data": [
     {
       "mgdbId": "120000583781",
@@ -1700,7 +1700,7 @@
     },
     {
       "mgdbId": "120000586238",
-      "pID": "966545108",
+      "pID": "966544677",
       "title": "龙狮青年75-81辽宁沈阳三生",
       "keyword": "08月03日18:30",
       "sportItemId": "2",
@@ -1716,6 +1716,10 @@
         "time": "08月03日18:30"
       },
       "nodes": [
+        {
+          "pID": "966544677",
+          "name": "全场集锦"
+        },
         {
           "pID": "966545108",
           "name": "全场回放（赛场原声）"
@@ -1942,60 +1946,80 @@
     {
       "mgdbId": "120000585897",
       "pID": "966473774",
-      "title": "博尔特止步首轮！森梅兹领衔出战",
+      "title": "博尔特止步首轮！森梅兹2-0马里诺",
       "keyword": "08月04日07:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/04/77KFSN7J5F70.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "博尔特止步首轮！森梅兹领衔出战",
-      "modifyTitle": "WTA1000多伦多站女单第一轮：博尔特止步首轮！森梅兹领衔出战",
+      "pkInfoTitle": "博尔特止步首轮！森梅兹2-0马里诺",
+      "modifyTitle": "WTA1000多伦多站女单第一轮：博尔特止步首轮！森梅兹2-0马里诺",
       "presenters": "单文强",
       "matchInfo": {
         "time": "08月04日07:00"
       },
       "nodes": [
         {
-          "pID": "966473774",
-          "name": "赛场原声"
+          "pID": "966560530",
+          "name": "2026WTA1000多伦多站女单第1轮回放：马里诺0-2森梅兹（英文原声）"
         },
         {
-          "pID": "966473802",
-          "name": "英文原声"
+          "pID": "966558887",
+          "name": "【回放】王欣瑜1-2卡萨金娜（单文强）"
         },
         {
-          "pID": "966539314",
-          "name": "王欣瑜 vs 卡萨金娜(单文强)"
+          "pID": "966560009",
+          "name": "【回放】马里诺0-2森梅兹（赛场原声）"
+        },
+        {
+          "pID": "966553951",
+          "name": "【回放】巴图科娃2-0安德莱斯库（赛场原声）"
+        },
+        {
+          "pID": "966553826",
+          "name": "【回放】博尔特0-2克罗斯（赛场原声）"
+        },
+        {
+          "pID": "966560388",
+          "name": "【回放】王欣瑜1-2卡萨金娜（赛场原声）"
+        },
+        {
+          "pID": "966553973",
+          "name": "【回放】巴图科娃2-0安德莱斯库（英文原声）"
+        },
+        {
+          "pID": "966553866",
+          "name": "【回放】博尔特0-2克罗斯（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000586649",
-      "pID": "966541804",
-      "title": "孙超PK赵贤祐 袁安琪稍后出战",
+      "pID": "966546149",
+      "title": "韩国羽毛球大师赛第一日",
       "keyword": "08月04日08:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF0VOGSFNK.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/04/77KFROB2MDKI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "孙超PK赵贤祐 袁安琪稍后出战",
-      "modifyTitle": "韩国羽毛球大师赛第一日：孙超PK赵贤祐 袁安琪稍后出战",
-      "presenters": "杨妮娜 轩子博 朱胤丞 余昌瑞 张婕",
+      "pkInfoTitle": "韩国羽毛球大师赛第一日",
+      "modifyTitle": "韩国羽毛球大师赛第一日：袁安琪进正赛 胡珂源/林祥毅登场",
+      "presenters": "朱胤丞 张婕",
       "matchInfo": {
         "time": "08月04日08:00"
       },
       "nodes": [
         {
-          "pID": "966541804",
-          "name": "1号场地"
+          "pID": "966546149",
+          "name": "胡珂源/林祥毅VS阮庭黄/陈丁茗"
         },
         {
-          "pID": "966541878",
-          "name": "2号场地"
+          "pID": "966546166",
+          "name": "林芷均/杨筑云VS王漪朵/王子萌"
         },
         {
           "pID": "966541975",
@@ -2006,52 +2030,12 @@
           "name": "4号场地"
         },
         {
-          "pID": "966546092",
-          "name": "孙超VS赵贤祐"
+          "pID": "966541878",
+          "name": "2号场地"
         },
         {
-          "pID": "966546097",
-          "name": "赵建晔VS金秉在"
-        },
-        {
-          "pID": "966546107",
-          "name": "查马库拉VS朴相龙"
-        },
-        {
-          "pID": "966546124",
-          "name": "查亚帕特/塔纳多VS林一凡/杨佳峄"
-        },
-        {
-          "pID": "966546131",
-          "name": "罗意/王汀戈VS杉山未来/高桥奈那"
-        },
-        {
-          "pID": "966546138",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "966546149",
-          "name": "胡珂源/林祥毅VS阮庭黄/陈丁茗"
-        },
-        {
-          "pID": "966546159",
-          "name": "小川翔悟VS王子峻"
-        },
-        {
-          "pID": "966546161",
-          "name": "金海德VS洛克"
-        },
-        {
-          "pID": "966546166",
-          "name": "林芷均/杨筑云VS王漪朵/王子萌"
-        },
-        {
-          "pID": "966546172",
-          "name": "巴特勒/琼斯VS倪祖杰/黄劲腾"
-        },
-        {
-          "pID": "966546176",
-          "name": "鲍骊婧/曹梓涵VS阮庭黄/陈丁茗"
+          "pID": "966541804",
+          "name": "1号场地"
         }
       ]
     },
@@ -2060,7 +2044,7 @@
       "pID": "966489771",
       "title": "咪咕体育日报 第139期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -2079,9 +2063,9 @@
       "mgdbId": "120000586452",
       "pID": "966539298",
       "title": "WTA1000多伦多站女单第一轮：王欣瑜 vs 卡萨金娜",
-      "keyword": "08月04日08:30",
+      "keyword": "08月04日08:50",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF0VAO8H4A.jpg",
@@ -2090,20 +2074,16 @@
       "modifyTitle": "WTA1000多伦多站女单第一轮：王欣瑜 vs 卡萨金娜",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "08月04日08:30"
+        "time": "08月04日08:50"
       },
       "nodes": [
         {
-          "pID": "966539298",
-          "name": "赛场原声"
+          "pID": "966558887",
+          "name": "【回放】王欣瑜1-2卡萨金娜（单文强）"
         },
         {
-          "pID": "966539314",
-          "name": "单文强"
-        },
-        {
-          "pID": "966473802",
-          "name": "英文原声"
+          "pID": "966560388",
+          "name": "【回放】王欣瑜1-2卡萨金娜（赛场原声）"
         }
       ]
     },
@@ -2113,7 +2093,7 @@
       "title": "中国攀岩联赛（贵州贵阳站）Day1",
       "keyword": "08月04日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF0KG7F83M.jpg",
@@ -2134,15 +2114,15 @@
     {
       "mgdbId": "120000583080",
       "pID": "966483829",
-      "title": "陈幸同迎战金娜英 温瑞博冲开门红",
+      "title": "陈幸同横扫晋级 温瑞博1-3止步首轮",
       "keyword": "08月04日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KEVFSTPV42.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/04/77KFRO1J3TJK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "陈幸同迎战金娜英 温瑞博冲开门红",
+      "pkInfoTitle": "陈幸同横扫晋级 温瑞博1-3止步首轮",
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
       "presenters": "李柯鑫 张靖松 高文清",
       "matchInfo": {
@@ -2154,26 +2134,26 @@
           "name": "李柯鑫 张靖松"
         },
         {
-          "pID": "966536403",
-          "name": "高文清"
-        },
-        {
           "pID": "966197293",
           "name": "赛场原声"
         },
         {
           "pID": "966540554",
           "name": "智能字幕"
+        },
+        {
+          "pID": "966536403",
+          "name": "高文清"
         }
       ]
     },
     {
       "mgdbId": "120000585477",
-      "pID": "966437911",
+      "pID": "966444706",
       "title": "亚洲大学生篮球联赛",
       "keyword": "08月04日11:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585477/202607281020_647374_H169_1080.webp",
@@ -2185,6 +2165,10 @@
         "time": "08月04日11:30"
       },
       "nodes": [
+        {
+          "pID": "966444706",
+          "name": "AUBL亚洲大学生篮球联赛火热来袭！12支球队谁能杀出重围？"
+        },
         {
           "pID": "966437911",
           "name": "李天宇 孔德昕"
@@ -2205,7 +2189,7 @@
       "title": "亚洲大学生篮球联赛",
       "keyword": "08月04日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "",
@@ -2237,7 +2221,7 @@
       "title": "四川锦城vs青岛国信海天",
       "keyword": "08月04日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF06KAKOUK.png",
@@ -2261,7 +2245,7 @@
       "title": "辽宁沈阳三生vs浙江广厦",
       "keyword": "08月04日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF0MO58MHG.png",
@@ -2742,16 +2726,16 @@
     {
       "mgdbId": "120000585898",
       "pID": "966473813",
-      "title": "WTA1000多伦多站 Day3",
+      "title": "斯瓦泰克、萨巴伦卡领衔出战",
       "keyword": "08月05日00:30",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/04/77KFTPFQTBJH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA1000多伦多站 Day3",
-      "modifyTitle": "WTA1000多伦多站 Day3",
+      "pkInfoTitle": "斯瓦泰克、萨巴伦卡领衔出战",
+      "modifyTitle": "WTA1000多伦多站女单第二轮：斯瓦泰克、萨巴伦卡领衔出战",
       "presenters": "",
       "matchInfo": {
         "time": "08月05日00:30"
@@ -2827,7 +2811,7 @@
       "mgdbId": "120000583086",
       "pID": "966483892",
       "title": "蒯曼、陈熠冲首胜 美和PK削球手桥本",
-      "keyword": "08���05日10:00",
+      "keyword": "08月05日10:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
@@ -2838,7 +2822,7 @@
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
       "presenters": "张靖松 赵曦",
       "matchInfo": {
-        "time": "08���05日10:00"
+        "time": "08月05日10:00"
       },
       "nodes": [
         {
@@ -3028,6 +3012,30 @@
         {
           "pID": "966540531",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586691",
+      "pID": "966554944",
+      "title": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
+      "keyword": "08月05日16:50",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "晋超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
+      "pkInfoTitle": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
+      "modifyTitle": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月05日16:50"
+      },
+      "nodes": [
+        {
+          "pID": "966554944",
+          "name": "赛场原声"
         }
       ]
     },
@@ -4687,7 +4695,7 @@
     },
     {
       "mgdbId": "120000583101",
-      "pID": "966198634",
+      "pID": "966538262",
       "title": "男女单打资格赛第一轮",
       "keyword": "08月08日15:00",
       "sportItemId": "7",
@@ -4704,6 +4712,10 @@
       },
       "nodes": [
         {
+          "pID": "966538262",
+          "name": "徐儒叶 周泽昊"
+        },
+        {
           "pID": "966198634",
           "name": "2号桌"
         },
@@ -4714,10 +4726,6 @@
         {
           "pID": "966198653",
           "name": "4号桌"
-        },
-        {
-          "pID": "966538262",
-          "name": "徐儒叶 周泽昊"
         }
       ]
     },
@@ -4784,6 +4792,30 @@
         {
           "pID": "966484471",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586695",
+      "pID": "966555277",
+      "title": "山东省齐鲁足球超级联赛",
+      "keyword": "08月08日16:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586695/202608040940_616084_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
+      "pkInfoTitle": "德州古贝春VS滨州创新队",
+      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月08日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "966555277",
+          "name": "赛场原声"
         }
       ]
     },
@@ -4947,6 +4979,7 @@
     },
     {
       "mgdbId": "120000570611",
+      "pID": "966555686",
       "title": "中甲联赛",
       "keyword": "08月08日19:00",
       "sportItemId": "1",
@@ -4961,7 +4994,16 @@
       "matchInfo": {
         "time": "08月08日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555686",
+          "name": "解说"
+        },
+        {
+          "pID": "966555697",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000571903",
@@ -5166,7 +5208,7 @@
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577728/202605201057_676187_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
-      "pkInfoTitle": "黄��美尔雅vs天门衣尚",
+      "pkInfoTitle": "黄石美尔雅vs天门衣尚",
       "modifyTitle": "湖北省城市足球联赛",
       "presenters": "",
       "matchInfo": {
@@ -5205,6 +5247,7 @@
     },
     {
       "mgdbId": "120000570608",
+      "pID": "966555712",
       "title": "中甲联赛",
       "keyword": "08月08日19:30",
       "sportItemId": "1",
@@ -5219,10 +5262,20 @@
       "matchInfo": {
         "time": "08月08日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555712",
+          "name": "解说"
+        },
+        {
+          "pID": "966555720",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000570609",
+      "pID": "966555727",
       "title": "中甲联赛",
       "keyword": "08月08日19:30",
       "sportItemId": "1",
@@ -5237,10 +5290,20 @@
       "matchInfo": {
         "time": "08月08日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555727",
+          "name": "解说"
+        },
+        {
+          "pID": "966555735",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000570610",
+      "pID": "966555748",
       "title": "中甲联赛",
       "keyword": "08月08日19:30",
       "sportItemId": "1",
@@ -5255,7 +5318,16 @@
       "matchInfo": {
         "time": "08月08日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555748",
+          "name": "解说"
+        },
+        {
+          "pID": "966555769",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000571901",
@@ -5672,6 +5744,54 @@
       ]
     },
     {
+      "mgdbId": "120000586696",
+      "pID": "966555284",
+      "title": "山东省齐鲁足球超级联赛",
+      "keyword": "08月08日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586696/202608040940_699902_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
+      "pkInfoTitle": "泰安泰山城建队VS临沂队",
+      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月08日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966555284",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586697",
+      "pID": "966555291",
+      "title": "山东省齐鲁足球超级联赛",
+      "keyword": "08月08日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
+      "pkInfoTitle": "潍坊队VS济南队",
+      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月08日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966555291",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000569646",
       "title": "中超联赛",
       "keyword": "08月08日19:35",
@@ -5854,7 +5974,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "苏超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581988/202607020955_396720_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000581988/449174_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png",
       "pkInfoTitle": "无锡队vs盐城队",
       "modifyTitle": "苏超常规赛第16周",
@@ -5878,7 +5998,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "苏超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581989/202607020955_265391_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000581989/424245_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png",
       "pkInfoTitle": "泰州队vs连云港队",
       "modifyTitle": "苏超常规赛第16周",
@@ -5902,7 +6022,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "苏超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581990/202607020955_166658_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000581990/772486_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png",
       "pkInfoTitle": "徐州队vs常州队",
       "modifyTitle": "苏超常规赛第16周",
@@ -5937,6 +6057,7 @@
     },
     {
       "mgdbId": "120000570607",
+      "pID": "966555774",
       "title": "中甲联赛",
       "keyword": "08月08日20:00",
       "sportItemId": "1",
@@ -5951,7 +6072,16 @@
       "matchInfo": {
         "time": "08月08日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555774",
+          "name": "解说"
+        },
+        {
+          "pID": "966555797",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000586366",
@@ -6003,7 +6133,7 @@
     },
     {
       "mgdbId": "120000583102",
-      "pID": "966198696",
+      "pID": "966538266",
       "title": "男女单打资格赛第一轮",
       "keyword": "08月08日21:00",
       "sportItemId": "7",
@@ -6020,6 +6150,10 @@
       },
       "nodes": [
         {
+          "pID": "966538266",
+          "name": "张靖松"
+        },
+        {
           "pID": "966198696",
           "name": "2号桌"
         },
@@ -6030,10 +6164,6 @@
         {
           "pID": "966198733",
           "name": "4号桌"
-        },
-        {
-          "pID": "966538266",
-          "name": "张靖松"
         }
       ]
     },
@@ -6431,6 +6561,7 @@
     },
     {
       "mgdbId": "120000570606",
+      "pID": "966555812",
       "title": "中甲联赛",
       "keyword": "08月09日18:00",
       "sportItemId": "1",
@@ -6445,7 +6576,16 @@
       "matchInfo": {
         "time": "08月09日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555812",
+          "name": "解说"
+        },
+        {
+          "pID": "966555834",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000583543",
@@ -6539,6 +6679,7 @@
     },
     {
       "mgdbId": "120000570605",
+      "pID": "966555861",
       "title": "中甲联赛",
       "keyword": "08月09日19:00",
       "sportItemId": "1",
@@ -6553,7 +6694,16 @@
       "matchInfo": {
         "time": "08月09日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555861",
+          "name": "解说"
+        },
+        {
+          "pID": "966555868",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000585401",
@@ -6581,6 +6731,7 @@
     },
     {
       "mgdbId": "120000570604",
+      "pID": "966555874",
       "title": "中甲联赛",
       "keyword": "08月09日19:30",
       "sportItemId": "1",
@@ -6595,7 +6746,16 @@
       "matchInfo": {
         "time": "08月09日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966555874",
+          "name": "解说"
+        },
+        {
+          "pID": "966555886",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000571896",
@@ -6772,6 +6932,54 @@
       ]
     },
     {
+      "mgdbId": "120000586698",
+      "pID": "966555294",
+      "title": "山东省齐鲁足球超级联赛",
+      "keyword": "08月09日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586698/202608040940_975660_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
+      "pkInfoTitle": "枣庄丰源轮胎队VS东营队",
+      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月09日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966555294",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586699",
+      "pID": "966555297",
+      "title": "山东省齐鲁足球超级联赛",
+      "keyword": "08月09日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586699/202608040939_708591_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
+      "pkInfoTitle": "青岛平企联青春VS淄博齐稷锐思达",
+      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月09日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966555297",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000569643",
       "title": "中超联赛",
       "keyword": "08月09日19:35",
@@ -6929,7 +7137,7 @@
     },
     {
       "mgdbId": "120000583104",
-      "pID": "966198784",
+      "pID": "966537888",
       "title": "男女单打资格赛最终轮",
       "keyword": "08月09日23:00",
       "sportItemId": "7",
@@ -6946,6 +7154,10 @@
       },
       "nodes": [
         {
+          "pID": "966537888",
+          "name": "周泽昊"
+        },
+        {
           "pID": "966198784",
           "name": "2号桌"
         },
@@ -6956,10 +7168,6 @@
         {
           "pID": "966198812",
           "name": "4号桌"
-        },
-        {
-          "pID": "966537888",
-          "name": "周泽昊"
         }
       ]
     },
@@ -7100,6 +7308,10 @@
         {
           "pID": "966538314",
           "name": "朱子恒 程靖淇 周冠达"
+        },
+        {
+          "pID": "966555014",
+          "name": "英文解说"
         }
       ]
     },
