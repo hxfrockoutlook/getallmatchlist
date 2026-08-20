@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-21 00:14:53",
+  "updateTime": "2026-08-21 05:21:53",
   "data": [
     {
       "mgdbId": "120000585888",
@@ -893,7 +893,7 @@
     {
       "mgdbId": "120000590608",
       "pID": "966855776",
-      "title": "PPA斯凯奇深圳公开赛  Day 1",
+      "title": "PPA斯凯奇深���公开赛  Day 1",
       "keyword": "08月20日09:00",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -911,6 +911,10 @@
         {
           "pID": "966872064",
           "name": "全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "966889724",
+          "name": "全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -1013,6 +1017,10 @@
           "name": "【回放】胡珂源/林祥毅2-1伦加德/麦斯（余博洋）"
         },
         {
+          "pID": "966889589",
+          "name": "【回放】安东森2-1大波波夫（赛场原声）"
+        },
+        {
           "pID": "966872434",
           "name": "【全场回放】一号场地（AI字幕）（一）"
         },
@@ -1043,6 +1051,30 @@
         {
           "pID": "966885049",
           "name": "【全场回放】四号场地（赛场原声）（二）"
+        },
+        {
+          "pID": "966889814",
+          "name": "【全场回放】一号场地（AI字幕）（二）"
+        },
+        {
+          "pID": "966890079",
+          "name": "2026BWF羽毛球世锦赛Day4一号场地全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "966890083",
+          "name": "2026BWF羽毛球世锦赛Day4三号场地全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "966890126",
+          "name": "2026BWF羽毛球世锦赛Day4二号场地全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "966890227",
+          "name": "2026BWF羽毛球世锦赛Day4二号场地全场回放（英文原声）（二）"
+        },
+        {
+          "pID": "966890307",
+          "name": "2026BWF羽毛球世锦赛Day4一号场地全场回放（英文原声）（二）"
         }
       ]
     },
@@ -1139,6 +1171,10 @@
         {
           "pID": "966874546",
           "name": "2026贵州村超全国赛村超球场day13全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "966890112",
+          "name": "2026贵州村超全国赛村超球场day13全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -1330,7 +1366,7 @@
       "nodes": [
         {
           "pID": "966885032",
-          "name": "2026赛季CPB中国棒球城市联赛上海赛区全场回放：上海虎鲸1-3厦门海豚（官方解说）"
+          "name": "【全场回放】上海虎鲸1-3厦门海豚（官方解说）"
         }
       ]
     },
@@ -1406,7 +1442,7 @@
       "nodes": [
         {
           "pID": "966885271",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1416,29 +1452,25 @@
       "title": "辛辛那提站女单1/4决赛：阿尼西莫娃 vs 佩古拉",
       "keyword": "08月21日01:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/20/77KUDPMHP1U8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVB3GOS0R6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "阿尼西莫娃 vs 佩古拉",
       "modifyTitle": "辛辛那提站女单1/4决赛：阿尼西莫娃 vs 佩古拉",
-      "presenters": "房朕",
+      "presenters": "",
       "matchInfo": {
         "time": "08月21日01:00"
       },
       "nodes": [
         {
-          "pID": "966866094",
-          "name": "房朕"
+          "pID": "966890381",
+          "name": "全场回放（房朕）"
         },
         {
-          "pID": "966702127",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966702132",
-          "name": "英文原声"
+          "pID": "966890426",
+          "name": "全场回放"
         }
       ]
     },
@@ -1448,10 +1480,10 @@
       "title": "西甲联赛",
       "keyword": "08月21日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "巴列卡斯球场",
+      "matchStatus": "2",
+      "matchField": "布塔尔克市政球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586221/442519_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586221/238694_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "巴列卡诺 vs 阿拉维斯",
       "modifyTitle": "西甲联赛",
@@ -1603,7 +1635,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "攀岩系列赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDMFRMB5M.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
       "pkInfoTitle": "中国贵阳亚洲青年攀岩锦标赛DAY1",
       "modifyTitle": "中国贵阳亚洲青年攀岩锦标赛DAY1",
@@ -1621,16 +1653,16 @@
     {
       "mgdbId": "120000589740",
       "pID": "966778855",
-      "title": "羽毛球世锦赛1/4决赛",
+      "title": "国羽德比！凤凰大战星驰组合",
       "keyword": "08月21日13:00",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDO69KITL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "羽毛球世锦赛1/4决赛",
-      "modifyTitle": "2026羽毛球世锦赛1/4决赛",
+      "pkInfoTitle": "国羽德比！凤凰大战星驰组合",
+      "modifyTitle": "2026羽毛球世锦赛1/4决赛：国羽德比！凤凰大战星驰组合",
       "presenters": "",
       "matchInfo": {
         "time": "08月21日13:00"
@@ -1985,7 +2017,7 @@
       "keyword": "08月22日03:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "",
+      "matchField": "塞维利亚奥林匹克球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586220/306580_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
@@ -3361,7 +3393,7 @@
     {
       "mgdbId": "120000589846",
       "pID": "966818096",
-      "title": "蒙超联赛四分之一决赛 第二回合",
+      "title": "蒙超联赛四分之一决赛 第��回合",
       "keyword": "08月22日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -5060,7 +5092,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
       "pkInfoTitle": "西青VS和平",
-      "modifyTitle": "西��VS和平",
+      "modifyTitle": "西青VS和平",
       "presenters": "",
       "matchInfo": {
         "time": "08月23日18:00"
@@ -5892,11 +5924,15 @@
       "nodes": [
         {
           "pID": "966703090",
-          "name": "尹少坤"
+          "name": "尹��坤"
         },
         {
           "pID": "966708722",
           "name": "英文原声"
+        },
+        {
+          "pID": "966703090",
+          "name": "尹少坤"
         }
       ]
     },
@@ -7199,7 +7235,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000005171067c63b.png",
       "pkInfoTitle": "《白大拿挑战者系列赛》第10季3周",
-      "modifyTitle": "《白大拿��战者系列赛》第10季3周",
+      "modifyTitle": "《白大拿挑战者系列赛》第10季3周",
       "presenters": "",
       "matchInfo": {
         "time": "08月26日07:00"
