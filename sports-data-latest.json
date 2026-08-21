@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-22 00:16:36",
+  "updateTime": "2026-08-22 05:21:34",
   "data": [
     {
       "mgdbId": "120000586222",
@@ -891,6 +891,10 @@
         {
           "pID": "966907984",
           "name": "2026PPA斯凯奇深圳公开赛Day2全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "966908917",
+          "name": "2026PPA斯凯奇深圳公开赛Day2全场回放（赛场原声）（三）"
         }
       ]
     },
@@ -991,6 +995,14 @@
         {
           "pID": "966907378",
           "name": "【全场回放】一号场地（AI字幕）（二）"
+        },
+        {
+          "pID": "966909079",
+          "name": "2026BWF羽毛球世锦赛Day5二号场地全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "966909188",
+          "name": "2026BWF羽毛球世锦赛Day5二号场地全场回放（英文原声）（二）"
         }
       ]
     },
@@ -1063,6 +1075,10 @@
         {
           "pID": "966908431",
           "name": "2026贵州村超全国赛村超球场day14全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "966909322",
+          "name": "2026贵州村超全国赛村超球场day14全场回放（赛场原声）（三）"
         }
       ]
     },
@@ -1263,15 +1279,15 @@
     {
       "mgdbId": "120000590087",
       "pID": "966853281",
-      "title": "ONE周五格斗夜167：德杜安莱克VS康苏克",
+      "title": "康苏克判定胜德杜安莱克 盛一洋TKO竹添翔太",
       "keyword": "08月21日21:30",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ONE冠军赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/20/77KUFFSITHAO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0ASPHTBGD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
-      "pkInfoTitle": "ONE周五格斗夜167：德杜安莱克VS康苏克",
+      "pkInfoTitle": "康苏克判定胜德杜安莱克 盛一洋TKO竹添翔太",
       "modifyTitle": "ONE周五格斗夜167：德杜安莱克VS康苏克",
       "presenters": "陈瑞阳",
       "matchInfo": {
@@ -1279,25 +1295,61 @@
       },
       "nodes": [
         {
-          "pID": "966853281",
-          "name": "陈瑞阳"
+          "pID": "966907376",
+          "name": "盛一洋VS竹添翔太"
         },
         {
-          "pID": "966853331",
-          "name": "英文原声"
+          "pID": "966908993",
+          "name": "全场回放（陈瑞阳）"
+        },
+        {
+          "pID": "966908904",
+          "name": "德杜安莱克VS康苏克"
+        },
+        {
+          "pID": "966908898",
+          "name": "约基里VS基纳尼"
+        },
+        {
+          "pID": "966908360",
+          "name": "卡尊克菜VS特瓦达勒"
+        },
+        {
+          "pID": "966908128",
+          "name": "佩特加菲尔德VS内帕亚克"
+        },
+        {
+          "pID": "966907989",
+          "name": "巴尔托斯卡VS希尔"
+        },
+        {
+          "pID": "966907813",
+          "name": "佩詹VS皮耶罗潘"
+        },
+        {
+          "pID": "966907470",
+          "name": "阿利耶夫VS罗司"
+        },
+        {
+          "pID": "966909164",
+          "name": "ONE周五格斗夜167全场回放（英文原声）"
+        },
+        {
+          "pID": "966909388",
+          "name": "ONE周五格斗夜167全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000587620",
-      "pID": "966702143",
+      "pID": "966895532",
       "title": "WTA1000辛辛那提站女单1/4决赛：贝莱克 vs 凯斯",
       "keyword": "08月22日01:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDC355UMS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0892RQPGJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "贝莱克 vs 凯斯",
       "modifyTitle": "WTA1000辛辛那提站女单1/4决赛：贝莱克 vs 凯斯",
@@ -1307,16 +1359,8 @@
       },
       "nodes": [
         {
-          "pID": "966895517",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "966702143",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966702158",
-          "name": "英文原声"
+          "pID": "966910330",
+          "name": "全场回放（郭丰庆）"
         }
       ]
     },
@@ -1326,10 +1370,10 @@
       "title": "法甲联赛",
       "keyword": "08月22日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "韦洛德罗姆球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584518/217357_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L08HTFJ3HO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "马赛 vs 斯特拉斯堡",
       "modifyTitle": "法甲联赛",
@@ -1354,10 +1398,10 @@
       "title": "英超联赛",
       "keyword": "08月22日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "酋长球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000583902/482930_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000583902/750532_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "阿森纳 vs 考文垂",
       "modifyTitle": "英超联赛",
@@ -1386,10 +1430,10 @@
       "title": "西甲联赛",
       "keyword": "08月22日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "塞维利亚奥林匹克球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586220/306580_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L08J89KIFR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "皇家贝蒂斯 vs 皇家社会",
       "modifyTitle": "西甲联赛",
@@ -1605,7 +1649,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587068/202608060431_749381_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0APQB9CCE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
       "pkInfoTitle": "河南豫光金铅 VS 陕西榆林天泽",
       "modifyTitle": "全国女子篮球锦标赛小组赛阶段",
@@ -1821,7 +1865,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587062/202608060441_689840_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0AQ04IASG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
       "pkInfoTitle": "武汉盛帆黄鹤 VS 上海交通大学",
       "modifyTitle": "全国女子篮球锦标赛小组赛阶段",
@@ -2013,7 +2057,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0AQ9CGML6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
       "pkInfoTitle": "黑龙江队 VS 赣州章贡赣星",
       "modifyTitle": "全国女子篮球锦标赛小组赛阶段",
@@ -6702,7 +6746,7 @@
         },
         {
           "pID": "966835340",
-          "name": "5号球场"
+          "name": "5��球场"
         },
         {
           "pID": "966835446",
@@ -6751,6 +6795,10 @@
         {
           "pID": "966868957",
           "name": "国际信号"
+        },
+        {
+          "pID": "966835340",
+          "name": "5号球场"
         }
       ]
     },
@@ -7079,7 +7127,7 @@
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590059/202608180530_406317_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
-      "pkInfoTitle": "赣州章贡赣星 VS 新��天山",
+      "pkInfoTitle": "赣州章贡赣星 VS 新疆天山",
       "modifyTitle": "全国女子篮球锦标赛小组赛阶段",
       "presenters": "",
       "matchInfo": {
