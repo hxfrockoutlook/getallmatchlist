@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-22 05:21:34",
+  "updateTime": "2026-08-22 14:23:00",
   "data": [
     {
       "mgdbId": "120000586222",
@@ -973,20 +973,12 @@
           "name": "【全场回放】一号场地（赛场原声）（二）"
         },
         {
-          "pID": "966902184",
-          "name": "【全场回放】二号场地（赛场原声）（一）"
-        },
-        {
           "pID": "966901435",
           "name": "【全场回放】一号场地（英文原声）（一）"
         },
         {
           "pID": "966908276",
           "name": "【全场回放】一号场地（英文原声）（二）"
-        },
-        {
-          "pID": "966902213",
-          "name": "【全场回放】二号场地（英文原声）（一）"
         },
         {
           "pID": "966901230",
@@ -997,12 +989,20 @@
           "name": "【全场回放】一号场地（AI字幕）（二）"
         },
         {
+          "pID": "966902184",
+          "name": "【全场回放】二号场地（赛场原声）（一）"
+        },
+        {
           "pID": "966909079",
-          "name": "2026BWF羽毛球世锦赛Day5二号场地全场回放（赛场原声）（二）"
+          "name": "【全场回放】二号场地（赛场原声）（二）"
+        },
+        {
+          "pID": "966902213",
+          "name": "【全场回放】二号场地（英文原声）（一）"
         },
         {
           "pID": "966909188",
-          "name": "2026BWF羽毛球世锦赛Day5二号场地全场回放（英文原声）（二）"
+          "name": "【全场回放】二号场地（英文原声）（二）"
         }
       ]
     },
@@ -1074,11 +1074,11 @@
       "nodes": [
         {
           "pID": "966908431",
-          "name": "2026贵州村超全国赛村超球场day14全场回放（赛场原声）（一）"
+          "name": "全场回放（一）"
         },
         {
           "pID": "966909322",
-          "name": "2026贵州村超全国赛村超球场day14全场回放（赛场原声）（三）"
+          "name": "全场回放（二）"
         }
       ]
     },
@@ -1361,6 +1361,14 @@
         {
           "pID": "966910330",
           "name": "全场回放（郭丰庆）"
+        },
+        {
+          "pID": "966911016",
+          "name": "全场回放（赛场原声）"
+        },
+        {
+          "pID": "966910660",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -1383,12 +1391,12 @@
       },
       "nodes": [
         {
-          "pID": "966869113",
-          "name": "刘一臻"
+          "pID": "966911286",
+          "name": "全场回放（刘一臻）"
         },
         {
-          "pID": "966869100",
-          "name": "赛场原声"
+          "pID": "966911087",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1411,16 +1419,12 @@
       },
       "nodes": [
         {
-          "pID": "966871434",
-          "name": "苏东 徐阳 林梦鸽"
+          "pID": "966911081",
+          "name": "全场集锦"
         },
         {
-          "pID": "966871464",
-          "name": "4K赛场原声"
-        },
-        {
-          "pID": "966871439",
-          "name": "英文原声"
+          "pID": "966911163",
+          "name": "全场回放（苏东、徐阳、林梦鸽）"
         }
       ]
     },
@@ -1443,12 +1447,12 @@
       },
       "nodes": [
         {
-          "pID": "966868831",
-          "name": "兰子非"
+          "pID": "966911168",
+          "name": "全场集锦"
         },
         {
-          "pID": "966868829",
-          "name": "赛场原声"
+          "pID": "966911134",
+          "name": "全场回放（兰子非）"
         }
       ]
     },
@@ -1457,7 +1461,7 @@
       "pID": "966490131",
       "title": "咪咕体育日报 第157期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -1473,68 +1477,12 @@
       ]
     },
     {
-      "mgdbId": "120000590669",
-      "pID": "966870416",
-      "title": "单打半决赛、决赛、团体赛第一阶段",
-      "keyword": "08月22日08:30",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVBC2EQ4RD.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "单打半决赛、决赛、团体赛第一阶段",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛甘肃白银站单打半决赛、决赛、团体赛第一阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月22日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966870416",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000590762",
-      "pID": "966895551",
-      "title": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
-      "keyword": "08月22日08:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDDS1SDTG.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "高芙 vs 科斯秋克",
-      "modifyTitle": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
-      "presenters": "乔迁",
-      "matchInfo": {
-        "time": "08月22日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966895559",
-          "name": "乔迁"
-        },
-        {
-          "pID": "966895551",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966702158",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000590610",
       "pID": "966855791",
       "title": "PPA斯凯奇深圳公开赛  Day 3",
       "keyword": "08月22日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "PPA亚洲职业匹克球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVCSJTDAH9.jpeg",
@@ -1553,47 +1501,87 @@
       ]
     },
     {
-      "mgdbId": "120000589993",
-      "pID": "966821232",
-      "title": "中国贵阳亚洲青年攀岩锦标赛DAY2",
+      "mgdbId": "120000590762",
+      "pID": "966895551",
+      "title": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
+      "keyword": "08月22日09:30",
+      "sportItemId": "9",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDDS1SDTG.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "高芙 vs 科斯秋克",
+      "modifyTitle": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
+      "presenters": "乔迁",
+      "matchInfo": {
+        "time": "08月22日09:30"
+      },
+      "nodes": [
+        {
+          "pID": "966913778",
+          "name": "全场回放（乔迁）"
+        },
+        {
+          "pID": "966914024",
+          "name": "全场回放（赛场原声）"
+        },
+        {
+          "pID": "966914033",
+          "name": "全场回放（英文原声）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590676",
+      "pID": "966872266",
+      "title": "全国少年体操U系列冠军赛Day1",
       "keyword": "08月22日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDFDAN8MF.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "中国贵阳亚洲青年攀岩锦标赛DAY2",
-      "modifyTitle": "中国贵阳亚洲青年攀岩锦标赛DAY2",
+      "competitionName": "全国青少年体操U系列锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L09J5L6AFD.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
+      "pkInfoTitle": "全国少年体操U系列冠军赛Day1",
+      "modifyTitle": "全国少年体操U系列冠军赛Day1",
       "presenters": "",
       "matchInfo": {
         "time": "08月22日10:00"
       },
       "nodes": [
         {
-          "pID": "966821232",
-          "name": "解说"
+          "pID": "966872266",
+          "name": "下午场"
         }
       ]
     },
     {
       "mgdbId": "120000589741",
-      "pID": "966778910",
+      "pID": "966891812",
       "title": "半决赛来袭！王祉怡、梁王组合领衔",
       "keyword": "08月22日13:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVD7G375RN.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07HV95G1L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "半决赛来袭！王祉怡、梁王组合领衔",
       "modifyTitle": "2026羽毛球世锦赛半决赛：半决赛来袭！王祉怡、梁王组合领衔",
-      "presenters": "",
+      "presenters": "鸿昆 高昉洁 杜玥",
       "matchInfo": {
         "time": "08月22日13:00"
       },
       "nodes": [
+        {
+          "pID": "966891812",
+          "name": "解说"
+        },
+        {
+          "pID": "966891845",
+          "name": "明星视角"
+        },
         {
           "pID": "966778910",
           "name": "1号场地"
@@ -1605,14 +1593,6 @@
         {
           "pID": "966804438",
           "name": "智能字幕"
-        },
-        {
-          "pID": "966891812",
-          "name": "解说"
-        },
-        {
-          "pID": "966891845",
-          "name": "明星视角"
         }
       ]
     },
@@ -1622,7 +1602,7 @@
       "title": "围甲联赛第12轮",
       "keyword": "08月22日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDFHJEF4H.png",
@@ -1646,7 +1626,7 @@
       "title": "全国女子篮球锦标赛小组赛阶段",
       "keyword": "08月22日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0APQB9CCE.jpg",
@@ -1661,6 +1641,30 @@
         {
           "pID": "966832619",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590669",
+      "pID": "966870416",
+      "title": "单打半决赛、决赛、团体赛第一阶段",
+      "keyword": "08月22日14:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVBC2EQ4RD.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "单打半决赛、决赛、团体赛第一阶段",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛甘肃白银站单打半决赛、决赛、团体赛第一阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月22日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "966870416",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2081,7 +2085,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L09TVI8JVB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：湖人vs掘金",
       "modifyTitle": "NBA经典赛事",
@@ -2517,6 +2521,30 @@
       ]
     },
     {
+      "mgdbId": "120000589993",
+      "pID": "966821232",
+      "title": "中国贵阳亚洲青年攀岩锦标赛DAY2",
+      "keyword": "08月22日19:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDFDAN8MF.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "中国贵阳亚洲青年攀岩锦标赛DAY2",
+      "modifyTitle": "中国贵阳亚洲青年攀岩锦标赛DAY2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月22日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966821232",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000590000",
       "pID": "966853279",
       "title": "觉城之夜N122：哈斯铁尔VS罗纳德",
@@ -2525,7 +2553,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "JCK",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07NCSSDII.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png",
       "pkInfoTitle": "觉城之夜N122：哈斯铁尔VS罗纳德",
       "modifyTitle": "JCK觉城之夜N122：哈斯铁尔VS罗纳德",
@@ -3669,7 +3697,7 @@
       "matchStatus": "0",
       "matchField": "波莱蒂德勒利斯体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584519/874213_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07MCHGCCI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "朗斯 vs 欧塞尔",
       "modifyTitle": "法甲联赛",
@@ -3789,7 +3817,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0A9JTTHAD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "BIG3 全明星赛",
       "modifyTitle": "BIG3",
@@ -3845,7 +3873,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590666/202608201445_757849_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0AA2EDA0J.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "达拉斯动力VS波士顿球霸",
       "modifyTitle": "BIG3",
@@ -3861,6 +3889,38 @@
         {
           "pID": "966869379",
           "name": "英文原声"
+        },
+        {
+          "pID": "966912764",
+          "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590800",
+      "pID": "966912493",
+      "title": "德超杯决赛",
+      "keyword": "08月23日02:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "多特蒙德球场",
+      "competitionName": "德超杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590800/458428_H169_sc.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/8/12/183106c454f.png",
+      "pkInfoTitle": "多特蒙德 vs 拜仁慕尼黑",
+      "modifyTitle": "德超杯决赛",
+      "presenters": "胡小凡 张力 秦游夏",
+      "matchInfo": {
+        "time": "08月23日02:30"
+      },
+      "nodes": [
+        {
+          "pID": "966912493",
+          "name": "胡小凡 张力 秦游夏"
+        },
+        {
+          "pID": "966912585",
+          "name": "赛场原声"
         }
       ]
     },
@@ -4035,16 +4095,16 @@
     {
       "mgdbId": "120000587621",
       "pID": "966702185",
-      "title": "女单半决赛",
+      "title": "WTA1000辛辛那提站女单半决赛：佩古拉 vs 斯瓦泰克",
       "keyword": "08月23日03:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07IN4VLF4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "女单半决赛",
-      "modifyTitle": "WTA1000辛辛那提站女单半决赛",
+      "pkInfoTitle": "佩古拉 vs 斯瓦泰克",
+      "modifyTitle": "WTA1000辛辛那提站女单半决赛：佩古拉 vs 斯瓦泰克",
       "presenters": "",
       "matchInfo": {
         "time": "08月23日03:00"
@@ -4163,6 +4223,30 @@
       ]
     },
     {
+      "mgdbId": "120000590848",
+      "pID": "966702202",
+      "title": "WTA1000辛辛那提站女单半决赛：贝莱克 vs 高芙",
+      "keyword": "08月23日07:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07IQ9E9G8.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "贝莱克 vs 高芙",
+      "modifyTitle": "WTA1000辛辛那提站女单半决赛：贝莱克 vs 高芙",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月23日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "966702202",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000002251",
       "pID": "966490177",
       "title": "咪咕体育日报 第158期",
@@ -4239,7 +4323,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "PPA亚洲职业匹克球巡回赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L09TJRQ1K2.jpeg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/19/100000001492106224ee.jpg",
       "pkInfoTitle": "PPA斯凯奇深圳公开赛  Day 4",
       "modifyTitle": "PPA斯凯奇深圳公开赛  Day 4",
@@ -4256,7 +4340,7 @@
     },
     {
       "mgdbId": "120000589961",
-      "pID": "966819784",
+      "pID": "966851260",
       "title": "江俊、高阳出战",
       "keyword": "08月23日09:30",
       "sportItemId": "8",
@@ -4273,6 +4357,10 @@
       },
       "nodes": [
         {
+          "pID": "966851260",
+          "name": "陶哲铭"
+        },
+        {
           "pID": "966819784",
           "name": "1号桌"
         },
@@ -4287,16 +4375,12 @@
         {
           "pID": "966819843",
           "name": "4号桌"
-        },
-        {
-          "pID": "966851260",
-          "name": "陶哲铭"
         }
       ]
     },
     {
       "mgdbId": "120000589962",
-      "pID": "966819852",
+      "pID": "966851301",
       "title": "肖国栋vs王信伯 韦克林出战",
       "keyword": "08月23日14:00",
       "sportItemId": "8",
@@ -4313,6 +4397,14 @@
       },
       "nodes": [
         {
+          "pID": "966851301",
+          "name": "乔迁"
+        },
+        {
+          "pID": "966913201",
+          "name": "1号桌"
+        },
+        {
           "pID": "966819857",
           "name": "2号桌"
         },
@@ -4323,10 +4415,6 @@
         {
           "pID": "966819876",
           "name": "4号桌"
-        },
-        {
-          "pID": "966851301",
-          "name": "乔迁"
         }
       ]
     },
@@ -5108,8 +5196,8 @@
     },
     {
       "mgdbId": "120000589963",
-      "pID": "966819882",
-      "title": "丁俊晖、小特、希金斯出战",
+      "pID": "966852074",
+      "title": "丁俊晖、特鲁姆普出战",
       "keyword": "08月23日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -5117,13 +5205,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/19/77KTILOT7BBG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "丁俊晖、小特、希金斯出战",
-      "modifyTitle": "斯诺克武汉公开赛64进32轮次晚场：丁俊晖、小特、希金斯出战",
+      "pkInfoTitle": "丁俊晖、特鲁姆普出战",
+      "modifyTitle": "斯诺克武汉公开赛64进32轮次晚场：丁俊晖、特鲁姆普出战",
       "presenters": "柏林",
       "matchInfo": {
         "time": "08月23日19:30"
       },
       "nodes": [
+        {
+          "pID": "966852074",
+          "name": "柏林"
+        },
         {
           "pID": "966819882",
           "name": "1号桌"
@@ -5139,10 +5231,6 @@
         {
           "pID": "966819910",
           "name": "4号桌"
-        },
-        {
-          "pID": "966852074",
-          "name": "柏林"
         }
       ]
     },
@@ -5155,7 +5243,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590060/202608180531_822737_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07LAP5O81.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
       "pkInfoTitle": "赣州章贡赣星 VS 福建金篮",
       "modifyTitle": "全国女子篮球锦标赛小组赛阶段",
@@ -5851,6 +5939,34 @@
       ]
     },
     {
+      "mgdbId": "120000590761",
+      "pID": "966892648",
+      "title": "Day1",
+      "keyword": "08月24日09:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "Day1",
+      "modifyTitle": "WTA500蒙特雷站Day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月24日09:30"
+      },
+      "nodes": [
+        {
+          "pID": "966892648",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966892660",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000587057",
       "pID": "966832596",
       "title": "全国女子篮球锦标赛小组赛阶段",
@@ -6027,7 +6143,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "32进16轮次晚场",
       "modifyTitle": "斯诺克武汉公开赛32进16轮次晚场",
-      "presenters": "柏林",
+      "presenters": "柏林 孙嘉星",
       "matchInfo": {
         "time": "08月24日19:30"
       },
@@ -6051,6 +6167,10 @@
         {
           "pID": "966852170",
           "name": "柏林"
+        },
+        {
+          "pID": "966913218",
+          "name": "孙嘉星"
         }
       ]
     },
@@ -6331,6 +6451,34 @@
       ]
     },
     {
+      "mgdbId": "120000590763",
+      "pID": "966892566",
+      "title": "Day2",
+      "keyword": "08月25日05:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "Day2",
+      "modifyTitle": "WTA500蒙特雷站Day2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月25日05:00"
+      },
+      "nodes": [
+        {
+          "pID": "966892566",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966892699",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000589996",
       "pID": "966821316",
       "title": "中国贵阳亚洲青年攀岩锦标赛DAY5",
@@ -6387,7 +6535,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "32进16轮次早场",
       "modifyTitle": "斯诺克武汉公开赛32进16轮次早场",
-      "presenters": "孙嘉星",
+      "presenters": "孙嘉星 朱峰立",
       "matchInfo": {
         "time": "08月25日09:30"
       },
@@ -6411,6 +6559,10 @@
         {
           "pID": "966852183",
           "name": "孙嘉星"
+        },
+        {
+          "pID": "966913222",
+          "name": "朱峰立"
         }
       ]
     },
@@ -6451,7 +6603,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "32进16轮次下午场",
       "modifyTitle": "斯诺克武汉公开赛32进16轮次下午场",
-      "presenters": "朱峰立",
+      "presenters": "朱峰立 乔迁",
       "matchInfo": {
         "time": "08月25日14:00"
       },
@@ -6475,6 +6627,10 @@
         {
           "pID": "966852221",
           "name": "朱峰立"
+        },
+        {
+          "pID": "966913232",
+          "name": "乔迁"
         }
       ]
     },
@@ -6601,7 +6757,7 @@
     {
       "mgdbId": "120000587539",
       "pID": "966701969",
-      "title": "福州海侠VS深圳蓝袜",
+      "title": "��州海侠VS深圳蓝袜",
       "keyword": "08月25日18:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -6635,7 +6791,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "32进16轮次晚场",
       "modifyTitle": "斯诺克武汉公开赛32进16轮次晚场",
-      "presenters": "乔迁",
+      "presenters": "乔迁 秦正",
       "matchInfo": {
         "time": "08月25日19:30"
       },
@@ -6659,6 +6815,10 @@
         {
           "pID": "966852272",
           "name": "乔迁"
+        },
+        {
+          "pID": "966913234",
+          "name": "秦正"
         }
       ]
     },
@@ -6746,7 +6906,7 @@
         },
         {
           "pID": "966835340",
-          "name": "5��球场"
+          "name": "5号球场"
         },
         {
           "pID": "966835446",
@@ -6795,10 +6955,6 @@
         {
           "pID": "966868957",
           "name": "国际信号"
-        },
-        {
-          "pID": "966835340",
-          "name": "5号球场"
         }
       ]
     },
@@ -6827,6 +6983,34 @@
         {
           "pID": "966869461",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590764",
+      "pID": "966892597",
+      "title": "Day3",
+      "keyword": "08月26日05:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "Day3",
+      "modifyTitle": "WTA500蒙特雷站Day3",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月26日05:00"
+      },
+      "nodes": [
+        {
+          "pID": "966892597",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966892708",
+          "name": "英文原声"
         }
       ]
     },
@@ -6929,7 +7113,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "16进8轮次下午场",
       "modifyTitle": "斯诺克武汉公开赛16进8轮次下午场",
-      "presenters": "朱峰立",
+      "presenters": "朱峰立 陶哲铭",
       "matchInfo": {
         "time": "08月26日14:00"
       },
@@ -6953,6 +7137,10 @@
         {
           "pID": "966852527",
           "name": "朱峰立"
+        },
+        {
+          "pID": "966913242",
+          "name": "陶哲铭"
         }
       ]
     },
@@ -7089,7 +7277,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "16进8轮次晚场",
       "modifyTitle": "斯诺克武汉公开赛16进8轮次晚场",
-      "presenters": "柏林",
+      "presenters": "柏林 秦正",
       "matchInfo": {
         "time": "08月26日19:30"
       },
@@ -7113,6 +7301,10 @@
         {
           "pID": "966852539",
           "name": "柏林"
+        },
+        {
+          "pID": "966913246",
+          "name": "秦正"
         }
       ]
     },
@@ -7273,6 +7465,34 @@
         {
           "pID": "966869500",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590765",
+      "pID": "966892607",
+      "title": "Day4",
+      "keyword": "08月27日05:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "Day4",
+      "modifyTitle": "WTA500蒙特雷站Day4",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月27日05:00"
+      },
+      "nodes": [
+        {
+          "pID": "966892607",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966892720",
+          "name": "英文原声"
         }
       ]
     },
@@ -7819,6 +8039,34 @@
       ]
     },
     {
+      "mgdbId": "120000590766",
+      "pID": "966892621",
+      "title": "女单1/4决赛",
+      "keyword": "08月28日05:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "女单1/4决赛",
+      "modifyTitle": "WTA500蒙特雷站女单1/4决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月28日05:00"
+      },
+      "nodes": [
+        {
+          "pID": "966892621",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966892723",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000589799",
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日06:10",
@@ -8274,7 +8522,7 @@
     },
     {
       "mgdbId": "120000589785",
-      "title": "男篮世预赛亚洲赛区",
+      "title": "��篮世预赛亚洲赛区",
       "keyword": "08月28日20:30",
       "sportItemId": "2",
       "matchStatus": "0",
