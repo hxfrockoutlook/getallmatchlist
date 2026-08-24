@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 00:16:33",
+  "updateTime": "2026-08-25 05:22:14",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -922,11 +922,11 @@
       "nodes": [
         {
           "pID": "966943423",
-          "name": "2026全国少年体操U系列冠军赛Day2全场回放（一）"
+          "name": "全场回放（赛场原声）（一）"
         },
         {
           "pID": "966951855",
-          "name": "2026全国少年体操U系列冠军赛Day2全场回放（赛场原声）（二）"
+          "name": "全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -1030,7 +1030,7 @@
       "mgdbId": "120000587535",
       "pID": "966940880",
       "title": "上海虎鲸5-1长沙旺旺",
-      "keyword": "08���23日16:30",
+      "keyword": "08月23日16:30",
       "sportItemId": "8",
       "matchStatus": "2",
       "matchField": "",
@@ -1041,7 +1041,7 @@
       "modifyTitle": "CPB中国棒球城市联赛：上海虎鲸5-1长沙旺旺",
       "presenters": "",
       "matchInfo": {
-        "time": "08���23日16:30"
+        "time": "08月23日16:30"
       },
       "nodes": [
         {
@@ -2638,7 +2638,7 @@
         },
         {
           "pID": "966973245",
-          "name": "2026全国少年体操U系列冠军赛Day3全场回放（赛场原声）（二）"
+          "name": "全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -2842,7 +2842,7 @@
         },
         {
           "pID": "966974388",
-          "name": "【回放】肖国栋5-2杰克逊·佩奇���蔡剑忠）"
+          "name": "【回放】肖国栋5-2杰克逊·佩奇（蔡剑忠）"
         },
         {
           "pID": "966974395",
@@ -2937,7 +2937,7 @@
     {
       "mgdbId": "120000590088",
       "pID": "966834678",
-      "title": "瓦舍罗出战混双 郑钦文领衔资格赛首轮",
+      "title": "郑钦文挺进资格赛次轮！马烨欣止步",
       "keyword": "08月24日23:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -2945,20 +2945,16 @@
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24M0N4KQB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "瓦舍罗出战混双 郑钦文领衔资格赛首轮",
-      "modifyTitle": "美国网球公开赛资格赛及混双Day1：瓦舍罗出战混双 郑钦文领衔资格赛首轮",
-      "presenters": "李宁 鸿昆 蔡凯臣 宋光振 刘钟鸣",
+      "pkInfoTitle": "郑钦文挺进资格赛次轮！马烨欣止步",
+      "modifyTitle": "美国网球公开赛资格赛及混双Day1：郑钦文挺进资格赛次轮！马烨欣遗憾止步",
+      "presenters": "蔡凯臣 宋光振",
       "matchInfo": {
         "time": "08月24日23:00"
       },
       "nodes": [
         {
-          "pID": "966966652",
-          "name": "郑钦文VS尤晓迪(李宁)"
-        },
-        {
-          "pID": "966966641",
-          "name": "比雷尔VS马烨欣(鸿昆)"
+          "pID": "966966635",
+          "name": "波鲁达VS朱琳(蔡凯臣)"
         },
         {
           "pID": "966834678",
@@ -3025,16 +3021,8 @@
           "name": "国际信号"
         },
         {
-          "pID": "966966635",
-          "name": "波鲁达VS朱琳(蔡凯臣)"
-        },
-        {
           "pID": "966966619",
           "name": "默勒VS黄泽林(宋光振)"
-        },
-        {
-          "pID": "966966601",
-          "name": "坂本怜VS张之臻(刘钟鸣)"
         }
       ]
     },
@@ -3044,25 +3032,25 @@
       "title": "美国网球公开赛女单资格赛第一轮：郑钦文 vs 尤晓迪",
       "keyword": "08月24日23:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L2471GULPR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "郑钦文 vs 尤晓迪",
       "modifyTitle": "美国网球公开赛女单资格赛第一轮：郑钦文 vs 尤晓迪",
-      "presenters": "李宁",
+      "presenters": "",
       "matchInfo": {
         "time": "08月24日23:00"
       },
       "nodes": [
         {
-          "pID": "966966652",
-          "name": "李宁"
+          "pID": "966975452",
+          "name": "全场回放（李宁）"
         },
         {
-          "pID": "966970431",
-          "name": "赛场原声"
+          "pID": "966975460",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -3072,25 +3060,25 @@
       "title": "美国网球公开赛女单资格赛第一轮：布蕾尔​​ vs 马烨欣",
       "keyword": "08月24日23:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24Q1QK0PC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "布蕾尔​​ vs 马烨欣",
       "modifyTitle": "美国网球公开赛女单资格赛第一轮：布蕾尔​​ vs 马烨欣",
-      "presenters": "鸿昆",
+      "presenters": "",
       "matchInfo": {
         "time": "08月24日23:00"
       },
       "nodes": [
         {
-          "pID": "966966641",
-          "name": "鸿昆"
+          "pID": "966975400",
+          "name": "【回放】全场回放（鸿昆）"
         },
         {
-          "pID": "966970449",
-          "name": "赛场原声"
+          "pID": "966975421",
+          "name": "【回放】比雷尔2-0马烨欣（赛场原声）"
         }
       ]
     },
@@ -3100,10 +3088,10 @@
       "title": "意甲联赛",
       "keyword": "08月25日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "达尔阿拉球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L23POATMFV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584900/737950_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "博洛尼亚 vs 拉齐奥",
       "modifyTitle": "意甲联赛",
@@ -3113,12 +3101,12 @@
       },
       "nodes": [
         {
-          "pID": "966868913",
-          "name": "涂远"
+          "pID": "966976084",
+          "name": "全场集锦"
         },
         {
-          "pID": "966868909",
-          "name": "赛场原声"
+          "pID": "966976291",
+          "name": "全场回放（涂远）"
         }
       ]
     },
@@ -3128,10 +3116,10 @@
       "title": "西甲联赛",
       "keyword": "08月25日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "纳瓦拉王国球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586214/637785_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586214/817378_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "奥萨苏纳 vs 莱万特",
       "modifyTitle": "西甲联赛",
@@ -3141,40 +3129,12 @@
       },
       "nodes": [
         {
-          "pID": "966869059",
-          "name": "梁祥宇"
+          "pID": "966976310",
+          "name": "全场集锦"
         },
         {
-          "pID": "966869046",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591073",
-      "pID": "966970465",
-      "title": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
-      "keyword": "08月25日02:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R37JV8G.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "波鲁达 vs 朱琳",
-      "modifyTitle": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
-      "presenters": "蔡凯臣",
-      "matchInfo": {
-        "time": "08月25日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "966966635",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "966970465",
-          "name": "赛场原声"
+          "pID": "966976323",
+          "name": "全场回放（梁祥宇）"
         }
       ]
     },
@@ -3184,10 +3144,10 @@
       "title": "意甲联赛",
       "keyword": "08月25日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/19/77KTHNMC2M2G.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/25/77L2VS9H11T9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "罗马 vs 佛罗伦萨",
       "modifyTitle": "意甲联赛",
@@ -3212,10 +3172,10 @@
       "title": "英超联赛",
       "keyword": "08月25日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "克拉文农场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584273/180152_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584273/903244_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "富勒姆 vs 切尔西",
       "modifyTitle": "英超联赛",
@@ -3229,16 +3189,16 @@
           "name": "兰子非 贺宇"
         },
         {
-          "pID": "966871802",
-          "name": "赛场原声"
-        },
-        {
           "pID": "966871818",
           "name": "英文原声"
         },
         {
           "pID": "966915604",
           "name": "智能解说"
+        },
+        {
+          "pID": "966871802",
+          "name": "赛场原声"
         }
       ]
     },
@@ -3248,7 +3208,7 @@
       "title": "西甲联赛",
       "keyword": "08月25日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "玫瑰园球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586213/366290_H169_sc.jpg",
@@ -3271,29 +3231,29 @@
       ]
     },
     {
-      "mgdbId": "120000591074",
-      "pID": "966970474",
-      "title": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
-      "keyword": "08月25日03:30",
+      "mgdbId": "120000591073",
+      "pID": "966970465",
+      "title": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
+      "keyword": "08月25日03:44",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R5KUS75.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R37JV8G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "黄泽林 vs 默勒",
-      "modifyTitle": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
-      "presenters": "宋光振",
+      "pkInfoTitle": "波鲁达 vs 朱琳",
+      "modifyTitle": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
+      "presenters": "蔡凯臣",
       "matchInfo": {
-        "time": "08月25日03:30"
+        "time": "08月25日03:44"
       },
       "nodes": [
         {
-          "pID": "966966619",
-          "name": "宋光振"
+          "pID": "966966635",
+          "name": "蔡凯臣"
         },
         {
-          "pID": "966970474",
+          "pID": "966970465",
           "name": "赛场原声"
         }
       ]
@@ -3304,7 +3264,7 @@
       "title": "李吉妮、曾丽美领衔出战",
       "keyword": "08月25日05:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L21T17THP5.jpg",
@@ -3327,29 +3287,29 @@
       ]
     },
     {
-      "mgdbId": "120000591075",
-      "pID": "966970531",
-      "title": "美国网球公开赛男单资格赛第一轮：坂本怜 vs 张之臻",
-      "keyword": "08月25日05:00",
+      "mgdbId": "120000591074",
+      "pID": "966970474",
+      "title": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
+      "keyword": "08月25日05:30",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24VIA1RN7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R5KUS75.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "坂本怜 vs 张之臻",
-      "modifyTitle": "美国网球公开赛男单资格赛第一轮：坂本怜 vs 张之臻",
-      "presenters": "刘钟鸣",
+      "pkInfoTitle": "黄泽林 vs 默勒",
+      "modifyTitle": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
+      "presenters": "宋光振",
       "matchInfo": {
-        "time": "08月25日05:00"
+        "time": "08月25日05:30"
       },
       "nodes": [
         {
-          "pID": "966966601",
-          "name": "刘钟鸣"
+          "pID": "966966619",
+          "name": "宋光振"
         },
         {
-          "pID": "966970531",
+          "pID": "966970474",
           "name": "赛场原声"
         }
       ]
@@ -7732,7 +7692,7 @@
     },
     {
       "mgdbId": "120000589842",
-      "title": "男篮世预赛非洲��区",
+      "title": "男篮世预赛非洲赛区",
       "keyword": "08月31日02:30",
       "sportItemId": "2",
       "matchStatus": "0",
