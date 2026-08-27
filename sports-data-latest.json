@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 00:15:35",
+  "updateTime": "2026-08-28 05:21:36",
   "data": [
     {
       "mgdbId": "120000586212",
@@ -706,7 +706,7 @@
       "nodes": [
         {
           "pID": "967014315",
-          "name": "【女��资格赛第2轮】郑钦文2-0比雷尔（李宁）"
+          "name": "【女单资格赛第2轮】郑钦文2-0比雷尔（李宁）"
         },
         {
           "pID": "967021791",
@@ -1462,11 +1462,11 @@
       "nodes": [
         {
           "pID": "967038294",
-          "name": "26/27赛季斯诺克武汉公开赛1/4决赛回放：尼尔·罗伯逊1-5赵心童（乔迁）"
+          "name": "【回放】尼尔·罗伯逊1-5赵心童（乔迁）"
         },
         {
           "pID": "967039077",
-          "name": "26/27赛季斯诺克武汉公开赛1/4决赛回放：尼尔·罗伯逊1-5赵心童（赛场原声）"
+          "name": "【回放】尼尔·罗伯逊1-5赵心童（赛场原声）"
         }
       ]
     },
@@ -1500,7 +1500,7 @@
     },
     {
       "mgdbId": "120000589827",
-      "pID": "966984207",
+      "pID": "967040798",
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月27日20:00",
       "sportItemId": "2",
@@ -1517,8 +1517,8 @@
       },
       "nodes": [
         {
-          "pID": "966984207",
-          "name": "赛场原声"
+          "pID": "967040798",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1567,16 +1567,20 @@
         {
           "pID": "967038665",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967039235",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000589826",
-      "pID": "966984241",
+      "pID": "967041970",
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月27日23:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3SRU09AAQ.jpg",
@@ -1589,25 +1593,29 @@
       },
       "nodes": [
         {
-          "pID": "966984241",
-          "name": "赛场原声"
+          "pID": "967041970",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "967042333",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000590092",
       "pID": "967029326",
-      "title": "郑钦文冲正赛 锦织圭迎德比战",
+      "title": "黄泽林入围美网正赛",
       "keyword": "08月27日23:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P6GGIDVU.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MSAVB5A3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "郑钦文冲正赛 锦织圭迎德比战",
-      "modifyTitle": "美国网球公开赛资格赛Day4：郑钦文冲正赛 锦织圭迎德比战",
-      "presenters": "刘钟鸣 鸿昆",
+      "pkInfoTitle": "黄泽林入围美网正赛",
+      "modifyTitle": "美国网球公开赛资格赛Day4：黄泽林入围美网正赛",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "08月27日23:00"
       },
@@ -1615,10 +1623,6 @@
         {
           "pID": "967029326",
           "name": "郑钦文 vs 普里丹金娜(刘钟鸣)"
-        },
-        {
-          "pID": "967029424",
-          "name": "黄泽林 vs 拉约维奇(鸿昆)"
         },
         {
           "pID": "966835622",
@@ -1712,42 +1716,34 @@
       "title": "美国网球公开赛男单资格赛第三轮：黄泽林vs拉约维奇",
       "keyword": "08月27日23:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P78GHFEP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "黄泽林vs拉约维奇",
       "modifyTitle": "美国网球公开赛男单资格赛第三轮：黄泽林vs拉约维奇",
-      "presenters": "鸿昆",
+      "presenters": "",
       "matchInfo": {
         "time": "08月27日23:00"
       },
       "nodes": [
         {
-          "pID": "967029424",
-          "name": "���昆"
-        },
-        {
           "pID": "967029419",
           "name": "赛场原声"
-        },
-        {
-          "pID": "967029424",
-          "name": "鸿昆"
         }
       ]
     },
     {
       "mgdbId": "120000589816",
-      "pID": "966983952",
+      "pID": "967042591",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月27日23:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Veikkaus Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3SB7A9LT1.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5M9OD44IF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "芬兰vs瑞典",
       "modifyTitle": "男篮世预赛欧洲赛区",
@@ -1757,8 +1753,12 @@
       },
       "nodes": [
         {
-          "pID": "966983952",
-          "name": "赛场原声"
+          "pID": "967042591",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "967043187",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1768,7 +1768,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月27日23:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Dakar Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589836/202608170958_414333_H169_1080.webp",
@@ -1781,18 +1781,18 @@
       },
       "nodes": [
         {
-          "pID": "966984251",
-          "name": "赛场原声"
+          "pID": "967042650",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589789",
-      "pID": "966984520",
+      "pID": "967042401",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月28日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Al Janoub Stadium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UTE55QMG.png",
@@ -1805,26 +1805,46 @@
       },
       "nodes": [
         {
-          "pID": "966984520",
-          "name": "杨健 郭艾伦 杨毅"
+          "pID": "967042401",
+          "name": "全场集锦"
         },
         {
-          "pID": "966984829",
-          "name": "赛场原声"
+          "pID": "967042619",
+          "name": "全场回放（杨健、郭艾伦、杨毅、秋童）"
         },
         {
-          "pID": "966992494",
-          "name": "郭艾伦专属视角"
+          "pID": "967043386",
+          "name": "全场回放（郭艾伦专属视角）"
+        },
+        {
+          "pID": "967043189",
+          "name": "全场回放（赛场原声）"
+        },
+        {
+          "pID": "967041839",
+          "name": "第一节"
+        },
+        {
+          "pID": "967041922",
+          "name": "第二节"
+        },
+        {
+          "pID": "967042191",
+          "name": "第三节"
+        },
+        {
+          "pID": "967042361",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000589817",
-      "pID": "966983959",
+      "pID": "967042705",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月28日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "DVTK Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589817/202608171000_410752_H169_1080.webp",
@@ -1837,18 +1857,22 @@
       },
       "nodes": [
         {
-          "pID": "966983959",
-          "name": "赛场原声"
+          "pID": "967042705",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "967043459",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000589791",
-      "pID": "966984301",
+      "pID": "967042864",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月28日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "King Abdullah Sports City",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UTTGEQ8S.png",
@@ -1861,50 +1885,22 @@
       },
       "nodes": [
         {
-          "pID": "966984301",
-          "name": "殳海"
+          "pID": "967042864",
+          "name": "全场集锦"
         },
         {
-          "pID": "966984823",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591428",
-      "pID": "967029338",
-      "title": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
-      "keyword": "08月28日01:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7DOEIA6.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "袁悦vs斯托亚纳",
-      "modifyTitle": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
-      "presenters": "蔡凯臣",
-      "matchInfo": {
-        "time": "08月28日01:30"
-      },
-      "nodes": [
-        {
-          "pID": "967029338",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967029342",
-          "name": "蔡凯臣"
+          "pID": "967043017",
+          "name": "全场回放（殳海）"
         }
       ]
     },
     {
       "mgdbId": "120000589790",
-      "pID": "966984377",
+      "pID": "967044375",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Nouhad Nawfal Sports Complex",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3ST8E62HB.png",
@@ -1917,22 +1913,18 @@
       },
       "nodes": [
         {
-          "pID": "966984377",
-          "name": "盛哲"
-        },
-        {
-          "pID": "966984370",
-          "name": "赛场原声"
+          "pID": "967044375",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589809",
-      "pID": "966983997",
+      "pID": "967044540",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Dvorana Kresimir Cosic",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3TPCH1P8H.jpg",
@@ -1945,18 +1937,18 @@
       },
       "nodes": [
         {
-          "pID": "966983997",
-          "name": "赛场原声"
+          "pID": "967044540",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589810",
-      "pID": "966984036",
+      "pID": "967044697",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Xiaomi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589810/202608170957_147946_H169_1080.webp",
@@ -1969,18 +1961,18 @@
       },
       "nodes": [
         {
-          "pID": "966984036",
-          "name": "赛场原声"
+          "pID": "967044697",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589811",
-      "pID": "966984013",
+      "pID": "967044527",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Lanxess Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3U3T96AIU.jpg",
@@ -1993,22 +1985,18 @@
       },
       "nodes": [
         {
-          "pID": "966984013",
-          "name": "邵化谦"
-        },
-        {
-          "pID": "966984017",
-          "name": "赛场原声"
+          "pID": "967044527",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589828",
-      "pID": "966984264",
+      "pID": "967007226",
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589828/202608171001_677186_H169_1080.webp",
@@ -2021,6 +2009,10 @@
       },
       "nodes": [
         {
+          "pID": "967007226",
+          "name": "2027年男篮世预赛非洲赛区第四窗口期宣传片：狂野大陆谁将突出重围？"
+        },
+        {
           "pID": "966984264",
           "name": "赛场原声"
         }
@@ -2032,10 +2024,10 @@
       "title": "西甲联赛",
       "keyword": "08月28日02:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "巴莱多斯球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586224/559201_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586224/357438_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "塞尔塔 vs 奥萨苏纳",
       "modifyTitle": "西甲联赛",
@@ -2056,11 +2048,11 @@
     },
     {
       "mgdbId": "120000589815",
-      "pID": "966984098",
+      "pID": "967045260",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月28日02:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Paris, Bercy Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3SN6H6SHB.png",
@@ -2073,22 +2065,18 @@
       },
       "nodes": [
         {
-          "pID": "966984098",
-          "name": "季孟年"
-        },
-        {
-          "pID": "966984800",
-          "name": "赛场原声"
+          "pID": "967045260",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589837",
-      "pID": "966984281",
+      "pID": "967007226",
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月28日02:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Dakar Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589837/202608171003_750929_H169_1080.webp",
@@ -2101,6 +2089,10 @@
       },
       "nodes": [
         {
+          "pID": "967007226",
+          "name": "2027年男篮世预赛非洲赛区第四窗口期宣传片：狂野大陆谁将突出重围？"
+        },
+        {
           "pID": "966984281",
           "name": "赛场原声"
         }
@@ -2112,10 +2104,10 @@
       "title": "西甲联赛",
       "keyword": "08月28日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "诺坎普球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586210/110463_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586210/461660_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "巴塞罗那 vs 毕尔巴鄂竞技",
       "modifyTitle": "西甲联赛",
@@ -2135,40 +2127,12 @@
       ]
     },
     {
-      "mgdbId": "120000591429",
-      "pID": "967029350",
-      "title": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
-      "keyword": "08月28日03:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7GIHQ7O.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "布云朝克特vs奇纳",
-      "modifyTitle": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
-      "presenters": "邱超",
-      "matchInfo": {
-        "time": "08月28日03:00"
-      },
-      "nodes": [
-        {
-          "pID": "967029350",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967029354",
-          "name": "邱超"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000590766",
       "pID": "966892621",
       "title": "李吉妮、梅尔滕斯领衔出战",
       "keyword": "08月28日05:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4SBCLUHTL.jpg",
@@ -2210,6 +2174,30 @@
       "nodes": [
         {
           "pID": "966985480",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591428",
+      "pID": "967029338",
+      "title": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
+      "keyword": "08月28日06:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7DOEIA6.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "袁悦vs斯托亚纳",
+      "modifyTitle": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月28日06:30"
+      },
+      "nodes": [
+        {
+          "pID": "967029338",
           "name": "赛场原声"
         }
       ]
@@ -2290,6 +2278,34 @@
         },
         {
           "pID": "966985525",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591429",
+      "pID": "967029350",
+      "title": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
+      "keyword": "08月28日07:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7GIHQ7O.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "布云朝克特vs奇纳",
+      "modifyTitle": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
+      "presenters": "邱��",
+      "matchInfo": {
+        "time": "08月28日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "967029354",
+          "name": "邱超"
+        },
+        {
+          "pID": "967029350",
           "name": "赛场原声"
         }
       ]
@@ -2392,14 +2408,14 @@
     },
     {
       "mgdbId": "120000589976",
-      "pID": "966820126",
+      "pID": "966852606",
       "title": "斯诺克武汉公开赛半决赛下午场：罗尼·奥沙利文 vs 常冰玉",
       "keyword": "08月28日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5M8K3P4CH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "罗尼·奥沙利文 vs 常冰玉",
       "modifyTitle": "斯诺克武汉公开赛半决赛下午场：罗尼·奥沙利文 vs 常冰玉",
@@ -2409,12 +2425,12 @@
       },
       "nodes": [
         {
-          "pID": "966820126",
-          "name": "清流播出"
-        },
-        {
           "pID": "966852606",
           "name": "朱峰立"
+        },
+        {
+          "pID": "966820126",
+          "name": "现场原声"
         }
       ]
     },
@@ -2681,14 +2697,14 @@
     },
     {
       "mgdbId": "120000589977",
-      "pID": "966820147",
+      "pID": "967032071",
       "title": "斯诺克武汉公开赛半决赛晚场：赵心童 vs 肖国栋",
       "keyword": "08月28日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5M7VNVTB9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童 vs 肖国栋",
       "modifyTitle": "斯诺克武汉公开赛半决赛晚场：赵心童 vs 肖国栋",
@@ -2698,12 +2714,12 @@
       },
       "nodes": [
         {
-          "pID": "966820147",
-          "name": "清流播出"
-        },
-        {
           "pID": "967032071",
           "name": "柏林 乔迁"
+        },
+        {
+          "pID": "966820147",
+          "name": "现场原声"
         }
       ]
     },
@@ -3114,7 +3130,7 @@
       "matchStatus": "0",
       "matchField": "Mejdan",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589808/202608170956_518013_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MJ7U4DOJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "波黑vs意大利",
       "modifyTitle": "男篮世预赛欧洲赛区",
@@ -3278,7 +3294,7 @@
       "matchStatus": "0",
       "matchField": "Pabellon Principe Felipe",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589803/202608170956_838605_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MJAHSAIS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "西班牙vs葡萄牙",
       "modifyTitle": "男篮世预赛欧洲赛区",
@@ -4288,7 +4304,7 @@
     {
       "mgdbId": "120000591151",
       "pID": "966979463",
-      "title": "蒙��联赛半决赛第一回合",
+      "title": "蒙超联赛半决赛第一回合",
       "keyword": "08月29日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -7629,11 +7645,15 @@
         },
         {
           "pID": "966866104",
-          "name": "3号桌"
+          "name": "3��桌"
         },
         {
           "pID": "966866116",
           "name": "4号桌"
+        },
+        {
+          "pID": "966866104",
+          "name": "3号桌"
         }
       ]
     },
