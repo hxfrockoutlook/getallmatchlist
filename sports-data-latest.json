@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-03 00:16:03",
+  "updateTime": "2026-09-03 05:21:49",
   "data": [
     {
       "mgdbId": "120000589820",
@@ -1070,6 +1070,10 @@
       },
       "nodes": [
         {
+          "pID": "967209772",
+          "name": "2026美国网球公开赛女单第1轮回放：卡萨特金娜0-1巴多萨（赛场原声）（因雨比赛未打完）"
+        },
+        {
           "pID": "967205471",
           "name": "2026美国网球公开赛女单第1轮回放：普丁塞娃2-1本西奇（赛场原声）"
         },
@@ -1501,7 +1505,7 @@
     },
     {
       "mgdbId": "120000591758",
-      "pID": "967154780",
+      "pID": "967208417",
       "title": "中国篮协“未来杯”国际篮球挑战赛单循环赛",
       "keyword": "09月02日16:30",
       "sportItemId": "2",
@@ -1518,19 +1522,19 @@
       },
       "nodes": [
         {
-          "pID": "967208318",
-          "name": "全场回放"
+          "pID": "967208417",
+          "name": "全场回放（官方解说）"
         },
         {
-          "pID": "967208417",
-          "name": "全场回放"
+          "pID": "967208318",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000591731",
       "pID": "967153469",
-      "title": "两国手已晋级！雷佩凡3-4塞尔比",
+      "title": "范争一、龙泽煌晋级 雷佩凡3-4塞尔比",
       "keyword": "09月02日17:00",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -1538,8 +1542,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N926UCS4FF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "两国手已晋级！雷佩凡3-4塞尔比",
-      "modifyTitle": "斯诺克英国公开赛：两国手已晋级！雷佩凡3-4塞尔比",
+      "pkInfoTitle": "范争一、龙泽煌晋级 雷佩凡3-4塞尔比",
+      "modifyTitle": "斯诺克英国公开赛：范争一、龙泽煌晋级 雷佩凡3-4塞尔比",
       "presenters": "陶哲铭",
       "matchInfo": {
         "time": "09月02日17:00"
@@ -1659,27 +1663,23 @@
       "nodes": [
         {
           "pID": "967207992",
-          "name": "2026WTT常规挑战赛阿拉木图站Day2晚间场全场回放（徐铭辰）"
-        },
-        {
-          "pID": "967208055",
-          "name": "2026WTT常规挑战赛阿拉木图站男单资格赛第3轮回放：勒夫·卡兹曼3-0艾多斯·肯日古洛夫（赛场原声）"
-        },
-        {
-          "pID": "967208449",
-          "name": "2026WTT常规挑战赛阿拉木图站Day2晚间场三号桌全场回放（赛场原声）"
-        },
-        {
-          "pID": "967208529",
-          "name": "2026WTT常规挑战赛阿拉木图站Day2晚间场四号桌全场回放（赛场原声）"
+          "name": "全场回放（徐铭辰）"
         },
         {
           "pID": "967208902",
-          "name": "2026WTT常规挑战赛阿拉木图站Day2晚间场一号桌全场回放（赛场原声）"
+          "name": "全场回放（一号桌）"
         },
         {
           "pID": "967208895",
-          "name": "2026WTT常规挑战赛阿拉木图站Day2晚间场二号桌全场回放（赛场原声）"
+          "name": "全场回放（二号桌）"
+        },
+        {
+          "pID": "967208449",
+          "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "967208529",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
@@ -1709,13 +1709,13 @@
     },
     {
       "mgdbId": "120000591759",
-      "pID": "967206856",
+      "pID": "967208358",
       "title": "中国篮协“未来杯”国际篮球挑战赛单循环赛",
       "keyword": "09月02日19:30",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "中国篮协“未来杯”国际篮球挑战���",
+      "competitionName": "中国篮协“未来杯”国际篮球挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N855FQ3FPD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/31/100000001533106d96ff.png",
       "pkInfoTitle": "CIA Bella Vista预科学院 vs 中国U18男篮",
@@ -1727,11 +1727,11 @@
       "nodes": [
         {
           "pID": "967208358",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         },
         {
           "pID": "967208415",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1773,45 +1773,57 @@
     },
     {
       "mgdbId": "120000591732",
-      "pID": "967199398",
-      "title": "白雨露出战 赵心童、王信伯晋级",
+      "pID": "967153722",
+      "title": "赵心童、王信伯晋级 白雨露惜败",
       "keyword": "09月02日20:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92GSKJTHF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "白雨露出战 赵心童、王信伯晋级",
-      "modifyTitle": "斯诺克英国公开赛：白雨露出战 赵心童、王信伯晋级",
+      "pkInfoTitle": "赵心童、王信伯晋级 白雨露惜败",
+      "modifyTitle": "斯诺克英国公开赛：赵心童、王信伯晋级 白雨露惜败",
       "presenters": "乔迁 秦正",
       "matchInfo": {
         "time": "09月02日20:00"
       },
       "nodes": [
         {
-          "pID": "967199398",
-          "name": "解说"
+          "pID": "967209430",
+          "name": "【回放】赵心童4-2丹尼尔·威尔斯（秦正）"
         },
         {
-          "pID": "967153586",
-          "name": "1号桌"
+          "pID": "967209611",
+          "name": "【回放】白雨露3-4罗斯·缪尔（乔迁）"
         },
         {
-          "pID": "967153648",
-          "name": "3号桌"
+          "pID": "967208289",
+          "name": "【回放】贾德·特鲁姆普4-2里奇·沃顿（赛场原声）"
         },
         {
-          "pID": "967153666",
-          "name": "4号桌"
+          "pID": "967209543",
+          "name": "【回放】王信伯4-3杰米·琼斯 （赛场原声）"
         },
         {
-          "pID": "967199389",
-          "name": "秦正"
+          "pID": "967209641",
+          "name": "【回放】赵心童4-2丹尼尔·威尔斯（赛场原声）"
         },
         {
-          "pID": "967153642",
-          "name": "2号桌"
+          "pID": "967210124",
+          "name": "【回放】白雨露3-4罗斯·缪尔（赛场原声）"
+        },
+        {
+          "pID": "967208641",
+          "name": "【回放】大卫·吉尔伯特4-2肖恩·墨菲（赛场原声）"
+        },
+        {
+          "pID": "967210133",
+          "name": "26/27赛季斯诺克英国公开赛第2轮回放：大卫·格雷斯4-1扎克·舒尔蒂（赛场原声）"
+        },
+        {
+          "pID": "967210396",
+          "name": "26/27赛季斯诺克英国公开赛第2轮回放：亚伦·希尔4-2本·默滕斯（赛场原声）"
         }
       ]
     },
@@ -1845,7 +1857,7 @@
       "matchStatus": "2",
       "matchField": "三色旗市政球场",
       "competitionName": "意大利杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92PS9A3QC.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77NA07H3G5I2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png",
       "pkInfoTitle": "萨索洛 vs 佛罗西诺内",
       "modifyTitle": "意大利杯第二轮",
@@ -1866,38 +1878,22 @@
     },
     {
       "mgdbId": "120000591465",
-      "pID": "967048421",
-      "title": "梅德维德夫率先出战！阿卡压场亮相",
+      "pID": "967048462",
+      "title": "萨巴、阿卡领衔出战单打第二轮",
       "keyword": "09月02日23:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92S6OSAN4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TULD3815.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "梅德维德夫率先出战！阿卡压场亮相",
-      "modifyTitle": "美国网球公开赛正赛男女单打第一、二轮：梅德维德夫率先出战！阿卡压场亮相",
-      "presenters": "于筱睿 宋光振",
+      "pkInfoTitle": "萨巴、阿卡领衔出战单打第二轮",
+      "modifyTitle": "美国网球公开赛正赛男女单打第一、二轮：萨巴、阿卡领衔出战单打第二轮",
+      "presenters": "",
       "matchInfo": {
         "time": "09月02日23:00"
       },
       "nodes": [
-        {
-          "pID": "967200581",
-          "name": "于筱睿"
-        },
-        {
-          "pID": "967200872",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967048421",
-          "name": "阿瑟・阿什球场"
-        },
-        {
-          "pID": "967048437",
-          "name": "阿姆斯特朗球场"
-        },
         {
           "pID": "967048462",
           "name": "大看台球场"
@@ -1945,6 +1941,14 @@
         {
           "pID": "967048395",
           "name": "英文解说"
+        },
+        {
+          "pID": "967048421",
+          "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967048437",
+          "name": "阿姆斯特朗球场"
         }
       ]
     },
@@ -1954,10 +1958,10 @@
       "title": "意大利杯第二轮",
       "keyword": "09月03日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "弗留利球场",
       "competitionName": "意大利杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000589761/602254_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9T47RS38L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png",
       "pkInfoTitle": "乌迪内斯 vs 威尼斯",
       "modifyTitle": "意大利杯第二轮",
@@ -1967,12 +1971,12 @@
       },
       "nodes": [
         {
-          "pID": "967027374",
-          "name": "刘腾"
+          "pID": "967210005",
+          "name": "全场集锦"
         },
         {
-          "pID": "967027368",
-          "name": "赛场原声"
+          "pID": "967210037",
+          "name": "全场回放（刘腾）"
         }
       ]
     },
@@ -1980,9 +1984,9 @@
       "mgdbId": "120000592190",
       "pID": "967200468",
       "title": "2026美国网球公开赛男单第一轮：霍达尔 vs 布云朝克特",
-      "keyword": "09月03日01:00",
+      "keyword": "09月03日01:05",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N8VVKBVCQN.png",
@@ -1991,7 +1995,7 @@
       "modifyTitle": "2026美国网球公开赛男单第一轮：霍达尔 vs 布云朝克特",
       "presenters": "郭丰庆",
       "matchInfo": {
-        "time": "09月03日01:00"
+        "time": "09月03日01:05"
       },
       "nodes": [
         {
@@ -2006,17 +2010,17 @@
     },
     {
       "mgdbId": "120000591733",
-      "pID": "967199377",
-      "title": "丁俊晖、吕昊天出战 常冰玉接台战琼斯",
+      "pID": "967153694",
+      "title": "常冰玉迎战琼斯 吕昊天登场",
       "keyword": "09月03日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N927AUJP27.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "丁俊晖、吕昊天出战 常冰玉接台战琼斯",
-      "modifyTitle": "斯诺克英国公开赛：丁俊晖、吕昊天出战 常冰玉接台战琼斯",
+      "pkInfoTitle": "常冰玉迎战琼斯 吕昊天登场",
+      "modifyTitle": "斯诺克英国公开赛：常冰玉迎战琼斯 吕昊天登场",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "09月03日02:00"
@@ -2048,7 +2052,7 @@
       "mgdbId": "120000592191",
       "pID": "967200498",
       "title": "2026美国网球公开赛女单第二轮：王欣瑜 vs 卡林斯卡娅",
-      "keyword": "09月03日02:30",
+      "keyword": "09月03日06:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -2059,7 +2063,7 @@
       "modifyTitle": "2026美国网球公开赛女单第二轮：王欣瑜 vs 卡林斯卡娅",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "09月03日02:30"
+        "time": "09月03日06:00"
       },
       "nodes": [
         {
@@ -2076,7 +2080,7 @@
       "mgdbId": "120000592192",
       "pID": "967200538",
       "title": "2026美国网球公开赛男单第二轮：达克沃斯 vs 吴易昺",
-      "keyword": "09月03日02:30",
+      "keyword": "09月03日06:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -2087,7 +2091,7 @@
       "modifyTitle": "2026美国网球公开赛男单第二轮：达克沃斯 vs 吴易昺",
       "presenters": "李宁",
       "matchInfo": {
-        "time": "09月03日02:30"
+        "time": "09月03日06:00"
       },
       "nodes": [
         {
@@ -3422,7 +3426,7 @@
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586198/202607311037_541325_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
-      "pkInfoTitle": "皇家贝蒂斯 vs 皇家马德里",
+      "pkInfoTitle": "皇��贝蒂斯 vs 皇家马德里",
       "modifyTitle": "西甲联赛",
       "presenters": "",
       "matchInfo": {
@@ -4725,6 +4729,24 @@
       ]
     },
     {
+      "mgdbId": "120000592180",
+      "title": "英女超联赛",
+      "keyword": "09月05日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "斯坦福桥球场",
+      "competitionName": "英女超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592180/202609021011_408273_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
+      "pkInfoTitle": "切尔西 vs 阿斯顿维拉",
+      "modifyTitle": "英女超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月05日19:30"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000569615",
       "title": "中超联赛",
       "keyword": "09月05日19:35",
@@ -4754,24 +4776,6 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "上海海港 vs 北京国安",
       "modifyTitle": "中超联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月05日19:35"
-      },
-      "nodes": []
-    },
-    {
-      "mgdbId": "120000592180",
-      "title": "英女超联赛",
-      "keyword": "09月05日19:35",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "斯坦福桥球场",
-      "competitionName": "英女超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592180/202609021011_408273_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
-      "pkInfoTitle": "切尔西 vs 阿斯顿维拉",
-      "modifyTitle": "英女超联赛",
       "presenters": "",
       "matchInfo": {
         "time": "09月05日19:35"
