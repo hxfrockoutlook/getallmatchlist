@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-10 00:15:43",
+  "updateTime": "2026-09-10 05:22:03",
   "data": [
     {
       "mgdbId": "120000584880",
@@ -586,7 +586,7 @@
         },
         {
           "pID": "967438049",
-          "name": "全场回放（英文解说）"
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -662,7 +662,7 @@
         },
         {
           "pID": "967439801",
-          "name": "【回放】庞俊旭4-3安东尼·科瓦尔斯基（赛场原声）"
+          "name": "【回放】庞俊旭4-3安东尼·科瓦尔斯���（赛场原声）"
         },
         {
           "pID": "967440904",
@@ -1384,6 +1384,10 @@
         {
           "pID": "967458601",
           "name": "全场回放（二）"
+        },
+        {
+          "pID": "967464616",
+          "name": "全场回放（三）"
         }
       ]
     },
@@ -1438,12 +1442,12 @@
           "name": "全场回放（张靖松、徐儒叶）"
         },
         {
-          "pID": "967456461",
-          "name": "2026WTT澳门冠军赛Day2下午场全场回放（英文解说）（AI字幕）"
+          "pID": "967458298",
+          "name": "全场回放"
         },
         {
-          "pID": "967458298",
-          "name": "2026WTT澳门冠军赛Day2下午场全场回放（赛场原声）"
+          "pID": "967456461",
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -1470,12 +1474,20 @@
           "name": "全场回放（凌维康、刘馨蕊）"
         },
         {
+          "pID": "967463162",
+          "name": "全场回放（一号桌）"
+        },
+        {
           "pID": "967461604",
           "name": "全场回放（二号桌）"
         },
         {
           "pID": "967460883",
           "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "967464743",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
@@ -1531,7 +1543,7 @@
         },
         {
           "pID": "967459914",
-          "name": "26/27赛季斯诺克英格兰公开赛第2轮回放：周跃龙4-3克里斯·韦克林（赛场原声）"
+          "name": "26/27赛季斯诺克英格兰公开赛第2轮回放：周跃龙4-3克里斯·韦克林（赛场原声��"
         },
         {
           "pID": "967460401",
@@ -1582,8 +1594,8 @@
       },
       "nodes": [
         {
-          "pID": "967034562",
-          "name": "清流播出"
+          "pID": "967464595",
+          "name": "2026赛季CPB中国棒球城市联赛上海赛区全场回放：北京正大龙6-1福州海侠（官方解说）"
         }
       ]
     },
@@ -1606,8 +1618,8 @@
       },
       "nodes": [
         {
-          "pID": "967034565",
-          "name": "清流播出"
+          "pID": "967464933",
+          "name": "2026赛季CPB中国棒球城市联赛深圳赛区全场回放：厦门海豚6-1长沙旺旺（官方解说）"
         }
       ]
     },
@@ -1632,6 +1644,14 @@
         {
           "pID": "967462100",
           "name": "全场回放（徐铭辰、程靖淇、马特）"
+        },
+        {
+          "pID": "967465399",
+          "name": "全场回放"
+        },
+        {
+          "pID": "967461733",
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -1662,56 +1682,72 @@
     {
       "mgdbId": "120000592609",
       "pID": "967449689",
-      "title": "张安达3-4塞尔比 常冰玉VS囧哥",
+      "title": "囧哥4-3险胜常冰玉 张安达3-4塞尔比",
       "keyword": "09月09日20:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFEH169FTT.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "张安达3-4塞尔比 常冰玉VS囧哥",
-      "modifyTitle": "斯诺克英格兰公开赛32进16：张安达3-4塞尔比 常冰玉VS囧哥",
-      "presenters": "柏林 涂子轩 陶哲铭 熊冕 卢正浩",
+      "pkInfoTitle": "囧哥4-3险胜常冰玉 张安达3-4塞尔比",
+      "modifyTitle": "斯诺克英格兰公开赛32进16：囧哥4-3险胜常冰玉 张安达3-4塞尔比",
+      "presenters": "柏林 熊冕 卢正浩 涂子轩 陶哲铭",
       "matchInfo": {
         "time": "09月09日20:00"
       },
       "nodes": [
         {
-          "pID": "967449689",
-          "name": "柏林"
+          "pID": "967462402",
+          "name": "【回放】张安达3-4马克·塞尔比（卢正浩）"
         },
         {
-          "pID": "967449692",
-          "name": "涂子轩"
+          "pID": "967465505",
+          "name": "【回放】巩晨智4-1罗泽涛（涂子轩）"
         },
         {
-          "pID": "967449697",
-          "name": "陶哲铭"
+          "pID": "967461758",
+          "name": "【回放】奥利弗·莱恩斯3-4袁思俊（熊冕）"
         },
         {
-          "pID": "967297771",
-          "name": "1号桌"
+          "pID": "967465821",
+          "name": "【回放】巩晨智4-1罗泽涛（赛场原声）"
         },
         {
-          "pID": "967297787",
-          "name": "2号桌"
+          "pID": "967463208",
+          "name": "【回放】奥利弗·莱恩斯3-4袁思俊（赛场原声）"
         },
         {
-          "pID": "967297805",
-          "name": "3号桌"
+          "pID": "967465475",
+          "name": "【回放】王信伯1-4利亚姆·戴维斯（赛场原声）"
         },
         {
-          "pID": "967297816",
-          "name": "4号桌"
+          "pID": "967464883",
+          "name": "【回放】张安达3-4马克·塞尔比（赛场原声）"
         },
         {
-          "pID": "967449679",
-          "name": "熊冕"
+          "pID": "967462779",
+          "name": "【回放】巴里·霍金斯4-1丹尼尔·威尔斯（赛场原声）"
         },
         {
-          "pID": "967449657",
-          "name": "卢正浩"
+          "pID": "967462141",
+          "name": "【回放】山姆·克雷吉2-4乔·奥康纳（赛场原声）"
+        },
+        {
+          "pID": "967466583",
+          "name": "26/27赛季斯诺克英格兰公开赛第2轮回放：贾德·特鲁姆普4-1阿什利·卡蒂（赛场原声）"
+        },
+        {
+          "pID": "967466980",
+          "name": "26/27赛季斯诺克英格兰公开赛第2轮回放：王信伯1-4利亚姆·戴维斯（陶哲铭）"
+        },
+        {
+          "pID": "967466873",
+          "name": "26/27赛季斯诺克英格兰公开赛第2轮回放：常冰玉3-4凯伦·威尔逊（柏林）"
+        },
+        {
+          "pID": "967467116",
+          "name": "26/27赛季斯诺克英格兰公开赛第2轮回放：常冰玉3-4凯伦·威尔逊（赛场原声）"
         }
       ]
     },
@@ -1739,15 +1775,15 @@
     {
       "mgdbId": "120000591794",
       "pID": "967161055",
-      "title": "万远一日四赛 孟凡博、川上流星冲正赛",
+      "title": "孟凡博勇闯五局 万远三线晋级正赛",
       "keyword": "09月09日22:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFE9CTOG2N.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG8NF784BG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "万远一日四赛 孟凡博、川上流星冲正赛",
+      "pkInfoTitle": "孟凡博勇闯五局 万远三线晋级正赛",
       "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打、男女双打资格赛",
       "presenters": "李柯鑫",
       "matchInfo": {
@@ -1755,41 +1791,29 @@
       },
       "nodes": [
         {
-          "pID": "967161055",
-          "name": "1号桌"
+          "pID": "967466252",
+          "name": "全场回放（李柯鑫）"
         },
         {
-          "pID": "967161078",
-          "name": "2号桌"
-        },
-        {
-          "pID": "967161089",
-          "name": "3号桌"
-        },
-        {
-          "pID": "967161115",
-          "name": "4号桌"
-        },
-        {
-          "pID": "967161142",
-          "name": "李柯鑫"
+          "pID": "967467327",
+          "name": "全场回放（三号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000591482",
-      "pID": "967048180",
-      "title": "郑钦文迎战莱巴 高芙对决小米拉",
+      "pID": "967048255",
+      "title": "莱巴金娜晋级四强 高芙对决小米拉",
       "keyword": "09月09日23:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFETRBEF1B.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG94NAMEM5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "郑钦文迎战莱巴 高芙对决小米拉",
-      "modifyTitle": "美国网球公开赛正赛Day11全场次：郑钦文迎战莱巴 高芙对决小米拉",
-      "presenters": "詹俊 胡力涛 郭丰庆",
+      "pkInfoTitle": "莱巴金娜晋级四强 高芙对决小米拉",
+      "modifyTitle": "美国网球公开赛正赛Day11全场次：莱巴金娜晋级四强 高芙对决小米拉",
+      "presenters": "刘钟鸣 鸿昆 詹俊 胡力涛",
       "matchInfo": {
         "time": "09月09日23:00"
       },
@@ -1797,6 +1821,14 @@
         {
           "pID": "967451402",
           "name": "郑钦文 vs 莱巴金娜"
+        },
+        {
+          "pID": "967451553",
+          "name": "卡恰诺夫 vs 布洛克斯"
+        },
+        {
+          "pID": "967451940",
+          "name": "西尼亚科娃/汤森德 vs 梅尔滕斯/施耐德"
         },
         {
           "pID": "967048235",
@@ -1886,10 +1918,10 @@
       "title": "美网女单1/4决赛：郑钦文 vs 莱巴金娜",
       "keyword": "09月09日23:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFE7SBUU6D.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG8VMGD5MM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "郑钦文 vs 莱巴金娜",
       "modifyTitle": "美网女单1/4决赛：郑钦文 vs 莱巴金娜",
@@ -1899,29 +1931,25 @@
       },
       "nodes": [
         {
-          "pID": "967451402",
-          "name": "詹俊 胡力涛"
+          "pID": "967466150",
+          "name": "全场回放"
         },
         {
-          "pID": "967451356",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967438848",
-          "name": "郑钦文翻盘名场面回顾"
+          "pID": "967467288",
+          "name": "全场回放（詹俊、胡力涛）"
         }
       ]
     },
     {
       "mgdbId": "120000592865",
-      "pID": "967423320",
+      "pID": "967464800",
       "title": "女篮世界杯四分之一资格赛",
       "keyword": "09月09日23:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGJ1HEAP4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG8OJB2EMG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "波多黎各vs中国",
       "modifyTitle": "女篮世界杯四分之一资格赛",
@@ -1931,64 +1959,56 @@
       },
       "nodes": [
         {
-          "pID": "967423320",
-          "name": "杨健 隋菲菲"
+          "pID": "967464800",
+          "name": "全场集锦"
         },
         {
-          "pID": "967423347",
-          "name": "吕程 郑薇 赵爽"
+          "pID": "967466041",
+          "name": "全场回放（杨健、隋菲菲）"
         },
         {
-          "pID": "967423257",
-          "name": "英文解说"
+          "pID": "967465971",
+          "name": "全场回放（吕程、郑薇、赵爽）"
         },
         {
-          "pID": "967423300",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592957",
-      "pID": "967451779",
-      "title": "2026美国网球公开赛女单1/4决赛：安德列娃 vs 高芙",
-      "keyword": "09月10日01:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFETUOB6PF.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "安德列娃 vs 高芙",
-      "modifyTitle": "2026美国网球公开赛女单1/4决赛：安德列娃 vs 高芙",
-      "presenters": "邱超",
-      "matchInfo": {
-        "time": "09月10日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "967451779",
-          "name": "赛场原声"
+          "pID": "967467185",
+          "name": "全场回放（英文解说）"
         },
         {
-          "pID": "967451489",
-          "name": "邱超"
+          "pID": "967467194",
+          "name": "全场回放（赛场���声）"
+        },
+        {
+          "pID": "967464495",
+          "name": "第一节"
+        },
+        {
+          "pID": "967464856",
+          "name": "第二节"
+        },
+        {
+          "pID": "967465096",
+          "name": "第三节"
+        },
+        {
+          "pID": "967465422",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000592610",
       "pID": "967297839",
-      "title": "吴宜泽VS徐思 墨菲接台出战",
+      "title": "肖恩·墨菲出战 吴宜泽4-2徐思",
       "keyword": "09月10日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFEI3R9901.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吴宜泽VS徐思 墨菲接台出战",
-      "modifyTitle": "斯诺克英格兰公开赛32进16：吴宜泽VS徐思 墨菲接台出战",
+      "pkInfoTitle": "肖恩·墨菲出战 吴宜泽4-2徐思",
+      "modifyTitle": "斯诺克英格兰公开赛32进16：肖恩·墨菲出战 吴宜泽4-2徐思",
       "presenters": "朱峰立 杨江浩 杨江源",
       "matchInfo": {
         "time": "09月10日02:00"
@@ -2025,43 +2045,39 @@
       ]
     },
     {
-      "mgdbId": "120000592958",
-      "pID": "967451536",
-      "title": "2026美国网球公开赛男单1/4决赛：卡恰诺夫 vs 布洛克斯",
-      "keyword": "09月10日02:30",
+      "mgdbId": "120000592957",
+      "pID": "967451779",
+      "title": "2026美国网球公开赛女单1/4决赛：安德列娃 vs 高芙",
+      "keyword": "09月10日02:10",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFEU8QAO1T.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9M0K113P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "卡恰诺夫 vs 布洛克斯",
-      "modifyTitle": "2026美国网球公开赛男单1/4决赛：卡恰诺夫 vs 布洛克斯",
-      "presenters": "刘钟鸣",
+      "pkInfoTitle": "安德列娃 vs 高芙",
+      "modifyTitle": "2026美国网球公开赛女单1/4决赛：安德列娃 vs 高芙",
+      "presenters": "",
       "matchInfo": {
-        "time": "09月10日02:30"
+        "time": "09月10日02:10"
       },
       "nodes": [
         {
-          "pID": "967451536",
+          "pID": "967451779",
           "name": "赛场原声"
-        },
-        {
-          "pID": "967451553",
-          "name": "刘钟鸣"
         }
       ]
     },
     {
       "mgdbId": "120000592864",
-      "pID": "967423440",
+      "pID": "967466577",
       "title": "女篮世界杯四分之一资格赛",
       "keyword": "09月10日02:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGKH8K3TM.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9M76MPKV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "意大利vs澳大利亚",
       "modifyTitle": "女篮世界杯四分之一资格赛",
@@ -2070,6 +2086,10 @@
         "time": "09月10日02:45"
       },
       "nodes": [
+        {
+          "pID": "967466577",
+          "name": "神色异常痛苦！马格贝格突破受伤被搀扶回更衣室"
+        },
         {
           "pID": "967423440",
           "name": "张泽欣"
@@ -2081,6 +2101,34 @@
         {
           "pID": "967423432",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592958",
+      "pID": "967451536",
+      "title": "2026美国网球公开赛男单1/4决赛：卡恰诺夫 vs 布洛克斯",
+      "keyword": "09月10日04:50",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFEU8QAO1T.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "卡恰诺夫 vs 布洛克斯",
+      "modifyTitle": "2026美国网球公开赛男单1/4决赛：卡恰诺夫 vs 布洛克斯",
+      "presenters": "刘钟鸣",
+      "matchInfo": {
+        "time": "09月10日04:50"
+      },
+      "nodes": [
+        {
+          "pID": "967451536",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967451553",
+          "name": "刘钟鸣"
         }
       ]
     },
@@ -2141,7 +2189,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFCP4932JB.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9DTRGSR0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第三日热身区",
       "modifyTitle": "WTT澳门冠军赛第三日热身区",
@@ -2243,15 +2291,15 @@
     {
       "mgdbId": "120000591795",
       "pID": "967161260",
-      "title": "男女单打1/16决赛、双打1/8决赛",
+      "title": "万远双线作战 平野美宇/木原美悠亮相",
       "keyword": "09月10日16:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9B2G3PNL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、双打1/8决赛",
+      "pkInfoTitle": "万远双线作战 平野美宇/木原美悠亮相",
       "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打1/16决赛、双打1/8决赛",
       "presenters": "凌维康 徐铭辰",
       "matchInfo": {
@@ -2478,44 +2526,22 @@
       ]
     },
     {
-      "mgdbId": "120000591796",
-      "pID": "967161411",
-      "title": "男女单打1/16决赛、男女双打1/8决赛",
-      "keyword": "09月10日22:00",
-      "sportItemId": "7",
+      "mgdbId": "120000593005",
+      "title": "女篮世界杯四分之一决赛",
+      "keyword": "09月10日20:30",
+      "sportItemId": "2",
       "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、男女双打1/8决赛",
-      "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打1/16决赛、男女双打1/8决赛",
-      "presenters": "刘馨蕊",
+      "matchField": "Berlin Arena",
+      "competitionName": "女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG91BN0KIA.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
+      "pkInfoTitle": "中国vs法国",
+      "modifyTitle": "女篮世界杯四分之一决赛",
+      "presenters": "",
       "matchInfo": {
-        "time": "09月10日22:00"
+        "time": "09月10日20:30"
       },
-      "nodes": [
-        {
-          "pID": "967161411",
-          "name": "刘馨蕊"
-        },
-        {
-          "pID": "967161314",
-          "name": "1号桌"
-        },
-        {
-          "pID": "967161348",
-          "name": "2号桌"
-        },
-        {
-          "pID": "967161383",
-          "name": "3号桌"
-        },
-        {
-          "pID": "967161394",
-          "name": "4号桌"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000591483",
@@ -2590,6 +2616,46 @@
         {
           "pID": "967048755",
           "name": "英文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591796",
+      "pID": "967161411",
+      "title": "平野美宇一日双赛 奥恰洛夫出战",
+      "keyword": "09月10日23:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTT",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9BISU3CF.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
+      "pkInfoTitle": "平野美宇一日双赛 奥恰洛夫出战",
+      "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打1/16决赛、男女双打1/8决赛",
+      "presenters": "刘馨蕊",
+      "matchInfo": {
+        "time": "09月10日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "967161411",
+          "name": "刘馨蕊"
+        },
+        {
+          "pID": "967161314",
+          "name": "1号桌"
+        },
+        {
+          "pID": "967161348",
+          "name": "2号桌"
+        },
+        {
+          "pID": "967161383",
+          "name": "3号桌"
+        },
+        {
+          "pID": "967161394",
+          "name": "4号桌"
         }
       ]
     },
@@ -7404,7 +7470,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEF47SUHC3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "吉达国民 vs 塔什干棉农",
-      "modifyTitle": "亚冠精英联赛��段",
+      "modifyTitle": "亚冠精英联赛阶段",
       "presenters": "",
       "matchInfo": {
         "time": "09月15日02:15"
