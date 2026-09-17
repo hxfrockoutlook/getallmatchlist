@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-18 00:13:51",
+  "updateTime": "2026-09-18 05:20:21",
   "data": [
     {
       "mgdbId": "120000589773",
@@ -965,7 +965,7 @@
       "keyword": "09月17日01:00",
       "sportItemId": "1",
       "matchStatus": "2",
-      "matchField": "万达大都会球场",
+      "matchField": "万达大都���球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586181/238778_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
@@ -1265,36 +1265,40 @@
       },
       "nodes": [
         {
-          "pID": "967682499",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：巴里·霍金斯6-0奥利弗·塞克斯（赛场原声）"
-        },
-        {
           "pID": "967682855",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：张安达6-0阿尔特米·齐津斯（涂子轩）"
+          "name": "【回放】张安达6-0阿尔特米·齐津斯（涂子轩）"
         },
         {
           "pID": "967684884",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：雷佩凡6-1尤里安·博伊科（陶哲铭）"
+          "name": "【回放】雷佩凡6-1尤里安·博伊科（陶哲铭）"
         },
         {
           "pID": "967684894",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：张安达6-0阿尔特米·齐津斯（赛场原声）"
+          "name": "【回放】张安达6-0阿尔特米·齐津斯（赛场原声）"
         },
         {
           "pID": "967685915",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：雷佩凡6-1尤里安·博伊科（赛场原声）"
+          "name": "【回放】雷佩凡6-1尤里安·博伊科（赛场原声）"
         },
         {
           "pID": "967686754",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：埃利奥特·斯莱塞2-6姚朋成（赛场原声）"
+          "name": "【回放】埃利奥特·斯莱塞2-6姚朋成（赛场原声）"
         },
         {
-          "pID": "967687853",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：斯蒂芬·马奎尔6-5马特乌斯·巴拉诺夫斯基（赛场原声）"
+          "pID": "967686406",
+          "name": "【回放】罗比·威廉姆斯6-2巩晨智（赛场原声）"
         },
         {
           "pID": "967688318",
-          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：吉米·罗伯逊5-6黄佳浩（赛场原��）"
+          "name": "【回放】吉米·罗伯逊5-6黄佳浩（赛场原声）"
+        },
+        {
+          "pID": "967682499",
+          "name": "【回放】巴里·霍金斯6-0奥利弗·塞克斯（赛场原声）"
+        },
+        {
+          "pID": "967687853",
+          "name": "【回放】斯蒂芬·马奎尔6-5马特乌斯·巴拉诺夫斯基（赛场原声）"
         }
       ]
     },
@@ -1480,11 +1484,11 @@
     },
     {
       "mgdbId": "120000593281",
-      "pID": "967519769",
+      "pID": "967523660",
       "title": "陈俊菘/王艺迪晋级 周启豪/薛飞闯入8强",
       "keyword": "09月17日20:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMNECS7ENU.png",
@@ -1497,20 +1501,28 @@
       },
       "nodes": [
         {
-          "pID": "967519769",
-          "name": "1号桌"
+          "pID": "967690536",
+          "name": "全场回放（高文清、李柯鑫）"
         },
         {
-          "pID": "967521623",
-          "name": "2号桌"
+          "pID": "967693804",
+          "name": "全场回放（一号桌）"
         },
         {
-          "pID": "967605545",
-          "name": "智能字幕"
+          "pID": "967693979",
+          "name": "全场回放（二号桌）"
         },
         {
-          "pID": "967523660",
-          "name": "高文清 李柯鑫"
+          "pID": "967693155",
+          "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "967692116",
+          "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "967691785",
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -1596,64 +1608,52 @@
     },
     {
       "mgdbId": "120000593623",
-      "pID": "967649322",
-      "title": "凯伦·威尔逊、高阳出战 宾汉姆6-1博登",
+      "pID": "967633053",
+      "title": "高阳6-5险胜布朗 凯伦·威尔逊逆转晋级",
       "keyword": "09月17日21:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMMQ6BMG2M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊、高阳出战 宾汉姆6-1博登",
-      "modifyTitle": "斯诺克国际锦标赛资格赛：凯伦·威尔逊、高阳出战 宾汉姆6-1博登",
+      "pkInfoTitle": "高阳6-5险胜布朗 凯伦·威尔逊逆转晋级",
+      "modifyTitle": "斯诺克国际锦标赛资格赛：高阳6-5险胜布朗 凯伦·威尔逊逆转晋级",
       "presenters": "柏林",
       "matchInfo": {
         "time": "09月17日21:30"
       },
       "nodes": [
         {
-          "pID": "967649322",
-          "name": "解说：柏林"
+          "pID": "967693569",
+          "name": "【回放】乔丹·布朗5-6高阳（柏林）"
         },
         {
-          "pID": "967633053",
-          "name": "1号桌"
+          "pID": "967690134",
+          "name": "【回放】斯图尔特·宾汉姆6-1阿尔菲·博登（赛场原声）"
         },
         {
-          "pID": "967633153",
-          "name": "3号桌"
+          "pID": "967691756",
+          "name": "【回放】奥利弗·莱恩斯6-0康纳·本齐（赛场原声）"
         },
         {
-          "pID": "967633200",
-          "name": "4号桌"
+          "pID": "967692930",
+          "name": "【回放】瑞恩·戴6-4利亚姆·格雷姆（赛场原声）"
         },
         {
-          "pID": "967633232",
-          "name": "5号桌"
+          "pID": "967693414",
+          "name": "【回放】本·默滕斯3-6利亚姆·海菲尔德基（赛场原声）"
         },
         {
-          "pID": "967633329",
-          "name": "6号桌"
-        },
-        {
-          "pID": "967633133",
-          "name": "2号桌"
-        },
-        {
-          "pID": "967633254",
-          "name": "6号桌"
-        },
-        {
-          "pID": "967633294",
-          "name": "7号桌"
+          "pID": "967694050",
+          "name": "【回放】本·沃拉斯顿6-2肖恩·奥沙利文（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000593428",
       "pID": "967599153",
-      "title": "利斯、巴多萨、奥尔滕齐领衔出战",
+      "title": "巴多萨激战3盘逆转晋级",
       "keyword": "09月18日00:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -1661,8 +1661,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMNDE8M4U0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "利斯、巴多萨、奥尔滕齐领衔出战",
-      "modifyTitle": "WTA250圣保罗站女单第二轮：利斯、巴多萨、奥尔滕齐领衔出战",
+      "pkInfoTitle": "巴多萨激战3盘逆转晋级",
+      "modifyTitle": "WTA250圣保罗站女单第二轮：巴多萨激战3盘逆转晋级",
       "presenters": "",
       "matchInfo": {
         "time": "09月18日00:00"
@@ -1684,10 +1684,10 @@
       "title": "西甲联赛",
       "keyword": "09月18日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "比利亚马林球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586180/845068_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586180/236564_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "皇家贝蒂斯 vs 赫塔费",
       "modifyTitle": "西甲联赛",
@@ -1697,22 +1697,22 @@
       },
       "nodes": [
         {
-          "pID": "967473220",
-          "name": "兰子非"
+          "pID": "967693575",
+          "name": "全场集锦"
         },
         {
-          "pID": "967473231",
-          "name": "赛场原声"
+          "pID": "967693545",
+          "name": "全场回放（兰子非）"
         }
       ]
     },
     {
       "mgdbId": "120000593624",
-      "pID": "967633088",
+      "pID": "967633366",
       "title": "罗伯逊出战 吉米·怀特PK史蒂文斯",
       "keyword": "09月18日02:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMMQC47EHI.jpg",
@@ -1724,10 +1724,6 @@
         "time": "09月18日02:30"
       },
       "nodes": [
-        {
-          "pID": "967633088",
-          "name": "1号桌"
-        },
         {
           "pID": "967633366",
           "name": "2号桌"
@@ -1745,28 +1741,32 @@
           "name": "5号桌"
         },
         {
-          "pID": "967633474",
-          "name": "6号桌"
-        },
-        {
           "pID": "967633492",
           "name": "7号桌"
+        },
+        {
+          "pID": "967633088",
+          "name": "1号桌"
+        },
+        {
+          "pID": "967633474",
+          "name": "6号桌"
         }
       ]
     },
     {
       "mgdbId": "120000593151",
       "pID": "967493518",
-      "title": "约维奇、科斯秋克轮番登场",
+      "title": "约维奇出战 布克沙晋级四强",
       "keyword": "09月18日03:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMNDIRFBF9.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNI5HVND68.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "约维奇、科斯秋克轮番登场",
-      "modifyTitle": "WTA500瓜达拉哈拉站女单1/4决赛：约维奇、科斯秋克轮番登场",
+      "pkInfoTitle": "约维奇出战 布克沙晋级四强",
+      "modifyTitle": "WTA500瓜达拉哈拉站女单1/4决赛：约维奇出战 布克沙晋级四强",
       "presenters": "",
       "matchInfo": {
         "time": "09月18日03:00"
@@ -1792,7 +1792,7 @@
       "title": "西甲联赛",
       "keyword": "09月18日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "玫瑰园球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586176/983743_H169_sc.jpg",
@@ -1907,6 +1907,30 @@
       ]
     },
     {
+      "mgdbId": "120000594308",
+      "pID": "967675925",
+      "title": "单打第一、二阶段",
+      "keyword": "09月18日09:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMNB0SRJ91.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "单打第一、二阶段",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛河北邢台站单打第一、二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月18日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "967675925",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000591746",
       "pID": "967153506",
       "title": "围甲联赛第14轮",
@@ -1933,15 +1957,15 @@
     {
       "mgdbId": "120000593282",
       "pID": "967523470",
-      "title": "男女单打1/16决赛、双打1/4决赛",
+      "title": "王艺迪/韩菲儿冲4强 徐瑛彬vs达科",
       "keyword": "09月18日14:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNI52FGA01.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、双打1/4决赛",
+      "pkInfoTitle": "王艺迪/韩菲儿冲4强 徐瑛彬vs达科",
       "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打1/16决赛、双打1/4决赛",
       "presenters": "高文清 凌维康",
       "matchInfo": {
@@ -2314,15 +2338,15 @@
     {
       "mgdbId": "120000593283",
       "pID": "967523677",
-      "title": "男女单打1/16决赛、男女双打半决赛",
+      "title": "周启豪冲16强 王艺迪迎战朱梓予",
       "keyword": "09月18日20:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNI55PAET0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、男女双打半决赛",
+      "pkInfoTitle": "周启豪冲16强 王艺迪迎战朱梓予",
       "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打1/16决赛、男女双打半决赛",
       "presenters": "赵曦",
       "matchInfo": {
@@ -2768,6 +2792,30 @@
         {
           "pID": "967157880",
           "name": "咪咕体育日报 第185期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594309",
+      "pID": "967675944",
+      "title": "单打半决赛决赛、团体赛第一、二阶段",
+      "keyword": "09月19日08:30",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMNCVCHDPL.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "单打半决赛决赛、团体赛第一、二阶段",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛河北邢台站单打半决赛决赛、团体赛第一、二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月19日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "967675944",
+          "name": "赛场原声"
         }
       ]
     },
@@ -5548,6 +5596,30 @@
         {
           "pID": "967157869",
           "name": "咪咕体育日报 第186期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594310",
+      "pID": "967675956",
+      "title": "团体第一、二阶段、半决赛及决赛",
+      "keyword": "09月20日08:30",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMND68TIEN.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "团体第一、二阶段、半决赛及决赛",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛河北邢台站团体第一、二阶段、半决赛及决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月20日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "967675956",
+          "name": "赛场原声"
         }
       ]
     },
