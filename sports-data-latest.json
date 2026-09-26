@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 00:13:50",
+  "updateTime": "2026-09-27 05:19:43",
   "data": [
     {
       "mgdbId": "120000594667",
@@ -602,6 +602,10 @@
       },
       "nodes": [
         {
+          "pID": "967974829",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967959859",
           "name": "全场回放（官方解说）"
         },
@@ -967,14 +971,14 @@
     {
       "mgdbId": "300000002390",
       "pID": "967679175",
-      "title": "小马哥、程靖淇、陈玘为您复盘混双半决赛",
+      "title": "小马哥、程靖淇、陈玘复盘混双半决赛",
       "sportItemId": "7",
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "决战亚洲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/25/77NTUDKN9TT6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
-      "pkInfoTitle": "小马哥、程靖淇、陈玘为您复盘混双半决赛",
+      "pkInfoTitle": "小马哥、程靖淇、陈玘复盘混双半决赛",
       "modifyTitle": "乒乓观察室Day6",
       "presenters": "小马哥 程靖淇 陈玘",
       "matchInfo": {},
@@ -1273,7 +1277,7 @@
         },
         {
           "pID": "967971066",
-          "name": "2026ATP成都网球公开赛男单第2轮回放：瓦舍罗0-2哈里斯（赛场原声）"
+          "name": "2026ATP成都网球公开赛男单���2轮回放：瓦舍罗0-2哈里斯（赛场原声）"
         }
       ]
     },
@@ -1356,36 +1360,52 @@
     {
       "mgdbId": "120000594580",
       "pID": "967705403",
-      "title": "布云朝克特晋级 黄泽林PK巴列霍",
+      "title": "布云朝克特晋级 黄泽林2-1巴列霍",
       "keyword": "09月26日13:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ATP",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUSO54VUPV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
-      "pkInfoTitle": "布云朝克特晋级 黄泽林PK巴列霍",
-      "modifyTitle": "杭州网球公开赛 Day4：布云朝克特晋级 黄泽林PK巴列霍",
+      "pkInfoTitle": "布云朝克特晋级 黄泽林2-1巴列霍",
+      "modifyTitle": "杭州网球公开赛 Day4：布云朝克特晋级 黄泽林2-1巴列霍",
       "presenters": "",
       "matchInfo": {
         "time": "09月26日13:30"
       },
       "nodes": [
         {
-          "pID": "967705403",
-          "name": "赛场原声"
+          "pID": "967969657",
+          "name": "【回放】阿里斯1-2萨菲乌林（赛场原声）"
         },
         {
-          "pID": "967705413",
-          "name": "中文解说"
+          "pID": "967969750",
+          "name": "【回放】阿里斯1-2萨菲乌林（中文解说）"
         },
         {
-          "pID": "967934510",
-          "name": "中网训练场1"
+          "pID": "967972574",
+          "name": "【回放】布云朝克特2-1迈赫扎克（中文解说）"
         },
         {
-          "pID": "967934580",
-          "name": "中网训练场2"
+          "pID": "967972649",
+          "name": "【回放】布云朝克特2-1迈赫扎克（赛场原声）"
+        },
+        {
+          "pID": "967973784",
+          "name": "【回放】梅德维德夫2-0鲁瓦耶（中文解说）"
+        },
+        {
+          "pID": "967974119",
+          "name": "【回放】梅德维德夫2-0鲁瓦耶（赛场原声）"
+        },
+        {
+          "pID": "967975407",
+          "name": "2026ATP杭州网球公开赛男单第2轮回放：黄泽林2-1巴列霍（中文解说）"
+        },
+        {
+          "pID": "967975446",
+          "name": "2026ATP杭州网球公开赛男单第2轮回放：黄泽林2-1巴列霍（赛场原声）"
         }
       ]
     },
@@ -1410,7 +1430,11 @@
         },
         {
           "pID": "967970624",
-          "name": "全场回放（周冠达、侯英超、程靖淇）（��）"
+          "name": "全场回放（周冠达、侯英超、程靖淇）（二）"
+        },
+        {
+          "pID": "967971812",
+          "name": "全场回放（周冠达、侯英超、程靖淇）（三）"
         }
       ]
     },
@@ -1773,8 +1797,8 @@
       },
       "nodes": [
         {
-          "pID": "967822036",
-          "name": "赛场原声"
+          "pID": "967974812",
+          "name": "全场回放"
         }
       ]
     },
@@ -1821,8 +1845,8 @@
       },
       "nodes": [
         {
-          "pID": "967822017",
-          "name": "赛场原声"
+          "pID": "967974930",
+          "name": "全场回放"
         }
       ]
     },
@@ -1895,6 +1919,10 @@
         {
           "pID": "967973601",
           "name": "全场回放（蔡凯臣、王冠证）"
+        },
+        {
+          "pID": "967974784",
+          "name": "全场回放（赛场原声）"
         },
         {
           "pID": "967971745",
@@ -2020,6 +2048,10 @@
         "time": "09月26日19:30"
       },
       "nodes": [
+        {
+          "pID": "967974875",
+          "name": "全场集锦"
+        },
         {
           "pID": "967974387",
           "name": "全场回放（官方解说）"
@@ -2237,8 +2269,8 @@
       },
       "nodes": [
         {
-          "pID": "967815614",
-          "name": "赛场原声"
+          "pID": "967975208",
+          "name": "全场回放"
         }
       ]
     },
@@ -2337,8 +2369,8 @@
       },
       "nodes": [
         {
-          "pID": "967679210",
-          "name": "邓亚萍 侯英超 程靖淇"
+          "pID": "967974430",
+          "name": "全场回放（徐铭辰、常新宇、侯英超、程靖淇、邓亚萍）"
         }
       ]
     },
@@ -2348,10 +2380,10 @@
       "title": "英女超联赛",
       "keyword": "09月27日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "H2T集团体育场",
       "competitionName": "英女超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592159/202609021006_693623_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592159/202609270226_876831_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
       "pkInfoTitle": "伦敦城雌狮 vs 布赖顿",
       "modifyTitle": "英女超联赛",
@@ -2361,12 +2393,12 @@
       },
       "nodes": [
         {
-          "pID": "967839022",
-          "name": "邵凌霄"
+          "pID": "967975357",
+          "name": "全场回放（邵凌霄）"
         },
         {
-          "pID": "967839018",
-          "name": "赛场原声"
+          "pID": "967975361",
+          "name": "全场回放"
         }
       ]
     },
@@ -2404,7 +2436,7 @@
       "title": "UFC格斗之夜：罗萨斯VS巴塞洛斯 阿拉腾黑力出战",
       "keyword": "09月27日05:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTIQBEJN7.jpg",
