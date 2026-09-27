@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-28 00:14:05",
+  "updateTime": "2026-09-28 05:19:25",
   "data": [
     {
       "mgdbId": "120000594877",
@@ -58,7 +58,7 @@
         },
         {
           "pID": "967970412",
-          "name": "2026全国飞盘锦��赛Day2全场回放（官方解说）（二）"
+          "name": "2026全国飞盘锦标赛Day2全场回放（官方解说）（二）"
         }
       ]
     },
@@ -1943,7 +1943,11 @@
         },
         {
           "pID": "967990735",
-          "name": "2026ATP杭州网球公开赛男单1/4决赛回放：梅德维德夫2-1黄泽林（赛场原声）"
+          "name": "【回放】梅德维德夫2-1黄泽林（赛场原声）"
+        },
+        {
+          "pID": "967990967",
+          "name": "【回放】梅德维德夫2-1黄泽林（中文解说）"
         }
       ]
     },
@@ -2444,6 +2448,10 @@
         {
           "pID": "967987394",
           "name": "【回放】费尔南德斯2-0吉布森（英文原声）"
+        },
+        {
+          "pID": "967991123",
+          "name": "全场回放"
         }
       ]
     },
@@ -3019,10 +3027,10 @@
       "title": "英女超联赛",
       "keyword": "09月27日23:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "斯坦福桥球场",
       "competitionName": "英女超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592154/202609021005_502043_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592154/202609280158_646167_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
       "pkInfoTitle": "切尔西 vs 阿森纳",
       "modifyTitle": "英女超联赛",
@@ -3032,12 +3040,12 @@
       },
       "nodes": [
         {
-          "pID": "967840037",
-          "name": "兰子非"
+          "pID": "967991250",
+          "name": "全场回放（兰子非）"
         },
         {
-          "pID": "967839944",
-          "name": "赛场原声"
+          "pID": "967991286",
+          "name": "全场回放"
         }
       ]
     },
@@ -3062,34 +3070,6 @@
         {
           "pID": "967732419",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595044",
-      "pID": "967935935",
-      "title": "中国网球公开赛训练 Day4",
-      "keyword": "09月28日08:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "中国网球公开赛训练 Day4",
-      "modifyTitle": "中国网球公开赛训练 Day4",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月28日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "967935935",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967935969",
-          "name": "训练场2"
         }
       ]
     },
@@ -3150,7 +3130,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "金花内战上演 崔杰迎战强敌",
       "modifyTitle": "中国网球公开赛资格赛第一轮：金花内战上演 崔杰迎战强敌",
-      "presenters": "",
+      "presenters": "宋光振 张文悦 鸿昆",
       "matchInfo": {
         "time": "09月28日09:30"
       },
@@ -3162,6 +3142,14 @@
         {
           "pID": "967988639",
           "name": "混采"
+        },
+        {
+          "pID": "967990929",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967990927",
+          "name": "张文悦"
         },
         {
           "pID": "967705458",
@@ -3190,6 +3178,26 @@
         {
           "pID": "967705579",
           "name": "7号球场"
+        },
+        {
+          "pID": "967935935",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967935969",
+          "name": "训练场2"
+        },
+        {
+          "pID": "967990909",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "967990917",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "967990923",
+          "name": "宋光振"
         }
       ]
     },
@@ -3234,7 +3242,36 @@
       ]
     },
     {
+      "mgdbId": "120000595044",
+      "pID": "967935935",
+      "title": "中网赛前备战",
+      "keyword": "09月28日10:20",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "中网赛前备战",
+      "modifyTitle": "中国网球公开赛训练 Day4：中网赛前备战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月28日10:20"
+      },
+      "nodes": [
+        {
+          "pID": "967935935",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967935969",
+          "name": "训练场2"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595238",
+      "pID": "967990907",
       "title": "中国网球公开赛资格赛女单第一轮：任钰菲 vs 马烨欣",
       "keyword": "09月28日11:00",
       "sportItemId": "9",
@@ -3245,11 +3282,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "任钰菲 vs 马烨欣",
       "modifyTitle": "中国网球公开赛资格赛女单第一轮：任钰菲 vs 马烨欣",
-      "presenters": "",
+      "presenters": "宋光振",
       "matchInfo": {
         "time": "09月28日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967990929",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967990907",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "300000002379",
@@ -3274,6 +3320,7 @@
     },
     {
       "mgdbId": "120000595239",
+      "pID": "967990905",
       "title": "中国网球公开赛资格赛女单第一轮：党一鸣 vs 尤晓迪",
       "keyword": "09月28日12:30",
       "sportItemId": "9",
@@ -3284,11 +3331,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "党一鸣 vs 尤晓迪",
       "modifyTitle": "中国网球公开赛资格赛女单第一轮：党一鸣 vs 尤晓迪",
-      "presenters": "",
+      "presenters": "张文悦",
       "matchInfo": {
         "time": "09月28日12:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967990927",
+          "name": "张文悦"
+        },
+        {
+          "pID": "967990905",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000594845",
@@ -3611,7 +3667,7 @@
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "中国自行车运动���会系列赛",
+      "competitionName": "中国自行车运动协会系列赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
       "pkInfoTitle": "2026第十四届环鄱阳湖国际自行车大赛",
@@ -5495,7 +5551,7 @@
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "中国网球公开赛",
+      "competitionName": "中国���球公开赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "中国网球公开赛训练 Day10",
