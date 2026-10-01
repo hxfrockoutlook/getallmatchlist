@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-01 05:20:19",
+  "updateTime": "2026-10-01 14:21:31",
   "data": [
     {
       "mgdbId": "300000002339",
@@ -741,20 +741,20 @@
       },
       "nodes": [
         {
-          "pID": "968062870",
-          "name": "2026中国网球公开赛训练Day6二号训练场全场回放（赛场原声）（二）"
+          "pID": "968058429",
+          "name": "【一号训练场全场回放】（赛场原声）（一）"
         },
         {
           "pID": "968061984",
-          "name": "2026中国网球公开赛训练Day6一号训练场全场回放（赛场原声）（二）"
-        },
-        {
-          "pID": "968058429",
-          "name": "2026中国网球公开赛训练Day6一号训练场全场回放（赛场原声）（一）"
+          "name": "【一号训练场全场回放】（赛场原声）（二）"
         },
         {
           "pID": "968056008",
-          "name": "2026中国网球公开赛训练Day6二号训练场全场回放（赛场原声）（一）"
+          "name": "【二号训练场全场回放】（赛场原声）（一）"
+        },
+        {
+          "pID": "968062870",
+          "name": "【二号训练场全场回放】（赛场原声）（二）"
         }
       ]
     },
@@ -836,10 +836,6 @@
         "time": "09月30日11:00"
       },
       "nodes": [
-        {
-          "pID": "968067985",
-          "name": "2026中国网球公开赛女单第1轮回放：邦达尔0-2扎拉祖阿（赛场原声）"
-        },
         {
           "pID": "968062254",
           "name": "【男单第1轮】博尔热斯0-2德约科维奇（鸿昆、刘钟鸣）"
@@ -935,6 +931,10 @@
         {
           "pID": "968055332",
           "name": "【女单第1轮】曾丽美2-1卡利尼娜（赛场原声）"
+        },
+        {
+          "pID": "968067985",
+          "name": "【女单第1轮】邦达尔0-2扎拉祖阿（赛场原声）"
         },
         {
           "pID": "968057269",
@@ -1061,24 +1061,24 @@
       },
       "nodes": [
         {
+          "pID": "968058317",
+          "name": "【回放】斯佳辉5-3加里·威尔逊（卢正浩）"
+        },
+        {
           "pID": "968057265",
-          "name": "26/27赛季斯诺克深圳公开赛资格赛第3轮回放：斯图尔特·宾汉姆0-5克里斯·韦克林（赛场原声）"
+          "name": "【回放】斯图尔特·宾汉姆0-5克里斯·韦克林（赛场原声）"
         },
         {
           "pID": "968057779",
-          "name": "26/27赛季斯诺克深圳公开赛资格赛第3轮回放：塔猜亚·乌努0-5迈克尔·霍尔特（赛场原声）"
-        },
-        {
-          "pID": "968058317",
-          "name": "26/27赛季斯诺克深圳公开赛资格赛第3轮回放：斯佳辉5-3加里·威尔逊（卢正浩）"
+          "name": "【回放】塔猜亚·乌努0-5迈克尔·霍尔特（赛场原声）"
         },
         {
           "pID": "968058567",
-          "name": "26/27赛季斯诺克深圳公开赛资格赛第3轮回放：杰克逊·佩奇1-5马克·塞尔比（赛场原声）"
+          "name": "【回放】杰克逊·佩奇1-5马克·塞尔比（赛场原声）"
         },
         {
           "pID": "968059166",
-          "name": "26/27赛季斯诺克深圳公开赛资格赛第3轮回放：斯佳辉5-3加里·威尔逊（赛场原声）"
+          "name": "【回放】斯佳辉5-3加里·威尔逊（赛场原声）"
         }
       ]
     },
@@ -1163,7 +1163,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "奥利尼科娃 vs 袁悦",
       "modifyTitle": "奥利尼科娃 vs 袁悦",
-      "presenters": "",
+      "presenters": "乔迁",
       "matchInfo": {
         "time": "09月30日15:10"
       },
@@ -1415,7 +1415,7 @@
       "pID": "968047537",
       "title": "咪咕体育日报 第197期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -1436,7 +1436,7 @@
       "title": "国际足球赛day2",
       "keyword": "10月01日08:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1I98KCG39.jpg",
@@ -1460,13 +1460,13 @@
       "title": "全力备战！训练场迎来熟悉的身影",
       "keyword": "10月01日09:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33FJ6ROP6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
-      "modifyTitle": "中国网球公开赛训练 Day7",
+      "modifyTitle": "中国网球公开赛训练 Day7：全力备战！训练场迎来熟悉的身影",
       "presenters": "",
       "matchInfo": {
         "time": "10月01日09:00"
@@ -1479,6 +1479,10 @@
         {
           "pID": "967936153",
           "name": "训练场2"
+        },
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》郑钦文"
         }
       ]
     },
@@ -1488,7 +1492,7 @@
       "title": "第一日热身区",
       "keyword": "10月01日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q34D9DRKFK.png",
@@ -1512,7 +1516,7 @@
       "title": "戈21体验日",
       "keyword": "10月01日10:20",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "玄奘之路戈壁挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2G2U84M65.png",
@@ -1542,44 +1546,48 @@
         },
         {
           "pID": "968008815",
-          "name": "跟拍1"
+          "name": "复旦大学视角"
         },
         {
           "pID": "968008839",
-          "name": "跟拍2"
+          "name": "长江大学视角"
         },
         {
           "pID": "968008868",
-          "name": "跟拍3"
+          "name": "厦门大学视角"
         },
         {
           "pID": "968008887",
-          "name": "跟拍4"
+          "name": "中大管院视角"
         },
         {
           "pID": "968008922",
-          "name": "跟拍5"
+          "name": "交大高金视角"
         }
       ]
     },
     {
       "mgdbId": "120000594587",
-      "pID": "967705846",
-      "title": "德米纳尔冲首胜 张之臻/周意出战男双",
+      "pID": "968063762",
+      "title": "张之臻/周意出战男双！德米纳尔横扫晋级",
       "keyword": "10月01日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2HH9AN0L4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q31572KJ44.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "德米纳尔冲首胜 张之臻/周意出战男双",
-      "modifyTitle": "中国网球公开赛男女单打第一轮：德米纳尔冲首胜 张之臻/周意出战男双",
+      "pkInfoTitle": "张之臻/周意出战男双！德米纳尔横扫晋级",
+      "modifyTitle": "中国网球公开赛男女单打第一轮：张之臻/周意出战男双！德米纳尔横扫晋级",
       "presenters": "郭丰庆 刘钟鸣 宋光振 于筱睿 单文强 乔迁 蔡凯臣 鸿昆 胡力涛",
       "matchInfo": {
         "time": "10月01日11:00"
       },
       "nodes": [
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
+        },
         {
           "pID": "968063762",
           "name": "郑钦文 vs 施晗"
@@ -1619,6 +1627,14 @@
         {
           "pID": "967705999",
           "name": "4号球场"
+        },
+        {
+          "pID": "967934510",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967934580",
+          "name": "训练场2"
         },
         {
           "pID": "968063801",
@@ -1665,15 +1681,15 @@
     {
       "mgdbId": "120000595131",
       "pID": "968036383",
-      "title": "内战！韩菲儿PK杨屹韵 国乒众将冲正赛",
+      "title": "韩菲儿3-1杨屹韵 国乒众将冲正赛",
       "keyword": "10月01日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2GJ3O99P8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q31EJH75R1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "内战！韩菲儿PK杨屹韵 国乒众将冲正赛",
+      "pkInfoTitle": "韩菲儿3-1杨屹韵 国乒众将冲正赛",
       "modifyTitle": "WTT中国大满贯男女单打资格赛第一轮",
       "presenters": "徐晨皓",
       "matchInfo": {
@@ -1689,48 +1705,48 @@
           "name": "热身区"
         },
         {
-          "pID": "968024403",
-          "name": "混采区"
-        },
-        {
-          "pID": "968036272",
-          "name": "2号桌"
-        },
-        {
           "pID": "968036332",
           "name": "3号桌"
         },
         {
           "pID": "968036364",
           "name": "4号桌"
+        },
+        {
+          "pID": "968036272",
+          "name": "2号桌"
+        },
+        {
+          "pID": "968024403",
+          "name": "混采区"
         }
       ]
     },
     {
       "mgdbId": "120000595467",
-      "pID": "968063789",
+      "pID": "968063762",
       "title": "2026中国网球公开赛女单第一轮：郑钦文 vs 施晗",
       "keyword": "10月01日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2HDHKNL7S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "郑钦文 vs 施晗",
       "modifyTitle": "2026中国网球公开赛女单第一轮：郑钦文 vs 施晗",
-      "presenters": "郭丰庆 刘钟鸣",
+      "presenters": "詹俊 王蔷",
       "matchInfo": {
         "time": "10月01日11:00"
       },
       "nodes": [
         {
-          "pID": "968063762",
-          "name": "郭丰庆 刘钟鸣"
+          "pID": "968060157",
+          "name": "《中国榜样》郑钦文"
         },
         {
-          "pID": "968063789",
-          "name": "赛场原声"
+          "pID": "968063762",
+          "name": "詹俊 王蔷"
         },
         {
           "pID": "967936118",
@@ -1739,27 +1755,39 @@
         {
           "pID": "967936153",
           "name": "训练场2"
+        },
+        {
+          "pID": "968052833",
+          "name": "钻石球场4K"
+        },
+        {
+          "pID": "968063789",
+          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000594853",
-      "pID": "967835305",
+      "pID": "968069767",
       "title": "凯伦·威尔逊PK霍尔特 塞尔比、罗伯逊出战",
       "keyword": "10月01日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2GC49B1VA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊PK霍尔特 塞尔比、罗伯逊出战",
       "modifyTitle": "斯诺克深圳公开赛：凯伦·威尔逊PK霍尔特 塞尔比、罗伯逊出战",
-      "presenters": "",
+      "presenters": "陶哲铭",
       "matchInfo": {
         "time": "10月01日14:00"
       },
       "nodes": [
+        {
+          "pID": "968069767",
+          "name": "陶哲铭"
+        },
         {
           "pID": "967835305",
           "name": "1号桌"
@@ -1782,7 +1810,7 @@
       "mgdbId": "120000595522",
       "pID": "968063824",
       "title": "2026中国网球公开赛女单第一轮：邵羽杉 vs 扎哈洛娃",
-      "keyword": "10月01日14:00",
+      "keyword": "10月01日15:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -1793,9 +1821,13 @@
       "modifyTitle": "2026中国网球公开赛女单第一轮：邵羽杉 vs 扎哈洛娃",
       "presenters": "乔迁",
       "matchInfo": {
-        "time": "10月01日14:00"
+        "time": "10月01日15:00"
       },
       "nodes": [
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
+        },
         {
           "pID": "968063838",
           "name": "乔迁"
@@ -1805,20 +1837,16 @@
           "name": "赛场原声"
         },
         {
-          "pID": "967936118",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936153",
-          "name": "训练场2"
+          "pID": "968052851",
+          "name": "莲花球场4K"
         }
       ]
     },
     {
       "mgdbId": "120000595554",
       "pID": "968063855",
-      "title": "2026中国网球公开赛女单第一轮：商竣程 vs 巴埃斯",
-      "keyword": "10月01日14:00",
+      "title": "2026中国网球公开赛男单第一轮：商竣程 vs 巴埃斯",
+      "keyword": "10月01日15:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -1826,12 +1854,16 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2H384MSPD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "商竣程 vs 巴埃斯",
-      "modifyTitle": "2026中国网球公开赛女单第一轮：商竣程 vs 巴埃斯",
+      "modifyTitle": "2026中国网球公开赛男单第一轮：商竣程 vs 巴埃斯",
       "presenters": "蔡凯臣",
       "matchInfo": {
-        "time": "10月01日14:00"
+        "time": "10月01日15:00"
       },
       "nodes": [
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
+        },
         {
           "pID": "968063867",
           "name": "蔡凯臣"
@@ -1839,14 +1871,6 @@
         {
           "pID": "968063855",
           "name": "赛场原声"
-        },
-        {
-          "pID": "967936118",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936153",
-          "name": "训练场2"
         }
       ]
     },
@@ -1869,6 +1893,10 @@
       },
       "nodes": [
         {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
+        },
+        {
           "pID": "968064027",
           "name": "宋光振"
         },
@@ -1877,12 +1905,8 @@
           "name": "赛场原声"
         },
         {
-          "pID": "967936118",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936153",
-          "name": "训练场2"
+          "pID": "968052833",
+          "name": "钻石球场4K"
         }
       ]
     },
@@ -1905,6 +1929,10 @@
       },
       "nodes": [
         {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
+        },
+        {
           "pID": "968064103",
           "name": "鸿昆"
         },
@@ -1913,12 +1941,8 @@
           "name": "赛场原声"
         },
         {
-          "pID": "967936118",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936153",
-          "name": "训练场2"
+          "pID": "968052851",
+          "name": "莲花球场4K"
         }
       ]
     },
@@ -1941,12 +1965,8 @@
       },
       "nodes": [
         {
-          "pID": "967936118",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936153",
-          "name": "训练场2"
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
         },
         {
           "pID": "968064143",
@@ -2069,6 +2089,10 @@
       },
       "nodes": [
         {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文：美网“涅槃重生”展现心路历程 我的实力足以打败任何人"
+        },
+        {
           "pID": "968064170",
           "name": "胡力涛"
         },
@@ -2077,12 +2101,8 @@
           "name": "赛场原声"
         },
         {
-          "pID": "967936118",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936153",
-          "name": "训练场2"
+          "pID": "968052833",
+          "name": "钻石球场4K"
         }
       ]
     },
@@ -2108,8 +2128,29 @@
       ]
     },
     {
+      "mgdbId": "300000002425",
+      "pID": "967502892",
+      "title": "蓄势冲锋！探讨国足当下与未来",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "绿茵狂想：联赛季",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q32VRDPKSC.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVD4MV77K9.png",
+      "pkInfoTitle": "蓄势冲锋！探讨国足当下与未来",
+      "modifyTitle": "《绿茵狂想：联赛季》第7期",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967502892",
+          "name": "詹俊 刘越 孙继海 杨茗茗"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000594854",
-      "pID": "967835384",
+      "pID": "968069776",
       "title": "吴宜泽PK里奇·沃顿 斯佳辉、袁思俊出战",
       "keyword": "10月01日19:30",
       "sportItemId": "8",
@@ -2120,11 +2161,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吴宜泽PK里奇·沃顿 斯佳辉、袁思俊出战",
       "modifyTitle": "斯诺克深圳公开赛：吴宜泽PK里奇·沃顿 斯佳辉、袁思俊出战",
-      "presenters": "",
+      "presenters": "秦正 涂子轩",
       "matchInfo": {
         "time": "10月01日19:30"
       },
       "nodes": [
+        {
+          "pID": "968069776",
+          "name": "秦正"
+        },
+        {
+          "pID": "968069773",
+          "name": "涂子轩"
+        },
         {
           "pID": "967835384",
           "name": "1号桌"
@@ -2331,23 +2380,23 @@
         },
         {
           "pID": "968009170",
-          "name": "跟拍1"
+          "name": "复旦大学视角"
         },
         {
           "pID": "968009182",
-          "name": "跟拍2"
+          "name": "长江大学视角"
         },
         {
           "pID": "968009209",
-          "name": "跟拍3"
+          "name": "厦门大学视角"
         },
         {
           "pID": "968009218",
-          "name": "跟拍4"
+          "name": "中大管院视角"
         },
         {
           "pID": "968009237",
-          "name": "跟拍5"
+          "name": "交大高金视角"
         }
       ]
     },
@@ -2907,7 +2956,7 @@
       "mgdbId": "120000595405",
       "pID": "968033429",
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U10小组赛第2轮",
-      "keyword": "10月02日17:00",
+      "keyword": "10��02日17:00",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
@@ -2918,7 +2967,7 @@
       "modifyTitle": "“萨马兰奇杯”国际青少年足球邀请赛U10小组赛第2轮",
       "presenters": "",
       "matchInfo": {
-        "time": "10月02日17:00"
+        "time": "10��02日17:00"
       },
       "nodes": [
         {
@@ -2930,12 +2979,12 @@
     {
       "mgdbId": "300000002417",
       "pID": "968024428",
-      "title": "【抽���仪式】侯英超领衔解签&前瞻",
+      "title": "【抽签仪式】侯英超领衔解签&前瞻",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2HMMH8JH4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q34279TL4N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "【抽签仪式】侯英超领衔解签&前瞻",
       "modifyTitle": "WTT中国大满贯观察室",
@@ -6223,7 +6272,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1I94MFJGO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/7/1000000015161067b4f2.jpg",
       "pkInfoTitle": "国际足球赛day7",
-      "modifyTitle": "贵州村超全国赛国际赛���决赛",
+      "modifyTitle": "贵州村超全国赛国际赛总决赛",
       "presenters": "",
       "matchInfo": {
         "time": "10月06日18:30"
@@ -6906,6 +6955,60 @@
       ]
     },
     {
+      "mgdbId": "120000595006",
+      "title": "市南区vs李沧区",
+      "keyword": "10月07日15:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "青岛城市足球争霸赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
+      "pkInfoTitle": "市南区vs李沧区",
+      "modifyTitle": "市南区vs李沧区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月07日15:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000595008",
+      "title": "平度市vs即墨区",
+      "keyword": "10月07日15:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "青岛城市足球争霸赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595008/202609240948_772515_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
+      "pkInfoTitle": "平度市vs即墨区",
+      "modifyTitle": "平度市vs即墨区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月07日15:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000595009",
+      "title": "市北区vs城阳区",
+      "keyword": "10月07日15:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "青岛城市足球争霸赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595009/202609240955_816549_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
+      "pkInfoTitle": "市北区vs城阳区",
+      "modifyTitle": "市北区vs城阳区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月07日15:00"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000592542",
       "title": "中乙保级赛",
       "keyword": "10月07日16:00",
@@ -7085,6 +7188,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "海门珂缔缘 vs 厦门飞鹭",
       "modifyTitle": "中乙保级赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月07日19:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000595007",
+      "title": "崂山区vs莱西市",
+      "keyword": "10月07日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "青岛城市足球争霸赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595007/202609240950_662695_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
+      "pkInfoTitle": "崂山区vs莱西市",
+      "modifyTitle": "崂山区vs莱西市",
       "presenters": "",
       "matchInfo": {
         "time": "10月07日19:30"
