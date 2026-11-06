@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-07 00:18:02",
+  "updateTime": "2026-11-07 05:24:19",
   "data": [
     {
       "mgdbId": "120000590511",
@@ -2367,10 +2367,6 @@
           "name": "【全场回放】二号场地（赛场原声）（一）"
         },
         {
-          "pID": "969176864",
-          "name": "【全场回放】三号场地（赛场原声）（二）"
-        },
-        {
           "pID": "969178429",
           "name": "2026BWF韩国羽毛球公开赛Day4三号场地全场回放（赛场原声）（一）"
         },
@@ -2475,6 +2471,14 @@
       },
       "nodes": [
         {
+          "pID": "969184653",
+          "name": "【女单1/4决赛】鲁季奇0-2伊埃拉（宋光振）"
+        },
+        {
+          "pID": "969185042",
+          "name": "【女单1/4决赛】鲁季奇0-2伊埃拉（赛场原声）"
+        },
+        {
           "pID": "969180816",
           "name": "【女单1/4决赛】萨斯诺维奇0-2萨卡里（赛场原声）"
         },
@@ -2485,6 +2489,10 @@
         {
           "pID": "969174044",
           "name": "【女单1/4决赛】森梅兹0-2刘婧文（赛场原声）"
+        },
+        {
+          "pID": "969185105",
+          "name": "【女单1/4决赛】鲁季奇0-2伊埃拉（英文原声）"
         },
         {
           "pID": "969181063",
@@ -2732,32 +2740,36 @@
     {
       "mgdbId": "120000598560",
       "pID": "968951956",
-      "title": "里内特出战 曾丽美逆转晋级四强",
+      "title": "斯特凡尼尼因伤退赛 曾丽美逆转晋级",
       "keyword": "11月06日17:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JFEBFQUI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3EHIVLPIG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "里内特出战 曾丽美逆转晋级四强",
-      "modifyTitle": "WTA250金奈站女单1/4决赛：里内特出战 曾丽美逆转晋级四强",
+      "pkInfoTitle": "斯特凡尼尼因伤退赛 曾丽美逆转晋级",
+      "modifyTitle": "WTA250金奈站女单1/4决赛：斯特凡尼尼因伤退赛 曾丽美逆转晋级",
       "presenters": "",
       "matchInfo": {
         "time": "11月06日17:30"
       },
       "nodes": [
         {
-          "pID": "968951956",
-          "name": "赛场原声"
+          "pID": "969186799",
+          "name": "2026WTA250金奈站女单1/4决赛回放：扎哈洛娃2-0斯特凡尼尼（赛场原声）"
         },
         {
-          "pID": "968951977",
-          "name": "英文原声"
+          "pID": "969185895",
+          "name": "【女单1/4决赛】本玉真唯1-2里内特（赛场原声）"
         },
         {
-          "pID": "969087730",
-          "name": "解说"
+          "pID": "969182884",
+          "name": "【女单1/4决赛】蒙哥马利2-0蕾瓦蒂（赛场原声）"
+        },
+        {
+          "pID": "969180701",
+          "name": "【女单1/4决赛】曾丽美2-1库德梅托娃（赛场原声）"
         }
       ]
     },
@@ -2773,7 +2785,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2HBFL5DBV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：热火 vs 勇士",
-      "modifyTitle": "NBA经���赛事",
+      "modifyTitle": "NBA经典赛事",
       "presenters": "杨健 郭艾伦 霍楠",
       "matchInfo": {
         "time": "11月06日18:00"
@@ -2830,7 +2842,7 @@
         },
         {
           "pID": "969181553",
-          "name": "���场回放（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -3069,11 +3081,11 @@
     },
     {
       "mgdbId": "120000598242",
-      "pID": "968853922",
+      "pID": "969182696",
       "title": "周启豪1-3林昀儒 陈幸同横扫晋级八强",
       "keyword": "11月06日20:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3HBCH7OTI.png",
@@ -3086,20 +3098,24 @@
       },
       "nodes": [
         {
-          "pID": "969181591",
-          "name": "周启豪1-3林昀儒"
+          "pID": "969185051",
+          "name": "全场回放（周冠达、侯英超、程靖淇）"
         },
         {
-          "pID": "969182696",
-          "name": "陈幸同集锦"
+          "pID": "969186698",
+          "name": "全场回放"
         },
         {
-          "pID": "968853922",
-          "name": "周冠达 侯英超 程靖淇"
+          "pID": "969185136",
+          "name": "全场回放（CCTV5）"
         },
         {
-          "pID": "969135535",
-          "name": "CCTV5"
+          "pID": "969185164",
+          "name": "全场回放（英文解说AI字幕）"
+        },
+        {
+          "pID": "969185095",
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -3122,35 +3138,27 @@
       },
       "nodes": [
         {
-          "pID": "969164747",
-          "name": "赛场原声"
+          "pID": "969184653",
+          "name": "【回放】鲁季奇0-2伊埃拉（宋光振）"
         },
         {
-          "pID": "968951232",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969164771",
-          "name": "宋光振"
-        },
-        {
-          "pID": "969088720",
-          "name": "AI同声传译"
+          "pID": "969185042",
+          "name": "【回放】鲁季奇0-2伊埃拉（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000596326",
       "pID": "969088567",
-      "title": "ONE周五格斗夜177：伊萨努厄VS杰克",
+      "title": "杰克判定胜伊萨努厄 冉龙署遗憾遭KO",
       "keyword": "11月06日21:30",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KUCI8CKG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
-      "pkInfoTitle": "ONE周五格斗夜177：伊萨努厄VS杰克",
+      "pkInfoTitle": "杰克判定胜伊萨努厄 冉龙署遗憾遭KO",
       "modifyTitle": "ONE周五格斗夜177：伊萨努厄VS杰克",
       "presenters": "李威蓄",
       "matchInfo": {
@@ -3158,57 +3166,77 @@
       },
       "nodes": [
         {
-          "pID": "969088567",
-          "name": "李威蓄"
+          "pID": "969184890",
+          "name": "伊萨努厄VS杰克"
         },
         {
-          "pID": "969088585",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000600175",
-      "pID": "969170499",
-      "title": "国际自盟场地自行车世锦赛-1",
-      "keyword": "11月07日00:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "国际自盟场地自行车世锦赛-1",
-      "modifyTitle": "国际自盟场地自行车世锦赛-1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月07日00:05"
-      },
-      "nodes": [
+          "pID": "969184612",
+          "name": "萨克西里VS苏珀波"
+        },
         {
-          "pID": "969170499",
-          "name": "解说"
+          "pID": "969183998",
+          "name": "查特佩VS赛佩勒克"
+        },
+        {
+          "pID": "969183742",
+          "name": "佩丹VS猜颂克兰"
+        },
+        {
+          "pID": "969183536",
+          "name": "克林帕卡VS冉龙署"
+        },
+        {
+          "pID": "969183258",
+          "name": "蓬素阿芒VS山崎一央"
+        },
+        {
+          "pID": "969182922",
+          "name": "差育VS奥村健太郎"
+        },
+        {
+          "pID": "969182292",
+          "name": "冈崎VS雄飞"
+        },
+        {
+          "pID": "969181592",
+          "name": "马拉茨VS指田烈"
+        },
+        {
+          "pID": "969184994",
+          "name": "ONE周五格斗夜177期全场回放（李威蓄）"
+        },
+        {
+          "pID": "969185319",
+          "name": "ONE周五格斗夜177期全场回放（英文原声）"
+        },
+        {
+          "pID": "969186010",
+          "name": "ONE周五格斗夜177期全场回放（清流原声）"
         }
       ]
     },
     {
       "mgdbId": "120000598243",
-      "pID": "968854106",
-      "title": "蒯曼、陈熠冲8强 德乒内战！韩莹PK温特",
+      "pID": "969186200",
+      "title": "蒯曼横扫 陈熠五局力克佩索茨卡晋级",
       "keyword": "11月07日01:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MTH4CDRR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3FAL2CAR8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "蒯曼、陈熠冲8强 德乒内战！韩莹PK温特",
+      "pkInfoTitle": "蒯曼横扫 陈熠五局力克佩索茨卡晋级",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/8决赛",
       "presenters": "徐儒叶",
       "matchInfo": {
         "time": "11月07日01:30"
       },
       "nodes": [
+        {
+          "pID": "969186200",
+          "name": "蒯曼集锦"
+        },
         {
           "pID": "968854106",
           "name": "徐儒叶"
@@ -3229,10 +3257,10 @@
       "title": "德甲联赛",
       "keyword": "11月07日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "人民公园球场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588150/202608131643_282786_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588150/911656_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "汉堡 vs 门兴格拉德巴赫",
       "modifyTitle": "德甲联赛",
@@ -3261,10 +3289,10 @@
       "title": "法甲联赛",
       "keyword": "11月07日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Stadium de Toulouse",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584452/202607231556_236836_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584452/202611070513_172741_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "图卢兹 vs 斯特拉斯堡",
       "modifyTitle": "法甲联赛",
@@ -3293,10 +3321,10 @@
       "title": "意甲联赛",
       "keyword": "11月07日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "皮埃路易吉·彭佐体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584792/202607231659_164894_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584792/202611070509_759421_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "威尼斯 vs 乌迪内斯",
       "modifyTitle": "意甲联赛",
@@ -3325,7 +3353,7 @@
       "title": "足总杯第一轮",
       "keyword": "11月07日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "农场球场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000599312/202611051115_736793_H169_1080.webp",
@@ -3353,7 +3381,7 @@
       "title": "英超联赛",
       "keyword": "11月07日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Hill Dickinson Stadium",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584189/682307_H169_sc.jpg",
@@ -3389,7 +3417,7 @@
       "title": "西甲联赛",
       "keyword": "11月07日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "皮斯胡安球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586127/931047_H169_sc.jpg",
@@ -3883,43 +3911,43 @@
         },
         {
           "pID": "969183831",
-          "name": "杨妮娜"
+          "name": "李卓耀VS赖浩俊"
         },
         {
           "pID": "969183833",
-          "name": "杨妮娜"
+          "name": "安洗莹VS明地阳菜"
         },
         {
           "pID": "969183839",
-          "name": "孙宁智"
+          "name": "林湘缇VS山口茜"
         },
         {
           "pID": "969183850",
-          "name": "孙宁智"
+          "name": "林瑞蓉/李欣梅VS广上瑁依/保原彩夏"
         },
         {
           "pID": "969183860",
-          "name": "孙宁智"
+          "name": "蒋振邦/魏雅欣VS古贺辉/斋藤夏"
         },
         {
           "pID": "969183872",
-          "name": "鸿昆"
+          "name": "高家炫/吴梦莹VS朱一珺/李茜"
         },
         {
           "pID": "969183879",
-          "name": "鸿昆"
+          "name": "金裕贞/李幽琳VS陈樊淑湉/罗徐敏"
         },
         {
           "pID": "969183895",
-          "name": "轩子博"
+          "name": "姜珉赫/李钟民VS保木卓朗/小林优吾"
         },
         {
           "pID": "969183921",
-          "name": "杨妮娜"
+          "name": "金元浩/徐承宰VS万炜聪/郑凯文"
         },
         {
           "pID": "969183936",
-          "name": "轩子博"
+          "name": "王子维VS吴英伦"
         }
       ]
     },
@@ -4202,7 +4230,7 @@
     {
       "mgdbId": "120000598565",
       "pID": "968951331",
-      "title": "舒布拉泽PK刘婧文 蒋欣玗组合冲决赛",
+      "title": "舒布拉泽PK刘婧文 伊埃拉接场亮相",
       "keyword": "11月07日14:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -4210,8 +4238,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2J4I4QTU6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "舒布拉泽PK刘婧文 蒋欣玗组合冲决赛",
-      "modifyTitle": "WTA250香港站女双、单半决赛：舒布拉泽PK刘婧文 蒋欣玗组合冲决赛",
+      "pkInfoTitle": "舒布拉泽PK刘婧文 伊埃拉接场亮相",
+      "modifyTitle": "WTA250香港站女双、单半决赛：舒布拉泽PK刘婧文 伊埃拉接场亮相",
       "presenters": "",
       "matchInfo": {
         "time": "11月07日14:00"
@@ -4870,6 +4898,24 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000600227",
+      "title": "WTA250香港站女单半决赛：萨卡里 vs 伊埃拉",
+      "keyword": "11月07日16:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3HF3O7V4G.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "萨卡里 vs 伊埃拉",
+      "modifyTitle": "WTA250香港站女单半决赛：萨卡里 vs 伊埃���",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月07日16:00"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000600176",
@@ -5598,7 +5644,7 @@
     {
       "mgdbId": "120000598244",
       "pID": "968854127",
-      "title": "温瑞博PK林昀儒 陈幸同冲半决赛",
+      "title": "温瑞博PK林昀儒 蒯曼、陈幸同冲四强",
       "keyword": "11月07日20:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -5606,7 +5652,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JOCTI86F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "温瑞博PK林昀儒 陈幸同冲半决赛",
+      "pkInfoTitle": "温瑞博PK林昀儒 蒯曼、陈幸同冲四强",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/4决赛",
       "presenters": "周冠达 周雨 程靖淇",
       "matchInfo": {
@@ -5703,7 +5749,7 @@
       "mgdbId": "120000592341",
       "pID": "969129224",
       "title": "亚冠女足小组赛",
-      "keyword": "11月07日20:30",
+      "keyword": "11��07日20:30",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "图瓦纳青训球场",
@@ -5714,7 +5760,7 @@
       "modifyTitle": "亚冠女足小组赛",
       "presenters": "胡小凡",
       "matchInfo": {
-        "time": "11月07日20:30"
+        "time": "11��07日20:30"
       },
       "nodes": [
         {
@@ -6352,7 +6398,7 @@
       "matchStatus": "0",
       "matchField": "斯图加特体育场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588154/202608131645_970847_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588154/821540_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "斯图加特 vs 不来梅",
       "modifyTitle": "德甲联赛",
@@ -6374,7 +6420,7 @@
     {
       "mgdbId": "120000598245",
       "pID": "968854375",
-      "title": "松岛辉空出战 汉娜·高达PK大藤沙月",
+      "title": "陈熠冲半决赛 松岛辉空对阵小弗",
       "keyword": "11月08日01:30",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -6382,7 +6428,7 @@
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "松岛辉空出战 汉娜·高达PK大藤沙月",
+      "pkInfoTitle": "陈熠冲半决赛 松岛辉空对阵小弗",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/4决赛",
       "presenters": "张靖松",
       "matchInfo": {
@@ -7196,7 +7242,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/3/10000000157610623797.png",
       "pkInfoTitle": "RIZIN55：李凯文VS牛久绚太郎",
       "modifyTitle": "RIZIN55：李凯文VS牛久绚太郎",
-      "presenters": "陈瑞阳 郑文祺",
+      "presenters": "陈瑞阳 郑文��",
       "matchInfo": {
         "time": "11月08日13:00"
       },
@@ -9318,7 +9364,7 @@
       "matchStatus": "0",
       "matchField": "Europa-Park Stadion",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588152/202608131646_880388_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588152/696057_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "弗赖堡 vs 柏林联合",
       "modifyTitle": "德甲联赛",
@@ -9494,9 +9540,9 @@
       "matchStatus": "0",
       "matchField": "莱茵内卡河球场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588153/202608131606_346274_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3EG5DAVII.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
-      "pkInfoTitle": "霍芬海姆 vs 沙尔克04",
+      "pkInfoTitle": "霍芬海姆 vs 沙���克04",
       "modifyTitle": "德甲联赛",
       "presenters": "周楚雄",
       "matchInfo": {
@@ -10971,7 +11017,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖恩·墨菲vs罗尼·奥沙利文",
-      "modifyTitle": "斯诺克冠中冠：肖恩��墨菲vs罗尼·奥沙利文",
+      "modifyTitle": "斯诺克冠中冠：肖恩·墨菲vs罗尼·奥沙利文",
       "presenters": "卢正浩",
       "matchInfo": {
         "time": "11月11日21:00"
