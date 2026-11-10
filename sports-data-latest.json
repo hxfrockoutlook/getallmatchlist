@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-11 00:14:45",
+  "updateTime": "2026-11-11 05:20:51",
   "data": [
     {
       "mgdbId": "120000600170",
@@ -486,7 +486,7 @@
         },
         {
           "pID": "969285092",
-          "name": "全场回放（张昊泽、李欣）"
+          "name": "全场回放（张昊泽、李���）"
         },
         {
           "pID": "969285030",
@@ -850,7 +850,7 @@
         },
         {
           "pID": "969298510",
-          "name": "全场回放（英文原声）"
+          "name": "全场回放（英��原声）"
         },
         {
           "pID": "969289376",
@@ -1735,7 +1735,7 @@
         },
         {
           "pID": "969322501",
-          "name": "【回放】达布劳斯基/史蒂芬妮2-0梅尔滕斯/张帅（AI同声传译）"
+          "name": "【回放】达布劳斯基/史��芬妮2-0梅尔滕斯/张帅（AI同声传译）"
         },
         {
           "pID": "969317951",
@@ -1827,7 +1827,7 @@
         },
         {
           "pID": "969320913",
-          "name": "【回放���安德列娃2-0斯维托丽娜（英文原声）"
+          "name": "【回放】安德列娃2-0斯维托丽娜（英文原声）"
         },
         {
           "pID": "969318481",
@@ -2367,7 +2367,7 @@
         },
         {
           "pID": "969330827",
-          "name": "【回放】福岛由纪/松本麻佑2-1李怡婧/王漪朵（余博洋）"
+          "name": "【回放】福岛由纪/松本麻佑2-1李怡婧/王漪朵（���博洋）"
         },
         {
           "pID": "969321044",
@@ -2508,7 +2508,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
       "pkInfoTitle": "肇庆74-67湛江",
-      "modifyTitle": "广东省女子篮球联赛附加赛",
+      "modifyTitle": "广东省女子篮球联��附加赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月10日14:30"
@@ -2689,6 +2689,14 @@
         {
           "pID": "969339643",
           "name": "2026全国羽毛球团体锦标赛男团甲组第一阶段第2轮回放：湖北3-2江西（赛场原声）"
+        },
+        {
+          "pID": "969341580",
+          "name": "2026全国羽毛球团体锦标赛女团甲组第一阶段第2轮回放：江苏一队3-2湖北（赛场原声）"
+        },
+        {
+          "pID": "969341685",
+          "name": "2026全国羽毛球团体锦标赛男团甲组第一阶段第2轮回放：江苏4-1上海一队（赛场原声）"
         }
       ]
     },
@@ -2767,7 +2775,7 @@
     {
       "mgdbId": "120000600157",
       "pID": "969170213",
-      "title": "斯诺克冠中冠：尼尔·罗伯逊vs潘查娅·查诺伊",
+      "title": "斯诺克冠中冠：尼尔·罗伯逊 4-2 潘查娅·查诺伊",
       "keyword": "11月10日21:00",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -2775,8 +2783,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T66DBAS4P1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "尼尔·罗伯逊vs潘查娅·查诺伊",
-      "modifyTitle": "斯诺克冠中冠：尼尔·罗伯逊vs潘查娅·查诺伊",
+      "pkInfoTitle": "尼尔·罗伯逊 4-2 潘查娅·查诺伊",
+      "modifyTitle": "斯诺克冠中冠：尼尔·罗伯逊 4-2 潘查娅·查诺伊",
       "presenters": "杨江浩",
       "matchInfo": {
         "time": "11月10日21:00"
@@ -2785,16 +2793,24 @@
         {
           "pID": "969340010",
           "name": "26/27赛季斯诺克冠中冠第四小组回放：尼尔·罗伯逊4-2潘查亚·查努伊（杨江浩）"
+        },
+        {
+          "pID": "969340873",
+          "name": "26/27赛季斯诺克冠中冠第四小组回放：尼尔·罗伯逊4-2潘查亚·查努伊（AI观赛）"
+        },
+        {
+          "pID": "969341002",
+          "name": "26/27赛季斯诺克冠中冠第四小组回放：尼尔·罗伯逊4-2潘查亚·查努伊（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000600142",
-      "pID": "969163449",
+      "pID": "969163746",
       "title": "全开源、冯怡璇横扫 魏璟茗喜提开门红",
       "keyword": "11月10日21:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T68EGCVT9T.jpg",
@@ -2807,104 +2823,72 @@
       },
       "nodes": [
         {
-          "pID": "969163449",
-          "name": "2号桌"
+          "pID": "969339970",
+          "name": "全场回放（林睿思）"
+        },
+        {
+          "pID": "969340820",
+          "name": "全场回放（一号桌）"
+        },
+        {
+          "pID": "969341077",
+          "name": "全场回放（二号桌）"
+        },
+        {
+          "pID": "969341547",
+          "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "969340892",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000600158",
       "pID": "969170449",
-      "title": "斯诺克冠中冠：贾德·特鲁姆普vs杰克·琼斯",
+      "title": "斯诺克冠中冠：贾德·特鲁姆普 3-4 杰克·琼斯",
       "keyword": "11月10日22:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T66EKLQP10.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "贾德·特鲁姆普vs杰克·琼斯",
-      "modifyTitle": "斯诺克冠中冠：贾德·特鲁姆普vs杰克·琼斯",
+      "pkInfoTitle": "贾德·特鲁姆普 3-4 杰克·琼斯",
+      "modifyTitle": "斯诺克冠中冠：贾德·特鲁姆普 3-4 杰克·琼斯",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "11月10日22:30"
       },
       "nodes": [
         {
-          "pID": "969170449",
-          "name": "现场原声"
+          "pID": "969341721",
+          "name": "【回放】贾德·特鲁姆普3-4杰克·琼斯（朱峰立）"
         },
         {
-          "pID": "969170503",
-          "name": "解说"
+          "pID": "969341832",
+          "name": "26/27赛季斯诺克冠中冠第四小组回放：贾德·特鲁姆普3-4杰克·琼斯（AI观赛）"
         },
         {
-          "pID": "969170537",
-          "name": "AI智慧分析"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000600907",
-      "pID": "969327591",
-      "title": "顶级赛事-围棋",
-      "keyword": "11月11日00:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国围棋协会系列赛事",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/3/10000000150510690cba.png",
-      "pkInfoTitle": "顶级赛事-围棋",
-      "modifyTitle": "顶级赛事-围棋",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月11日00:05"
-      },
-      "nodes": [
-        {
-          "pID": "969327591",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000600919",
-      "pID": "969329369",
-      "title": "中国队两金一铜",
-      "keyword": "11月11日00:50",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "中国队两金一铜",
-      "modifyTitle": "中国队两金一铜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月11日00:50"
-      },
-      "nodes": [
-        {
-          "pID": "969329369",
-          "name": "解说"
+          "pID": "969341900",
+          "name": "26/27赛季斯诺克冠中冠第四小组回放：贾德·特鲁姆普3-4杰克·琼斯（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000600159",
       "pID": "969170597",
-      "title": "斯诺克冠中冠第四小组决赛",
+      "title": "斯诺克冠中冠第四小组决赛：尼尔·罗伯逊 vs 杰克·琼斯",
       "keyword": "11月11日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T72RECTKA8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克冠中冠第四小组决赛",
-      "modifyTitle": "斯诺克冠中冠：斯诺克冠中冠第四小组决赛",
+      "pkInfoTitle": "尼尔·罗伯逊vs杰克·琼斯",
+      "modifyTitle": "斯诺克冠中冠第四小组决赛：尼尔·罗伯逊 vs 杰克·琼斯",
       "presenters": "杨江源",
       "matchInfo": {
         "time": "11月11日03:00"
@@ -2925,48 +2909,12 @@
       ]
     },
     {
-      "mgdbId": "120000599142",
-      "pID": "969331492",
-      "title": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
-      "keyword": "11月11日04:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65J9ANTP3.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "科斯秋克 vs 佩古拉",
-      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
-      "presenters": "房朕",
-      "matchInfo": {
-        "time": "11月11日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "969331492",
-          "name": "科斯秋克 vs 佩古拉"
-        },
-        {
-          "pID": "969331165",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "969335311",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969306531",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000600263",
       "pID": "969331492",
       "title": "佩古拉率先出战 高芙接场亮相",
       "keyword": "11月11日04:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65EPI9J6E.png",
@@ -3005,6 +2953,42 @@
         {
           "pID": "969332168",
           "name": "布克沙/梅里查尔 vs 埃拉尼/保利尼"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000599142",
+      "pID": "969331492",
+      "title": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
+      "keyword": "11月11日04:15",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65J9ANTP3.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "科斯秋克 vs 佩古拉",
+      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
+      "presenters": "房朕",
+      "matchInfo": {
+        "time": "11月11日04:15"
+      },
+      "nodes": [
+        {
+          "pID": "969331492",
+          "name": "科斯秋克 vs 佩古拉"
+        },
+        {
+          "pID": "969331165",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969335311",
+          "name": "英文原声"
+        },
+        {
+          "pID": "969306531",
+          "name": "解说"
         }
       ]
     },
@@ -3595,15 +3579,15 @@
     {
       "mgdbId": "120000600143",
       "pID": "969163911",
-      "title": "袁励岑/纵歌曼冲胜 方博混双出战",
+      "title": "袁励岑/纵歌曼冲正赛 方博混双出战",
       "keyword": "11月11日15:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T75TRKJ05T.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "袁励岑/纵歌曼冲胜 方博混双出战",
+      "pkInfoTitle": "袁励岑/纵歌曼冲正赛 方博混双出战",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打资格赛第二轮及双打资格赛",
       "presenters": "张铭哲 凌维康",
       "matchInfo": {
@@ -4350,10 +4334,6 @@
         },
         {
           "pID": "969268571",
-          "name": "5���场地"
-        },
-        {
-          "pID": "969268571",
           "name": "5号场地"
         }
       ]
@@ -4982,7 +4962,7 @@
         },
         {
           "pID": "969268540",
-          "name": "5号场��"
+          "name": "5��场地"
         },
         {
           "pID": "969268540",
@@ -5497,6 +5477,10 @@
         {
           "pID": "969268364",
           "name": "3号场地"
+        },
+        {
+          "pID": "969268520",
+          "name": "5���场地"
         },
         {
           "pID": "969268520",
