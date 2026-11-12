@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-13 00:15:05",
+  "updateTime": "2026-11-13 05:20:43",
   "data": [
     {
       "mgdbId": "120000600159",
@@ -1415,7 +1415,7 @@
         },
         {
           "pID": "969373227",
-          "name": "全场回放（���文原声）"
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969366682",
@@ -2113,6 +2113,14 @@
         {
           "pID": "969387652",
           "name": "【男团第二阶段回放】浙江一队3-0湖北（赛场原声）"
+        },
+        {
+          "pID": "969388301",
+          "name": "2026全国羽毛球团体锦标赛男团第二阶段回放：江苏2-3湖南（赛场原声）"
+        },
+        {
+          "pID": "969390029",
+          "name": "2026全国羽毛球团体锦标赛女团第二阶段回放：浙江2-3四川（赛场原声）"
         }
       ]
     },
@@ -2421,26 +2429,26 @@
         },
         {
           "pID": "969387556",
-          "name": "26/27赛季斯诺克冠中冠第二小组决赛回放：赵心童4-0塔猜亚·乌诺（赛场原声）"
+          "name": "【回放】赵心童4-0塔猜亚·乌诺（赛场原声）"
         },
         {
           "pID": "969387607",
-          "name": "26/27赛季斯诺克冠中冠第二小组决赛回放：赵心童4-0塔猜亚·乌诺（AI观赛）"
+          "name": "【回放】赵心童4-0塔猜亚·乌诺（AI观赛）"
         }
       ]
     },
     {
       "mgdbId": "120000600146",
       "pID": "969164595",
-      "title": "范姝涵vs纵歌曼 覃予萱冲16强",
+      "title": "纵歌曼3-2范姝涵 覃予萱横扫进16强",
       "keyword": "11月12日21:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T82M08Q3SR.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8T2L3QP8V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "范姝涵vs纵歌曼 覃予萱冲16强",
+      "pkInfoTitle": "纵歌曼3-2范姝涵 覃予萱横扫进16强",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打1/16决赛及男女双打1/8决赛",
       "presenters": "高文清",
       "matchInfo": {
@@ -2448,56 +2456,52 @@
       },
       "nodes": [
         {
-          "pID": "969164595",
-          "name": "高文清"
+          "pID": "969390040",
+          "name": "全场回放（高文清）"
         },
         {
-          "pID": "969164363",
-          "name": "3号桌"
+          "pID": "969390091",
+          "name": "全场回放（一号桌）"
         },
         {
-          "pID": "969164386",
-          "name": "4号桌"
+          "pID": "969390145",
+          "name": "全场回放（三号桌）"
         },
         {
-          "pID": "969164293",
-          "name": "1号桌"
-        },
-        {
-          "pID": "969164343",
-          "name": "2号桌"
+          "pID": "969390056",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000600164",
       "pID": "969171315",
-      "title": "斯诺克冠中冠：凯伦·威尔逊 vs 阿里·卡特",
+      "title": "斯诺克冠中冠：凯伦·威尔逊 4-2 阿里·卡特",
       "keyword": "11月12日22:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T82A0RQFO3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊 vs 阿里·卡特",
-      "modifyTitle": "斯诺克冠中冠：凯伦·威尔逊 vs 阿里·卡特",
+      "pkInfoTitle": "凯伦·威尔逊 4-2 阿里·卡特",
+      "modifyTitle": "斯诺克冠中冠：凯伦·威尔逊 4-2 阿里·卡特",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "11月12日22:00"
       },
       "nodes": [
         {
-          "pID": "969171324",
-          "name": "解说：朱峰立"
+          "pID": "969389689",
+          "name": "【回放】凯伦·威尔逊4-2阿里·卡特（朱峰立）"
         },
         {
-          "pID": "969171315",
-          "name": "现场原声"
+          "pID": "969389910",
+          "name": "26/27赛季斯诺克冠中冠第二小组回放：凯伦·威尔逊4-2阿里·卡特（AI观赛）"
         },
         {
-          "pID": "969171354",
-          "name": "AI智慧分析"
+          "pID": "969390008",
+          "name": "26/27赛季斯诺克冠中冠第二小组回放：凯伦·威尔逊4-2阿里·卡特（赛场原声）"
         }
       ]
     },
@@ -2507,10 +2511,10 @@
       "title": "欧乒联男子欧冠联赛1/8决赛第一回合：蓬图瓦兹塞尔吉vs杜塞尔多夫",
       "keyword": "11月13日02:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T80QMPV8HJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8TMTHBLB3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/13/1000000013711060938f.png",
       "pkInfoTitle": "蓬图瓦兹塞尔吉vs杜塞尔多夫",
       "modifyTitle": "欧乒联男子欧冠联赛1/8决赛第一回合：蓬图瓦兹塞尔吉vs杜塞尔多夫",
@@ -2532,68 +2536,32 @@
     {
       "mgdbId": "120000600165",
       "pID": "969171389",
-      "title": "斯诺克冠中冠第二小组决赛",
+      "title": "斯诺克冠中冠第二小组决赛：赵心童 vs 凯伦·威尔逊",
       "keyword": "11月13日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T903DC83JJ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克冠中冠第二小组决赛",
-      "modifyTitle": "斯诺克冠中冠：斯诺克冠中冠第二小组决赛",
+      "pkInfoTitle": "赵心童 vs 凯伦·威尔逊",
+      "modifyTitle": "斯诺克冠中冠第二小组决赛：赵心童 vs 凯伦·威尔逊",
       "presenters": "陶哲铭",
       "matchInfo": {
         "time": "11月13日03:00"
       },
       "nodes": [
         {
-          "pID": "969171389",
-          "name": "现场原声"
-        },
-        {
           "pID": "969171417",
           "name": "陶哲铭"
         },
         {
+          "pID": "969171389",
+          "name": "现场原声"
+        },
+        {
           "pID": "969171461",
           "name": "AI智慧观赛"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000599144",
-      "pID": "969378163",
-      "title": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
-      "keyword": "11月13日04:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74KE4NBDG.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "科斯秋克 vs 高芙",
-      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
-      "presenters": "房朕",
-      "matchInfo": {
-        "time": "11月13日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "969306505",
-          "name": "解说"
-        },
-        {
-          "pID": "969378163",
-          "name": "科斯秋克 vs 高芙（房朕）"
-        },
-        {
-          "pID": "969378145",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "969378120",
-          "name": "英文原声"
         }
       ]
     },
@@ -2603,7 +2571,7 @@
       "title": "全力争胜！高芙、佩古拉接连登场",
       "keyword": "11月13日04:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74LTA0SQR.png",
@@ -2646,10 +2614,46 @@
       ]
     },
     {
+      "mgdbId": "120000599144",
+      "pID": "969378163",
+      "title": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
+      "keyword": "11月13日04:15",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74KE4NBDG.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "科斯秋克 vs 高芙",
+      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
+      "presenters": "房朕",
+      "matchInfo": {
+        "time": "11月13日04:15"
+      },
+      "nodes": [
+        {
+          "pID": "969306505",
+          "name": "解说"
+        },
+        {
+          "pID": "969378163",
+          "name": "科斯秋克 vs 高芙（房朕）"
+        },
+        {
+          "pID": "969378145",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969378120",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000599140",
       "pID": "969378254",
       "title": "WTA年终总决赛小组赛：佩古拉 vs 诺斯科娃",
-      "keyword": "11月13日05:30",
+      "keyword": "11月13日06:30",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -2660,7 +2664,7 @@
       "modifyTitle": "WTA年终总决赛小组赛：佩古拉 vs 诺斯科娃",
       "presenters": "蔡凯臣 张文悦",
       "matchInfo": {
-        "time": "11月13日05:30"
+        "time": "11月13日06:30"
       },
       "nodes": [
         {
@@ -3013,15 +3017,15 @@
     {
       "mgdbId": "120000600147",
       "pID": "969164705",
-      "title": "男女单打1/8决赛、双打1/4决赛",
+      "title": "黄友政/覃予萱冲4强 纵歌曼PK长崎",
       "keyword": "11月13日15:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8TCP8GICQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/8决赛、双打1/4决赛",
+      "pkInfoTitle": "黄友政/覃予萱冲4强 纵歌曼PK长崎",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打1/8决赛、双打1/4决赛",
       "presenters": "凌维康 林睿思",
       "matchInfo": {
@@ -3256,15 +3260,15 @@
     {
       "mgdbId": "120000600148",
       "pID": "969164819",
-      "title": "男女单打1/8决赛及双打1/4决赛、混双半决赛",
+      "title": "陈俊菘对阵方博 李天阳争八强",
       "keyword": "11月13日21:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8TD4U061A.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/8决赛及双打1/4决赛、混双半决赛",
+      "pkInfoTitle": "陈俊菘对阵方博 李天阳争八强",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打1/8决赛及双打1/4决赛、混双半决赛",
       "presenters": "高文清",
       "matchInfo": {
@@ -3294,7 +3298,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8TUO4LKEF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/13/1000000013711060938f.png",
       "pkInfoTitle": "比亚韦斯托克多vs苏赫德纽夫奥利奇兹",
       "modifyTitle": "欧乒联男子欧冠联赛1/8决赛第一回合：比亚韦斯托克多vs苏赫德纽夫奥利奇兹",
@@ -3818,10 +3822,6 @@
         {
           "pID": "969268364",
           "name": "3号场地"
-        },
-        {
-          "pID": "969268520",
-          "name": "5号场��"
         },
         {
           "pID": "969268520",
@@ -5509,7 +5509,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000600889/202611101014_903083_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
       "pkInfoTitle": "亳州vs黄山",
-      "modifyTitle": "安徽省青少年足球��赛",
+      "modifyTitle": "安徽省青少年足球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月15日14:30"
