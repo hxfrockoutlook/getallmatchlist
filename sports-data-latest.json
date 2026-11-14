@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-15 00:14:52",
+  "updateTime": "2026-11-15 05:21:47",
   "data": [
     {
       "mgdbId": "120000600338",
@@ -90,7 +90,7 @@
         },
         {
           "pID": "969393507",
-          "name": "【女单小组赛】佩古拉2-1诺斯科娃（蔡凯臣、张文悦）（50帧原画）"
+          "name": "【女单小组赛】佩古拉2-1诺斯科娃（蔡凯臣、张���悦）（50帧原画）"
         },
         {
           "pID": "969395450",
@@ -106,7 +106,7 @@
         },
         {
           "pID": "969397134",
-          "name": "【女单小组赛】佩古拉2-1诺斯��娃（赛场原声）"
+          "name": "【女单小组赛】佩古拉2-1诺斯科娃（赛场原声）"
         },
         {
           "pID": "969397265",
@@ -1329,7 +1329,7 @@
         },
         {
           "pID": "969416730",
-          "name": "26/27赛季斯诺克冠中冠半决赛回放：克里斯·韦克林6-2尼尔·罗伯逊（AI观赛���"
+          "name": "26/27赛季斯诺克冠中冠半决赛回放：克里斯·韦克林6-2尼尔·罗伯逊（AI观赛）"
         }
       ]
     },
@@ -1821,7 +1821,7 @@
         },
         {
           "pID": "969428319",
-          "name": "2026BWF日本羽毛球大��赛第五日一号场地全场回放（英文原声）（一）"
+          "name": "2026BWF日本羽毛球大师赛第五日一号场地全场回放（英文原声）（一）"
         },
         {
           "pID": "969428361",
@@ -2359,6 +2359,10 @@
         {
           "pID": "969428883",
           "name": "2026全国攀岩锦标赛重庆九龙坡Day3全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "969437368",
+          "name": "2026全国攀岩锦标赛重庆九龙坡Day3全场回放（官方解说）（二）"
         }
       ]
     },
@@ -2646,7 +2650,7 @@
       "mgdbId": "120000600881",
       "pID": "969321126",
       "title": "安徽省青少年足球联赛",
-      "keyword": "11月14��� 19:30",
+      "keyword": "11月14日19:30",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "",
@@ -2657,7 +2661,7 @@
       "modifyTitle": "安徽省青少年足球联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月14��� 19:30"
+        "time": "11月14日19:30"
       },
       "nodes": [
         {
@@ -2685,8 +2689,8 @@
       },
       "nodes": [
         {
-          "pID": "969321176",
-          "name": "赛场原声"
+          "pID": "969437080",
+          "name": "全场回放"
         }
       ]
     },
@@ -2709,8 +2713,8 @@
       },
       "nodes": [
         {
-          "pID": "969321183",
-          "name": "赛场原声"
+          "pID": "969437371",
+          "name": "全场回放"
         }
       ]
     },
@@ -2861,8 +2865,8 @@
       },
       "nodes": [
         {
-          "pID": "969353277",
-          "name": "赛场原声"
+          "pID": "969436786",
+          "name": "全场回放"
         }
       ]
     },
@@ -2898,26 +2902,22 @@
         },
         {
           "pID": "969433860",
-          "name": "全场回放"
-        },
-        {
-          "pID": "969434226",
-          "name": "全场回放"
+          "name": "全场回放（CCTV5）"
         }
       ]
     },
     {
       "mgdbId": "120000600938",
       "pID": "969355384",
-      "title": "Zuffa拳击第13期：阿达梅斯VS沃伯顿",
+      "title": "阿达梅斯击败沃伯顿 莫洛尼首秀告捷",
       "keyword": "11月14日20:15",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "Zuffa拳击",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9T339THMQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000139810626c9f.png",
-      "pkInfoTitle": "Zuffa拳击第13期：阿达梅斯VS沃伯顿",
+      "pkInfoTitle": "阿达梅斯击败沃伯顿 莫洛尼首秀告捷",
       "modifyTitle": "Zuffa拳击第13期：阿达梅斯VS沃伯顿",
       "presenters": "陈瑞阳",
       "matchInfo": {
@@ -2925,12 +2925,48 @@
       },
       "nodes": [
         {
-          "pID": "969355384",
-          "name": "陈瑞阳"
+          "pID": "969437836",
+          "name": "【全场终结集锦】"
         },
         {
-          "pID": "969355795",
-          "name": "英文原声"
+          "pID": "969437658",
+          "name": "【单场集锦】莫洛尼VS特兰"
+        },
+        {
+          "pID": "969437879",
+          "name": "全场回放（陈瑞阳）"
+        },
+        {
+          "pID": "969437650",
+          "name": "莫洛尼VS特兰"
+        },
+        {
+          "pID": "969437443",
+          "name": "苏拉切VS贝德纳雷克"
+        },
+        {
+          "pID": "969434233",
+          "name": "阿瓦吉VS卢贝加"
+        },
+        {
+          "pID": "969433838",
+          "name": "佐基罗夫VS科兰托尼奥"
+        },
+        {
+          "pID": "969433430",
+          "name": "布塔耶夫VS卡斯特罗"
+        },
+        {
+          "pID": "969432205",
+          "name": "萨伊利VS阿勒泰比"
+        },
+        {
+          "pID": "969431687",
+          "name": "奥尔蒂斯VS库奇梅诺夫"
+        },
+        {
+          "pID": "969430547",
+          "name": "博伊马托夫VS伊努萨"
         }
       ]
     },
@@ -2977,12 +3013,12 @@
       },
       "nodes": [
         {
-          "pID": "969334470",
-          "name": "林梦鸽"
+          "pID": "969437390",
+          "name": "全场回放（AI观赛）"
         },
         {
-          "pID": "969334448",
-          "name": "赛场原声"
+          "pID": "969437396",
+          "name": "全场回放（林梦鸽）"
         }
       ]
     },
@@ -2992,10 +3028,10 @@
       "title": "方博让二追三锁定决赛 桥本3-1平野",
       "keyword": "11月14日21:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9STFUQGC4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAN0DV2ME7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "方博让二追三锁定决赛 桥本3-1平野",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打半决赛、混双决赛",
@@ -3005,55 +3041,27 @@
       },
       "nodes": [
         {
-          "pID": "969165045",
-          "name": "高文清"
+          "pID": "969437664",
+          "name": "全场回放（高文清）"
         },
         {
-          "pID": "969296072",
-          "name": "同看乒乓欧冠"
-        },
-        {
-          "pID": "969165013",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601239",
-      "pID": "969406263",
-      "title": "国际自盟场地自行车世锦赛-1",
-      "keyword": "11月14日21:40",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "国际自盟场地自行车世锦赛-1",
-      "modifyTitle": "国际自盟场地自行车世锦赛-1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月14日21:40"
-      },
-      "nodes": [
-        {
-          "pID": "969406263",
-          "name": "解说"
+          "pID": "969437968",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000600442",
       "pID": "969355595",
-      "title": "PFL迪拜站：内姆科夫VS比洛斯特尼",
+      "title": "比洛斯特尼判定夺冠 哈比罗拉站立断头胜",
       "keyword": "11月14日22:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "PFL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QA41R1CI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png",
-      "pkInfoTitle": "PFL迪拜站：内姆科夫VS比洛斯特尼",
+      "pkInfoTitle": "比洛斯特尼判定夺冠 哈比罗拉站立断头胜",
       "modifyTitle": "PFL迪拜站：内姆科夫VS比洛斯特尼",
       "presenters": "何鹏",
       "matchInfo": {
@@ -3061,12 +3069,60 @@
       },
       "nodes": [
         {
-          "pID": "969355595",
-          "name": "何鹏"
+          "pID": "969438040",
+          "name": "哈比罗拉VS达夫拉维"
         },
         {
-          "pID": "969355602",
-          "name": "英文原声"
+          "pID": "969437971",
+          "name": "拉赫马尼VS波波夫"
+        },
+        {
+          "pID": "969437861",
+          "name": "佩提斯VS后藤丈治"
+        },
+        {
+          "pID": "969437790",
+          "name": "麦格里伦VS阿布扎赫"
+        },
+        {
+          "pID": "969437832",
+          "name": "副赛全场回放（何鹏）"
+        },
+        {
+          "pID": "969437988",
+          "name": "副赛全场回放（英文原声）"
+        },
+        {
+          "pID": "969437708",
+          "name": "洛克VS休斯"
+        },
+        {
+          "pID": "969437612",
+          "name": "努尔马戈梅多夫V马丁内斯"
+        },
+        {
+          "pID": "969437405",
+          "name": "佩甘德VS马戈梅多夫"
+        },
+        {
+          "pID": "969436676",
+          "name": "马戈梅德沙里波夫VS博里奇斯"
+        },
+        {
+          "pID": "969434192",
+          "name": "罗德里格兹VS麦基"
+        },
+        {
+          "pID": "969434378",
+          "name": "戈尔佐夫VS纳纳"
+        },
+        {
+          "pID": "969433839",
+          "name": "纳比耶夫VS纳干诺"
+        },
+        {
+          "pID": "969433328",
+          "name": "萨维切娃VS奥斯汀"
         }
       ]
     },
@@ -3076,10 +3132,10 @@
       "title": "英女超联赛",
       "keyword": "11月14日23:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "布雷耶集团球场",
       "competitionName": "英女超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592114/202609020956_192654_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592114/202611150111_430531_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
       "pkInfoTitle": "托特纳姆热刺 vs 埃弗顿",
       "modifyTitle": "英女超联赛",
@@ -3089,12 +3145,16 @@
       },
       "nodes": [
         {
-          "pID": "969334583",
-          "name": "张天翼"
+          "pID": "969437462",
+          "name": "全场回放"
         },
         {
-          "pID": "969334563",
-          "name": "赛场原声"
+          "pID": "969437480",
+          "name": "全场回放（张天翼）"
+        },
+        {
+          "pID": "969437476",
+          "name": "全场回放"
         }
       ]
     },
@@ -3104,10 +3164,10 @@
       "title": "欧乒联男子欧冠联赛1/8决赛第一回合：博戈里亚vs圣特克拉努尔维",
       "keyword": "11月15日00:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9SUJHPDJ0.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAQ8B76DRT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/13/1000000013711060938f.png",
       "pkInfoTitle": "博戈里亚vs圣特克拉努尔维",
       "modifyTitle": "欧乒联男子欧冠联赛1/8决赛第一回合：博戈里亚vs圣特克拉努尔维",
@@ -3117,12 +3177,12 @@
       },
       "nodes": [
         {
-          "pID": "969296072",
-          "name": "徐儒叶"
+          "pID": "969437670",
+          "name": "全场回放（徐儒叶）"
         },
         {
-          "pID": "969296056",
-          "name": "赛场原声"
+          "pID": "969437825",
+          "name": "26/27赛季乒乓球欧冠1/8决赛第一回合全场回放：博戈里亚3-1圣特克拉努尔维（赛场原声）"
         }
       ]
     },
@@ -3132,10 +3192,10 @@
       "title": "英女超联赛",
       "keyword": "11月15日01:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "美国运通社区球场",
       "competitionName": "英女超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592115/202609020956_254318_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592115/202611150325_172932_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
       "pkInfoTitle": "布赖顿 vs 利物浦",
       "modifyTitle": "英女超联赛",
@@ -3145,26 +3205,26 @@
       },
       "nodes": [
         {
-          "pID": "969334654",
-          "name": "胡小凡"
+          "pID": "969437907",
+          "name": "全场回放（胡小凡）"
         },
         {
-          "pID": "969334625",
-          "name": "赛场原声"
+          "pID": "969437922",
+          "name": "全场回放"
         },
         {
-          "pID": "969399780",
-          "name": "智能解说"
+          "pID": "969437974",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000600167",
-      "pID": "969171694",
+      "pID": "969171618",
       "title": "斯诺克冠中冠半决赛：肖恩·墨菲 vs 凯伦·威尔逊",
       "keyword": "11月15日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8V5PR5J15.png",
@@ -3188,13 +3248,13 @@
       "title": "安德列娃首战佩古拉 诺斯科娃接场亮相",
       "keyword": "11月15日04:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9R1KFHKH5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "安德列娃首战佩古拉 诺斯科娃接场亮相",
-      "modifyTitle": "WTA年终总决赛半决赛：安德列娃首战佩古拉 诺斯科娃接场亮相",
+      "modifyTitle": "WTA年终总决赛半决赛：���德列娃首战佩古拉 诺斯科娃接场亮相",
       "presenters": "王东 王蔷 张浩 房朕",
       "matchInfo": {
         "time": "11月15日04:00"
@@ -3234,9 +3294,9 @@
       "mgdbId": "120000601226",
       "pID": "969424046",
       "title": "WTA年终总决赛小组赛：佩古拉 vs 米拉·安德列娃",
-      "keyword": "11月15日04:00",
+      "keyword": "11月15日04:10",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QRBR8LOJ.png",
@@ -3245,7 +3305,7 @@
       "modifyTitle": "WTA年终总决赛小组赛：佩古拉 vs 米拉·安德列娃",
       "presenters": "王东 王蔷 张浩",
       "matchInfo": {
-        "time": "11月15日04:00"
+        "time": "11月15日04:10"
       },
       "nodes": [
         {
@@ -3743,6 +3803,10 @@
         {
           "pID": "969242219",
           "name": "英文原声"
+        },
+        {
+          "pID": "969242219",
+          "name": "英��原声"
         }
       ]
     },
@@ -3810,23 +3874,23 @@
         },
         {
           "pID": "969433495",
-          "name": "鸿昆"
+          "name": "蒋振邦/魏雅欣VS高家炫/吴梦莹"
         },
         {
           "pID": "969433500",
-          "name": "鸿昆"
+          "name": "山口茜VS王祉怡"
         },
         {
           "pID": "969433504",
-          "name": "鸿昆"
+          "name": "岩永铃/中西贵映VS平本梨梨菜/志田千阳"
         },
         {
           "pID": "969433512",
-          "name": "余博洋"
+          "name": "保木卓朗/小林优吾VS戴伟钦/叶睿庆"
         },
         {
           "pID": "969433518",
-          "name": "余博洋"
+          "name": "拉克什亚VS渡边航贵"
         }
       ]
     },
@@ -3857,7 +3921,7 @@
     {
       "mgdbId": "120000600982",
       "pID": "969346328",
-      "title": "全国攀岩锦标赛重庆九龙坡Day4",
+      "title": "全国攀岩锦标赛���庆九龙坡Day4",
       "keyword": "11月15日13:45",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -4146,7 +4210,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAN29AGJ9C.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "方博全力冲冠 桥本决赛PK朱芊曦",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打决赛、双打决赛",
@@ -5926,27 +5990,9 @@
       "nodes": []
     },
     {
-      "mgdbId": "120000588438",
-      "title": "NBA常规赛",
-      "keyword": "11月19日10:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "波尔体育馆",
-      "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588438/202608140450_426518_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "凯尔特人VS掘金",
-      "modifyTitle": "NBA常规赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月19日10:00"
-      },
-      "nodes": []
-    },
-    {
       "mgdbId": "120000588439",
       "title": "NBA常规赛",
-      "keyword": "11月19日10:30",
+      "keyword": "11月19日09:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "美国航线中心体育馆",
@@ -5954,6 +6000,24 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588439/202608140450_135256_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS独行侠",
+      "modifyTitle": "NBA常规赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月19日09:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000588438",
+      "title": "NBA常规赛",
+      "keyword": "11月19日10:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "波尔体育馆",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588438/202608140450_426518_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "凯尔特人VS掘金",
       "modifyTitle": "NBA常规赛",
       "presenters": "",
       "matchInfo": {
