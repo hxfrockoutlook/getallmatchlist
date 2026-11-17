@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-18 00:16:28",
+  "updateTime": "2026-11-18 05:22:01",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -337,7 +337,7 @@
       "keyword": "11月16日06:00",
       "sportItemId": "2",
       "matchStatus": "2",
-      "matchField": "���美中心球馆",
+      "matchField": "达美中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBM5SAE2JB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
@@ -734,7 +734,7 @@
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TANI1ULB8Q.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/c8067363-371e-49f9-8bdb-3e1a18ac0f7d.png",
-      "pkInfoTitle": "中国篮球放映室：浙江vs山东",
+      "pkInfoTitle": "中国篮球��映室：浙江vs山东",
       "modifyTitle": "CBA经典赛事",
       "presenters": "周鹏 丁伟 丁彦雨航",
       "matchInfo": {
@@ -1578,7 +1578,7 @@
     {
       "mgdbId": "300000002581",
       "pID": "969489698",
-      "title": "《球你���说了》官媒暗讽？杨瀚森处境堪忧？",
+      "title": "《球你别说了》官媒暗讽？杨瀚森处境堪忧？",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
@@ -1771,8 +1771,16 @@
           "name": "【全场回放】二号场地（赛场原声）（一）"
         },
         {
+          "pID": "969507626",
+          "name": "【全场回放】二号场地（赛场原声）（二）"
+        },
+        {
           "pID": "969499499",
           "name": "【全场回放】三号场地（赛场原声）（一）"
+        },
+        {
+          "pID": "969506925",
+          "name": "【全场回放】三号场地（赛场原声）（二）"
         },
         {
           "pID": "969499967",
@@ -1781,74 +1789,94 @@
         {
           "pID": "969505709",
           "name": "【全场回放】四号场地（赛场原声）（二）"
-        },
-        {
-          "pID": "969506925",
-          "name": "2026BWF中国香港羽毛球公开赛第一日三号场地全场回放（赛场原声）（二）"
         }
       ]
     },
     {
       "mgdbId": "120000601203",
-      "pID": "969405393",
-      "title": "姚朋成PK布雷切尔 江俊出战",
+      "pID": "969405149",
+      "title": "江俊5-0速胜 张家玮5-4沃拉斯顿",
       "keyword": "11月17日18:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCJRQ121VG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "姚朋成PK布雷切尔 江俊出战",
-      "modifyTitle": "斯诺克德国大师赛资格赛：姚朋成PK布雷切尔 江俊出战",
-      "presenters": "柏林 陶哲铭 乔迁 杨江浩",
+      "pkInfoTitle": "江俊5-0速胜 张家玮5-4沃拉斯顿",
+      "modifyTitle": "斯诺克德国大师赛资格赛：江俊5-0速胜 张家玮5-4沃拉斯顿",
+      "presenters": "乔迁 陶哲铭 柏林 杨江浩",
       "matchInfo": {
         "time": "11月17日18:00"
       },
       "nodes": [
         {
-          "pID": "969405393",
-          "name": "柏林"
+          "pID": "969508509",
+          "name": "【回放】江俊5-0约书亚·托蒙德（杨江浩）"
         },
         {
-          "pID": "969405349",
-          "name": "杨江浩"
+          "pID": "969505033",
+          "name": "【回放】傅家俊5-2奥利弗·��恩斯（陶哲铭）"
         },
         {
-          "pID": "969405072",
-          "name": "3号桌"
+          "pID": "969502227",
+          "name": "【回放】利亚姆·普伦5-0白雨露（乔迁）"
         },
         {
-          "pID": "969405101",
-          "name": "4号桌"
+          "pID": "969509007",
+          "name": "【回放】卢卡·布雷切尔5-2姚朋成（柏林）"
         },
         {
-          "pID": "969405124",
-          "name": "5号桌"
+          "pID": "969508808",
+          "name": "【回放】利亚姆·普伦5-0白雨露（AI观赛）"
         },
         {
-          "pID": "969405149",
-          "name": "6号桌"
+          "pID": "969505057",
+          "name": "【回放】许医尘2-5罗泽涛（赛场原声）"
         },
         {
-          "pID": "969405182",
-          "name": "7号桌"
+          "pID": "969504995",
+          "name": "【回放】斯蒂芬·霍尔沃斯5-3吴安仪（赛场原声）"
         },
         {
-          "pID": "969405217",
-          "name": "8号桌"
+          "pID": "969508208",
+          "name": "【回放】罗斯·缪尔4-5邓壕辉（赛场原声）"
         },
         {
-          "pID": "969405287",
-          "name": "陶哲铭"
+          "pID": "969508773",
+          "name": "【回放】江俊5-0约书亚·托蒙德（赛场原声）"
         },
         {
-          "pID": "969405328",
-          "name": "乔迁"
+          "pID": "969506740",
+          "name": "【回放】傅家俊5-2奥利弗·莱恩斯（赛场原声）"
         },
         {
-          "pID": "969405049",
-          "name": "2号桌"
+          "pID": "969509452",
+          "name": "【回放】卢卡·布雷切尔5-2姚朋成（赛场原声）"
+        },
+        {
+          "pID": "969502787",
+          "name": "【回放】利亚姆·普伦5-0白雨露（赛场原声）"
+        },
+        {
+          "pID": "969508591",
+          "name": "【回放】斯坦·穆迪5-0肖恩·奥沙利文（赛场原声）"
+        },
+        {
+          "pID": "969504197",
+          "name": "【回放】塔纳瓦特·提拉朋派班5-2康诺·本齐（赛场原声）"
+        },
+        {
+          "pID": "969503031",
+          "name": "【回放】利亚姆·格雷姆0-5朱利安·勒克莱（赛场原声）"
+        },
+        {
+          "pID": "969509573",
+          "name": "26/27赛季斯诺克德国大师赛资格赛第2轮回放：瑞恩·戴4-5大卫·格雷斯（赛场原声）"
+        },
+        {
+          "pID": "969509583",
+          "name": "26/27赛季斯诺克德国大师赛资格赛第2轮回放：贺国强3-5辛格·查达（赛场原声）"
         }
       ]
     },
@@ -2125,10 +2153,6 @@
         {
           "pID": "969504838",
           "name": "全场回放（张昊泽、贺宇）"
-        },
-        {
-          "pID": "969506488",
-          "name": "全场回放"
         }
       ]
     },
@@ -2157,6 +2181,10 @@
         {
           "pID": "969505084",
           "name": "全场回放（李欣、刘建宏、程思钦）"
+        },
+        {
+          "pID": "969508298",
+          "name": "全场回放（CCTV5）"
         }
       ]
     },
@@ -2183,52 +2211,36 @@
           "name": "全场回放（张靖松）"
         },
         {
-          "pID": "969506176",
-          "name": "全场回放（四号桌）"
+          "pID": "969507992",
+          "name": "全场回放（一号桌）"
+        },
+        {
+          "pID": "969507695",
+          "name": "全场回放（二号桌）"
         },
         {
           "pID": "969507030",
-          "name": "2026WTT马斯喀特球星挑战赛Day2晚间场三号桌全场回放（赛场原声）"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601539",
-      "pID": "969498195",
-      "title": "顶级赛事-围棋",
-      "keyword": "11月18日00:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国围棋协会系列赛事",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/3/10000000150510690cba.png",
-      "pkInfoTitle": "顶级赛事-围棋",
-      "modifyTitle": "顶级赛事-围棋",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月18日00:05"
-      },
-      "nodes": [
+          "name": "全场回放（三号桌）"
+        },
         {
-          "pID": "969498195",
-          "name": "解说"
+          "pID": "969506176",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000601204",
       "pID": "969404201",
-      "title": "龙泽煌、吉尔伯特出战",
+      "title": "龙泽煌VS高阳 刘文炜、吕昊天出战",
       "keyword": "11月18日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCJLGK5C7G.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "龙泽煌、吉尔伯特出战",
-      "modifyTitle": "斯诺克德国大师赛资格赛：龙泽煌、吉尔伯特出战",
+      "pkInfoTitle": "龙泽煌VS高阳 刘文炜、吕昊天出战",
+      "modifyTitle": "斯诺克德国大师赛资格赛：龙泽煌VS高阳 刘文炜、吕昊天出战",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "11月18日03:00"
@@ -2237,6 +2249,10 @@
         {
           "pID": "969404201",
           "name": "朱峰立"
+        },
+        {
+          "pID": "969404169",
+          "name": "AI智慧观赛"
         },
         {
           "pID": "969403951",
@@ -2265,10 +2281,6 @@
         {
           "pID": "969404142",
           "name": "8号桌"
-        },
-        {
-          "pID": "969404169",
-          "name": "AI智慧观赛"
         }
       ]
     },
@@ -2429,7 +2441,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡、陈雨菲领衔 凤凰组合回归",
       "modifyTitle": "中国香港羽毛球公开赛第二日：王祉怡、陈雨菲领衔 凤凰组合回归",
-      "presenters": "余博洋 鸿昆 朱胤丞 杨妮娜 王政 轩子博 孙宁智",
+      "presenters": "余博洋",
       "matchInfo": {
         "time": "11月18日09:00"
       },
@@ -2452,67 +2464,7 @@
         },
         {
           "pID": "969505683",
-          "name": "余博洋"
-        },
-        {
-          "pID": "969505717",
-          "name": "余博洋"
-        },
-        {
-          "pID": "969505837",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "969506354",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "969506389",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "969506414",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "969506446",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "969506807",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "969506821",
-          "name": "王政"
-        },
-        {
-          "pID": "969506824",
-          "name": "王政"
-        },
-        {
-          "pID": "969506830",
-          "name": "王政"
-        },
-        {
-          "pID": "969506858",
-          "name": "轩子博"
-        },
-        {
-          "pID": "969506868",
-          "name": "轩子博"
-        },
-        {
-          "pID": "969506872",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "969506886",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "969506918",
-          "name": "鸿昆"
+          "name": "梁峻豪VS董天尧"
         }
       ]
     },
@@ -2631,15 +2583,15 @@
     {
       "mgdbId": "120000601287",
       "pID": "969463451",
-      "title": "男女单打1/32决赛、双打1/8决赛",
+      "title": "陈垣宇/黄友政冲8强 袁励岑争正赛首胜",
       "keyword": "11月18日15:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDEAI6O30M.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/32决赛、双打1/8决赛",
+      "pkInfoTitle": "陈垣宇/黄友政冲8强 袁励岑争正赛首胜",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/32决赛、双打1/8决赛",
       "presenters": "肖扬",
       "matchInfo": {
@@ -3211,15 +3163,15 @@
     {
       "mgdbId": "120000601288",
       "pID": "969463128",
-      "title": "男女单打1/32决赛、双打1/8决赛",
+      "title": "黄友政冲32强 范姝涵迎国乒内战",
       "keyword": "11月18日21:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDEB7E1CM4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/32决赛、双打1/8决赛",
+      "pkInfoTitle": "黄友政冲32强 范姝涵迎国乒内战",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/32决赛、双打1/8决赛",
       "presenters": "张靖松",
       "matchInfo": {
@@ -7689,7 +7641,7 @@
     },
     {
       "mgdbId": "120000592111",
-      "title": "英女超联赛",
+      "title": "���女超联赛",
       "keyword": "11月22日22:30",
       "sportItemId": "1",
       "matchStatus": "0",
