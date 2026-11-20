@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-21 00:16:55",
+  "updateTime": "2026-11-21 05:22:40",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -1279,7 +1279,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBLHLTHG6G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/1000000015891066d60f.png",
       "pkInfoTitle": "张宋泓浩以79.3获得金牌",
-      "modifyTitle": "全国青年体操U系列冠军���Day1：张宋泓浩以79.3获得金牌",
+      "modifyTitle": "全国青年体操U系列冠军赛Day1���张宋泓浩以79.3获得金牌",
       "presenters": "",
       "matchInfo": {
         "time": "11月19日19:00"
@@ -1668,7 +1668,7 @@
       "nodes": [
         {
           "pID": "969563957",
-          "name": "完整回放"
+          "name": "全场回放"
         }
       ]
     },
@@ -1985,6 +1985,10 @@
         {
           "pID": "969589642",
           "name": "2026HADO世冠杯Day1全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "969598443",
+          "name": "2026HADO世冠杯Day1全场回放（官方解说）（二）"
         }
       ]
     },
@@ -2078,10 +2082,6 @@
         "time": "11月20日15:30"
       },
       "nodes": [
-        {
-          "pID": "969588604",
-          "name": "【球星高光】本土核心！邹阳里突外投轰25+11带队大胜江西"
-        },
         {
           "pID": "969587057",
           "name": "全场集锦"
@@ -2437,6 +2437,10 @@
         {
           "pID": "969597721",
           "name": "2026BWF中国香港羽毛球公开赛第四日一号场地全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "969598317",
+          "name": "2026BWF中国香港羽毛球公开赛第四日一号场地全场回放（英文原声）（二）"
         }
       ]
     },
@@ -2480,23 +2484,23 @@
       },
       "nodes": [
         {
-          "pID": "969405419",
-          "name": "詹俊、王蔷"
+          "pID": "969598311",
+          "name": "【回放】郑钦文vs斯维托丽娜"
         }
       ]
     },
     {
       "mgdbId": "120000601291",
-      "pID": "969463684",
-      "title": "陈垣宇闯入男单四强 林锺勋/吴晙诚冲冠",
+      "pID": "969463653",
+      "title": "陈垣宇闯入男单四强 林锺勋/吴晙诚夺冠",
       "keyword": "11月20日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8Q5J9NGR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG5N2UG1HU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "陈垣宇闯入男单四强 林锺勋/吴晙诚冲冠",
+      "pkInfoTitle": "陈垣宇闯入男单四强 林锺勋/吴晙诚夺冠",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/4决赛、男女双打决赛",
       "presenters": "李柯鑫 徐儒叶 徐晨皓",
       "matchInfo": {
@@ -2504,16 +2508,24 @@
       },
       "nodes": [
         {
-          "pID": "969463684",
-          "name": "李柯鑫 徐儒叶 徐晨皓"
+          "pID": "969599505",
+          "name": "【男双决赛】林锺勋/吴晙诚3-1塔卡/玛纳什·沙"
         },
         {
-          "pID": "969463653",
-          "name": "赛场原声"
+          "pID": "969598741",
+          "name": "【女双决赛】金娜英/朱芊曦0-3大藤沙月/横井咲樱"
         },
         {
-          "pID": "969513999",
-          "name": "智能字幕"
+          "pID": "969600102",
+          "name": "全场回放（李柯鑫、徐儒叶、徐晨皓）"
+        },
+        {
+          "pID": "969600040",
+          "name": "全场回放（英文解说智能字幕）"
+        },
+        {
+          "pID": "969600100",
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -2538,13 +2550,17 @@
         {
           "pID": "969588683",
           "name": "全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "969598765",
+          "name": "2026全国青年体操U系列冠军赛Day2全场回放（赛场原声）（二）"
         }
       ]
     },
     {
       "mgdbId": "120000601514",
       "pID": "969523849",
-      "title": "董华香��制完胜 彭政文砸晕日本狂徒",
+      "title": "董华香压制完胜 彭政文砸晕日本狂徒",
       "keyword": "11月20日19:00",
       "sportItemId": "5",
       "matchStatus": "2",
@@ -2594,6 +2610,14 @@
         {
           "pID": "969592224",
           "name": "程含飞VS努尔苏丹"
+        },
+        {
+          "pID": "969598460",
+          "name": "2026红拳出击轻量级回放：布雷特-帕斯托雷VS达夫拉特曼德-齐约拉特肖耶夫"
+        },
+        {
+          "pID": "969599996",
+          "name": "2026红拳出击全场回放（官方解说）"
         }
       ]
     },
@@ -2684,7 +2708,7 @@
     },
     {
       "mgdbId": "120000600354",
-      "pID": "969292016",
+      "pID": "969598359",
       "title": "江西vs广东",
       "keyword": "11月20日19:30",
       "sportItemId": "2",
@@ -2701,8 +2725,8 @@
       },
       "nodes": [
         {
-          "pID": "969292016",
-          "name": "清流播出"
+          "pID": "969598359",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -2933,6 +2957,18 @@
           "name": "全场回放（李天宇、于德豪）"
         },
         {
+          "pID": "969598093",
+          "name": "全场回放（金哲豪）"
+        },
+        {
+          "pID": "969598321",
+          "name": "全场回放（王新通）"
+        },
+        {
+          "pID": "969598603",
+          "name": "全场回放(赛场原声）"
+        },
+        {
           "pID": "969596893",
           "name": "全场精华"
         },
@@ -2951,10 +2987,6 @@
         {
           "pID": "969595897",
           "name": "第四节"
-        },
-        {
-          "pID": "969598093",
-          "name": "全场回放（金哲豪）"
         }
       ]
     },
@@ -2977,10 +3009,6 @@
       },
       "nodes": [
         {
-          "pID": "969597228",
-          "name": "【球星高光】拼尽全力！付豪内外兼修空砍38+12"
-        },
-        {
           "pID": "969595958",
           "name": "全场集锦"
         },
@@ -2995,6 +3023,10 @@
         {
           "pID": "969596429",
           "name": "全场回放（侯向锋）"
+        },
+        {
+          "pID": "969598225",
+          "name": "全场回放(赛场原声）"
         },
         {
           "pID": "969596575",
@@ -3053,15 +3085,15 @@
     {
       "mgdbId": "120000596329",
       "pID": "969550632",
-      "title": "ONE周五格斗夜179：查帕雅克VS克拉洛布",
+      "title": "苏帕真第KO乌提克莱 盛一洋憾负所风雅",
       "keyword": "11月20日21:30",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF8LGQTECC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
-      "pkInfoTitle": "ONE周五格斗夜179：查帕雅克VS克拉洛布",
+      "pkInfoTitle": "苏帕真第KO乌提克莱 盛一洋憾负所风雅",
       "modifyTitle": "ONE周五格斗夜179：查帕雅克VS克拉洛布",
       "presenters": "李威蓄",
       "matchInfo": {
@@ -3069,12 +3101,52 @@
       },
       "nodes": [
         {
-          "pID": "969550632",
-          "name": "李威蓄"
+          "pID": "969595812",
+          "name": "盛一洋VS所风雅"
         },
         {
-          "pID": "969550724",
-          "name": "英文原声"
+          "pID": "969596379",
+          "name": "���考VS押川香菜"
+        },
+        {
+          "pID": "969596563",
+          "name": "姜敏成VS曼古赖"
+        },
+        {
+          "pID": "969596675",
+          "name": "差兰丹VS猜亨"
+        },
+        {
+          "pID": "969597404",
+          "name": "米里耶夫VS索希布扎罗夫"
+        },
+        {
+          "pID": "969597327",
+          "name": "多兹VS差兰考"
+        },
+        {
+          "pID": "969597776",
+          "name": "桑沃VS拉希姆-切尔柴科"
+        },
+        {
+          "pID": "969598279",
+          "name": "乌提克莱VS苏帕真"
+        },
+        {
+          "pID": "969598739",
+          "name": "查帕雅克VS克拉洛布"
+        },
+        {
+          "pID": "969598745",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "969598785",
+          "name": "全场回放（李威蓄）"
+        },
+        {
+          "pID": "969600081",
+          "name": "ONE周五格斗夜179全场回放（赛场原声）"
         }
       ]
     },
@@ -3097,14 +3169,14 @@
       },
       "nodes": [
         {
-          "pID": "969582617",
-          "name": "CCTV-5"
+          "pID": "969597946",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "300000002589",
-      "pID": "969596651",
+      "pID": "969597351",
       "title": "《球你别说了》嘉宾热议杨瀚森再登场",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -3118,40 +3190,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "969596651",
-          "name": "联盟活化石！马健直言小杨要学习詹姆斯的球商"
-        },
-        {
-          "pID": "969595793",
-          "name": "保持质疑！马健直言自己并不知道杯赛的意义是什么"
-        },
-        {
-          "pID": "969595986",
-          "name": "马健：贺希宁受伤不单是强度大 球队体系管理细节才是关键"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601811",
-      "pID": "969582697",
-      "title": "国际自盟场地自行车世锦赛-2",
-      "keyword": "11月21日00:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "国际自盟场地自行车世锦赛-2",
-      "modifyTitle": "国际自盟场地自行车世锦赛-2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月21日00:05"
-      },
-      "nodes": [
-        {
-          "pID": "969582697",
-          "name": "解说"
+          "pID": "969597351",
+          "name": "全场回放"
         }
       ]
     },
@@ -3161,7 +3201,7 @@
       "title": "维罗纳季后赛GCL超级杯半决赛",
       "keyword": "11月21日02:45",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T8047AM0CF.jpg",
@@ -3197,7 +3237,7 @@
       "title": "德甲联赛",
       "keyword": "11月21日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "慕尼黑竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588147/386858_H169_sc.jpg",
@@ -3211,6 +3251,10 @@
       "nodes": [
         {
           "pID": "969525655",
+          "name": "胡小凡 张力"
+        },
+        {
+          "pID": "969553206",
           "name": "胡小凡 张力"
         },
         {
@@ -3229,7 +3273,7 @@
       "title": "法甲联赛",
       "keyword": "11月21日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "劳布体育场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000585113/274595_H169_sc.jpg",
@@ -3261,7 +3305,7 @@
       "title": "西甲联赛",
       "keyword": "11月21日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "圣马梅斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586124/835522_H169_sc.jpg",
@@ -3512,7 +3556,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡PK宫崎友花 凤凰冲决赛",
       "modifyTitle": "中国香港羽毛球公开赛第五日：王祉怡PK宫崎友花 凤凰冲决赛",
-      "presenters": "",
+      "presenters": "杨妮娜 余博洋 鸿昆 孙宁智 轩子博 朱胤丞",
       "matchInfo": {
         "time": "11月21日10:00"
       },
@@ -3532,6 +3576,50 @@
         {
           "pID": "969469420",
           "name": "智能字幕"
+        },
+        {
+          "pID": "969598442",
+          "name": "因达农VS李美妙"
+        },
+        {
+          "pID": "969598465",
+          "name": "万炜聪/郑凯文VS兰基雷迪/谢提"
+        },
+        {
+          "pID": "969598477",
+          "name": "王祉怡VS宫崎友花"
+        },
+        {
+          "pID": "969598486",
+          "name": "卡尔南多/马丁VS姜珉赫/李钟民"
+        },
+        {
+          "pID": "969598496",
+          "name": "冯彦哲/黄东萍VS吴埙阀/赖洁敏"
+        },
+        {
+          "pID": "969598510",
+          "name": "德扬/费利沙VS蒋振邦/魏雅欣"
+        },
+        {
+          "pID": "969598517",
+          "name": "阿玛莉亚/拉马丹蒂VS中出堇/高桥美优"
+        },
+        {
+          "pID": "969598520",
+          "name": "安东森VS拉克什亚"
+        },
+        {
+          "pID": "969598548",
+          "name": "刘子瑜/安琪拉VS陈康乐/蒂娜"
+        },
+        {
+          "pID": "969598593",
+          "name": "乌拜迪拉VS昆拉武特"
+        },
+        {
+          "pID": "969598510",
+          "name": "德扬/���利沙VS蒋振邦/魏雅欣"
         }
       ]
     },
@@ -3830,15 +3918,15 @@
     {
       "mgdbId": "120000601292",
       "pID": "969463721",
-      "title": "争冠！户上/大藤PK多尔/袁嘉楠",
+      "title": "陈垣宇冲决赛！韩国内战：朴康贤PK吴晙诚",
       "keyword": "11月21日15:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG60U86JGN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "争冠！户上/大藤PK多尔/袁嘉楠",
+      "pkInfoTitle": "陈垣宇冲决赛！韩国内战：朴康贤PK吴晙诚",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打半决赛、混双决赛",
       "presenters": "肖扬",
       "matchInfo": {
@@ -3852,10 +3940,6 @@
         {
           "pID": "969463698",
           "name": "赛场原声"
-        },
-        {
-          "pID": "969513979",
-          "name": "智能字���"
         },
         {
           "pID": "969513979",
