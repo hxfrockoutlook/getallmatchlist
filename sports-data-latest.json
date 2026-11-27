@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 00:21:31",
+  "updateTime": "2026-11-28 05:24:41",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -2458,7 +2458,7 @@
         },
         {
           "pID": "969821595",
-          "name": "全场回放（原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -2489,15 +2489,15 @@
     {
       "mgdbId": "120000596330",
       "pID": "969739326",
-      "title": "ONE周五格斗夜180：登克里昂克雷VS德韦林赫特",
+      "title": "登克里昂克雷一致判定胜德韦林赫特  陈嘉艺惜败高岩拓",
       "keyword": "11月27日21:30",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLL8K84QEP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
-      "pkInfoTitle": "ONE周五格斗夜180：登克里昂克雷VS德韦林赫特",
+      "pkInfoTitle": "登克里昂克雷一致判定胜德韦林赫特  陈嘉艺惜败高岩拓",
       "modifyTitle": "ONE周五格斗夜180：登克里昂克雷VS德韦林赫特",
       "presenters": "赵凡尘",
       "matchInfo": {
@@ -2505,12 +2505,48 @@
       },
       "nodes": [
         {
-          "pID": "969739326",
-          "name": "赵凡尘"
+          "pID": "969823821",
+          "name": "全场回放（赵凡尘）"
         },
         {
-          "pID": "969739342",
-          "name": "英文原声"
+          "pID": "969823725",
+          "name": "登克里昂克雷VS德韦林赫特"
+        },
+        {
+          "pID": "969823538",
+          "name": "善钦诺伊VS佩塔纳瓦"
+        },
+        {
+          "pID": "969823166",
+          "name": "海曼VS拉尔松"
+        },
+        {
+          "pID": "969823014",
+          "name": "菲茨哈里斯VS穆图姆"
+        },
+        {
+          "pID": "969822660",
+          "name": "潘佩VS埃拉吉"
+        },
+        {
+          "pID": "969822310",
+          "name": "卡特里VS柳仙香"
+        },
+        {
+          "pID": "969821516",
+          "name": "卡利斯坎VS小野寺枫雅"
+        },
+        {
+          "pID": "969821320",
+          "name": "陈嘉艺VS高岩拓"
+        },
+        {
+          "pID": "969823969",
+          "name": "ONE周五格斗夜180全场回放（英文原声）"
+        },
+        {
+          "pID": "969824070",
+          "name": "ONE周五格斗夜180全场回放（赛场原声）"
         }
       ]
     },
@@ -2537,11 +2573,11 @@
     },
     {
       "mgdbId": "120000598336",
-      "pID": "969760675",
+      "pID": "969757359",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Unibet Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKOEJF6DSS.png",
@@ -2554,6 +2590,10 @@
       },
       "nodes": [
         {
+          "pID": "969757359",
+          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
+        },
+        {
           "pID": "969760675",
           "name": "赛场原声"
         }
@@ -2561,11 +2601,11 @@
     },
     {
       "mgdbId": "120000598331",
-      "pID": "969760826",
+      "pID": "969824456",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日01:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Xiaomi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKOIPI1UUL.jpg",
@@ -2578,22 +2618,26 @@
       },
       "nodes": [
         {
-          "pID": "969760826",
-          "name": "赛场原声"
+          "pID": "969824456",
+          "name": "全场集锦"
         },
         {
-          "pID": "969786855",
-          "name": "连睿"
+          "pID": "969824348",
+          "name": "全场回放（连睿）"
+        },
+        {
+          "pID": "969826962",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000598337",
-      "pID": "969760841",
+      "pID": "969826338",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Avicii Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598337/202610291050_418795_H169_1080.webp",
@@ -2606,18 +2650,18 @@
       },
       "nodes": [
         {
-          "pID": "969760841",
-          "name": "赛场原声"
+          "pID": "969826338",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000598318",
-      "pID": "969760888",
+      "pID": "969757359",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "Sportcampus Zuiderpark",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598318/202610291046_770577_H169_1080.webp",
@@ -2630,6 +2674,10 @@
       },
       "nodes": [
         {
+          "pID": "969757359",
+          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
+        },
+        {
           "pID": "969760888",
           "name": "赛场原声"
         }
@@ -2637,11 +2685,11 @@
     },
     {
       "mgdbId": "120000598335",
-      "pID": "969760918",
+      "pID": "969786848",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Zlatorog Sport Centre",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKOISTF1H9.jpg",
@@ -2654,12 +2702,16 @@
       },
       "nodes": [
         {
-          "pID": "969760918",
-          "name": "赛场原声"
+          "pID": "969757359",
+          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
         },
         {
           "pID": "969786848",
           "name": "姜帆"
+        },
+        {
+          "pID": "969760918",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2669,7 +2721,7 @@
       "title": "德甲联赛",
       "keyword": "11月28日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "威悉球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588131/321425_H169_sc.jpg",
@@ -2697,7 +2749,7 @@
       "title": "法甲联赛",
       "keyword": "11月28日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "弗朗西斯·勒布雷体育场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584441/266664_H169_sc.jpg",
@@ -2725,10 +2777,10 @@
       "title": "意甲联赛",
       "keyword": "11月28日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "皮埃路易吉·彭佐体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584772/202607231442_335184_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584772/202611280513_415525_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "威尼斯 vs 博洛尼亚",
       "modifyTitle": "意甲联赛",
@@ -2753,7 +2805,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日03:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Prezero Arena Gliwice",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598317/202610291046_735771_H169_1080.webp",
@@ -2777,7 +2829,7 @@
       "title": "英超联赛",
       "keyword": "11月28日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "诺丁汉城市球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKN8P5DRRF.webp",
@@ -2817,7 +2869,7 @@
       "title": "西甲联赛",
       "keyword": "11月28日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴伦西亚城市球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586327/769676_H169_sc.jpg",
@@ -3687,7 +3739,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLMBT927PG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/22/1000000015951067768d.png",
       "pkInfoTitle": "三排败者组突围晋级",
-      "modifyTitle": "永劫无��世界冠军赛Day6：三排败者组突围晋级",
+      "modifyTitle": "永劫无间世界冠军赛Day6：三排败者组突围晋级",
       "presenters": "",
       "matchInfo": {
         "time": "11月28日16:00"
@@ -7692,6 +7744,10 @@
         {
           "pID": "969810423",
           "name": "英文原声"
+        },
+        {
+          "pID": "969810423",
+          "name": "英文��声"
         }
       ]
     },
